@@ -1,5 +1,0 @@
-### [[Sass Coding standards]]
-
-
-
-

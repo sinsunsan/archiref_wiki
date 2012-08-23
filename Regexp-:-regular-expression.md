@@ -1,1 +1,0 @@
-http://www.commentcamarche.net/contents/javascript/jsregexp.php3
