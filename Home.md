@@ -27,6 +27,3 @@
 * [[SOLR]]
 * [[gollum]]
 
-### Specific site
-* [[rue89]]
-
