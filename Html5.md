@@ -8,3 +8,6 @@ Site that links to good article and tutorial on html 5
 
 
 ### Elements
+
+* http://html5doctor.com/the-video-element/   
+Article about video element
