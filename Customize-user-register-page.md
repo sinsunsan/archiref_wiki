@@ -1,0 +1,1 @@
+http://www.interworks.com/blogs/trhymer/2010/10/27/customizing-user-registration-form-drupal-6
