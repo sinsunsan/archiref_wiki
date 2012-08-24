@@ -11,7 +11,7 @@ Write multiple selector on one line each,
 Put the curly bracket on the line of the last selector 
 Separated by one space 
 
-```
+```css
 // Labels
 label,
 .field .field-label,
