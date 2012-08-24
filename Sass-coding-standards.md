@@ -1,8 +1,21 @@
 ### Line breaks 
 
-Add a line break between two wrapped selector
-```
-Code
+Add one line between one wrapped selector and another selector
+```css
+.field-company-speciality {
+  .field-item .field-label-inline,
+  .field-item .field-label-inline-first {
+    display: none;
+  }
+  .field-item {
+    float: left;
+    margin-right: 10px;
+  }
+}
+
+.nd-region-header {
+  margin-bottom: 5px;  
+}
 ```
 
 ### Multiple selectors 
