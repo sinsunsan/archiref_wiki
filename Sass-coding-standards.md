@@ -5,7 +5,8 @@
 // A trier 
 //////////
 
-
+This style is doxygen style, note very visible in the style sheet, 
+but recognized by text editors and doxygen export of course.
 /**
  * Blog Article page
 */
