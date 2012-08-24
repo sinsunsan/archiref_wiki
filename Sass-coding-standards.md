@@ -2,6 +2,7 @@
 
 Add a line break between two wrapped selector
 ```
+Code
 ```
 
 ### Multiple selectors 
@@ -9,6 +10,7 @@ Add a line break between two wrapped selector
 Write multiple selector on one line each,
 Put the curly bracket on the line of the last selector 
 Separated by one space 
+
 ```
 // Labels
 label,
