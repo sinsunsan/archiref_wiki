@@ -4,6 +4,11 @@
 //////////
 // A trier 
 //////////
+
+
+/**
+ * Blog Article page
+*/
 ```
 
 * Small annotation on a selector
