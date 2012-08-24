@@ -18,6 +18,7 @@
 * [[ruby]]
 
 ### Front end, theming 
+* [[css]]
 * [[sass]]
 * [[html5]]
 
