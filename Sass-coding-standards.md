@@ -1,3 +1,26 @@
+### Line breaks 
+
+Add a line break between two wrapped selector
+```
+```
+
+### Multiple selectors 
+
+Write multiple selector on one line each,
+Put the curly bracket on the line of the last selector 
+Separated by one space 
+```
+// Labels
+label,
+.field .field-label,
+.field .field-label-inline,
+.field .field-label-inline-first {
+  color: $col-gris-medium;
+  font-size: $ar-tx-norm;
+  margin-top: 10px;
+}
+```
+
 ### Comments
 * Big separation insivible in output
 ```
@@ -36,4 +59,3 @@ And name and imported files prefixed with _ so that they are not outputed as spe
 
 * Start with a "general" section that group all rules that are not page specific
 * Make a divider comment between each following section, and wrapped page specific rules
-
