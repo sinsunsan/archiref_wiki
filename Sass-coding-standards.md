@@ -30,3 +30,10 @@ And name and imported files prefixed with _ so that they are not outputed as spe
 * View display
 * Page : Specific pages like contact page, about page...
 * Home : Homepage
+
+## rules organization in a files 
+
+
+* Start with a "general" section that group all rules that are not page specific
+* Make a divider comment between each following section, and wrapped page specific rules
+
