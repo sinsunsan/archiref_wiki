@@ -12,3 +12,4 @@ The idea is to have a view, with several display, one to show the sorted element
 
 1 - Using CCK handler
 http://drupal.org/node/283502
+The pro of using cck handler is that it's more compatible, the con is that is take more ressources, as it's note just writing in one table
