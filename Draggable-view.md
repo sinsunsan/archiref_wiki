@@ -1,3 +1,9 @@
+*  **Using CCK handler**
+http://drupal.org/node/283502
+
+* **Dragabble view documentation    **
+http://drupal.org/node/283498
+
 To set draggable view up, 
 Don't forget to check the permission for the role you want it to user draggable views. 
 I've lost so much time undesrtanding why tha handle didn't show !
@@ -10,9 +16,5 @@ The second way is the native handler, which is two tables (in d6) that store the
 It can store more complex things, but it's applicable only to the views used to sort the element. 
 The idea is to have a view, with several display, one to show the sorted element, another display to provide a sorting interface. 
 
-*  Using CCK handler
-http://drupal.org/node/283502
-
-* Dragabble view documentation    
-http://drupal.org/node/283498
 The pro of using cck handler is that it's more compatible, the con is that is take more ressources, as it's note just writing in one table
+
