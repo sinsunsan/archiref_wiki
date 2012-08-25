@@ -1,7 +1,7 @@
 *  **Using CCK handler**
 http://drupal.org/node/283502
 
-* **Dragabble view documentation    **
+* **Dragabble view documentation**
 http://drupal.org/node/283498
 
 To set draggable view up, 
