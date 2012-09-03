@@ -5,7 +5,7 @@
 * [[forms]]
 * [[url/uri]]
 * [[menu/path]]
-
+* [[input filter]]
 ### Hooks
 * [[Hooks]]
 * [[system hooks]]
