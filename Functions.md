@@ -10,4 +10,4 @@
 ### Hooks
 * [[Hooks]]
 * [[system hooks]]
-* [[menu]]
+* [[menu hook]]
