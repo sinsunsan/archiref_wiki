@@ -33,4 +33,7 @@ Interrompt un script php
 die();
 </pre>
 
+### clone
+http://php.net/manual/en/language.oop5.cloning.php   
+Allow to clone an object with all it's properties
 
