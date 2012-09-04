@@ -5,8 +5,11 @@
 
 ## Liens 
 
-Using the theme layer    
+* Using the theme layer    
 http://drupal.org/node/933976
 
-The hook_theme to declare template   
+* The hook_theme to declare template   
 http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_theme/7
+
+* Theming search results    
+http://api.drupal.org/api/drupal/modules!search!search-result.tpl.php/6
