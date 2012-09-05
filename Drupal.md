@@ -4,6 +4,7 @@
 * [[database api]]
 * [[field api]]
 * [[form api]]
+* [[entity api]]
 
 ### Others
 * [[i18n]]
