@@ -11,3 +11,4 @@
 * [[Hooks]]
 * [[system hooks]]
 * [[menu hook]]
+* [[general hook]]
