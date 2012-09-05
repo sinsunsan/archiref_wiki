@@ -4,4 +4,4 @@
 
 **Misc**
 
-* How to make the markup of a button in a tumbnail view
+* [[css to do a small icon aside a text button]]
