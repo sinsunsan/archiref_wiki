@@ -1,3 +1,4 @@
+**HTML**
 ```
 <ul class="twt-actions">
 <li>
@@ -20,3 +21,14 @@
 </li>
 </ul>
 ```
+
+**CSS**
+```
+.twt-actions a i, .twt-tweet .badges li, .twt-tweet .permalink i, .twt-tweet .retweet-credit i, .twt-reply .border-arrow {
+background: 
+transparent url(sprite.png) repeat-x 0 0!important;
+_background-image: url(sprite-ie6.gif)!important;
+background-size: 49px 137px!important;
+}
+```
+
