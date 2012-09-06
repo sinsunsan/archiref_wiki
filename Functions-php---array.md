@@ -18,9 +18,10 @@ $array = array(
 $array_flipped = array_flip($array);
 print_r($array_flipped);
 ```
+Display
 ```
-$array array(
- 'value1' => 1
+array(
+ 'value1' => 1,
  'value2' => 2 
 );
 
