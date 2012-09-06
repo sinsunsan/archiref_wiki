@@ -10,6 +10,7 @@ array_shift() shifts (remove) the first value of the array off and returns it, s
 * **array_flip**   
 http://php.net/manual/en/function.array-flip.php   
 Allow to flip an array so that value become key and vice-versa
+```
 $array = array(
  '1' => 'value1',
  '2' => 'value2',
