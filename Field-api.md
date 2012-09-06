@@ -1,5 +1,5 @@
 ### field_info_field   
-Retrieve a field object in the language it'll be displayed (d7)
+Retrieve a field object in the language it'll be displayed (d7)   
 http://api.drupal.org/api/drupal/modules!field!field.info.inc/function/field_info_field/7
 For exemple we have loaded a $term object, and we want the field object of one of its fields. 
 
