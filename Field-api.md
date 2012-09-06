@@ -1,11 +1,15 @@
 ### field_info_field   
-Retrieve info about a given field (d7)   
+Retrieve a field object in the language it'll be displayed (d7)
 http://api.drupal.org/api/drupal/modules!field!field.info.inc/function/field_info_field/7
+For exemple we have loaded a $term object, and we want the field object of one of its fields. 
+
+```
+$position = field_get_items('taxonomy_term', $term, 'field_term_position');
+```
 
 ### Get field language code
 Recupérer un champs sans se préoccuper des codes de langues(und ...)
 solution qui semble la plus simple
-
 ```
 $taxonomy_major = field_get_items('node', $node, 'field_taxonomy_main', $node->language);
 ```
