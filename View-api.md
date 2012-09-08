@@ -1,0 +1,3 @@
+* **hook_views_data**    
+http://api.drupal.org/api/views/docs!docs.php/function/hook_views_data/6
+Allow to define the data of our new table to view, allow to define  relationship, fields...
