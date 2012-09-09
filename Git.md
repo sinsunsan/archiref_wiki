@@ -101,3 +101,8 @@ git config alias.co checkout
 #make "br" alias for branch
 git config alias.br branch
 </pre>
+
+
+### Remove a commit in a remote repository( like github)
+
+```git push -f origin HEAD^:master```
