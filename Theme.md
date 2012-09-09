@@ -13,3 +13,6 @@ http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook
 
 * Theming search results    
 http://api.drupal.org/api/drupal/modules!search!search-result.tpl.php/6
+
+* View theming with template   
+http://drupal.org/node/352970
