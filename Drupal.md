@@ -11,11 +11,11 @@
 * [[view api]] / Make customisable display
 * [[filter api]] / Filter the user submitted content
 * [[menu/path api]] / Define pages and url to show your content
-* [[file api]]
+* [[file api]] / Store and manage files
 
 ### 
-* [[i18n]]
-* [[theme]]
+* [[i18n]] / Make your site international
+* [[theme]] / Define how the site will look
 
 ### Others
 
