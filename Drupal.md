@@ -19,7 +19,6 @@
 
 ### Others
 
-* [[path]]
 * [[manage files]]
 * [[features]]
 * [[taxonomy]]
