@@ -10,3 +10,5 @@ The equivalent of the content type for d6 nodes are called **bundle** which is a
 ### Tuto
 * **How to create new entity**   
 http://www.trellon.com/content/blog/creating-own-entities-entity-api
+* **Exemple of entity definition**  
+https://gist.github.com/9bd08c4fbfa25aa85ef2
