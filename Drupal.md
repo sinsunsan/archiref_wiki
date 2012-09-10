@@ -10,7 +10,7 @@
 * [[entity api]] / Manage your content in entity
 * [[view api]] / Make customisable display
 * [[filter api]] / Filter the user submitted content
-* [[menu / path api]] / Define pages and url to show your content
+* [[menu/path api]] / Define pages and url to show your content
 
 
 ### Others
