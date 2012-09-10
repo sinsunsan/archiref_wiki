@@ -1,5 +1,10 @@
 ### API
 
+* **drupal_render**   
+http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_render/7   
+Transform a structured array in a rendered array with html to display. 
+Called by render() wrapper function
+
 * **drupal_html_class**   
 http://api.drupal.org/api/drupal/includes!common.inc/function/drupal_html_class/7
 Prepare a string to be used as a class (replace _ by - ...)   
