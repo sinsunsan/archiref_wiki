@@ -1,3 +1,5 @@
+### API functions
+
 * **menu_get_item()**    
 Get the current menu item the page we are on, and retrieve information about the router, callback    
 http://api.drupal.org/api/drupal/includes%21menu.inc/function/menu_get_item/6
@@ -10,3 +12,6 @@ Use example : http://drupalcode.org/project/page_title.git/blob/1d3944636a0c6afd
 * **menu_tree()**   
 Return a menu tree replace % by their value for exemple user/% by user%45
 http://api.drupal.org/api/drupal/includes!menu.inc/function/menu_tree/7   
+
+
+### Tricks
