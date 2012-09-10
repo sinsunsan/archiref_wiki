@@ -15,3 +15,7 @@ http://api.drupal.org/api/drupal/includes!menu.inc/function/menu_tree/7
 
 
 ### Tricks
+
+* **How to get the url/uri of the current page**   
+http://www.devdaily.com/drupal/theme-how-get-uri-current-drupal-page   
+http://drupal.org/node/27732
