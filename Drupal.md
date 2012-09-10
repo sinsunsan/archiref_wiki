@@ -18,7 +18,7 @@
 * [[theme]] / Define how the site will look
 * [[features]] / Export your site definition in features
 * [[taxonomy]] / Classify your content with taxonomy 
-* [[cron]] / Make automatic task with cron
+* [[cron]] / Make automatic tasks with cron
 
 
 ### Others
