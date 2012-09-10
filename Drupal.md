@@ -16,12 +16,13 @@
 ### 
 * [[i18n]] / Make your site international
 * [[theme]] / Define how the site will look
+* [[features]] / Export your site definition in features
+* [[taxonomy]] / Classify your content with taxonomy 
+* [[cron]] / Make automatic task with cron
+
 
 ### Others
 
-* [[features]]
-* [[taxonomy]]
-* [[cron]]
 * [[migration drupal 6 > drupal 7]]
 * [[how to render a page]]
 * [[debug technics]]
