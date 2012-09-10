@@ -3,7 +3,6 @@
 * [[error mesages]]
 * [[forms]]
 * [[url/uri]]
-* [[menu/path]]
 * [[input filter]]
 
 ### Hooks
