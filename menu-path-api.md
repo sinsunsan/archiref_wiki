@@ -31,3 +31,9 @@ http://api.drupal.org/api/drupal/includes!menu.inc/function/menu_tree/7
 * **How to get the url/uri of the current page**   
 http://www.devdaily.com/drupal/theme-how-get-uri-current-drupal-page   
 http://drupal.org/node/27732
+
+* **To return the full url with ? and aliased path**    
+```
+global $base_root;
+$vars['feed_url'] = $base_root . request_uri();
+```
