@@ -1,5 +1,9 @@
 ### API
 
+* **hook_theme**   
+http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_theme/7   
+Main hook to define how a renderable array are going to be rendered
+
 * **drupal_render**   
 http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_render/7   
 Transform a structured array in a rendered array with html to display. 
