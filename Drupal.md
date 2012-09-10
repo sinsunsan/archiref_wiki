@@ -11,11 +11,14 @@
 * [[view api]] / Make customisable display
 * [[filter api]] / Filter the user submitted content
 * [[menu/path api]] / Define pages and url to show your content
+* [[file api]]
 
-
-### Others
+### 
 * [[i18n]]
 * [[theme]]
+
+### Others
+
 * [[path]]
 * [[manage files]]
 * [[features]]
