@@ -1,9 +1,15 @@
-## Pages 
+### API
+
+* **drupal_html_class**   
+http://api.drupal.org/api/drupal/includes!common.inc/function/drupal_html_class/7
+Prepare a string to be used as a class (replace _ by - ...)   
+
+### Pages 
 
 * [[preprocess]]
 * [[customize user register page]]
 
-## Liens 
+### Liens 
 
 * Using the theme layer    
 http://drupal.org/node/933976
