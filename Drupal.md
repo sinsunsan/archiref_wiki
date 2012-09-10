@@ -1,11 +1,12 @@
 ### General
 * [[Modules]]
 * [[functions]]
-* [[database api]]
-* [[field api]]
-* [[form api]]
-* [[entity api]]
-* [[view api]]
+* [[database api]] / interact with the database
+* [[field api]] / Store you data in fields
+* [[form api]] / Build forms
+* [[entity api]] / Manage your content in entity
+* [[view api]] / Make customisable display
+* [[filter api]] / Filter the user submitted content
 
 ### Others
 * [[i18n]]
