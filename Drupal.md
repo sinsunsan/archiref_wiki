@@ -19,7 +19,6 @@
 
 ### Others
 
-* [[manage files]]
 * [[features]]
 * [[taxonomy]]
 * [[cron]]
