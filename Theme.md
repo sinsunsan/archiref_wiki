@@ -13,6 +13,11 @@ Called by render() wrapper function
 http://api.drupal.org/api/drupal/includes!common.inc/function/drupal_html_class/7   
 Prepare a string to be used as a class (replace _ by - ...)   
 
+
+* **field_attach_view**   
+http://api.drupal.org/api/drupal/modules!field!field.attach.inc/function/field_attach_view/7    
+Return an renderable array of the given field 
+
 ### Pages 
 
 * [[preprocess]]
