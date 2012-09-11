@@ -21,6 +21,12 @@
 * [[cron]] / Make automatic tasks with cron
 
 
+
+### Ressources
+* **Example module** provide good example of modules that implement different hooks
+http://drupal.org/project/examples   
+* **Définitive guide** online version    
+http://definitivedrupal.org/
 ### Others
 
 * [[migration drupal 6 > drupal 7]]
