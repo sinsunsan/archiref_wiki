@@ -1,5 +1,3 @@
-# Technique de debugage
-
 Lister tous les hook appelé par drupal 
 dans drupal 7
 includes/modules.inc
@@ -28,9 +26,7 @@ print_r(debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS));
 print "</pre>";
 ```
 
-
-## Debug the user_access function 
-
+* **Debug the user_access function** 
 Display the permission string return FALSE   
 ```
 if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
