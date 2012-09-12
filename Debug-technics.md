@@ -5,7 +5,8 @@ dans drupal 7
 includes/modules.inc
 
 
-* Lullabot post that explain how to backtrace when an error occure
+* **Integrate backtrace to drupal_set_message**    
+Lullabot post that explain how to backtrace when an error occure
 http://www.lullabot.com/articles/quick-and-dirty-debugging
 
 
