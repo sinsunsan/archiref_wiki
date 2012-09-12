@@ -4,6 +4,11 @@ Lister tous les hook appelé par drupal
 dans drupal 7
 includes/modules.inc
 
+
+* Lullabot post that explain how to backtrace when an error occure
+http://www.lullabot.com/articles/quick-and-dirty-debugging
+
+
 ## Lister les différents hook appelés
 
 Changer la fonction d'invocation des hooks
@@ -60,5 +65,4 @@ Display the permission string return FALSE
 ```
 if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
 ```
-
 
