@@ -14,36 +14,7 @@ http://www.lullabot.com/articles/quick-and-dirty-debugging
 Changer la fonction d'invocation des hooks
 situés 
 includes/module.inc:815:function module_invoke_all($hook) {
-
-
-``` php
-<?php 
-function module_invoke_all($hook) {
-  $args = func_get_args();
-  // Remove $hook from the arguments.
-  unset($args[0]);
-  $return = array();
-  foreach (module_implements($hook) as $module) {
-    $function = $module . '_' . $hook;
-    
-    // Debug function 
-    if (function_exists('dsm') && function_exists('user_access')) dsm($module . ' - ' . $hook);
-
-    if (function_exists($function)) {
-      $result = call_user_func_array($function, $args);
-      if (isset($result) && is_array($result)) {
-        $return = array_merge_recursive($return, $result);
-      }
-      elseif (isset($result)) {
-        $return[] = $result;
-      }
-    }
-  }
-
-  return $return;
-}
-?>
-```
+Code on gist https://gist.github.com/7ae97f626eb1629aaa38
 
 ## Lister les appels de fonction (backtrace)
 ```
@@ -65,4 +36,3 @@ Display the permission string return FALSE
 ```
 if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
 ```
-
