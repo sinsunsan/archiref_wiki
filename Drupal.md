@@ -34,4 +34,4 @@ http://drupal.org/project/examples
 * [[migration drupal 6 > drupal 7]]
 * [[how to render a page]]
 * [[debug technics]]
-* [[drupal step by steps page loading]]
+* [[drupal step by step page loading]]
