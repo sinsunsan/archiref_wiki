@@ -11,9 +11,7 @@ http://www.lullabot.com/articles/quick-and-dirty-debugging
 
 
 * **Lister les différents hook appelés**
-
-Changer la fonction d'invocation des hooks
-situés 
+Changer la fonction d'invocation des hooks situés 
 includes/module.inc:815:function module_invoke_all($hook) {
 Code on gist https://gist.github.com/7ae97f626eb1629aaa38
 
