@@ -2,7 +2,7 @@
 Can change it with a hook install 
 https://gist.github.com/3705680
 
-* ** Define a hook**   
+* **Define a hook**   
 Exemple in the menu attributes module that retrieve other attributes not yet implemented by the module author.
 https://gist.github.com/3705709
 
