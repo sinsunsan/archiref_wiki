@@ -27,6 +27,10 @@ For exemple we have loaded a $term object, and we want the field object of one o
 $position = field_get_items('taxonomy_term', $term, 'field_term_position');
 ```
 
+* **field_get_display**   
+http://api.drupal.org/api/drupal/modules!field!field.module/function/field_get_display/7   
+Get the display to use for a given field
+
 * **Get field language code** 
 Recupérer un champs sans se préoccuper des codes de langues(und ...)
 solution qui semble la plus simple
