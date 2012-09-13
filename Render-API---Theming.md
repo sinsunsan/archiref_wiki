@@ -1,3 +1,7 @@
+### Références 
+
+* Slides on d7 render API
+
 ### API
 
 * **hook_theme**   
