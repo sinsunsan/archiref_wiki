@@ -14,7 +14,7 @@
 * [[filter api]] / Filter the user submitted content
 * [[menu/path api]] / Define pages and url to show your content
 * [[file api]] / Store and manage files
-
+* [[rss / feed]] / Publish content from other sites
 ### 
 * [[i18n]] / Make your site international
 * [[Render API / Theming]] / Define how the site will look
