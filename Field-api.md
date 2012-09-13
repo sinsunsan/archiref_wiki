@@ -1,3 +1,8 @@
+### Ressources
+
+http://drupal.org/node/707832 Field API tutorial
+
+
 ### Attach fields to display them
 
 * **field_attach_prepare_view**   
