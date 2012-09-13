@@ -1,14 +1,12 @@
-* **field_attach_prepare_view**
+* **field_attach_prepare_view**   
 http://api.drupal.org/api/drupal/modules!field!field.attach.inc/function/field_attach_prepare_view/7   
 Allow to modify field before display
 
 
-* **entity_prepare_view** 
+* **entity_prepare_view**    
 http://api.drupal.org/api/drupal/includes%21common.inc/function/entity_prepare_view/7   
 Useful when an object is entity is called inside another entity
 Exemple of the use of this two functions in https://gist.github.com/40e049c86061a114cfde
-
-
 
 * **field_info_field**    
 http://api.drupal.org/api/drupal/modules!field!field.info.inc/function/field_info_field/7   
