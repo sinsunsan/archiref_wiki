@@ -15,9 +15,8 @@ Return of a renderable array
 
 Exemple of the use of this 3 functions in https://gist.github.com/40e049c86061a114cfde
 
-* **field_default_view** 
-http://api.drupal.org/api/drupal/modules%21field%21field.attach.inc/function/_field_invoke/7   
-Function called when the field is viewed and transform it into a renderable array
+* **field_default_view**    
+http://api.drupal.org/api/drupal/modules!field!field.default.inc/function/field_default_view/7Function    called when the field is viewed and transform it into a renderable array 
 
 * **field_info_field**    
 http://api.drupal.org/api/drupal/modules!field!field.info.inc/function/field_info_field/7   
