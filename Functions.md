@@ -14,7 +14,5 @@ Allow to return the key of element children (in the form api of field api contex
 * [[input filter]]
 
 ### Hooks
-* [[Hooks]]
 * [[system hooks]]
-* [[menu hook]]
 * [[general hook]]
