@@ -1,6 +1,6 @@
 ### Références 
 
-* Slides on d7 render API
+* Slides on d7 render API http://fr.slideshare.net/frandoh/the-render-api-in-drupal-7
 
 ### API
 
