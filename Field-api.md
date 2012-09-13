@@ -10,7 +10,7 @@ http://api.drupal.org/api/drupal/includes%21common.inc/function/entity_prepare_v
 Useful when an object is entity is called inside another entity
 
 * **field_attach_view**    
-http://api.drupal.org/api/drupal/modules!field!field.attach.inc/function/field_attach_view/7
+http://api.drupal.org/api/drupal/modules!field!field.attach.inc/function/field_attach_view/7   
 Return of a renderable array
 
 Exemple of the use of this 3 functions in https://gist.github.com/40e049c86061a114cfde
