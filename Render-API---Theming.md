@@ -4,6 +4,12 @@
 
 ### API
 
+* **theme function**   
+http://api.drupal.org/api/drupal/includes%21theme.inc/function/theme/7   
+Central function in the theming process
+Serve as a router to call the right callback function define in hook_theme. The first argument is the name of the theme hook to be used, the second the renderable array to render
+
+
 * **hook_theme**   
 http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_theme/7   
 Main hook to define how a renderable array are going to be rendered
