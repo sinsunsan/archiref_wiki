@@ -7,7 +7,8 @@
 * **theme function**   
 http://api.drupal.org/api/drupal/includes%21theme.inc/function/theme/7   
 Central function in the theming process
-Serve as a router to call the right callback function define in hook_theme. The first argument is the name of the theme hook to be used, the second the renderable array to render
+Serve as a router to call the right callback function define in hook_theme. The first argument is the name of the theme hook to be used, the second the renderable array to render.   
+There is two way to render, theme function of template. If the render will be made by a template, there is a preprocess phase that prepare variables that will be available in the templates. 
 
 
 * **hook_theme**   
