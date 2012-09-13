@@ -1,3 +1,5 @@
+### Attach fields to display them
+
 * **field_attach_prepare_view**   
 http://api.drupal.org/api/drupal/modules!field!field.attach.inc/function/field_attach_prepare_view/7   
 Allow to modify field before display
