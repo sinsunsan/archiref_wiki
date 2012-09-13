@@ -1,7 +1,10 @@
 ### Ressources
 
-http://drupal.org/node/707832 Field API tutorial
+* http://drupal.org/node/707832 Field API tutorial
 The field api is the major inovation of drupal 7, and allow modules like organic group that once have custom tables tio use the same api than other modules. 
+
+* Tuto to learn field api with the help of a color picker module 
+http://www.figover.com/node/15
 
 ### Attach fields to display them
 
