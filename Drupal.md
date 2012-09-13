@@ -5,6 +5,7 @@
 
 ### Drupal APIS
 * [[systeme / modules]] / How drupal interact with its modules
+* [[hook api]] / How modules can modify everything in drupal when a hook is implemented
 * [[database api]] / interact with the database
 * [[field api]] / Store you data in fields
 * [[form api]] / Build forms
