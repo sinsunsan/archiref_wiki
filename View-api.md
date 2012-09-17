@@ -4,8 +4,11 @@ Allow to define the data of our new table to view, allow to define  relationship
 Exemple in asset module (a custom module used by rue89)
 https://gist.github.com/e01a52eaf5f70fe0f65e
 
+* **views_embed_view**
+http://api.drupal.org/api/views/views.module/function/views_embed_view/7   
+Embed a view in everything (blocks, node....)   
+
 The relationship handler   
 http://api.drupal.org/api/views/handlers%21views_handler_relationship.inc/class/views_handler_relationship/6
-
 
 
