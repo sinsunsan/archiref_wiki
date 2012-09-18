@@ -6,7 +6,7 @@ Preprocess has changed for drupal 7
 For view preprocessing, it has special issue describe in this post 
 
 http://webpartners.es/en/drupal-7-views-templates-and-preprocess?utm_source=twitterfeed&utm_medium=twitter
-Here is a code to make the 
+Here is a code to make the    
 https://gist.github.com/c094d624442fa44a58a4
 
 
