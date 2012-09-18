@@ -1,3 +1,15 @@
+* Preprocess view for drupal 6   
+http://evolvingweb.ca/story/theming-views-drupal-templates-and-preprocess-functions
+
+* Preprocess has changed for drupal 7
+For view preprocessing, it has special issue describe in this post 
+
+http://webpartners.es/en/drupal-7-views-templates-and-preprocess?utm_source=twitterfeed&utm_medium=twitter
+Here is a code to make the 
+https://gist.github.com/c094d624442fa44a58a4
+
+
+
 Les fonctions de preprocess peuvent être placer dans le template.php du theme.   
 Ou dans un fichier theme.inc dans le module qui est responsable de template particulier.
 
