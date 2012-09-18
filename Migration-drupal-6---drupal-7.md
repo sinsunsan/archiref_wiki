@@ -17,5 +17,5 @@ http://drupal.org/node/895314
 http://benbuckman.net/tech/11/01/drupal-re-sync-content-taxonomy-core-taxonomy
 * Bug migration des champs content taxonomy   
 http://drupal.org/node/1208164
-* La solution semble être trouvé   
-!!http://drupal.org/node/1208164
+* La solution semble être trouvée !!
+http://drupal.org/node/1208164
