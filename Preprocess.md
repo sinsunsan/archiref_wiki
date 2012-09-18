@@ -1,7 +1,8 @@
-* Preprocess view for drupal 6   
+### View Preprocess view for drupal 6   
 http://evolvingweb.ca/story/theming-views-drupal-templates-and-preprocess-functions
 
-* Preprocess has changed for drupal 7
+### View proprocess drupal 7
+Preprocess has changed for drupal 7
 For view preprocessing, it has special issue describe in this post 
 
 http://webpartners.es/en/drupal-7-views-templates-and-preprocess?utm_source=twitterfeed&utm_medium=twitter
