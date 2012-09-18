@@ -1,5 +1,6 @@
 ### Differences between d6 - d7
 
+* taxonomy term reference replace d6 taxonomy 
 * taxonomy, user... can be fieldable
 * preprocess function don't need to have the template created (can preprocess for theme function as well as template file)
 http://webpartners.es/en/drupal-7-views-templates-and-preprocess
