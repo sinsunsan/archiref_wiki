@@ -1,4 +1,9 @@
+### Differences between d6 - d7
 
+* preprocess function don't need to have the template created (can preprocess for theme function as well as template file 
+http://webpartners.es/en/drupal-7-views-templates-and-preprocess
+http://drupal.org/node/223430
+* But for view there is no view per view preprocess sugestion, either create the template, either make a hack as in http://webpartners.es/en/drupal-7-views-templates-and-preprocess
 
 ### Tuto for the d6-d7 upgrade
 
