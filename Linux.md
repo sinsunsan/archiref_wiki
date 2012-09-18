@@ -1,6 +1,7 @@
 # Linux
 
 * [[sudo]]
+* [[shell]]
 * [[backup]]
 * [[processus]]
 * [[package]] The programs installed in the system
