@@ -31,3 +31,14 @@ Display the permission string return FALSE
 ```
 if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
 ```
+
+* **Recursion in not the end dpm**
+When using devel, it occure that a element is shown as recursion. 
+To see what's inside, make an other dpm with only this sub element key 
+For exemple 
+if writing dpm($form)
+you see
+$form['view'] recursion 
+
+you can write write dpm($form['view']);
+to see what's inside
