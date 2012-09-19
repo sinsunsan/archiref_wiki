@@ -5,20 +5,20 @@
 </pre>
 
 
-**Reconnaître les urls courtes de daily motion**
+* **Reconnaître les urls courtes de daily motion**
 <pre>@dai\.ly/([^\?"\&]+)@i</pre>
 le . est échappé grace à \
 
-**Trouver simplement un mot contenu dans une chaîne**   
+* **Trouver simplement un mot contenu dans une chaîne**   
 <pre>preg_match('#href#', $string1 , $matches);</pre>
 
-**Commence par (^---) ou se termine par (---$)**   
+* **Commence par (^---) ou se termine par (---$)**   
 ``preg_match('#^<a href="|a>$#', $string1 , $matches);``
 
-**Lettre qui se répètent**    
+* **Lettre qui se répètent**    
 ``#bor?is# Boris avec 1 r ou 2``
 
-**Récupérer le id du commentaire d'une url**
+* **Récupérer le id du commentaire d'une url**
 
 Le html du lien à analyser
 ``
@@ -30,3 +30,12 @@ La regex
 `
 preg_match('@^<a href="([^"]*)(#comment-)(\d+)@i', $string1 , $matches);
 `
+
+* **twitter tweet url**
+```
+#href="(https)://twitter.com/([^/]+)/status/([0-9]+)#
+```
+```
+https://twitter.com/drupalplanet/status/248414059467251713
+
+```
