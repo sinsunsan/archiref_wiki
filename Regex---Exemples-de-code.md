@@ -33,9 +33,12 @@ preg_match('@^<a href="([^"]*)(#comment-)(\d+)@i', $string1 , $matches);
 
 * **twitter tweet url**
 ```
-#href="(https)://twitter.com/([^/]+)/status/([0-9]+)#
-```
-```
+#href="https://twitter.com/([^/]+)/status/([0-9]+)#
 https://twitter.com/drupalplanet/status/248414059467251713
+array (
+  0 => 'href="https://twitter.com/Dries/status/248397811220115456',
+  1 => 'Dries',
+  2 => '248397811220115456',
+)
 
 ```
