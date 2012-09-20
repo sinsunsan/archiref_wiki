@@ -9,5 +9,5 @@ https://gist.github.com/6b17f7ed0c6b9e06142a
 http://drupal.org/node/542796
 
 * **form_set_value**   
-http://api.drupal.org/api/drupal/includes%21form.inc/function/form_set_value/7
+http://api.drupal.org/api/drupal/includes%21form.inc/function/form_set_value/7   
 Change the value of a form element
