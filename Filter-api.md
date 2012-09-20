@@ -17,7 +17,7 @@ http://api.drupal.org/api/drupal/modules%21field%21modules%21text%21text.module/
 Transform value in safe value in the form api for example
 
 * **valid_email_adress**   
-http://api.drupal.org/api/drupal/includes!common.inc/function/valid_email_address/7
-Validate that an email adress is a true one 
+http://api.drupal.org/api/drupal/includes!common.inc/function/valid_email_address/7    
+Validate the syntax of a string to check if it's a valid email adress
 
 ### HOOKS
