@@ -16,4 +16,8 @@ Example example module https://gist.github.com/8717b18592c45d4cd1f8
 http://api.drupal.org/api/drupal/modules%21field%21modules%21text%21text.module/function/_text_sanitize/7   
 Transform value in safe value in the form api for example
 
+* **valid_email_adress**   
+http://api.drupal.org/api/drupal/includes!common.inc/function/valid_email_address/7
+Validate that an email adress is a true one 
+
 ### HOOKS
