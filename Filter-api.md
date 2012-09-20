@@ -12,4 +12,8 @@ We should define the callback function used in this filter which are several
 Example asset module https://gist.github.com/1cc86c91caf877f2d43b   
 Example example module https://gist.github.com/8717b18592c45d4cd1f8
 
+* **_text_sanitize**   
+http://api.drupal.org/api/drupal/modules%21field%21modules%21text%21text.module/function/_text_sanitize/7   
+Transform value in safe value in the form api for example
+
 ### HOOKS
