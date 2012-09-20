@@ -8,6 +8,7 @@
 * **[[confirmation page]]**
 * **[[Use conditionals fields]]** (fields visible only if another have a given value)
 * **[[Use a subfunction to change form structure]]**
+* **[[validation function]]
 
 Form API Quickstart
 http://drupal.org/node/751826
