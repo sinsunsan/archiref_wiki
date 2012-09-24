@@ -1,3 +1,7 @@
+* **mix of print_r and d custom function that add a die and other stuff**
+The behavior is different than dpm because it's printed on the script page and not on the following one. 
+
+
 Lister tous les hook appelé par drupal 
 dans drupal 7
 includes/modules.inc
