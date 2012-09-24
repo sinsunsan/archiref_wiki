@@ -1,9 +1,11 @@
 * [[javascript replace]]
 * [[RegExp : regular expression]]
-
 * **[[Drupal and javascript]]**
 
 http://api.drupal.org/api/drupal/developer!topics!javascript_startup_guide.html/6#oop
+
+* **How to debug javascript**   
+http://www.webmonkey.com/2010/02/javascript_debugging_for_beginners/
 
 
 * **Debug an array in javascript**
