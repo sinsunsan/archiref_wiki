@@ -1,6 +1,7 @@
 * [[javascript replace]]
 * [[RegExp : regular expression]]
 * **[[Drupal and javascript]]**
+* **[[Javascript method]]
 
 http://api.drupal.org/api/drupal/developer!topics!javascript_startup_guide.html/6#oop
 
