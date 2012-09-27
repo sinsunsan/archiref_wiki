@@ -10,7 +10,7 @@ http://www.selectorweb.com/grep_tutorial.html
 ```grep -rn "petite question" * --exclude-dir='files'```
 
 * Echapper les caractère spéciaux    
-```grep -rn "\$vars\['comment']" * --exclude-dir="files"```
+``` grep -rn "\$vars\['comment']" * --exclude-dir="files" ```
 
 * Grep on the files searched by find 
 ``` find -type f -name *rue89block.inc* -exec grep "3 voix" {} \; ```
