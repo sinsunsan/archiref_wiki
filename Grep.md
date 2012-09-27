@@ -15,7 +15,7 @@ grep -rn "\$vars\['comment']" * --exclude-dir="files"
 </pre>
 
 * Grep on the files searched by find 
-``` find -type f -name *rue89block.inc* -exec grep "3 voix" {} \; ```
+<pre> find -type f -name *rue89block.inc* -exec grep "3 voix" {} \; </pre>
 
 * Escape special character (here regular expression)
 ```grep -rn "\['options'\]\['status'\]"```
