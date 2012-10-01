@@ -27,4 +27,5 @@
 * [[SEO]]
 * [[SOLR]]
 * [[gollum]]
+* [[github selection]]
 
