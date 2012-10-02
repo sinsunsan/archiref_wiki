@@ -16,10 +16,10 @@ Echapper les caractère spéciaux
 <pre>grep -rn "\$vars\\['comment'\]" * --exclude-dir="files"</pre>
 
 * **Grep on the files searched by find**
-* Search in a specific file   
+- Search in a specific file   
 ```find -type f -name *rue89block.inc* -exec grep "3 voix" {} \;```
 
-* Search in all .install files the pattern "nodequeue"
+- Search in all .install files the pattern "nodequeue"
 ```find -type f -name *.install -exec grep -rn nodequeue {} \;```
 
 * **Escape special character** (here regular expression)
