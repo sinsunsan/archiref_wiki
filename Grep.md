@@ -9,20 +9,20 @@ Retrieve only the files in which the string is found whatever the number of inst
 
 * **Exclude dir**   
 Chercher dans les fichiers mais pas dans les fichiers binaires (images...)   
-```grep -rn "petite question" * --exclude-dir='files' ```
+```grep -rn "petite question" * --exclude-dir='files'```
 
 * **Escape special character**   
 Echapper les caractère spéciaux    
 ```grep -rn "\$vars\['comment']" * --exclude-dir="files"```
 
 * **Grep on the files searched by find**
-Search in a specific file   
-find -type f -name *rue89block.inc* -exec grep "3 voix" {} \;
+* Search in a specific file   
+```find -type f -name *rue89block.inc* -exec grep "3 voix" {} \;```
 
-Search in all .install files the pattern "nodequeue"
-find -type f -name *.install -exec grep -rn nodequeue {} \;
+* Search in all .install files the pattern "nodequeue"
+```find -type f -name *.install -exec grep -rn nodequeue {} \;```
 
-* Escape special character (here regular expression)
+* **Escape special character** (here regular expression)
 ```grep -rn "\['options'\]\['status'\]"```
 
 To search ['option']['status'] typical drupal form array   
