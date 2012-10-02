@@ -9,7 +9,7 @@
 * **[[Use conditionals fields]]** (fields visible only if another have a given value)
 * **[[Use a subfunction to change form structure]]**
 * **[[validation function]]**
-* **[[submit a form programmatically]]
+* **[[submit a form programmatically]]**
 
 Form API Quickstart
 http://drupal.org/node/751826
