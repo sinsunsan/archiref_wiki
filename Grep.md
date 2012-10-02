@@ -13,7 +13,7 @@ Chercher dans les fichiers mais pas dans les fichiers binaires (images...)
 
 * **Escape special character**   
 Echapper les caractère spéciaux    
-```grep -rn "\$vars\\['comment'\]" * --exclude-dir="files"```
+<pre>```grep -rn "\$vars\\['comment'\]" * --exclude-dir="files"```</pre>
 
 * **Grep on the files searched by find**
 * Search in a specific file   
@@ -23,6 +23,6 @@ Echapper les caractère spéciaux
 ```find -type f -name *.install -exec grep -rn nodequeue {} \;```
 
 * **Escape special character** (here regular expression)
-```grep -rn "\['options'\]\['status'\]"```
+<pre```grep -rn "\['options'\]\['status'\]"```</pre>
 
 To search ['option']['status'] typical drupal form array   
