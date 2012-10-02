@@ -46,3 +46,6 @@ you see
 
 you can write write ``dpm($form['view']);``
 to see what's inside
+
+* **Difference between debuging function in php** var_dump , var_export , print_r
+http://stackoverflow.com/questions/5039431/difference-between-var-dump-var-export-print-r
