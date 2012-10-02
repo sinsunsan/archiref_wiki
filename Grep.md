@@ -23,6 +23,6 @@ Echapper les caractère spéciaux
 ```find -type f -name *.install -exec grep -rn nodequeue {} \;```
 
 * **Escape special character** (here regular expression)
-<pre```grep -rn "\['options'\]\['status'\]"```</pre>
+<pre>```grep -rn "\['options'\]\['status'\]"```</pre>
 
 To search ['option']['status'] typical drupal form array   
