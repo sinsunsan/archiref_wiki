@@ -13,7 +13,7 @@ Chercher dans les fichiers mais pas dans les fichiers binaires (images...)
 
 * **Escape special character**   
 Echapper les caractère spéciaux    
-grep -rn "\$vars\['comment']" * --exclude-dir="files"
+```grep -rn "\$vars\['comment']" * --exclude-dir="files"```
 
 * **Grep on the files searched by find**
 Search in a specific file   
