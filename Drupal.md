@@ -10,6 +10,7 @@
 * [[field api]] / Store you data in fields
 * [[form api]] / Build forms
 * [[entity api]] / Manage your content in entity
+* [[comment api]] / Manage comments
 * [[view api]] / Make customisable display
 * [[filter api]] / Filter the user submitted content
 * [[menu/path api]] / Define pages and url to show your content
