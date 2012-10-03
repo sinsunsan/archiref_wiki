@@ -14,6 +14,7 @@ http://www.webmonkey.com/2010/02/javascript_debugging_for_beginners/
 Add this   
 `console.log(s);`
 In the javascript code. 
+The result of the debug will be visible in the debugger in chrome or mozilla
 
 
 * **Add break point in console**
