@@ -16,6 +16,8 @@ Add this
 In the javascript code. 
 The result of the debug will be visible in the debugger in chrome or mozilla
 
+To know what is the code of a method (function), you can do it directly in the console
+console.log($.cookie);
 
 * **Add break point in console**
 
