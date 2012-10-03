@@ -15,6 +15,7 @@
 ### Programming language
 * [[php]]
 * [[javascript]]
+* [[jquery]]
 * [[ruby]]
 
 ### Front end, theming 
