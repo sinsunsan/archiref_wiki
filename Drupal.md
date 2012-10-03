@@ -16,6 +16,7 @@
 * [[menu/path api]] / Define pages and url to show your content
 * [[file api]] / Store and manage files
 * [[rss / feed]] / Publish content from other sites
+* [[libraries api]] / store common functionnality in library
 ### 
 * [[ctools]] / Understand the ctools magic
 * [[i18n]] / Make your site international
