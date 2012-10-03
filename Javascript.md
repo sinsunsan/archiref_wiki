@@ -12,12 +12,12 @@ http://www.webmonkey.com/2010/02/javascript_debugging_for_beginners/
 * **Debug an array in javascript**
 
 Add this   
-``` console.log(s); ```   
+ console.log(s);  
 In the javascript code. 
 The result of the debug will be visible in the debugger in chrome or mozilla
 
 To know what is the code of a method (function), you can do it directly in the console   
-``` console.log($.cookie); ```   
+console.log($.cookie);  
 
 * **Add break point in console**
 
