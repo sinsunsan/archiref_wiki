@@ -7,3 +7,6 @@ Exemple with modernizr
 drupal_add_js(libraries_get_path('modernizr') . '/js/modernizr-1.6.min.js', array('group' => JS_THEME, 'every_page' => TRUE));
 ?>
 ```
+
+* **libraries_get_path**   
+http://drupalcontrib.org/api/drupal/contributions!libraries!libraries.module/function/libraries_get_path/6
