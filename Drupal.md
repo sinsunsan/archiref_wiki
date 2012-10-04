@@ -19,7 +19,7 @@
 * [[libraries api]] / store common functionnality in library
 ### 
 * [[ctools]] / Understand the ctools magic
-* [[i18n]] / Make your site international
+* [[language API]] / Make your site international
 * [[Render API / Theming]] / Define how the site will look
 * [[features]] / Export your site definition in features
 * [[taxonomy]] / Classify your content with taxonomy 
