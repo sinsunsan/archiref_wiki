@@ -8,6 +8,7 @@
 * [[hook api]] / How modules can modify everything in drupal when a hook is implemented
 * [[database api]] / interact with the database
 * [[field api]] / Store you data in fields
+* [[node api]] / Node is an entity but a special one
 * [[form api]] / Build forms
 * [[entity api]] / Manage your content in entity
 * [[comment api]] / Manage comments
