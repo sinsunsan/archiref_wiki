@@ -1,3 +1,8 @@
+* **LANGUAGE_NONE**   
+A elegant manner to refer to und   
+http://api.drupal.org/api/drupal/includes%21bootstrap.inc/constant/LANGUAGE_NONE/7
+
+
 ## Pages
 
 * [[t() function]]  
