@@ -27,6 +27,9 @@ Exemple of the use of this 3 functions in https://gist.github.com/40e049c86061a1
 http://api.drupal.org/api/drupal/modules!field!field.default.inc/function/field_default_view/7   
 Function called when the field is viewed and transform it into a renderable array 
 
+edit a field value   
+http://api.drupal.org/api/drupal/modules!field!field.crud.inc
+
 * **field_info_field**    
 http://api.drupal.org/api/drupal/modules!field!field.info.inc/function/field_info_field/7   
 Retrieve a field object in the language it'll be displayed (d7)   
