@@ -14,3 +14,7 @@ http://api.drupal.org/api/drupal/includes!file.inc/function/file_save/7
 * **file_load**   
 Load a file   
 http://api.drupal.org/api/drupal/includes!file.inc/function/file_load/7
+
+* **file_save_data**   
+save a file to the database (easier that whith file_save)   
+http://api.drupal.org/api/drupal/includes!file.inc/function/file_save_data/7
