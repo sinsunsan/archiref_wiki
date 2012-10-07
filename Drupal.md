@@ -24,7 +24,7 @@
 * [[Render API / Theming]] / Define how the site will look
 * [[features]] / Export your site definition in features
 * [[taxonomy]] / Classify your content with taxonomy 
-* [[cron]] / Make automatic tasks with cron
+* [[drupal cron]] / Make automatic tasks with cron
 * [[wysiwyg]] / Ease the text authoring for non technicals
 
 
