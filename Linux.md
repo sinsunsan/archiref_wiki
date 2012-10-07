@@ -13,3 +13,4 @@
 * [[manage users]]
 * [[$PATH]]
 * [[rsync]]
+* [[cron]] / Execute task automatically (backup,...)
