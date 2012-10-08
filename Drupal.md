@@ -4,6 +4,7 @@
 
 
 ### Drupal APIS
+* [[drupal core]]
 * [[systeme / modules]] / How drupal interact with its modules
 * [[hook api]] / How modules can modify everything in drupal when a hook is implemented
 * [[database api]] / interact with the database
