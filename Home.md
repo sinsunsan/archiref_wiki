@@ -6,6 +6,7 @@
 * [[Mysql]]
 * [[script bash]]
 * [[vim]]
+* [[apache]]
 
 ### Version manager
 * [[git]]
