@@ -10,6 +10,7 @@
 * [[script bash]]
 * [[vim]]
 * [[apache]]
+* [[ec2 amazon]]
 
 ### Version manager
 * [[git]]
