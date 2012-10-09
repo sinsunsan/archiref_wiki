@@ -3,3 +3,5 @@ http://stackoverflow.com/questions/10542607/unable-to-connect-to-aws-machine-ope
 
 How to installe a ec2 server
 http://tuts.pinehead.tv/2011/06/26/creating-an-amazon-ec2-instance-with-linux-lamp-stack/
+
+Tuto to install drupal on an amazon instance
