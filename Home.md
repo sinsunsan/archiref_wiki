@@ -11,6 +11,7 @@
 * [[vim]]
 * [[apache]]
 * [[ec2 amazon]]
+* [[mails]]
 
 ### Version manager
 * [[git]]
