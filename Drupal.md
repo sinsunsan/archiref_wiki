@@ -36,7 +36,7 @@ http://drupal.org/project/examples
 * **Définitive guide** online version http://definitivedrupal.org/
 
 ### Others
-
+* [[settings.php]]
 * [[migration drupal 6 > drupal 7]]
 * [[how to render a page]]
 * [[debug technics]]
