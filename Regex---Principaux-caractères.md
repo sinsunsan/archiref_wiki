@@ -21,6 +21,7 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 \d	Indique un chiffre. Ça revient exactement à taper [0-9]
 \D	Indique ce qui n'est PAS un chiffre. Ca revient à taper [^0-9]
 \w	Indique un caractère alphanumérique ou un tiret de soulignement. Cela correspond à [a-zA-Z0-9_]
+Comprend également les accents
 \W	Indique ce qui n'est PAS un mot. Si vous avez suivi, ça revient à taper [^a-zA-Z0-9_]
 </pre>
 ### Les quantificateurs
