@@ -1,7 +1,8 @@
 ###  Ressources
 
 Cheatsheet for vim     
-http://www.pixelbeat.org/vim.tips.html
+http://www.pixelbeat.org/vim.tips.html   
+http://www.worldtimzone.com/res/vi.html
 
 Screencast on vim    
 http://vimcasts.org/
