@@ -12,6 +12,19 @@
 1. Callback function that return a JSON object
 
 
+### Exemples
+
+* **Add an ajax behavior to a form element**
+```
+  $form['actions']['submit']['#ajax'] = array(
+    'callback' => 'rue89_platform_users_ajax_user_login_callback',
+    'wrapper' => 'modal_content',
+    'method' => 'replace',
+    'progress' => array('type' => 'hidden'),
+    'path' => 'system/ajax/rue89/user/register'
+  );
+```
+
 ### Ressources 
 * Drupal 7 and ajax on drupal.org    
 http://drupal.org/node/752056
