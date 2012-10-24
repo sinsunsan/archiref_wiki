@@ -1,4 +1,4 @@
-* **A selector with several methods (syntax)**
+* **A selector with several methods (syntax)**   
 It's more readable to write each method on a new line like the following
 ```
 $("#rue89-register-status-status")
