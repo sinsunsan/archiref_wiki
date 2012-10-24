@@ -1,8 +1,3 @@
-### General
-* [[Modules]]
-* [[functions]]
-
-
 ### Drupal APIS
 * [[drupal core]]
 * [[systeme / modules]] / How drupal interact with its modules
@@ -19,7 +14,6 @@
 * [[file api]] / Store and manage files
 * [[rss / feed]] / Publish content from other sites
 * [[libraries api]] / store common functionnality in library
-### 
 * [[ctools]] / Understand the ctools magic
 * [[language API]] / Make your site international
 * [[Render API / Theming]] / Define how the site will look
@@ -28,8 +22,13 @@
 * [[drupal cron]] / Make automatic tasks with cron
 * [[wysiwyg]] / Ease the text authoring for non technicals
 
+### General
+* [[Modules]]
+* [[functions]]
+
 ### Javascript and Ajax
 * [[drupal and javascript]]
+* [[drupal and ajax]]
 
 ### Ressources
 * **Example module** provide good example of modules that implement different hooks
