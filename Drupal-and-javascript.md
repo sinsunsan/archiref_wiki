@@ -1,6 +1,9 @@
 * Use drupal behaviors instead of document.ready   
 http://www.agileapproach.com/blog-entry/drupal-6-jquery-under-5-minutes
 
+* All javascript function are attached to Drupal.behaviors object 
+* php variables passed to javascript are stored in Drupal.settings
+
 * **The drupal object with it's method and sub objects**
 ```
 Object
