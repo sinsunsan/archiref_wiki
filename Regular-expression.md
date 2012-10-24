@@ -1,14 +1,16 @@
 # Expression regulière
 
 ## Liens 
-**Testeur**    
+**Online test**    
 http://www.quanetic.com/Regex   
 http://www.functions-online.com/ (No spécific to regex)
 
-**Cheatsheet, ressources**    
+**Cheatsheet**    
 http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/   
 http://krijnhoetmer.nl/stuff/regex/cheat-sheet/   
-http://www.regular-expressions.info/charclass.html#shorthand
+
+**Ressources**
+http://www.regular-expressions.info 
 
 **Tuto site du zero**   
 http://www.siteduzero.com/tutoriel-3-14618-les-expressions-regulieres-partie-2-2.html#ss_part_4
