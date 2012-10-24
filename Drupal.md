@@ -28,7 +28,8 @@
 * [[drupal cron]] / Make automatic tasks with cron
 * [[wysiwyg]] / Ease the text authoring for non technicals
 
-
+### Javascript and Ajax
+* [[drupal and javascript]]
 
 ### Ressources
 * **Example module** provide good example of modules that implement different hooks
