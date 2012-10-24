@@ -3,6 +3,17 @@ http://www.agileapproach.com/blog-entry/drupal-6-jquery-under-5-minutes
 
 * All javascript function are attached to Drupal.behaviors object 
 * php variables passed to javascript are stored in Drupal.settings
+Drupal.settings are feeded in the php side by call to drupal_add_js
+```
+  drupal_add_js(array(
+    'statusCheck' => array(
+      'ajaxUrl' => url('system/ajax/rue89/user'),
+      'type' => 'status',
+      'progress' => '<img src="/' . $module_path . '/images/ajax-loader.gif" alt="" class="loading" /> ' . t('Search for availability'),
+      'accepted' => t('Your situation appears next to your nickname'),
+    ),
+  ), 'setting');
+```
 
 * **The drupal object with it's method and sub objects**
 ```
