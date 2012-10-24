@@ -13,6 +13,7 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 [a-z] Une lettre de a à z en minuscule
 .     Tout- n'importe quel caractère
 (.+) N'importe quel caractère 1 x ou plus (englobé par une parenthèse capturante)
+</pre>
 
 ### Les classes abrégées 
 
