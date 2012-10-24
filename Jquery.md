@@ -17,3 +17,7 @@ http://api.jquery.com/slideUp/
 * **ajax**   
 Make an ajax call with jquery   
 http://api.jquery.com/jQuery.ajax/
+
+* **mouse_down**   
+Like a click but more precisely when the mouse is on an element and the button is clicked   
+http://api.jquery.com/mousedown/
