@@ -2,7 +2,8 @@
 
 ## Liens 
 **Testeur**    
-http://www.quanetic.com/Regex
+http://www.quanetic.com/Regex   
+http://www.functions-online.com/ (No spécific to regex)
 
 **Cheatsheet, ressources**    
 http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/   
