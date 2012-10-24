@@ -24,7 +24,7 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 Comprend également les accents
 \W	Indique ce qui n'est PAS un mot. Si vous avez suivi, ça revient à taper [^a-zA-Z0-9_]
 \s	A single whitespace character
-ùûüÿàâæçéèëïîôœ   French accent Other language accents here http://french.typeit.org/
+ùûüÿàâæçêéèëïîôœ   French accent Other language accents here http://french.typeit.org/
 </pre>
 
 
