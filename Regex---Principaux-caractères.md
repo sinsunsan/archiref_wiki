@@ -13,7 +13,6 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 [a-z] Une lettre de a à z en minuscule
 .     Tout- n'importe quel caractère
 (.+) N'importe quel caractère 1 x ou plus (englobé par une parenthèse capturante)
-ùûüÿàâæçéèëïîôœ   French accent Other language accents here http://french.typeit.org/
 
 ### Les classes abrégées 
 
@@ -23,6 +22,8 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 \w	Indique un caractère alphanumérique ou un tiret de soulignement. Cela correspond à [a-zA-Z0-9_]
 Comprend également les accents
 \W	Indique ce qui n'est PAS un mot. Si vous avez suivi, ça revient à taper [^a-zA-Z0-9_]
+ùûüÿàâæçéèëïîôœ   French accent Other language accents here http://french.typeit.org/
+
 </pre>
 
 
