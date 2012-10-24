@@ -15,8 +15,9 @@
 ### Exemples
 
 * **Add an ajax behavior to a form element**
-```
+```php
   $form['actions']['submit']['#ajax'] = array(
+
     'callback' => 'rue89_platform_users_ajax_user_login_callback',
     'wrapper' => 'modal_content',
     'method' => 'replace',
