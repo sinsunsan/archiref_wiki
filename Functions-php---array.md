@@ -1,3 +1,9 @@
+* **reset**    
+http://php.net/manual/en/function.reset.php     
+Set the current array pointer to default (first element)   
+The current element could be outputed by writing current($array);   
+The pointer could be changed with next($array) or prev($aray)   
+ 
 * **array_filter**   
 http://php.net/manual/fr/function.array-filter.php   
 Allow to filter an array by a custom function that return the value to keep,   
@@ -36,4 +42,3 @@ array(
 * **array_intersect_keys**   
 http://php.net/manual/en/function.array-intersect-key.php   
 Interest two array with key as comparison => keep in the resulting array only the keys that have a key in common
-
