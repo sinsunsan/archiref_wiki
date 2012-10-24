@@ -15,11 +15,13 @@
 ### Exemples
 
 * **Add an ajax behavior to a form element**
-```php
+```
   $form['actions']['submit']['#ajax'] = array(
-
+    // Callback function that should be executed after the ajax call
     'callback' => 'rue89_platform_users_ajax_user_login_callback',
+    // Html element that should be changed
     'wrapper' => 'modal_content',
+   
     'method' => 'replace',
     'progress' => array('type' => 'hidden'),
     'path' => 'system/ajax/rue89/user/register'
@@ -29,3 +31,5 @@
 ### Ressources 
 * Drupal 7 and ajax on drupal.org    
 http://drupal.org/node/752056
+* Drupal ajax framework api   
+http://api.drupal.org/api/drupal/includes%21ajax.inc/group/ajax/7
