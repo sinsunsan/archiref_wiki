@@ -2,9 +2,10 @@
 
 ## Liens 
 
-**Cheatsheet**    
+**Cheatsheet, ressources**    
 http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/   
-http://krijnhoetmer.nl/stuff/regex/cheat-sheet/
+http://krijnhoetmer.nl/stuff/regex/cheat-sheet/   
+http://www.regular-expressions.info/charclass.html#shorthand
 
 **Tuto site du zero**   
 http://www.siteduzero.com/tutoriel-3-14618-les-expressions-regulieres-partie-2-2.html#ss_part_4
