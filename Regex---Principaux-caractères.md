@@ -24,6 +24,8 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 Comprend également les accents
 \W	Indique ce qui n'est PAS un mot. Si vous avez suivi, ça revient à taper [^a-zA-Z0-9_]
 </pre>
+
+
 ### Les quantificateurs
 Se place aprés la symbole ou plage qu'elle quantifie.   
 Par exemple :    
