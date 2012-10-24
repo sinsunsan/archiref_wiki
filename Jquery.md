@@ -13,3 +13,7 @@ http://api.jquery.com/slideToggle/
 * **slideUp**   
 Retract an element with a slide effect (up-down)   
 http://api.jquery.com/slideUp/
+
+* **ajax**   
+Make an ajax call with jquery   
+http://api.jquery.com/jQuery.ajax/
