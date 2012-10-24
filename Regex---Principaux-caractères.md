@@ -23,8 +23,8 @@ $ La fin de chaîne (à mettre après la chaîne à repérer)
 \w	Indique un caractère alphanumérique ou un tiret de soulignement. Cela correspond à [a-zA-Z0-9_]
 Comprend également les accents
 \W	Indique ce qui n'est PAS un mot. Si vous avez suivi, ça revient à taper [^a-zA-Z0-9_]
+\s	A single whitespace character
 ùûüÿàâæçéèëïîôœ   French accent Other language accents here http://french.typeit.org/
-
 </pre>
 
 
