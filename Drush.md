@@ -1,3 +1,6 @@
+* **Install drush with git**
+http://drupal.org/project/drush/git-instructions
+
 * **drush php-eval**
 Allow to evaluate php code after drupal bootstrap   
 
