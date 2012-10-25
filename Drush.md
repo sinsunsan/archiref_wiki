@@ -1,5 +1,5 @@
 * **Install drush with git**   
-http://drupal.org/project/drush/git-instructions
+http://drupal.org/project/drush/git-instructions   
 ```git clone --recursive --branch master http://git.drupal.org/project/drush.git```
 
 
