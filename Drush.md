@@ -1,6 +1,6 @@
 * **Install drush with git**   
 http://drupal.org/project/drush/git-instructions   
-```git clone --recursive --branch master http://git.drupal.org/project/drush.git```
+```git clone --recursive --branch 7.x-5.x http://git.drupal.org/project/drush.git```
 
 
 * **drush php-eval**
