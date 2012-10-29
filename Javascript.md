@@ -2,4 +2,4 @@
 * [[RegExp : regular expression]]
 * **[[Drupal and javascript]]**
 * **[[Javascript method]]**
-* **[[debug javascipt]]**
+* **[[debug javascript]]**
