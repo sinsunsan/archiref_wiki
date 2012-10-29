@@ -1,5 +1,5 @@
 * [[javascript replace]]
 * [[RegExp : regular expression]]
-* **[[Drupal and javascript]]**
-* **[[Javascript method]]**
-* **[[debug javascript]]**
+* [[Drupal and javascript]]
+* [[Javascript method]]
+* [[Debug javascript]]
