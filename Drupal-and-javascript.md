@@ -1,3 +1,5 @@
+http://api.drupal.org/api/drupal/developer!topics!javascript_startup_guide.html/6#oop
+
 * Use drupal behaviors instead of document.ready   
 http://www.agileapproach.com/blog-entry/drupal-6-jquery-under-5-minutes
 
