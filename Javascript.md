@@ -2,7 +2,7 @@
 * [[RegExp : regular expression]]
 * **[[Drupal and javascript]]**
 * **[[Javascript method]]**
-* **[[debug javascipt]]
+* **[[debug javascipt]]**
 http://api.drupal.org/api/drupal/developer!topics!javascript_startup_guide.html/6#oop
 
 * **Example of an object initialization**
