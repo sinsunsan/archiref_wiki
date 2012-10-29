@@ -29,7 +29,7 @@ Even if the cache suppose to be off, the cache could still be active.
 drush cc all after every change is a good way to solve this 
 
 * **increment an alert debug function at every file change**   
-Put 
+Put    
 alert("my debug1");   
 alert("my debug2");   
 ...   
