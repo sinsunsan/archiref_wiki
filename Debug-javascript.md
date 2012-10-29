@@ -1,4 +1,3 @@
-
 * **How to debug javascript**   
 http://www.webmonkey.com/2010/02/javascript_debugging_for_beginners/
 
