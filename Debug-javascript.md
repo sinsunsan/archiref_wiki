@@ -28,3 +28,11 @@ It's possible to add break point with chrome of firebug, interupt the script, an
 Even if the cache suppose to be off, the cache could still be active. 
 drush cc all after every change is a good way to solve this 
 
+* **increment an alert debug function at every file change**   
+Put 
+alert("my debug1");
+alert("my debug2");
+...
+Every time you change the code, to be sure the latest code is evaluated
+
+
