@@ -30,9 +30,9 @@ drush cc all after every change is a good way to solve this
 
 * **increment an alert debug function at every file change**   
 Put 
-alert("my debug1");
-alert("my debug2");
-...
-Every time you change the code, to be sure the latest code is evaluated
+alert("my debug1");   
+alert("my debug2");   
+...   
+Every time you change the code, to be sure the latest code is evaluated   
 
 
