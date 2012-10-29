@@ -18,7 +18,7 @@ http://api.jquery.com/slideUp/
 Make an ajax call with jquery   
 http://api.jquery.com/jQuery.ajax/
 
-* **[[jquery transition]]
+* **[[jquery transition]]**
 * **[[jquery event]]**
 
 * **mouse_down**   
