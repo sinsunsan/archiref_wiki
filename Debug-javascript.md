@@ -24,3 +24,8 @@ MAJ+CTRL+J
 * **Add break point in console**
 
 It's possible to add break point with chrome of firebug, interupt the script, and know the value of every variables at each step
+
+* **Drupal cache is strange !**
+Even if the cache suppose to be off, the cache could still be active. 
+drush cc all after every change is a good way to solve this 
+
