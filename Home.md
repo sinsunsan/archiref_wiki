@@ -21,6 +21,7 @@
 ### Programming language
 * [[php]]
 * [[javascript]]
+* [[ajax]]
 * [[jquery]]
 * [[ruby]]
 
