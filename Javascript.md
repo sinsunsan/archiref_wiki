@@ -3,3 +3,4 @@
 * [[Drupal and javascript]]
 * [[Javascript method]]
 * [[Debug javascript]]
+* [[submit a form in javascript]]
