@@ -35,4 +35,5 @@ alert("my debug2");
 ...   
 Every time you change the code, to be sure the latest code is evaluated   
 
-
+* **user mozilla add on**   
+https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger/
