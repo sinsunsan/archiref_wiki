@@ -12,6 +12,9 @@ The result of the debug will be visible in the debugger in chrome or mozilla
 To know what is the code of a method (function), you can do it directly in the console   
 **console.log($.cookie);**
 
+Explanation of console.log here
+http://getfirebug.com/logging
+
 * **See an ajax load content in its url**   
 Ajax loaded content is being loaded in a given page, but it call a different url. 
 It's possible to access this url directly, to have only the ajax loaded content, and possible js files load at the same time. To know this url, you can go to the nework panel of firebug and analyse which url is being called.
