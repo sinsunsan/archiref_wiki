@@ -19,3 +19,16 @@ test1 = function() {
 }();
 console.log(x); // undefined
 ```
+
+* **isolate the code**   
+To be sure not to have variable collapse always embed the code in 
+```
+(function() { 
+}()) 
+```
+In drupal it's   
+```
+(function ($) {
+...
+})(jQuery);
+```
