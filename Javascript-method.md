@@ -11,7 +11,7 @@ Trigger something after having waited a time defined in millisecond
 ```
 setTimeout(function() { $('#rue89-register-username').find('input').focus(); }, 10);
 ```
-after 10 ms, give the focus to input element inside #rue89-register-username element
+after 10 ms, give the focus to input element inside #rue89-register-username element   
 
 
 
