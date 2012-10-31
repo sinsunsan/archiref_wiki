@@ -13,6 +13,7 @@ setTimeout(function() { $('#rue89-register-username').find('input').focus(); }, 
 ```
 after 10 ms, give the focus to input element inside #rue89-register-username element
 
+
 * **setIntervall**   
 Trigger something every xxx time in milsecond
 
