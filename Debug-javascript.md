@@ -1,5 +1,5 @@
 * **How to debug javascript**   
-http://www.webmonkey.com/2010/02/javascript_debugging_for_beginners/
+http://www.webmonkey.com/2010/02/javascript_debugging_for_beginners/   
 http://www.alsacreations.com/astuce/lire/1436-console-javascript.html
 
 * **Debug an array in javascript**
