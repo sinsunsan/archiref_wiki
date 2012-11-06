@@ -102,6 +102,11 @@ git config alias.co checkout
 git config alias.br branch
 </pre>
 
+* **Restore a given commit**
+```git reset --hard 7208c2f3c30d0ca9f5456fad0bd0701fc2cf6fad```
+
+Will restore the state of file as it was at this commit. 
+
 
 ### Remove a commit in a remote repository( like github)
 
