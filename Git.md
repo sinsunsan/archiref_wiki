@@ -10,8 +10,10 @@ Référence de Adyax
 http://nvie.com/posts/a-successful-git-branching-model/
 http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
-### [[Git Patch]] Manage patch with git 
-### [[Git Log]] Browse git history
+### Git 
+
+* **[[Git Patch]] Manage patch with git** 
+* **[[Git Log]] Browse git history**
 
 **Branch, checkout**   
 
