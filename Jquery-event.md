@@ -22,3 +22,6 @@ Like a click but more precisely when the mouse is on an element and the button i
 
 > The mousedown event is sent when any mouse button is clicked.
 http://api.jquery.com/mousedown/
+
+* **submit**   
+http://api.jquery.com/submit/
