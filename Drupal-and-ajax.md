@@ -1,3 +1,10 @@
+### API 
+
+* **ajax_form_callback**   
+http://api.drupal.org/api/drupal/includes!ajax.inc/function/ajax_form_callback/7
+
+### How to 
+
 1. Ajax call in a javascript files : 
 1. Hook_menu to define a callback function and an url of the ajax call 
 ```
