@@ -9,4 +9,4 @@ http://braincracking.org/2011/11/16/javascript-3-fondamentaux/
 * [[Drupal and javascript]]
 * [[Javascript method]]
 * [[Debug javascript]]
-* [[submit a form in javascript]]
+* [[Form & javascript]]
