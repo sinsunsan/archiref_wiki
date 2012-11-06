@@ -1,0 +1,1 @@
+http://www.javascript-coder.com/javascript-form/javascript-form-submit.phtml
