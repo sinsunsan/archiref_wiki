@@ -47,6 +47,10 @@ git checkout rue89-page-header-autopromo.tpl.php
 git format-patch master --stdout > fix_empty_poster.patch
 </pre>
 
+* ** Create a patch out of a commit**
+```
+git show HEAD > some-patch0001.patch
+```
 
 http://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git
 
