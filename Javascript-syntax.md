@@ -1,6 +1,10 @@
 Tuto bien fait en Français, mais parle de toutes les différences avec le php, la portée des variables, fonctions...   
 http://braincracking.org/2011/11/16/javascript-3-fondamentaux/   
 
+* **FALSE is false**   
+FALSE is php code
+In javascript, we need to write false   
+
 * **var to define a variable with a local scope**   
 var i = 1; create the i variable and its value is only available the first time, it's set.
 More precisely, this variable has its value inside the function it has been created, and in the function this function is calling, but not before.   
