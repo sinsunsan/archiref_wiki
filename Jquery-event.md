@@ -10,10 +10,15 @@ http://api.jquery.com/focusout/
 Click on an element it mean    
 he click event is only triggered after this exact series of events:   
  The mouse button is depressed while the pointer is inside the element.   
- The mouse button is released while the pointer is inside the element.   
+ The mouse button is released while the pointer is inside the element. 
+  
+> The click event is sent to an element when the mouse pointer is over the element, and the mouse button is pressed and released. Any HTML element can receive this event.
+
 http://api.jquery.com/click/   
 
 * **mouse_down**   
 Like a click but more precisely when the mouse is on an element and the button is clicked. 
-(Wheras click event, need the button to be released on the element)
+(Wheras click event, do not need the button to be released on the element)
+
+> The mousedown event is sent when any mouse button is clicked.
 http://api.jquery.com/mousedown/
