@@ -42,11 +42,12 @@ git checkout rue89-page-header-autopromo.tpl.php
 
 ### Patch
 
-Créer un patch avec la différence entre les fichiers courants et une autre branche
-
+* **Create a patch out of the difference with other branch**
 <pre>
 git format-patch master --stdout > fix_empty_poster.patch
 </pre>
+
+
 http://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git
 
 ### Appliquer ce patch et autocommiter un commit du changement
