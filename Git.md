@@ -10,7 +10,8 @@ Référence de Adyax
 http://nvie.com/posts/a-successful-git-branching-model/
 http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
-
+### [[Git Patch]] Manage patch with git 
+### [[Git Log]] Browse git history
 
 **Branch, checkout**   
 
@@ -40,7 +41,7 @@ git checkout 9a8ea28cb27d60b9fa89c1ad0fc4cd2b9423368e rue89-page-header-autoprom
 git checkout rue89-page-header-autopromo.tpl.php
 </pre>
 
-### [[Git Patch]]
+
 
 ### Filtrer ses commits de la liste des commits
 <pre>
