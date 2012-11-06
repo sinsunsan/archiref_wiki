@@ -40,7 +40,7 @@ git checkout 9a8ea28cb27d60b9fa89c1ad0fc4cd2b9423368e rue89-page-header-autoprom
 git checkout rue89-page-header-autopromo.tpl.php
 </pre>
 
-### [Git Patch]
+### [[Git Patch]]
 
 ### Filtrer ses commits de la liste des commits
 <pre>
