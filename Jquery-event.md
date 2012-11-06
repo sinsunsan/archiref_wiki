@@ -24,4 +24,9 @@ Like a click but more precisely when the mouse is on an element and the button i
 http://api.jquery.com/mousedown/
 
 * **submit**   
+On form submission do something
 http://api.jquery.com/submit/
+
+* **trigger**   
+trigger an event on the given element
+http://api.jquery.com/trigger/
