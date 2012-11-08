@@ -1,3 +1,7 @@
+* **Setting up variables for use in a template (preprocess and process functions)**   
+http://drupal.org/node/223430
+
+
 ### View Preprocess view for drupal 6   
 http://evolvingweb.ca/story/theming-views-drupal-templates-and-preprocess-functions
 
