@@ -15,3 +15,10 @@ pagetypeinfo
 slabinfo   
 vmallocinfo   
 zoneinfo   
+
+
+* **How to know the state of the disk**  
+``` 
+sudo smartctl -a /dev/sda
+``` 
+
