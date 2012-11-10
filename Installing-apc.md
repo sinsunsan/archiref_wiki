@@ -13,8 +13,10 @@ pecl install apc
 // create a file for apc configuration in conf.d
 
 vim /etc/php5/apache2/conf.d
+```
 
 // Paste the following code
+```
 
 ;tweaks de la configuration d'aprés tuto 
 ; http://www.wikigento.com/optimisation-lampzendmagento/tuning-opcode-apc/
