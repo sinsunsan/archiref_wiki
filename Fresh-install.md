@@ -82,7 +82,7 @@ vim /etc/php5/apache2/php.ini
 crontab -e
 ```
 
-* **drupal**
+* **drupal**   
 Drush   
 http://drupal.org/project/drush   
 
