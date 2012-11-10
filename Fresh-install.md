@@ -78,11 +78,14 @@ vim /etc/php5/apache2/php.ini
 ```
 
 * **cron**   
-```crontab -e```
+```
+crontab -e
+```
 
 * **drupal**
 Drush   
 http://drupal.org/project/drush   
+
 ```
 // Drush (pear install) 
 pear channel-discover pear.drush.org
