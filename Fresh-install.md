@@ -18,7 +18,8 @@ sudo /etc/init.d/apache2 restart
 Activation of mod_rewrite    
 http://www.apache-mod-rewrite.fr/verification-installation-mod-rewrite
 ```
-
+ln -s /etc/apache2/mods-available/rewrite.load /etc/apache2/mods-enabled/rewrite.load
+service apache2 restart
 ```
 
 
