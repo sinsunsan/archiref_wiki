@@ -1,6 +1,6 @@
-### lamp stack 
+* **lamp stack**
 
-### common used executable
+* **common used executable**
 
 ```
 // Git version manager
@@ -10,11 +10,11 @@ apt-get install git
 apt-get install vim 
 ```
 
-### ssh keys access
+* **ssh keys access**
 
-### copy www and import db
+* **copy www and import db**
 
-### Memcache
+* **Memcache**
 
 http://www.lullabot.com/articles/installing-memcached-redhat-or-centos
 
