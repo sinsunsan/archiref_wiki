@@ -1,5 +1,6 @@
 # Linux
 
+* [[how to know hardware infos]]
 * [[sudo]]
 * [[shell]]
 * [[backup]]
