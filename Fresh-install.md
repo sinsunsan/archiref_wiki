@@ -29,4 +29,10 @@ apt-get install make
 
 // Install memcache through PECL
 pecl install memcache
+
+// Edit php.info 
+vim /etc/php5/apache2/php.ini
 ```
+
+* **cron**   
+```crontab -e```
