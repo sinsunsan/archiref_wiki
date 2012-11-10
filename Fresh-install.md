@@ -50,11 +50,9 @@ apt-get install smartmontools
 
 * **copy www and import db**
 
-* **Memcache && APC **
-
 * [[Installing APC]]
-* [[Installing memcache]]
 
+* [[Installing memcache]]
 
 * **PECL install**   
 
