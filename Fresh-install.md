@@ -3,7 +3,10 @@
 ### common used executable
 
 ```
+// Git version manager
 apt-get install git 
+
+// Vim command line text editor
 apt-get install vim 
 ```
 
