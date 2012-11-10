@@ -22,3 +22,6 @@ memcached -d -m 2048 -l 10.0.0.40 -p 11211
 /etc/init.d/apache2 restart
 
 ```
+
+/etc/init.d/memcached could be changed by Lullabot version     
+https://gist.github.com/4051996
