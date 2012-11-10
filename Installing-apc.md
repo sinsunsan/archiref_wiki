@@ -9,5 +9,14 @@ aptitude install libpcre3-dev
 pecl install apc
 
 
-
 ```
+
+add 
+extension=memcache.so
+to /etc/php5/apache/php.ini
+
+and
+```
+service apache2 restart
+```
+
