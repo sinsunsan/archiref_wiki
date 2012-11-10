@@ -14,7 +14,7 @@ sudo apt-get install php5-mcrypt
 sudo /etc/init.d/apache2 restart
 
 
-```
+`````
 
 Activation of mod_rewrite    
 http://www.apache-mod-rewrite.fr/verification-installation-mod-rewrite
@@ -22,6 +22,13 @@ http://www.apache-mod-rewrite.fr/verification-installation-mod-rewrite
 ln -s /etc/apache2/mods-available/rewrite.load /etc/apache2/mods-enabled/rewrite.load
 service apache2 restart
 ```
+
+Install Curl (facebook module drupal)
+```
+apt-get install php5-curl
+/etc/init.d/apache2 restart
+```
+
 
 
 * **common used executable**
