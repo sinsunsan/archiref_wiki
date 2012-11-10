@@ -89,5 +89,6 @@ http://drupal.org/project/drush
 ```
 // Drush (pear install) 
 pear channel-discover pear.drush.org
+pear install drush/drush
 
 ```
