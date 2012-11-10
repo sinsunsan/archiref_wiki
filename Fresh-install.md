@@ -44,6 +44,7 @@ chkconfig -s ssh on
 // Fix is simple, just to add symlink:
 ln -s /usr/lib/insserv/insserv /sbin/insserv
 
+// In the problem errors while trying to install memcache as a service
 ```
 
 * **PECL install**   
