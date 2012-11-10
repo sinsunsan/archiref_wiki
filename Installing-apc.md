@@ -7,15 +7,16 @@ aptitude install libpcre3-dev
 
 // Install APC
 pecl install apc
+```
 
 
 
-// create a file for apc configuration in conf.d
-
+create a file for apc configuration in conf.d
+```
 vim /etc/php5/apache2/conf.d
 ```
 
-// Paste the following code
+Paste the following code
 ```
 
 ;tweaks de la configuration d'aprés tuto 
