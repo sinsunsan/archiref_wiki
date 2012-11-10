@@ -6,7 +6,9 @@ cat /proc/meminfo
 
 Files in proc are virtual files that show updated infos when we ask it.
 
- buddyinfo   
+**Lists of files giving infos **
+
+buddyinfo   
 cpuinfo   
 meminfo   
 pagetypeinfo   
