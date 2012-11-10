@@ -27,6 +27,12 @@ apt-get install vim
 
 * **ssh keys access**
 
+* **enable smartd for disk monitoring**  
+
+```  
+apt-get install smartmontools
+```
+
 * **copy www and import db**
 
 * **Memcache**
