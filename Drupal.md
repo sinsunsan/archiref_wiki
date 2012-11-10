@@ -1,3 +1,5 @@
+* [[drupal installation]]
+
 ### Drupal APIS
 * [[drupal core]]
 * [[systeme / modules]] / How drupal interact with its modules
