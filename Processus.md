@@ -8,3 +8,9 @@ add a & at the end of the command like
 `sublime&`
 To open the sublime text editor
 But when the terminal shell (tab) is closed, the process launched is also closed
+
+* **chkconfig**   Manage services
+```
+// List all services and their current state    
+chkconfig
+```
