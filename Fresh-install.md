@@ -28,7 +28,7 @@ apt-get install vim
 * **ssh keys access**
 
 * **enable smartd for disk monitoring**  
-
+http://doc.ubuntu-fr.org/smartmontools   
 ```  
 apt-get install smartmontools
 ```
