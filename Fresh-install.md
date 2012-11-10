@@ -70,9 +70,8 @@ ln -s /usr/lib/insserv/insserv /sbin/insserv
 // In the problem errors while trying to install memcache as a service
 ```
 
-1. second attempt
+1. [[Installing memcache]]
 
-http://www.lullabot.com/articles/how-install-memcache-debian-etch
 
 * **PECL install**   
 
