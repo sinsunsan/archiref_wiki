@@ -34,6 +34,17 @@ apt-get install vim
 
 http://www.lullabot.com/articles/installing-memcached-redhat-or-centos
 
+// Installation fo chkconfig used in lullabot tuto
+apt-get install chkconfig
+
+http://loginroot.com/ubuntu-12-04-64bit-sbininsserv-no-such-file-or-directory/
+```
+chkconfig -s ssh on
+/sbin/insserv: No such file or directory
+
+// Fix is simple, just to add symlink:
+ln -s /usr/lib/insserv/insserv /sbin/insserv
+````
 * **PECL install**   
 
 ```
