@@ -1,5 +1,12 @@
 ### lamp stack 
 
+### common used executable
+
+```
+apt-get install git 
+apt-get install vim 
+```
+
 ### ssh keys access
 
 ### copy www and import db
