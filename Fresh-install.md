@@ -90,7 +90,7 @@ crontab -e
 ```
 
 * **bashr & vim**   
-https://github.com/sinsunsan/dotvim
+https://github.com/sinsunsan/dotvim   
 https://github.com/sinsunsan/bashrc
 
 * **drupal**   
