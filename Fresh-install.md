@@ -10,4 +10,7 @@ http://www.lullabot.com/articles/installing-memcached-redhat-or-centos
 
 * **PECL install**   
 
-```apt-get install php-pear```
+```
+apt-get install php-pear
+pecl install memcache
+```
