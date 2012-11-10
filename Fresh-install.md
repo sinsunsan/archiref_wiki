@@ -13,6 +13,7 @@ apt-get install phpmyadmin
 sudo apt-get install php5-mcrypt
 sudo /etc/init.d/apache2 restart
 
+
 ```
 
 Activation of mod_rewrite    
