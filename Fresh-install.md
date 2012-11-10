@@ -14,7 +14,6 @@ sudo apt-get install php5-mcrypt
 sudo /etc/init.d/apache2 restart
 
 
-
 ```
 * **common used executable**
 
@@ -44,7 +43,9 @@ chkconfig -s ssh on
 
 // Fix is simple, just to add symlink:
 ln -s /usr/lib/insserv/insserv /sbin/insserv
-````
+
+```
+
 * **PECL install**   
 
 ```
