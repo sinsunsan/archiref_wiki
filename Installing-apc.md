@@ -34,8 +34,10 @@ apc.shm_segments=3
 ;apc.shm_size=128
 ;Suite à première essai ou la mémoire était pleine on augmente
 apc.shm_size=256
+```
 
-// And restart apache
+And restart apache
+```
 service apache2 restart
 
 ```
