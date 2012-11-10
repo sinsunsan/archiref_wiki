@@ -52,6 +52,8 @@ apt-get install smartmontools
 
 * **Memcache**
 
+1. First attempt
+
 http://www.lullabot.com/articles/installing-memcached-redhat-or-centos
 
 // Installation fo chkconfig used in lullabot tuto
@@ -67,6 +69,10 @@ ln -s /usr/lib/insserv/insserv /sbin/insserv
 
 // In the problem errors while trying to install memcache as a service
 ```
+
+1. second attempt
+
+http://www.lullabot.com/articles/how-install-memcache-debian-etch
 
 * **PECL install**   
 
