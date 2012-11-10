@@ -89,6 +89,10 @@ vim /etc/php5/apache2/php.ini
 crontab -e
 ```
 
+* **bashr & vim**   
+https://github.com/sinsunsan/dotvim
+https://github.com/sinsunsan/bashrc
+
 * **drupal**   
 Drush   
 http://drupal.org/project/drush   
