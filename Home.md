@@ -4,6 +4,7 @@
 * [[drush]]
 
 ### admin sys
+* [[fresh install]]
 * [[Linux]]
 * [[ubuntu]]
 * [[Mysql]]
