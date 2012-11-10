@@ -8,7 +8,7 @@ sudo apt-get install apache2 php5 mysql-server libapache2-mod-php5 php5-mysql
 apt-get install phpmyadmin
 
 // Error when connecting 
-// Il manque l'extension mcrypt. Veuillez vérifier votre configuration PHP.
+// The mcrypt extension is missing. Please check your PHP configuration.
 ```
 * **common used executable**
 
