@@ -14,3 +14,9 @@ Embed a view in everything (blocks, node....)
 The relationship handler   
 http://api.drupal.org/api/views/handlers%21views_handler_relationship.inc/class/views_handler_relationship/6
 
+### code example
+
+* **use a view to list content in a autocomplete function**   
+
+
+
