@@ -17,7 +17,9 @@ http://api.drupal.org/api/views/handlers%21views_handler_relationship.inc/class/
 ### code example
 
 * **use a view to list content in a autocomplete function**   
-
 https://gist.github.com/4060035
 
+* **example of a simple view definition**   
+When reading it, it's very interesting, because all the view settings and nicely readable       
+https://gist.github.com/4060116
 
