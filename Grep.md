@@ -7,6 +7,9 @@ http://www.selectorweb.com/grep_tutorial.html
 Retrieve only the files in which the string is found whatever the number of instance in this file   
 ```grep -rl "my string```
 
+* **Files inside a specific dir**   
+```grep -r "autocomplete" sites/all/modules/nodequeue```   
+
 * **Exclude dir**   
 Chercher dans les fichiers mais pas dans les fichiers binaires (images...)   
 ```grep -rn "petite question" * --exclude-dir='files'```
