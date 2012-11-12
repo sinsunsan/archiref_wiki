@@ -18,5 +18,6 @@ http://api.drupal.org/api/views/handlers%21views_handler_relationship.inc/class/
 
 * **use a view to list content in a autocomplete function**   
 
+https://gist.github.com/4060035
 
 
