@@ -43,3 +43,4 @@ http://drupal.org/project/examples
 * [[how to render a page]]
 * [[debug technics]]
 * [[drupal step by step page loading]]
+* [[autocomplete]]
