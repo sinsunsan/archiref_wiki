@@ -22,3 +22,16 @@ function drupal_get_form($form_id) {
   return drupal_build_form($form_id, $form_state);
 }
 ```
+Useful to send to a function argument, without defining them
+```
+
+function foo() {
+  $args = func_get_args();
+return $args;
+}
+foo(1,2,3)
+
+//In this case return 
+array(1, 2, 3)
+
+```
