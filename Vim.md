@@ -46,7 +46,7 @@ zr Unfold locally
 This line will search and replace in all the current document    
  :%s/texte_à_trouver/nouveau_texte/g 
 
-* **copy all**   
+* **copy all, cut all**   
 ```
 // Go to the beggining of the file
 gg
