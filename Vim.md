@@ -46,6 +46,16 @@ zr Unfold locally
 This line will search and replace in all the current document    
  :%s/texte_à_trouver/nouveau_texte/g 
 
+* **copy all**   
+```
+// Go to the beggining of the file
+gg
+// Yank = copy (y) till the end of the file (G) 
+yG
+// Or cut (d) till the end of the file
+dG
+```
+
 
 * **Install vim extension**
 
