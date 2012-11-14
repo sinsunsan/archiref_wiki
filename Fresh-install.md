@@ -92,3 +92,5 @@ pear install drush/drush
 
 * **security**    
 http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
+
+* **[[add a user account]]**
