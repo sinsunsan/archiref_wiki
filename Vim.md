@@ -42,7 +42,7 @@ zm Fold locally
 zr Unfold locally
 </pre>
 
-* **search in vim**
+* **search and replace in vim**
 This line will search and replace in all the current document    
  :%s/texte_à_trouver/nouveau_texte/g 
 
