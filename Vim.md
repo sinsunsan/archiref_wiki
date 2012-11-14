@@ -10,7 +10,7 @@ http://vimcasts.org/
 Configuration de vim   
 https://github.com/astrails/dotvim/blob/master/README.markdown
 
-###  Numéros de ligne 
+* **Numéros de ligne** 
 
 Voir les numéros de ligne 
 *:set number*
@@ -18,7 +18,7 @@ Voir les numéros de ligne
 Ne plus voir les numéros de ligne 
 *:set nonumber*
 
-###  Décaler une section 
+* **Décaler une section**
 
 "
    > indent   
@@ -30,7 +30,7 @@ Pour décaler toute une section
 Faire v pour selection une grand portion de texte
 puis :> par exemple pour décaler d'une tab
 
-### Code folding in vim
+* **Code folding in vim**
 http://smartic.us/2009/04/06/code-folding-in-vim/
 <pre>
 :help folding Detailed help about folding
@@ -42,12 +42,12 @@ zm Fold locally
 zr Unfold locally
 </pre>
 
-### search in vim
+* **search in vim**
 This line will search and replace in all the current document    
  :%s/texte_à_trouver/nouveau_texte/g 
 
 
-### Install vim extension 
+* **Install vim extension**
 
 How to install   
 http://stackoverflow.com/questions/1639606/how-do-i-install-a-plugin-for-vim
