@@ -1,6 +1,6 @@
 * **mix of print_r and d custom function that add a die and other stuff**
 The behavior is different than dpm because it's printed on the script page and not on the following one. 
-
+the d() function is here https://gist.github.com/4060502
 
 Lister tous les hook appelé par drupal 
 dans drupal 7
@@ -35,6 +35,10 @@ Display the permission string return FALSE
 ```
 if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
 ```
+
+* ** How to know a template is being used**
+Just place a d('are you in used');
+If it's in used, a white screen will show with this message 
 
 * **Recursion in not the end dpm**   
 When using devel, it occure that a element is shown as recursion. 
