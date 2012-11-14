@@ -8,4 +8,8 @@ useradd -m slucas
 Edit sudoers to add this user right to sudo 
 https://help.ubuntu.com/community/Sudoers
 
-Add it to the admin group
+// Create the admin group (refered in the default sudoers file
+groupadd admin
+
+// Add slucas to the admin group
+usermod -a -G admin slucas
