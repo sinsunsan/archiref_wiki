@@ -53,3 +53,8 @@ to see what's inside
 
 * **Difference between debuging function in php** var_dump , var_export , print_r   
 http://stackoverflow.com/questions/5039431/difference-between-var-dump-var-export-print-r
+
+* **Output all defined variables**   
+When in a template and we don't know which variables are defined in this context, we can use a php function 
+**get_defined_vars** 
+http://php.net/manual/en/function.get-defined-vars.php
