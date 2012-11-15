@@ -1,5 +1,6 @@
 * [[Regular expression]]
 * [[Functions php]]
+* [[Functions php string]]
 * [[Functions php - array]]
 * [[Functions php - functions]]
 * [[Structures conditionnelles]]
