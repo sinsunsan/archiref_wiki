@@ -36,7 +36,7 @@ Display the permission string return FALSE
 if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
 ```
 
-* ** How to know a template is being used**
+* **How to know a template is being used**
 Just place a d('are you in used');
 If it's in used, a white screen will show with this message 
 
@@ -58,3 +58,6 @@ http://stackoverflow.com/questions/5039431/difference-between-var-dump-var-expor
 When in a template and we don't know which variables are defined in this context, we can use a php function 
 **get_defined_vars** 
 http://php.net/manual/en/function.get-defined-vars.php
+
+* **debug an auto complete**   
+An autocomplete don't retrieve node's title we expected, just change it to select list to see what's are available choices
