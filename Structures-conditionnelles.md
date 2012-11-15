@@ -10,6 +10,7 @@ if (isset($node->field_taxonomy_minor) && $node->field_taxonomy_minor){
 
 Exemple de codes
 
+In the two following example the variable is tested and assigned if it exists
 <pre>
 $replacements[$original] = $sanitize ? check_plain($text) : $text;
 </pre>
