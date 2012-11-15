@@ -6,10 +6,6 @@ Convert special characters '" & ... into their html entities equivalent
 http://php.net/manual/en/function.html-entity-decode.php   
 The contrary of htmlentities, remove unwanted &quot;walk&quot; the &lt;b&gt;dog&lt;
 
-### strstr
-http://php.net/manual/en/function.strstr.php   
-Chercher un bout de chaine dans une chaine 
-
 ### microtime
 http://php.net/manual/fr/function.microtime.php   
 Afficher un timestamp
