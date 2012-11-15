@@ -1,5 +1,4 @@
 
-
 This font-face definition, create a new familly InterstateBlack which is using different font file depending of the platform
 ```
 @font-face {
@@ -13,3 +12,6 @@ This font-face definition, create a new familly InterstateBlack which is using d
     font-style: normal;
 }
 ```
+
+The font squirel site http://www.fontsquirrel.com/ 
+have a generator to convert police to those format, and a collection of free commercial use fonts
