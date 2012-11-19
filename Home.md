@@ -1,5 +1,5 @@
 ### Drupal
-
+* [[debug technics]]
 * [[Drupal]]
 * [[drush]]
 
