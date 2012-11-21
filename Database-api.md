@@ -5,7 +5,7 @@ Drupal 7 introduce a new abstraction layer that allow to make a query to differe
 All syntax are explaines in this page :   
 http://drupal.org/node/310075
 
-Exemples
+**Exemples**
 <pre> 
   $query = db_select('unitag', 'u');
   $query->leftJoin('node', 'n', 'u.nid = n.nid');
