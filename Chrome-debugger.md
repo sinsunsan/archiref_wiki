@@ -9,5 +9,5 @@ Options at the bottom
 
 ### Network 
 
-Network are logged only if a page is loaded when the network tab is active. 
+Network are logged only if a page is loaded when the network tab is active.     
 It load all http request included ajax call and ajax retrieved js 
