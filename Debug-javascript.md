@@ -38,5 +38,9 @@ alert("my debug2");
 ...   
 Every time you change the code, to be sure the latest code is evaluated   
 
-* **user mozilla add on**   
+* **use mozilla add on**   
 https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger/
+
+* **chrome debug**   
+Add breakpoint to know the state of variables at a given point in code
+https://developers.google.com/chrome-developer-tools/docs/scripts-breakpoints
