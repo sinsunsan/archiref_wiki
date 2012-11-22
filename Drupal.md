@@ -4,6 +4,7 @@
 * [[drupal core]]
 * [[systeme / modules]] / How drupal interact with its modules
 * [[hook api]] / How modules can modify everything in drupal when a hook is implemented
+* [[batch api]] / How to make process in batch
 * [[database api]] / interact with the database
 * [[field api]] / Store you data in fields
 * [[node api]] / Node is an entity but a special one
