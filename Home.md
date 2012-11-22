@@ -1,4 +1,5 @@
 ### Drupal
+* [[chrome debugger]]
 * [[debug technics]]
 * [[Drupal]]
 * [[drush]]
