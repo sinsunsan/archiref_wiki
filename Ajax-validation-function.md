@@ -1,6 +1,5 @@
-* **Elements of ajax validation**
+* **Elements of ajax validation**   
 See http://drupalconnect.com/blog/drupal-ajax-form-validation
-
 
 * a form define in the .module
 * in this form definition, drupal_add_js to add the validation javascript
