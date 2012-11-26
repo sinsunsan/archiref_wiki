@@ -3,7 +3,7 @@ http://api.jquery.com/attr/
 Get or set html atributes 
 ```
 // Set the value of a input button
-<input type=​"submit" id=​"edit-next" name=​"op" value=​"Étape suivante" class=​"form-submit ajax-processed" style>​Next​</input>​
+<input type=​"submit" value=​"Étape suivante">​Next​</input>​
 
 $('#edit-next').attr('value', 'ceci est le bouton submit');
 ```
