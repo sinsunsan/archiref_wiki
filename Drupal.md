@@ -32,6 +32,7 @@
 ### Javascript and Ajax
 * [[drupal and javascript]]
 * [[drupal and ajax]]
+* [[ajax validation function]]
 
 ### Ressources
 * **Example module** provide good example of modules that implement different hooks
