@@ -22,6 +22,7 @@ $form['actions']['next'] = array(
     'wrapper' => 'modal_content',
     // callback function used after the ajax request has return a result
     'callback' => 'rue89_platform_users_ajax_user_register_callback',
+    // Progress throbber settings (in this case hidden)
     'progress' => array('type' => 'hidden'),
     // url to be called in ajax
     'path' => 'system/ajax/rue89/user/register'
