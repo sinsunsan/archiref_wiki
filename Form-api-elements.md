@@ -12,4 +12,21 @@ $form['#action'] = check_plain(request_uri());
 * **#ajax**   
 Make an ajax call to replace an existing element    
 http://api.drupal.org/api/drupal/includes--ajax.inc/group/ajax
+
+
+```
+$form['actions']['next'] = array(
+  '#type' => 'submit',
+  '#value' => t('Next step'),
+  '#ajax' => array(
+    'wrapper' => 'modal_content',
+    // callback function used after the ajax request has return a result
+    'callback' => 'rue89_platform_users_ajax_user_register_callback',
+    'progress' => array('type' => 'hidden'),
+    // url to be called in ajax
+    'path' => 'system/ajax/rue89/user/register'
+  ),
+);
+```
+
   
