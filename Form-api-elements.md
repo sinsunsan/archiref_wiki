@@ -30,4 +30,7 @@ $form['actions']['next'] = array(
 );
 ```
 
+* **actions**   
+Wrapper element for actions and buttons   
+http://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7#actions
   
