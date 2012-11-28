@@ -1,3 +1,7 @@
+* **top**   
+See process that use most ressources. View updated dinamically. 
+To kill on process don't need to exit top, but just type k
+
 * **killall**   
 Allow to kill all the process by name   
 `killall chrome`
