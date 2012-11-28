@@ -1,6 +1,8 @@
 ### Script 
 
-Allow to list all js script.    
+Allow to list all js script.   
+First use source tab to see only js script loaded from your domain and other domains. 
+ 
 Options at the bottom    
 **beautyfier** : indent javascript code to increase readability    
 **pause on exception** : if there is an error pause.    
