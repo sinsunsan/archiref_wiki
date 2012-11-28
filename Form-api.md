@@ -1,5 +1,5 @@
 * **[[Form API Elements]]**
-* **[[Form API functions]]
+* **[[Form API functions]]**
 * **[[Form API changes d6>d7]]**
 * **[[How variables are saved ?]]**
 * **[[Validation function]]**
