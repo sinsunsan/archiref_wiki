@@ -35,6 +35,9 @@ Return an renderable array of the given field
 * [[customize user register page]]
 
 ### Liens 
+* **override core or contributed module css**      
+No need to write ani css rules, create a css file with the same name as the original css file to override and declare it in .info file of your theme   
+http://drupal.org/node/263967 
 
 * Using the theme layer    
 http://drupal.org/node/933976
