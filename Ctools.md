@@ -1,6 +1,6 @@
 ### Ctools parts 
 
-* **[[ctools modal popup]]* : allow to make modal popup
+* **[[ctools modal popup]]** : allow to make modal popup
 ctools/include/modal.inc
 
 
