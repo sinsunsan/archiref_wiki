@@ -32,6 +32,7 @@
 * [[sass]]
 * [[html]]
 * [[html5]]
+* [[responsive design]]
 
 ### Others
 * [[RSS]]
