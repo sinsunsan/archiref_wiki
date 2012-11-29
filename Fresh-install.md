@@ -89,6 +89,8 @@ pear channel-discover pear.drush.org
 pear install drush/drush
 
 ```
+If the system don't know about drush make a symlink between it's current location ans /usr/local/bin, it means drush must be a symlink as 
+/usr/local/bin/drush linking to its actual location (home folder, or elsewhere)
 
 * **security**    
 http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
