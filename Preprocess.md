@@ -5,6 +5,16 @@ http://drupal.org/node/223430
 * **View Preprocess view for drupal 6**      
 http://evolvingweb.ca/story/theming-views-drupal-templates-and-preprocess-functions
 
+* **example of preprocess naming convention**   
+Formula  : moduleName_preprofunction rue89_platform_users_preprocess_rue89_activity(&$vars)cess_hook
+**Name of the function** : 
+function rue89_platform_users_preprocess_rue89_activity(&$vars)
+**Name of the module** : 
+rue89_platform_users
+**Name of the template in which the preproccessed variables are available** : 
+rue89-activity-article.tpl.php
+
+
 ### View proprocess drupal 7
 Preprocess has changed for drupal 7
 For view preprocessing, it has special issue describe in this post 
