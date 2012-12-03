@@ -20,3 +20,4 @@ show collections
 db.user_activity.find({"event_type" : "node_published" });
 
 // More complex query, two conditions 
+```
