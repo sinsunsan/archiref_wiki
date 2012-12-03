@@ -26,9 +26,8 @@ memcached -d -m 2048 -l 10.0.0.40 -p 11211
 
 ```
 
-* Install a script that start and restart memcache on reboot 
-/etc/init.d/memcached could be changed by Lullabot version     
-https://gist.github.com/4051996
+* Copy this script that start and restart memcache on reboot   
+https://gist.github.com/4051996 to be put in /etc/init.d/memcached     
 
 * Install memcache module 
 http://drupal.org/project/memcache
