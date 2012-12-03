@@ -1,4 +1,5 @@
-http://blog.loicg.net/how-to/installation-memcached-ubuntu-server/
+http://blog.loicg.net/how-to/installation-memcached-ubuntu-server/   
+http://www.lullabot.com/articles/installing-memcached-redhat-or-centos
 
 * Install memcache
 
