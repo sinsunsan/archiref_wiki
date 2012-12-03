@@ -1,5 +1,7 @@
 http://blog.loicg.net/how-to/installation-memcached-ubuntu-server/
 
+* Install memcached
+
 ```
 // Pour procéder à l’installation de memcached (une version de memcache), nous allons installer les packages suivants :
 // memcached (le principal intéressé ^^)
@@ -23,5 +25,13 @@ memcached -d -m 2048 -l 10.0.0.40 -p 11211
 
 ```
 
+* Install a script that start and restart memcached on reboot 
+
 /etc/init.d/memcached could be changed by Lullabot version     
 https://gist.github.com/4051996
+
+* Install memcache module 
+http://drupal.org/project/memcache
+
+* Put config in settings.php (when memcache module is installed)
+https://gist.github.com/4194356
