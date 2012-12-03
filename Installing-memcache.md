@@ -29,8 +29,9 @@ memcached -d -m 2048 -l 10.0.0.40 -p 11211
 * Copy this script that start and restart memcache on reboot   
 https://gist.github.com/4051996 to be put in /etc/init.d/memcached     
 
-* Install memcache module 
+* Install drupal memcache module 
 http://drupal.org/project/memcache
 
-* Put config in settings.php (when memcache module is installed)
+* Put config in settings.php of the drupal site 
+(when memcache module is installed)   
 https://gist.github.com/4194356
