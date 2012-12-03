@@ -26,8 +26,7 @@ memcached -d -m 2048 -l 10.0.0.40 -p 11211
 
 ```
 
-* Install a script that start and restart memcached on reboot 
-
+* Install a script that start and restart memcache on reboot 
 /etc/init.d/memcached could be changed by Lullabot version     
 https://gist.github.com/4051996
 
