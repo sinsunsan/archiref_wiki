@@ -23,4 +23,8 @@ db.user_activity.find({"event_type" : "node_published" });
 // Note that data.node_type is a sub object of data
 db.user_activity.find({ $and: [{"event_type" : "node_published" } , {"data.node_type" : "article"}]});
 
+// All published node of type q_r authored by user 1
+db.user_activity.find({ $and: [{"event_type" : "node_published" } , {"data.node_type" : "q_r"}, {"involved_users" : 1 }]});
+
+
 ```
