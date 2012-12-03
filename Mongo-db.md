@@ -1,0 +1,4 @@
+Connect to mongo
+```
+mongo
+```
