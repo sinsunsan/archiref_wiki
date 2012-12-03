@@ -8,12 +8,14 @@
 * [[fresh install]]
 * [[Linux]]
 * [[ubuntu]]
-* [[Mysql]]
 * [[script bash]]
 * [[vim]]
 * [[apache]]
 * [[ec2 amazon]]
 * [[mails]]
+
+### database
+* [[Mysql]]
 
 ### Version manager
 * [[git]]
