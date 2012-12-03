@@ -1,6 +1,6 @@
 http://blog.loicg.net/how-to/installation-memcached-ubuntu-server/
 
-* Install memcached
+* Install memcache
 
 ```
 // Pour procéder à l’installation de memcached (une version de memcache), nous allons installer les packages suivants :
