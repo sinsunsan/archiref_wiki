@@ -14,8 +14,9 @@
 * [[ec2 amazon]]
 * [[mails]]
 
-### database
+### Database
 * [[Mysql]]
+* [[mongo db]]
 
 ### Version manager
 * [[git]]
