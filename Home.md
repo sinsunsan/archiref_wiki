@@ -9,10 +9,13 @@
 * [[Linux]]
 * [[ubuntu]]
 * [[script bash]]
-* [[vim]]
 * [[apache]]
 * [[ec2 amazon]]
 * [[mails]]
+
+### Text editor
+* [[vim]]
+* [[sublime]]
 
 ### Database
 * [[Mysql]]
