@@ -3,9 +3,9 @@ Reference site http://docs.mongodb.org/
 ### Terminology 
 
 **Mongo**       MYSQL   
-**Document**    Row   
-**Collection**  Table   
-**Database**    Database   
+**Document**  =  Row   
+**Collection** = Table   
+**Database**  =  Database   
 
 
 ### Connect and database select
