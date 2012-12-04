@@ -1,5 +1,13 @@
 Reference site http://docs.mongodb.org/
 
+### Terminology 
+
+Mongo       MYSQL
+Document    Row
+Collection  Table
+Database    Database
+
+
 ### Connect and database select
 ```
 // Connect to mongo
@@ -14,7 +22,7 @@ use databaseName
 // Show collections (equivalent of tables in mysql)
 show collections
 ```
-
+### Querying
 ```
 // Simple query, all result with a specific field value 
 db.user_activity.find({"event_type" : "node_published" });
@@ -26,5 +34,7 @@ db.user_activity.find({ $and: [{"event_type" : "node_published" } , {"data.node_
 // All published node of type q_r authored by user 1
 db.user_activity.find({ $and: [{"event_type" : "node_published" } , {"data.node_type" : "q_r"}, {"involved_users" : 1 }]});
 
-
 ```
+
+### Update 
+http://docs.mongodb.org/manual/applications/update/
