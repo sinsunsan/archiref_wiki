@@ -38,3 +38,6 @@ db.user_activity.find({ $and: [{"event_type" : "node_published" } , {"data.node_
 
 ### Update 
 http://docs.mongodb.org/manual/applications/update/
+
+// Modify status field in a entity with id 23715
+db.user_activity.update({ "entity_id" : 237515 } , { $set : {"status" : 1}});
