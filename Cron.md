@@ -6,6 +6,9 @@ Could be :
 * the cron daemon isn't working
 * There is no line break at the end of the crontab file (weird error, note sure it's still important)
 
+* Mail the result of the cron    
+0 7 * * *  /home/user/backup/travail/synchro.sh | mail 'synchro prod89' mymail@gmail.com
+
 
 ### Tuto
 
