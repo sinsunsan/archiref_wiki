@@ -1,12 +1,17 @@
 ### TUTO Javascript
-
 http://braincracking.org/2011/11/16/javascript-3-fondamentaux/
 
-### Ressources
+Javascript API by Mozilla   
+https://developer.mozilla.org/en-US/docs/JavaScript/Reference
+
+### API
+* [[javascript operator]]
+* [[Javascript method]]
+
+### Other Ressources
 * [[Javascript syntax]]
 * [[javascript replace]]
 * [[RegExp : regular expression]]
 * [[Drupal and javascript]]
-* [[Javascript method]]
 * [[Debug javascript]]
 * [[Form & javascript]]
