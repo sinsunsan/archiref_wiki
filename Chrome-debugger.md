@@ -8,11 +8,11 @@ Options at the bottom
 **pause on exception** : if there is an error pause.    
 **Console** : write a javascript code in console   
 
-Right panel, the step by step debugger toogle a right arrow to activate all break point or descativate all break points
+* Right panel, the step by step debugger toogle a right arrow to activate all break point or descativate all break points
 
 ### Network 
 
 Network are logged only if a page is loaded when the network tab is active.     
 It load all http request included ajax call and ajax retrieved js 
 
-The "sens interdit" button allow to clear all logged file for example, when after an ajax call, news request has been made. 
+* The "sens interdit" button allow to clear all logged file for example, when after an ajax call, news request has been made. 
