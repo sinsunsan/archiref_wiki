@@ -5,6 +5,7 @@ Javascript API by Mozilla
 https://developer.mozilla.org/en-US/docs/JavaScript/Reference
 
 ### API
+* [[javascript objects]]
 * [[javascript operator]]
 * [[Javascript method]]
 
