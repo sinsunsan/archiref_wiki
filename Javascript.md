@@ -7,6 +7,7 @@ https://developer.mozilla.org/en-US/docs/JavaScript/Reference
 ### API
 * [[javascript objects]]
 * [[javascript operator]]
+* [[javascript string methods]]
 * [[Javascript method]]
 
 ### Other Ressources
