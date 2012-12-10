@@ -6,7 +6,8 @@ http://www.homeandlearn.co.uk/php/php10p3.html
 Examples :    
 https://gist.github.com/4250723
 
-> > Mode	Meaning
+```
+Mode	Meaning
  	r	Use this to read a file only. The pointer is set to the start of the file.
  	r+	Use this to read and write to a file. The pointer is set to the start of the file.
  	w	Use this to write to a file only. It will erase the entire contents of the file you have open. If no file exists with your chosen name, then it will create one for you
@@ -17,3 +18,4 @@ https://gist.github.com/4250723
  	x+	Same as x but with read access as well.
  	t	In Windows, a line break is \r\n. The t converts \n line breaks created on other Operating Systems so that they are readable with Windows
  	b	Force PHP to open the file in binary mode.
+```
