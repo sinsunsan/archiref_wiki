@@ -11,5 +11,5 @@ When the module define a hook , it need to illustrated it's usage by creating a 
 Like this one for menu attributes module https://gist.github.com/3705693
 
 * **hook_install**   
-When to do at the module install time. If the module manage a table, it'll impement here 
+When to do at the module install time. If the module manage a table, it'll implement here 
 [drupal_install_schema](http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_install_schema/7)
