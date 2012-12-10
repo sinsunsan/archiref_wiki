@@ -2,5 +2,6 @@
 * [[Functions php]]
 * [[Functions php string]]
 * [[Functions php - array]]
+* [[Functions php -files]]
 * [[Functions php - functions]]
 * [[Structures conditionnelles]]
