@@ -2,8 +2,11 @@
 
 Drupal 7 introduce a new abstraction layer that allow to make a query to different types of database 
 
-All syntax are explaines in this page :   
+All syntax are explained in this page :   
 http://drupal.org/node/310075
+
+Liste of database related API function   
+http://drupal.org/node/150223
 
 **Exemples**
 <pre> 
