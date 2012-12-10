@@ -1,5 +1,7 @@
 ## Mysql
 
+* **Mysql data types**
+
 ### Liens Tuto 
 http://www.pantz.org/software/mysql/mysqlcommands.html 
 
