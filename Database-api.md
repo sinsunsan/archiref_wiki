@@ -12,3 +12,8 @@ http://drupal.org/node/310075
   $query->fields('u', array('utid', 'nid', 'vid', 'field', 'name', 'basename'))  ;
   $result = $query->execute();
 </pre>
+
+* **drupal_install_schema**   
+http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_install_schema/7   
+Install the databse defined by a hook_schema
+  
