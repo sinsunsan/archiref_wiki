@@ -20,3 +20,9 @@ Mode	Meaning
  	t	In Windows, a line break is \r\n. The t converts \n line breaks created on other Operating Systems so that they are readable with Windows
  	b	Force PHP to open the file in binary mode.
 ```
+
+* **fgetcvs**   
+http://php.net/manual/en/function.fgetcsv.php   
+Parser for csv file 
+See example   
+http://www.johnboy.com/scripts/import-csv-file-with-php-mysql/import.phps
