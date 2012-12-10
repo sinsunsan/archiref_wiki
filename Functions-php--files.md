@@ -6,6 +6,7 @@ http://www.homeandlearn.co.uk/php/php10p3.html
 Examples :    
 https://gist.github.com/4250723
 
+Mode of opening
 ```
 Mode	Meaning
  	r	Use this to read a file only. The pointer is set to the start of the file.
