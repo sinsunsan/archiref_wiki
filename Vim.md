@@ -56,6 +56,10 @@ yG
 // Or cut (d) till the end of the file
 dG
 ```
+* **code indenting bug**   
+There is sometimes a identing bug when copying code from editors. 
+It happen to me with .sh files, try to create the file without extension, and to rename it after. 
+
 
 
 * **Install vim extension**
