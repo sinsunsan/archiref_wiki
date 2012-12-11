@@ -18,5 +18,11 @@ http://drupal.org/node/150223
 
 * **drupal_install_schema**   
 http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_install_schema/7   
-Install the databse defined by a hook_schema
+Install the database defined by a hook_schema
+
+
+* **hook_schema**   
+http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_schema/7   
+Hook schema allow to define a schema for a given module. 
+When using drupal_install_schema and drupal_get_schema_unprocessed we get the module schema, it means all the database tables that could be defined here. We don't call a specific table definition.
   
