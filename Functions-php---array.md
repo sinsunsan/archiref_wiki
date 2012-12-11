@@ -42,3 +42,7 @@ array(
 * **array_intersect_keys**   
 http://php.net/manual/en/function.array-intersect-key.php   
 Interest two array with key as comparison => keep in the resulting array only the keys that have a key in common
+
+* **array_unique**   
+http://php.net/manual/en/function.array-unique.php   
+Allow to remove duplicate value in an array, keep the first occurence. 
