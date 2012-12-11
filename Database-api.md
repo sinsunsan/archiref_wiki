@@ -8,7 +8,8 @@ http://drupal.org/node/310075
 Liste of database related API function   
 http://drupal.org/node/150223
 
-Schema API to define the array that describe the schema of the database
+Schema API to define the array that describe the schema of the database    
+http://api.drupal.org/api/drupal/includes%21database%21schema.inc/group/schemaapi/7
 
 **Exemples**
 <pre> 
