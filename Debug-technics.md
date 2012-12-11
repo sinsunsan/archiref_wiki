@@ -61,3 +61,8 @@ http://php.net/manual/en/function.get-defined-vars.php
 
 * **debug an auto complete**   
 An autocomplete don't retrieve node's title we expected, just change it to select list to see what's are available choices
+
+* **debug the creation of a db schema**    
+The schema is installed only for the first installation of a module. 
+So If it does'nt pass the first time, it's necessary to disable + install the module 
+And then reinstall it. A trick could be to call drupal_install_schema function from a hook init so you can debug database installation without doing those boring steps
