@@ -4,6 +4,7 @@
 * [[sudo]]
 * [[shell]]
 * [[backup]]
+* [[sftp]]
 * [[processus]]
 * [[package]] The programs installed in the system
 * [[files]]
