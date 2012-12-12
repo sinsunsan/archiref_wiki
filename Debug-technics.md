@@ -66,3 +66,7 @@ An autocomplete don't retrieve node's title we expected, just change it to selec
 The schema is installed only for the first installation of a module. 
 So If it does'nt pass the first time, it's necessary to disable + install the module 
 And then reinstall it. A trick could be to call drupal_install_schema function from a hook init so you can debug database installation without doing those boring steps
+
+* **know that a function pass by there**    
+put small message output with d() function that break execution
+https://gist.github.com/4060502 
