@@ -11,8 +11,15 @@ $("#rue89-register-status-status")
           .html(Drupal.settings.statusCheck.progress);
 ```
 
+* **How to know which version of jquery is used in a site**
+```
+// Returns string Ex: "1.3.1"
+$().jquery;
+
+// Also returns string Ex: "1.3.1"
+jQuery.fn.jquery;
+```
 * **ajax**   
 Make an ajax call with jquery   
 http://api.jquery.com/jQuery.ajax/
-
 
