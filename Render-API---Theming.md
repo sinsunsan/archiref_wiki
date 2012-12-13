@@ -2,6 +2,17 @@
 
 * Slides on d7 render API http://fr.slideshare.net/frandoh/the-render-api-in-drupal-7
 
+* **Pass variable to the theme function**
+
+It could be passed in different function 
+In the hook_implementation (if you already know the value of the function)   
+```
+function rue89_conjugueur_theme() {
+  return array(
+    'rue89_conjugueur' => array('variable' => 'my value'),
+  );
+}
+```
 ### API
 
 * **theme function**   
@@ -13,7 +24,7 @@ There is two way to render, theme function of template. If the render will be ma
 
 * **hook_theme**   
 http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_theme/7   
-Main hook to define how a renderable array are going to be rendered
+Main hook to define how a renderable array are going to be rendered. 
 
 * **drupal_render**   
 http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_render/7   
