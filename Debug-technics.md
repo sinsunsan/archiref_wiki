@@ -73,3 +73,8 @@ https://gist.github.com/4060502
 
 * **Debug the SQL query drupal is actually doing after all the abastraction layers has been passed**   
 Set the devel module to display the queries and find yours
+Easier 
+```
+$result = db_query("SELECT 'name' from {taxonomy_term_data} WHERE 'tid' IN (" . implode(',' , $tid) . ")");
+dpm($result);
+```
