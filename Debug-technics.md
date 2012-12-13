@@ -70,3 +70,6 @@ And then reinstall it. A trick could be to call drupal_install_schema function f
 * **know that a function pass by there**    
 put small message output with d() function that break execution
 https://gist.github.com/4060502 
+
+* **Debug the SQL query drupal is actually doing after all the abastraction layers has been passed**   
+Set the devel module to display the queries and find yours
