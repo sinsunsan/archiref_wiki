@@ -77,4 +77,6 @@ Easier
 ```
 $result = db_query("SELECT 'name' from {taxonomy_term_data} WHERE 'tid' IN (" . implode(',' , $tid) . ")");
 dpm($result);
+// Will show
+SELECT 'name' from taxonomy_term_data WHERE 'tid' IN (8,1635,105654,3988,170)
 ```
