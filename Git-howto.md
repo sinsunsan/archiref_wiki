@@ -343,6 +343,6 @@ PS1="${debian_chroot:+($debian_chroot)}:\[\033[00;36m\]\w\[\033[00m\]\$(parse_gi
 
 h1. Docs
 
-[[GIT conventions|GIT conventions from Adyax]]
+[[GIT conventions]]
 
 [[sysadmin:GIT|GIT generic howto]]
