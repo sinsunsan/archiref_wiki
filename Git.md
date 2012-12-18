@@ -104,3 +104,9 @@ Will restore the state of file as it was at this commit.
 ### Remove a commit in a remote repository( like github)
 
 ```git push -f origin HEAD^:master```
+
+### Restore a file on another branch : We pipe the result of  git show
+
+```
+git show master:files.php > files.php
+```
