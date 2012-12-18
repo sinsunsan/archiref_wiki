@@ -1,7 +1,5 @@
 # Linux
-
-
-### search 
+### Search 
 * [[grep]] Rechercher les chaînes dans les fichiers
 * [[sed]] Rechercher / remplacer dans des chaines
 * [[find]] Recherche les fichiers
