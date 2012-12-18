@@ -1,5 +1,8 @@
 ```
-SELECT * FROM flickrsync_users LIMIT 0,10;
+
+mysql> show tables;
+
+mysql> SELECT * FROM flickrsync_users LIMIT 0,10;
 
 +-----+--------------+-------------------+------------+---------------------+
 | uid | nsid         | identifier        | start_date | tags                |
@@ -14,5 +17,4 @@ SELECT * FROM flickrsync_users LIMIT 0,10;
 +-----+--------------+-------------------+------------+---------------------+
 
 ```
-
 
