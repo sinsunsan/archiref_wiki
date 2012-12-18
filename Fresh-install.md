@@ -96,3 +96,5 @@ If the system don't know about drush make a symlink between it's current locatio
 http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
 
 * **[[add a user account]]**
+
+* [[Bash not sourced problem]]
