@@ -1,5 +1,8 @@
 ## Liens 
 
+Make fuzzy search with **agrep** 
+http://www.commandlinefu.com/commands/view/9778/approximate-grep-for-finding-typos
+
 http://www.selectorweb.com/grep_tutorial.html
 ## Cas pratiques
 
