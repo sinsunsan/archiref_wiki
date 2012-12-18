@@ -1,6 +1,7 @@
 ## Mysql
 
 * **[[Mysql data types]]**
+* **[[Mysql command examples]]**
 
 ### Liens Tuto 
 http://www.pantz.org/software/mysql/mysqlcommands.html 
@@ -54,7 +55,7 @@ mysqldump -u UTILISATEUR -p MOTDEPASSE BASEDEDONNEES < backup041118.sql
 Avec la commande mysql essayé marche
  
 <code>
-mysql -h localhost -u sqledi -p test1 < EdiPublicit-2012-01-05T17-00-08.mysql
+mysql -h localhost -u sqledi -p password < EdiPublicit-2012-01-05T17-00-08.mysql
 </code>
 
 
