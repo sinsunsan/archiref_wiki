@@ -1,18 +1,29 @@
 # Linux
 
-* [[how to know hardware infos]]
-* [[sudo]]
-* [[shell]]
-* [[backup]]
-* [[sftp]]
-* [[processus]]
-* [[package]] The programs installed in the system
-* [[files]]
-* [[find]] Recherche les fichiers
+
+### search 
 * [[grep]] Rechercher les chaînes dans les fichiers
 * [[sed]] Rechercher / remplacer dans des chaines
-* [[commandes executables]]
-* [[manage users]]
-* [[$PATH]]
+* [[find]] Recherche les fichiers
+
+### Transfer, Synchronise
 * [[rsync]]
+* [[sftp]]
+* [[backup]]
+
+### Execute
 * [[cron]] / Execute task automatically (backup,...)
+* [[processus]]
+* [[sudo]]
+* [[commandes executables]]
+* [[$PATH]]
+* [[package]] The programs installed in the system
+
+### Permissions and users
+* [[manage users]]
+
+
+### Shell, Bash
+* [[how to know hardware infos]]
+* [[shell]]
+* [[files]]
