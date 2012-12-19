@@ -45,5 +45,6 @@ http://drupal.org/project/examples
 * [[migration drupal 6 > drupal 7]]
 * [[how to render a page]]
 * [[debug technics]]
+* [[hook_update]]
 * [[drupal step by step page loading]]
 * [[autocomplete]]
