@@ -1,0 +1,3 @@
+Hook update is a way to update the database or contents....
+
+Example of a hook_update to update the value of a batch of node 
