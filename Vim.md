@@ -62,7 +62,7 @@ It happen to me with .sh files, try to create the file without extension, and to
 
 Solved: it's due to a special mode in vim, there is two modes :nopaste the normal mode and :setpaste the special mode. In normal mode vim try to preserve the correct indentation and it get lost. In this mode, use the visual mode with v and type = to reindent correctly. 
 
-To have the original identation of the chunk being paste type :setpaste
+To have the original identation of the chunk being paste type :set paste
 
 
 * **Install vim extension**
