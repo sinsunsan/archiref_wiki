@@ -21,6 +21,7 @@ function rue89_qr_menu() {
 ### Batch definition and call
 
 ```
+<?php
 /**
  * Batch # rue89_qr_batch_qr_update_statuses : 
  */
