@@ -2,6 +2,7 @@ http://api.drupal.org/api/drupal/includes%21form.inc/group/batch/7
 
 Example of settings a batch to update a type of node 
 ``` php
+<?php 
 /**
  * Implements hook_menu().
  */
