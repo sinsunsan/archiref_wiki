@@ -40,6 +40,9 @@ if (!$perm[$account->uid][$string]){print_r($string . '<br>');}
 Just place a d('are you in used');
 If it's in used, a white screen will show with this message 
 
+* **How to debug with dpml in a context where you can't**   
+You are debugging an ajax called page, and the dpm is not accessible, per aps because the message area isn't called. Simply refresh the browser in the page you want to debug, then refresh it in another page. As dpm show in the next page request, it'll show there !!!
+
 * **Recursion in not the end dpm**   
 When using devel, it occure that a element is shown as recursion. 
 To see what's inside, make an other dpm with only this sub element key 
