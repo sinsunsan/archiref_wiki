@@ -1,6 +1,8 @@
 http://api.drupal.org/api/drupal/includes%21form.inc/group/batch/7
 
 Example of settings a batch to update a type of node 
+
+### Hook Menu to define the page where the batch are going o take place
 ``` php
 <?php 
 /**
