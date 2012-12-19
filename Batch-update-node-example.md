@@ -39,7 +39,7 @@ function rue89_qr_batch_qr_update_statuses() {
 ```
 
 ### What's going on during the batch   
-````
+```
 <?php 
 /**
  * Batch # rue89_qr_batch_qr_update_statuses : 
@@ -70,4 +70,4 @@ function rue89_qr_batch_qr_update_statuses_process(&$context) {
   }
   $context['message'] = t('Progress: @progress% (@current of @max)', array('@progress' => round($context['finished'] * 100), '@current' => $context['sandbox']['progress'], '@max' => $context['sandbox']['max']));
 }
-````
+```
