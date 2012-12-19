@@ -80,3 +80,9 @@ dpm($result);
 // Will show
 SELECT 'name' from taxonomy_term_data WHERE 'tid' IN (8,1635,105654,3988,170)
 ```
+
+* **How to print nicely a debug message in chrome**    
+Sometimes event when in <pre> tags the debug array doesn't print weel. 
+A trick is to make the debug from a chrome special page prefixing the url by :view-source; 
+And the code is prettely indented and highlighted.
+view-source:http://dev.v2.seb.dev89.com/node_reference/autocomplete/rue89block/i3v_qr/field_i3v_qr
