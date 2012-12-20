@@ -1,4 +1,5 @@
-* **requêtes imbriquées**
+* **requêtes imbriquées**   
+
 The result of the second query is used as a selector of the first one  
 ``` 
 SELECT * FROM node
