@@ -35,6 +35,13 @@ $query = db_select('users', 'u')
 http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_install_schema/7   
 Install the database defined by a hook_schema
 
+* **Debugging the SQL Query**
+To examine the SQL query that the query object will build at a particular point in its lifecycle, call its __toString() method:
+```
+<?php
+  print_r($query->__toString());
+?>
+```
 
 * **hook_schema**   
 http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_schema/7   
