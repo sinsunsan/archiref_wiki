@@ -19,6 +19,8 @@ http://api.drupal.org/api/drupal/includes%21database%21schema.inc/group/schemaap
   $query->fields('u', array('utid', 'nid', 'vid', 'field', 'name', 'basename'))  ;
   $result = $query->execute();
 ```
+Short syntax, with chaining methods
+db_select return an object, and each method return the modified object
 ```
 <?php
 // Create an object of type SelectQuery and directly 
