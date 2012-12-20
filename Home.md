@@ -20,6 +20,7 @@
 ### Database
 * [[Mysql]]
 * [[mongo db]]
+* [[sql query examples]]
 
 ### Version manager
 * [[git]]
