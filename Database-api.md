@@ -12,13 +12,23 @@ Schema API to define the array that describe the schema of the database
 http://api.drupal.org/api/drupal/includes%21database%21schema.inc/group/schemaapi/7
 
 **Exemples**
-<pre> 
+```
+<?php
   $query = db_select('unitag', 'u');
   $query->leftJoin('node', 'n', 'u.nid = n.nid');
   $query->fields('u', array('utid', 'nid', 'vid', 'field', 'name', 'basename'))  ;
   $result = $query->execute();
-</pre>
-
+```
+```
+<?php
+// Create an object of type SelectQuery and directly 
+// add extra detail to this query object: a condition, fields and a range
+$query = db_select('users', 'u')
+  ->condition('u.uid', 0, '<>')
+  ->fields('u', array('uid', 'name', 'status', 'created', 'access'))
+  ->range(0, 50);
+?>
+```
 * **drupal_install_schema**   
 http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_install_schema/7   
 Install the database defined by a hook_schema
