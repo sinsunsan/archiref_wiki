@@ -83,6 +83,14 @@ dpm($result);
 // Will show
 SELECT 'name' from taxonomy_term_data WHERE 'tid' IN (8,1635,105654,3988,170)
 ```
+* **Debugging the SQL Query**
+To examine the SQL query that the query object will build at a particular point in its lifecycle, call its __toString() method:
+```
+<?php
+  print_r($query->__toString());
+?>
+```
+
 
 * **How to print nicely a debug message in chrome**    
 Sometimes event when in ````<pre>```` tags the debug array doesn't print well. 
