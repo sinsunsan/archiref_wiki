@@ -43,6 +43,10 @@ To examine the SQL query that the query object will build at a particular point 
 ?>
 ```
 
+Don't work for me use    
+ dpm($result->getQueryString());   
+But I've got stille some placeholder, and not the plain sql query
+
 * **hook_schema**   
 http://api.drupal.org/api/drupal/modules%21system%21system.api.php/function/hook_schema/7   
 Hook schema allow to define a schema for a given module. 
