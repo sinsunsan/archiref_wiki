@@ -1,30 +1,40 @@
 * [[drupal installation]]
 
 ### Drupal APIS
+
+### Core
 * [[drupal core]]
 * [[caching api]] // How to saved ressource on frequent asked content
 * [[systeme / modules]] / How drupal interact with its modules
 * [[hook api]] / How modules can modify everything in drupal when a hook is implemented
-* [[batch api]] / How to make process in batch
-* [[database api]] / interact with the database
-* [[field api]] / Store you data in fields
-* [[node api]] / Node is an entity but a special one
-* [[form api]] / Build forms
-* [[entity api]] / Manage your content in entity
-* [[comment api]] / Manage comments
-* [[view api]] / Make customisable display
-* [[filter api]] / Filter the user submitted content
 * [[menu/path api]] / Define pages and url to show your content
+* [[language API]] / Make your site international
+* [[form api]] / Build forms
+
+### Content
+* [[node api]] / Node is an entity but a special one
+* [[entity api]] / Manage your content in entity
+* [[field api]] / Store you data in fields
+* [[comment api]] / Manage comments
+* [[database api]] / interact with the database
+
+### Task
+* [[batch api]] / How to make process in batch
+* [[drupal cron]] / Make automatic tasks with cron
+
+### Theme, Views
+* [[view api]] / Make customisable display
+* [[wysiwyg]] / Ease the text authoring for non technicals
+* [[filter api]] / Filter the user submitted content
+* [[Render API / Theming]] / Define how the site will look
+
+#### Others
 * [[file api]] / Store and manage files
 * [[rss / feed]] / Publish content from other sites
 * [[libraries api]] / store common functionnality in library
-* [[ctools]] / Understand the ctools magic
-* [[language API]] / Make your site international
-* [[Render API / Theming]] / Define how the site will look
 * [[features]] / Export your site definition in features
 * [[taxonomy]] / Classify your content with taxonomy 
-* [[drupal cron]] / Make automatic tasks with cron
-* [[wysiwyg]] / Ease the text authoring for non technicals
+* [[ctools]] / Understand the ctools magic
 
 ### General
 * [[Modules]]
