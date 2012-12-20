@@ -10,13 +10,13 @@
 * [[menu/path api]] / Define pages and url to show your content
 * [[language API]] / Make your site international
 * [[form api]] / Build forms
+* [[database api]] / interact with the database
 
 ### Content
 * [[node api]] / Node is an entity but a special one
 * [[entity api]] / Manage your content in entity
 * [[field api]] / Store you data in fields
 * [[comment api]] / Manage comments
-* [[database api]] / interact with the database
 
 ### Task
 * [[batch api]] / How to make process in batch
