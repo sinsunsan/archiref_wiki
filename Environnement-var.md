@@ -5,3 +5,8 @@ Its possible to print all defined variables
 ```
 printenv
 ```
+
+It's possible to save a new value for a variable with export 
+```
+export TMPDIR=/tmp1
+```
