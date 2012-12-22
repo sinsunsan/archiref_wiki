@@ -16,6 +16,7 @@
 * [[commandes executables]]
 * [[$PATH]]
 * [[package]] The programs installed in the system
+* [[environnement var]]
 
 ### Permissions and users
 * [[manage users]]
