@@ -8,6 +8,7 @@
 * [[rsync]]
 * [[sftp]]
 * [[backup]]
+* [[compress]]
 
 ### Execute
 * [[cron]] / Execute task automatically (backup,...)
