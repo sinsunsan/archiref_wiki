@@ -11,7 +11,7 @@ https://gist.github.com/e01a52eaf5f70fe0f65e
 http://api.drupal.org/api/views/views.module/function/views_embed_view/7   
 Embed a view in everything (blocks, node....)   
 
-* **[view preprocessing]**
+* **[[view preprocessing]]**
 
 The relationship handler   
 http://api.drupal.org/api/views/handlers%21views_handler_relationship.inc/class/views_handler_relationship/6
