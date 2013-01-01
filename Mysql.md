@@ -65,6 +65,8 @@ Il est également possible de créer la copie sur le même serveur en omettant l
 mysqldump table_source | mysql -C table_cible
 </code>
 
+* **Restore a dump from a gunzip file**
+gunzip < archiref-2013-01-01T23-56-21.mysql.gz | mysql -u root -p d6_archiref_prod
 
 Pour installer mysqladmin sur Mac il faut créer un lien symbolique dans le repértoire  /usr/bin
 <code>
@@ -79,4 +81,3 @@ sudo ln -s /Applications/MAMP/Library/bin/mysql /usr/bin/mysql
 <code>
 mysqldump -u UTILISATEUR -p MOTDEPASSE BASEDEDONNEES | ssh utilisateur:motdepasse@15.156.125.32 "mysql BASEDEDONNEES2"
 </code>
-
