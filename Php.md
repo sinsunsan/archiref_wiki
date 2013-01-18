@@ -7,3 +7,4 @@
 * [[Structures conditionnelles]]
 * [[OOP Object Oriented Programation]]
 * [[xml]]
+* [[php.ini]]
