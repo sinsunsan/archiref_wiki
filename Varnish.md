@@ -31,3 +31,5 @@ sudo service varnish restart
 
 Working vcl for varnish 3 
 http://drupal.org/node/1196916#comment-4660760
+
+Need to copy the content of secret file in drupal varnish admin
