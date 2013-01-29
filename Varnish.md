@@ -28,3 +28,6 @@ Restart both service after a vcl change
 sudo service apache2 restart
 sudo service varnish restart
 ```
+
+Working vcl for varnish 3 
+http://drupal.org/node/1196916#comment-4660760
