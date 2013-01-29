@@ -12,6 +12,7 @@
 * [[apache]]
 * [[ec2 amazon]]
 * [[mails]]
+* [[varnish]]
 
 ### Text editor
 * [[vim]]
