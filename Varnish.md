@@ -22,3 +22,9 @@ service apache2 restart
 service varnish start
 ```
 http://andrewdunkle.com/how-install-varnish-drupal-7
+
+Restart both service after a vcl change 
+```
+sudo service apache2 restart
+sudo service varnish restart
+```
