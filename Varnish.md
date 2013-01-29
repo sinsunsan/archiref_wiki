@@ -9,7 +9,7 @@ perl -pi -e 's/\**:8080/\*:80/g' /etc/apache2/sites-available/*
 perl -pi -e 's/Listen 8080$/Listen 80/g' /etc/apache2/ports.conf
 perl -pi -e 's/\*:8080$/\*:80/g' /etc/apache2/ports.conf
 service varnish stop
-service apache2 start
+service apache2 restart
 ```
 
 Change all files from 80 to 8080
