@@ -1,7 +1,11 @@
+### Diskutil
+
+List all teh disk that are pluuged to the machine
+```diskutil list```
+
 http://hints.macworld.com/article.php?story=20031122041138373
 
 diskutil info disk0 | grep SMART
-
 
 Check the smart status on external drive 
 Install
