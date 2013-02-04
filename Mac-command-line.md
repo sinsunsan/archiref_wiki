@@ -1,7 +1,9 @@
 ### Diskutil
 
-List all teh disk that are pluuged to the machine
+* **List all the disk that are plugged to the machine**   
 ```diskutil list```
+
+* **Check smart status if available**
 
 http://hints.macworld.com/article.php?story=20031122041138373
 
