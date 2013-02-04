@@ -1,7 +1,11 @@
 ### Diskutil
 
+
 * **List all the disk that are plugged to the machine**   
 ```diskutil list```
+
+* **Force a disk to mount**   
+```mount disk1```
 
 * **Check smart status if available**
 
