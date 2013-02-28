@@ -10,6 +10,15 @@ Explication pas à pas
 * \; signifie la fin de l'execution
 *
 
+### on MAC
+On mac it seems that it's necessary to write
+```
+find . -name "lkjlk"
+```
+
+So the . is necessary
+
+
 ### Compter le nombre de fichier dans un repertoire contenant des sous-repertoires
 
 <pre>
@@ -50,4 +59,3 @@ find $dir -name "*copy*" -maxdepth 1 -type d -mtime +15 -exec rm -rv {} \;
 ### Delete temp files created by a configuration of vim
 ```
 ```
-
