@@ -59,3 +59,9 @@ find $dir -name "*copy*" -maxdepth 1 -type d -mtime +15 -exec rm -rv {} \;
 ### Delete temp files created by a configuration of vim
 ```
 ```
+
+
+### find 3 last day modified files 
+```
+find . -mtime -3
+```
