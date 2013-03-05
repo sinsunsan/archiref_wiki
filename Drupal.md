@@ -16,6 +16,7 @@
 * [[node api]] / Node is an entity but a special one
 * [[entity api]] / Manage your content in entity
 * [[field api]] / Store you data in fields
+* [[cck]] / Old drupal 6 way to store fields
 * [[comment api]] / Manage comments
 
 ### Task
