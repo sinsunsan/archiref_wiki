@@ -17,3 +17,7 @@ http://drupalcontrib.org/api/drupal/contributions%21cck%21content.module/functio
   $update->$column = $count;
   drupal_write_record($table, $update, 'vid');
 ````
+
+* **drupal_write_record**   
+http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_write_record/6   
+Record datas in the database according to a schema. 
