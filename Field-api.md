@@ -6,6 +6,13 @@ http://drupal.org/node/707832 Field API tutorial
 * Tuto to learn field api with the help of a color picker module 
 http://www.figover.com/node/15
 
+
+### Drupal 6 only 
+
+* **content_fields**    
+Fetch infos about all fields if no field name is given 
+http://drupalcontrib.org/api/drupal/contributions%21cck%21content.module/function/content_fields/6
+
 ### Attach fields to display them
 
 * **field_attach_prepare_view**   
