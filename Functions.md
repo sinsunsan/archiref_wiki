@@ -1,4 +1,7 @@
 ### General functions 
+* **drupal_set_html_head**    
+http://api.drupal.org/api/drupal/includes%21common.inc/function/drupal_set_html_head/6   
+Add a string to the html head, for example a meta tag
 
 * **element_children**   
 http://api.drupal.org/api/drupal/includes!common.inc/function/element_children/7   
