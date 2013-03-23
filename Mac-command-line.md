@@ -9,7 +9,7 @@
 
 * **Check smart status if available**
 
-http://hints.macworld.com/article.php?story=20031122041138373
+http://hints.macworld.com/article.php?story=20031122041138373   
 
 diskutil info disk0 | grep SMART
 
@@ -21,13 +21,13 @@ http://apple.stackexchange.com/questions/52604/can-i-get-s-m-a-r-t-support-on-ex
 
 
 # Disabling spothlight (indexing by mac)   
-http://osxdaily.com/2009/09/20/disable-spotlight-in-mac-os-x-10-6-snow-leopard/
-sudo mdutil -a -i off
+http://osxdaily.com/2009/09/20/disable-spotlight-in-mac-os-x-10-6-snow-leopard/   
+````sudo mdutil -a -i off````
 
 This tells the Spotlight manager to disable all indexing on all volumes, the command will require your administrative password to execute.
 
 Re-enabling Spotlight in Mac OS X 10.6 Snow Leopard is just as easy, just reverse the command to:
 
-sudo mdutil -a -i on
+````sudo mdutil -a -i on````
 
 Now Spotlight indexing will be back on and work as usual.
