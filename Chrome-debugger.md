@@ -16,3 +16,9 @@ Network are logged only if a page is loaded when the network tab is active.
 It load all http request included ajax call and ajax retrieved js 
 
 * The "sens interdit" button allow to clear all logged file for example, when after an ajax call, news request has been made. 
+
+
+### Clear cache
+
+CMD + SHIFT + R 
+On mac
