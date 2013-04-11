@@ -91,9 +91,12 @@ To examine the SQL query that the query object will build at a particular point 
 ?>
 ```
 
-
 * **How to print nicely a debug message in chrome**    
 Sometimes event when in ````<pre>```` tags the debug array doesn't print well. 
 A trick is to make the debug from a chrome special page,  prefixing the url by :view-source; 
 And the code is prettily indented and highlighted.
 view-source:http://dev.v2.seb.dev89.com/node_reference/autocomplete/rue89block/i3v_qr/field_i3v_qr
+
+* **How to prevent the browser to cache**   
+http://hungred.com/how-to/tutorial-stop-caching-jquery-javascript/    
+Add a ?para meter in the url so that it believe it's a different page. 
