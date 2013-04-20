@@ -1,5 +1,6 @@
-### Javascript MVC Framework 
+### Other
 * [[backbone.js]]
+* [[wordpress]]
 
 ### Drupal
 * [[chrome debugger]]
