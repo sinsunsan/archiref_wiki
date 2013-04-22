@@ -55,4 +55,5 @@
 
 ### Mac
 * [[mac command line]]
+* [[hardware]]
 
