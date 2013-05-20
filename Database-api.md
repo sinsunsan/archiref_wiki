@@ -1,7 +1,7 @@
 ### Simple drupal 6 query 
 
 Very important 
-Good syntax
+**Good syntax**
 ```
 $sql = 'SELECT * FROM {node} LIMIT 1,30';
 $query = db_query($sql);
@@ -10,7 +10,7 @@ while ($row = db_fetch_array($query)) {
 }
 
 ```
-****Wrong syntax
+**Wrong syntax**
 Always the same first row (because it redo the query again and again
 ```
 $sql = 'SELECT * FROM {node} LIMIT 1,30';
