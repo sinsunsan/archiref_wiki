@@ -1,7 +1,8 @@
 ## Tutorials
 
 http://19thstreetdesign.com/blog/2009.02.04/installing-apache-solr-drupal-6
-
+http://drupal.org/node/1935934
+https://www.digitalocean.com/community/articles/how-to-install-apache-tomcat-on-ubuntu-12-04
 
 
 How to installing tomcat and Solr on Debian or Ubuntu
@@ -29,6 +30,10 @@ Start the server
 /etc/init.d/tomcat6 start
 </code></pre>
 
+Not as easy ! 
+What does it mean localhost in a remote server, to be changed by server ip. 
+Further more in other tuto found, need to install java, configure some variable in bashr
+https://www.digitalocean.com/community/articles/how-to-install-apache-tomcat-on-ubuntu-12-04
 and go to http://localhost:8080 
 You should see the defaut Tomcat page   
 
