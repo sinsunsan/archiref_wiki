@@ -9,6 +9,9 @@ How to installing tomcat and Solr on Debian or Ubuntu
 
 ## Tomcat
 
+### Step One—Install Tomcat
+In some tuto it say to install tomcat7, In other 6, we will stay on 6 for now
+
 Install Tomcat6 package
 
 <pre></code>
@@ -30,10 +33,48 @@ Start the server
 /etc/init.d/tomcat6 start
 </code></pre>
 
+### Step Two—Install Java
+
+We installed the entire Apache Tomcat server on our virtual server in the previous step. Before we can use it, however, we do need to have Java installed on the VPS as well. If you currently do not have java, you can download it quite easily with apt-get.
+````
+sudo apt-get install default-jdk
+````
+Once you have Tomcat and Java installed on the virtual private server, all that remains is to start them.
+
+
+### Step Three—Configure .bashrc
+
+In order to start Tomcat, we need to add it as an environment variable in the /.bashrc file.
+````sudo nano ~/.bashrc````
+
+You can add this information to the end of the file:
+````
+export JAVA_HOME=/usr/lib/jvm/default-java
+export CATALINA_HOME=~/path/to/tomcat
+````
+In my case with default tomcat installation on ubuntu 
+````
+#https://www.digitalocean.com/community/articles/how-to-install-apache-tomcat-on-ubuntu-12-04
+export JAVA_HOME=/usr/lib/jvm/default-java
+export CATALINA_HOME=/usr/share/tomcat6
+````
+
+
+Save and exit out of .bashrc. You can make the changes effective by restarting the bashrc file.
+. ~/.bashrc
+
+
 Not as easy ! 
 What does it mean localhost in a remote server, to be changed by server ip. 
 Further more in other tuto found, need to install java, configure some variable in bashr
 https://www.digitalocean.com/community/articles/how-to-install-apache-tomcat-on-ubuntu-12-04
+
+In this tuto 
+#https://www.digitalocean.com/community/articles/how-to-install-apache-tomcat-on-ubuntu-12-04
+export JAVA_HOME=/usr/lib/jvm/default-java
+export CATALINA_HOME=/usr/share/tomcat6
+
+
 and go to http://localhost:8080 
 You should see the defaut Tomcat page   
 
