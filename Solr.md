@@ -80,6 +80,9 @@ Save and exit out of .bashrc. You can make the changes effective by restarting t
 . ~/.bashrc
 ````
 
+### Authorize connexion with the new 8081 port  and IPTABLES
+http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
+
 
 Not as easy ! 
 What does it mean localhost in a remote server, to be changed by server ip. 
