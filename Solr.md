@@ -29,13 +29,13 @@ http://www.mkyong.com/tomcat/how-to-change-tomcat-default-port/
 
 Start the server
 
-<pre><code>
-/etc/init.d/tomcat6 start
-</code></pre>
+```/etc/init.d/tomcat6 start```
+
 
 ### Step Two—Install Java
 
-We installed the entire Apache Tomcat server on our virtual server in the previous step. Before we can use it, however, we do need to have Java installed on the VPS as well. If you currently do not have java, you can download it quite easily with apt-get.
+We installed the entire Apache Tomcat server on our virtual server in the previous step. Before we can use it, however, we do need to have Java installed on the VPS as well. If you currently do not have java, you can download it quite easily with apt-get.  
+ 
 ````
 sudo apt-get install default-jdk
 ````
@@ -61,7 +61,9 @@ export CATALINA_HOME=/usr/share/tomcat6
 
 
 Save and exit out of .bashrc. You can make the changes effective by restarting the bashrc file.
+````
 . ~/.bashrc
+````
 
 
 Not as easy ! 
