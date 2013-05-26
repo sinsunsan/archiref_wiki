@@ -1,3 +1,5 @@
+[solr + jetty + drupal]
+
 ## Tutorials
 
 http://19thstreetdesign.com/blog/2009.02.04/installing-apache-solr-drupal-6
