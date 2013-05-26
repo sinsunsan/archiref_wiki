@@ -1,4 +1,4 @@
-[solr + jetty + drupal]
+[[solr + jetty + drupal]]
 
 ## Tutorials
 
