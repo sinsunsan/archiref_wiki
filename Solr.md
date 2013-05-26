@@ -59,6 +59,21 @@ export JAVA_HOME=/usr/lib/jvm/default-java
 export CATALINA_HOME=/usr/share/tomcat6
 ````
 
+It can have
+this error 
+````
+Using CATALINA_BASE:   /usr/share/tomcat6
+Using CATALINA_HOME:   /usr/share/tomcat6
+Using CATALINA_TMPDIR: /usr/share/tomcat6/temp
+Using JRE_HOME:        /usr/lib/jvm/default-java
+Using CLASSPATH:       /usr/share/tomcat6/bin/bootstrap.jar
+touch: cannot touch `/usr/share/tomcat6/logs/catalina.out': No such file or directory
+/usr/share/tomcat6/bin/catalina.sh: 375: /usr/share/tomcat6/bin/catalina.sh: cannot create /usr/share/tomcat6/logs/catalina.out: Directory nonexistent
+````
+That can be fixed by creating the directory 
+```
+ mkdir /usr/share/tomcat6/logs 
+```
 
 Save and exit out of .bashrc. You can make the changes effective by restarting the bashrc file.
 ````
