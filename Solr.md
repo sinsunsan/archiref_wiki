@@ -29,39 +29,39 @@ http://www.mkyong.com/tomcat/how-to-change-tomcat-default-port/
 
 Start the server
 
-<pre>/etc/init.d/tomcat6 start</pre>
+<pre>```/etc/init.d/tomcat6 start```</pre>
 
 
 ### Step Two—Install Java
 
 We installed the entire Apache Tomcat server on our virtual server in the previous step. Before we can use it, however, we do need to have Java installed on the VPS as well. If you currently do not have java, you can download it quite easily with apt-get.  
  
-
+```
 sudo apt-get install default-jdk
-
+```
 Once you have Tomcat and Java installed on the virtual private server, all that remains is to start them.
 
 
 ### Step Three—Configure .bashrc
 
 In order to start Tomcat, we need to add it as an environment variable in the /.bashrc file.
-sudo nano ~/.bashrc
+```sudo nano ~/.bashrc```
 
 You can add this information to the end of the file:
-
+```
 export JAVA_HOME=/usr/lib/jvm/default-java
 export CATALINA_HOME=~/path/to/tomcat
-
+```
 In my case with default tomcat installation on ubuntu 
-
+```
 #https://www.digitalocean.com/community/articles/how-to-install-apache-tomcat-on-ubuntu-12-04
 export JAVA_HOME=/usr/lib/jvm/default-java
 export CATALINA_HOME=/usr/share/tomcat6
-
+```
 
 It can have
 this error 
-
+```
 Using CATALINA_BASE:   /usr/share/tomcat6
 Using CATALINA_HOME:   /usr/share/tomcat6
 Using CATALINA_TMPDIR: /usr/share/tomcat6/temp
@@ -69,16 +69,16 @@ Using JRE_HOME:        /usr/lib/jvm/default-java
 Using CLASSPATH:       /usr/share/tomcat6/bin/bootstrap.jar
 touch: cannot touch `/usr/share/tomcat6/logs/catalina.out': No such file or directory
 /usr/share/tomcat6/bin/catalina.sh: 375: /usr/share/tomcat6/bin/catalina.sh: cannot create /usr/share/tomcat6/logs/catalina.out: Directory nonexistent
-
+```
 That can be fixed by creating the directory 
-
+```
  mkdir /usr/share/tomcat6/logs 
-
+```
 
 Save and exit out of .bashrc. You can make the changes effective by restarting the bashrc file.
-
+```
 . ~/.bashrc
-
+```
 
 ### Authorize connexion with the new 8081 port  and IPTABLES
 http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
@@ -150,7 +150,7 @@ edit /etc/tomcat6/Catalina/localhost/<PROJECT_NAME>.xml
 
 and add:
 
-
+```
 <code xml>
     code class="xml">
     <?xml version="1.0" encoding="utf-8"?>
@@ -158,7 +158,7 @@ and add:
     <Environment name="solr/home" type="java.lang.String" value="/opt/solr/<PROJECT_NAME>/solr" override="true"/>
     </Context>
 </code>
- 
+ ```
 <pre>
 restart tomcat
 </pre>
