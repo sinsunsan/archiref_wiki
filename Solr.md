@@ -29,7 +29,7 @@ http://www.mkyong.com/tomcat/how-to-change-tomcat-default-port/
 
 Start the server
 
-```/etc/init.d/tomcat6 start```
+<pre>```/etc/init.d/tomcat6 start```</pre>
 
 
 ### Step Two—Install Java
