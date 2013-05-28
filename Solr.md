@@ -1,3 +1,5 @@
+[[Solr API]]
+
 [[solr + jetty + drupal]]
 
 ## Tutorials
