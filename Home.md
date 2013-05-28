@@ -50,6 +50,7 @@
 * [[RSS]]
 * [[SEO]]
 * [[SOLR]]
+* [[disqus api]]
 * [[gollum]]
 * [[github selection]]
 
