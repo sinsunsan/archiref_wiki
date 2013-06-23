@@ -1,4 +1,6 @@
 ### TUTO Javascript
+
+Javascript fondamentaux
 http://braincracking.org/2011/11/16/javascript-3-fondamentaux/
 
 Javascript API by Mozilla   
@@ -6,6 +8,7 @@ https://developer.mozilla.org/en-US/docs/JavaScript/Reference
 
 Javascript best practices   
 http://www.javascripttoolbox.com/bestpractices/#var
+
 ### API
 * [[javascript objects]]
 * [[javascript operator]]
