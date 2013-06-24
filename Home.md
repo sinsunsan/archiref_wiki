@@ -35,6 +35,7 @@
 ### Programming language
 * [[php]]
 * [[javascript]]
+* [[javascript&jquery libraries]]
 * [[ajax]]
 * [[jquery]]
 * [[ruby]]
