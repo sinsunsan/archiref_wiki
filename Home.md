@@ -34,10 +34,13 @@
 
 ### Programming language
 * [[php]]
+
 * [[javascript]]
-* [[javascript&jquery libraries]]
-* [[ajax]]
+* [[javascript & jquery libraries]]
 * [[jquery]]
+
+* [[ajax]]
+
 * [[ruby]]
 
 ### Front end, theming 
