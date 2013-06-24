@@ -38,9 +38,7 @@
 * [[javascript]]
 * [[javascript & jquery libraries]]
 * [[jquery]]
-
 * [[ajax]]
-
 * [[ruby]]
 
 ### Front end, theming 
