@@ -6,6 +6,8 @@
 
 ### Liens Tuto 
 http://www.pantz.org/software/mysql/mysqlcommands.html 
+How to debug to socket error (can't find the socket)
+http://www.tech-recipes.com/rx/762/solve-cant-connect-to-local-mysql-server-through-socket-tmpmysqlsock/
 
 
 ***
