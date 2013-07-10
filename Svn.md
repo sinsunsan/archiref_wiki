@@ -1,6 +1,6 @@
 ### Tuto
 * **svn book** : A complete book in html on svn    
-http://svnbook.red-bean.com/nightly/fr/index.html
+http://svnbook.red-bean.com/en/1.7/index.html
 
 * http://www.tuteurs.ens.fr/logiciels/subversion/
 
