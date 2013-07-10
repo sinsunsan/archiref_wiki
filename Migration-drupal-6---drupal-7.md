@@ -1,8 +1,11 @@
 ### Changes to hook 
 * hook_node_api has been spitted    
 hook_node_view   
-hoook_node_update   
+hook_node_update   
 ....
+
+List of API changes 
+https://drupal.org/node/224333
 
 ### Differences between d6 - d7
 
