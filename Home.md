@@ -12,6 +12,7 @@
 * [[fresh install]]
 * [[Linux]]
 * [[ubuntu]]
+* [[Windows]]
 * [[script bash]]
 * [[apache]]
 * [[ec2 amazon]]
