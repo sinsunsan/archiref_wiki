@@ -11,3 +11,7 @@ http://www.wampserver.com
 
 The setup of virtual host
 http://www.kristengrote.com/blog/articles/how-to-set-up-virtual-hosts-using-wamp
+
+
+* Generate a ssh key
+http://katsande.com/using-puttygen-to-generate-ssh-private-public-keys
