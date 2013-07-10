@@ -12,6 +12,8 @@ How to use putty with localhost
 http://stackoverflow.com/questions/3192088/how-to-connect-to-localhost-with-sshputty
 
 ### Linux tools
+cygwin is a complete environnement inside the directory of installation it's like a mini linux. The command line is elegant...
+Gnuwin only install some gnu program as windows library (dll)
 
 Difference between gnuwin et cygwin    
 http://stackoverflow.com/questions/10712550/difference-between-gnuwin32-and-cygwin
