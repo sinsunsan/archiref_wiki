@@ -5,12 +5,13 @@ http://www.sublimetext.com/2
 
 * The ssh client putty
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+How to use putty with localhost   
+http://stackoverflow.com/questions/3192088/how-to-connect-to-localhost-with-sshputty
 
 Difference between gnuwin et cygwin    
 http://stackoverflow.com/questions/10712550/difference-between-gnuwin32-and-cygwin
 
-* **cygwin**   
-A set of tool for using linux tools on windows
+* **cygwin** : A set of tool for using linux tools on windows   
 http://cygwin.com
 
 * The local web server for windows
