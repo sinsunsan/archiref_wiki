@@ -6,3 +6,5 @@ http://www.sublimetext.com/2
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 * A set of tool for using linux tools on windows
 http://cygwin.com
+* The local web server for windows
+http://www.wampserver.com
