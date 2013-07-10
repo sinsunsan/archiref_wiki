@@ -8,7 +8,7 @@ Make it more easy to have different version of ruby
 * **Install rvm and latest ruby stable version**   
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
-**To be clarified, don't work for me**
+**@todo To be clarified, don't work for me**
 
 To use rvm
 ```
