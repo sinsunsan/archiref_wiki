@@ -3,7 +3,7 @@ Bootstrap an environnement in Windows
 * The best text editor ever
 http://www.sublimetext.com/2
 
-* The ssh client putty
+* **putty** : The ssh and command line client for windows
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 How to use putty with localhost   
 http://stackoverflow.com/questions/3192088/how-to-connect-to-localhost-with-sshputty
