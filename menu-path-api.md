@@ -14,6 +14,16 @@ All the available keys are http://api.drupal.org/api/drupal/includes%21menu.inc/
 https://api.drupal.org/api/drupal/modules!path!path.api.php/function/hook_path_insert/7   
 Do something when a new path is being created (like aliasing for example)   
 
+* **drupal_set_breadcrumb**     
+https://api.drupal.org/api/drupal/includes!common.inc/function/drupal_set_breadcrumb/7    
+```
+if ($node->type === "video_type" && $view_mode === "full") {
+        $breadcrumb = array();
+        $breadcrumb[] = l('Accueil', '<front>');
+        $breadcrumb[] = l('Videos', 'videos');
+        drupal_set_breadcrumb($breadcrumb);
+    }
+```
 ### API functions
 
 * **menu_get_item()**    
