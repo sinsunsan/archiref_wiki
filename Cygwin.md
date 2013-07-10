@@ -19,3 +19,7 @@ http://cygwin.com/cygwin-ug-net/using-filemodes.html
 
 * Connect to a Wamp databases, from Cygwin   
 http://stackoverflow.com/questions/10995465/connecting-to-mysql-through-cygwin
+```
+ mysql -h 127.0.0.1 -u root -p
+```
+ works
