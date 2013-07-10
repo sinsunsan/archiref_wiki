@@ -4,6 +4,7 @@
 
 ### Core
 * [[drupal core]]
+* [[drupal misc api function]]
 * [[caching api]] // How to saved ressource on frequent asked content
 * [[systeme / modules]] / How drupal interact with its modules
 * [[hook api]] / How modules can modify everything in drupal when a hook is implemented
