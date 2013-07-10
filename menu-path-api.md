@@ -10,6 +10,10 @@ Allow to modify a menu link defined by another module
 This hook is fired when a menu item get saved
 All the available keys are http://api.drupal.org/api/drupal/includes%21menu.inc/function/menu_link_save/7
 
+* **menu_execute_active_handler**   
+https://api.drupal.org/api/drupal/includes!menu.inc/function/menu_execute_active_handler/6   
+Execute the callback associated with the current menu item
+
 ### API functions
 
 * **menu_get_item()**    
