@@ -6,7 +6,11 @@ http://www.sublimetext.com/2
 * The ssh client putty
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
-* A set of tool for using linux tools on windows
+Difference between gnuwin et cygwin    
+http://stackoverflow.com/questions/10712550/difference-between-gnuwin32-and-cygwin
+
+* **cygwin**   
+A set of tool for using linux tools on windows
 http://cygwin.com
 
 * The local web server for windows
