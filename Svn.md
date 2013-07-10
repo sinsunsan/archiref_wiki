@@ -13,4 +13,7 @@ Display the diff between current state of files and revision r72
 /var/www/cemaforre2$ svn diff --revision r72
 ```
 
+* **svn checkout** : Checkout to a difference branch or revision ?
+
+
 
