@@ -15,5 +15,7 @@ Display the diff between current state of files and revision r72
 
 * **svn checkout** : Checkout to a difference branch or revision ?
 
+* **svn status** : Status of the current svn tree (clean or dirty == git status)
+
 
 
