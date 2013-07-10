@@ -25,6 +25,9 @@ if ($node->type === "video_type" && $view_mode === "full") {
         drupal_set_breadcrumb($breadcrumb);
     }
 ```
+Good tuto in french    
+http://juliendubreuil.fr/drupal/breadcrumb-personnalise
+
 ### API functions
 
 * **menu_get_item()**    
