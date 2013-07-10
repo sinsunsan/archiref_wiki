@@ -12,7 +12,7 @@ How to use putty with localhost
 http://stackoverflow.com/questions/3192088/how-to-connect-to-localhost-with-sshputty
 
 ### Linux tools
-cygwin is a complete environnement inside the directory of installation it's like a mini linux. The command line is elegant... But is there a way to access files outside cygwin installation ? 
+cygwin is a complete environnement inside the directory of installation it's like a mini linux. The command line is elegant... 
    
 Gnuwin only install some gnu program as windows library (dll)
 
@@ -21,6 +21,7 @@ http://stackoverflow.com/questions/10712550/difference-between-gnuwin32-and-cygw
 
 * **cygwin** : A set of tool for using linux tools on windows   
 http://cygwin.com
+More about [[cygwin]]
 
 * GNU WIN 32 Linux tools
 http://sourceforge.net/projects/getgnuwin32/files/getgnuwin32/0.6.30/
