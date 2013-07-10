@@ -10,9 +10,9 @@ Allow to modify a menu link defined by another module
 This hook is fired when a menu item get saved
 All the available keys are http://api.drupal.org/api/drupal/includes%21menu.inc/function/menu_link_save/7
 
-* **menu_execute_active_handler**   
-https://api.drupal.org/api/drupal/includes!menu.inc/function/menu_execute_active_handler/6   
-Execute the callback associated with the current menu item
+* **hook_path_insert**  
+https://api.drupal.org/api/drupal/modules!path!path.api.php/function/hook_path_insert/7   
+Do something when a new path is being created (like aliasing for example)   
 
 ### API functions
 
@@ -29,6 +29,9 @@ Use example : http://drupalcode.org/project/page_title.git/blob/1d3944636a0c6afd
 Return a menu tree replace % by their value for exemple user/% by user%45
 http://api.drupal.org/api/drupal/includes!menu.inc/function/menu_tree/7   
 
+* **menu_execute_active_handler**   
+https://api.drupal.org/api/drupal/includes!menu.inc/function/menu_execute_active_handler/6   
+Execute the callback associated with the current menu item
 
 ### Tricks
 
