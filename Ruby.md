@@ -8,4 +8,15 @@ Make it more easy to have different version of ruby
 * **Install rvm and latest ruby stable version**   
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
+To use rvm
+```
+source /usr/local/rvm/scripts/rvm
+```
+
+To use the more recent version with rvm
+```
+rvm use
+```
+
+
 * [[Use Gem]]
