@@ -16,6 +16,7 @@ Do something when a new path is being created (like aliasing for example)
 
 * **drupal_set_breadcrumb**     
 https://api.drupal.org/api/drupal/includes!common.inc/function/drupal_set_breadcrumb/7    
+Define an array of page starting at home and to the parent of the current page
 ```
 if ($node->type === "video_type" && $view_mode === "full") {
         $breadcrumb = array();
