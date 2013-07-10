@@ -8,3 +8,6 @@ http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 http://cygwin.com
 * The local web server for windows
 http://www.wampserver.com
+
+The setup of virtual host
+http://www.kristengrote.com/blog/articles/how-to-set-up-virtual-hosts-using-wamp
