@@ -22,6 +22,7 @@ http://cygwin.com/cygwin-ug-net/using-filemodes.html
 http://stackoverflow.com/questions/10995465/connecting-to-mysql-through-cygwin
 ```
  mysql -h 127.0.0.1 -u root -p
+```
  works
 To import a database dump for example 
 ```
