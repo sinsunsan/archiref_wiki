@@ -19,9 +19,9 @@ Gnuwin only install some gnu program as windows library (dll)
 Difference between gnuwin et cygwin    
 http://stackoverflow.com/questions/10712550/difference-between-gnuwin32-and-cygwin
 
-* **cygwin** : A set of tool for using linux tools on windows   
+* **[[cygwin]]** : A set of tool for using linux tools on windows   
 http://cygwin.com
-More about [[cygwin]]
+
 
 * GNU WIN 32 Linux tools
 http://sourceforge.net/projects/getgnuwin32/files/getgnuwin32/0.6.30/
