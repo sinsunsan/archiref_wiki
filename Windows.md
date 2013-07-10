@@ -1,0 +1,8 @@
+Bootstrap an environnement in Windows 
+
+* The best text editor ever
+http://www.sublimetext.com/2
+* The ssh client putty
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+* A set of tool for using linux tools on windows
+http://cygwin.com
