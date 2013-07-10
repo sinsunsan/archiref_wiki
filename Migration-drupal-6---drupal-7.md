@@ -1,7 +1,7 @@
 ### Changes to hook 
-* hook_node_api has been spitted 
-hook_node_view
-hoook_node_update
+* hook_node_api has been spitted    
+hook_node_view   
+hoook_node_update   
 ....
 
 ### Differences between d6 - d7
