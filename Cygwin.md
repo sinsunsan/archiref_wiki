@@ -14,3 +14,8 @@ http://cygwin.com/cygwin-ug-net/using.html
 
 Cygwin permission, depends of what type of partition the hard drive has been formatted   
 http://cygwin.com/cygwin-ug-net/using-filemodes.html
+
+### Databases
+
+* Connect to a Wamp databases, from Cygwin   
+http://stackoverflow.com/questions/10995465/connecting-to-mysql-through-cygwin
