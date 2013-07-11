@@ -13,5 +13,5 @@ http://www.w3schools.com/xpath/xpath_nodes.asp
 http://www.w3schools.com/xpath/xpath_syntax.asp
 
 
-Select all the titles   
-```items/item/titre```
+* Select all the titles   
+**items/item/titre**
