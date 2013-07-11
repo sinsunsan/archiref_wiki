@@ -33,8 +33,7 @@ http://www.wampserver.com
 
 The setup of virtual host
 http://www.kristengrote.com/blog/articles/how-to-set-up-virtual-hosts-using-wamp
-
-[[setup virtual hosst with wamp and windows]]
+[[setup virtual host with wamp and windows]]
 
 * Generate a ssh key
 http://katsande.com/using-puttygen-to-generate-ssh-private-public-keys
