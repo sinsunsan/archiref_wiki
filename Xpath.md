@@ -11,3 +11,7 @@ http://www.w3schools.com/xpath/xpath_nodes.asp
 
 * Selection syntax 
 http://www.w3schools.com/xpath/xpath_syntax.asp
+
+
+Select all the titles   
+items/item/titre
