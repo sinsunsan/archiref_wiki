@@ -13,6 +13,11 @@ http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 How to use putty with localhost      
 http://stackoverflow.com/questions/3192088/how-to-connect-to-localhost-with-sshputty
 
+## DB editor
+Alternatives to sequel pro(mac) and software with a more efficient UI than phpmyadmin
+* **Heidi sql**
+http://www.heidisql.com/download.php
+
 ### Linux tools
 cygwin is a complete environnement inside the directory of installation it's like a mini linux. The command line is elegant... 
    
