@@ -33,14 +33,14 @@
 * [[github]]
 * [[svn]]
 
-### Programming language
+### Languages
 * [[php]]
-
 * [[javascript]]
 * [[javascript & jquery libraries]]
 * [[jquery]]
 * [[ajax]]
 * [[ruby]]
+* [[xpath]] : xpath allow to select element in a html, xml page just as jquery
 
 ### Front end, theming 
 * [[css]]
