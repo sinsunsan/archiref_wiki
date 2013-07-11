@@ -1,3 +1,10 @@
+## Misc
+
+* How to force drupal language to be english (for debuging purpose)   
+
+* Using hook_init and change global $language variable    
+ http://deglos.com/blog/2010/06/12/overriding-language-drupal-backend
+
 * **LANGUAGE_NONE**   
 A elegant manner to refer to und   
 http://api.drupal.org/api/drupal/includes%21bootstrap.inc/constant/LANGUAGE_NONE/7
