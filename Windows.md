@@ -32,8 +32,10 @@ http://sourceforge.net/projects/getgnuwin32/files/getgnuwin32/0.6.30/
 http://www.wampserver.com
 
 The setup of virtual host
-http://www.kristengrote.com/blog/articles/how-to-set-up-virtual-hosts-using-wamp
 [[setup virtual host with wamp and windows]]
+
+http://www.kristengrote.com/blog/articles/how-to-set-up-virtual-hosts-using-wamp
+
 
 * Generate a ssh key
 http://katsande.com/using-puttygen-to-generate-ssh-private-public-keys
