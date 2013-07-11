@@ -14,4 +14,4 @@ http://www.w3schools.com/xpath/xpath_syntax.asp
 
 
 Select all the titles   
-items/item/titre
+```items/item/titre```
