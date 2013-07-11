@@ -16,4 +16,8 @@ NameVirtualHost auvergnelife-1-3.local
 
 In c:/windows/system32/drivers/etc/hosts
 add the new localhosts
+```
 127.0.0.1 auvergnelife-1-3.local
+```
+
+Restart apache with wamp menu
