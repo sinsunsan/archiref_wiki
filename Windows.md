@@ -5,6 +5,8 @@ Bootstrap an environnement in Windows
 * The best text editor ever
 http://www.sublimetext.com/2
 
+* To do a pipe on PC and on french keyboards is Alt + Shift + l
+
 ### Command line
 * **putty** : The ssh and command line client for windows   
 http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html   
