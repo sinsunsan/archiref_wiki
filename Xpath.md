@@ -15,7 +15,7 @@ http://www.w3schools.com/xpath/xpath_syntax.asp
 
 ### Exemples
 
-* Select all the titles, as we don't suffix items with nothing to select all the "titre" node we need to write all its parents 
+* Select all the titles, as we don't suffix items with nothing to select all the "titre" node we need to write all its parents    
 **items/item/titre**
 
 * If we want to select a node by its name, whichever be its position in the document, we use //    
