@@ -19,5 +19,5 @@ List all site aliases defined
 
 * **drush wd-list** Display last watchdog messages 
 
-* ** drush watchdog-show --count=64** Show the last 64 messae
+* **drush watchdog-show --count=64** Show the last 64 messages
 
