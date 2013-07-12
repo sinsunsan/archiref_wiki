@@ -20,6 +20,7 @@ Display the diff between current state of files and revision r72
 * **Ignore files**   
 http://svnbook.red-bean.com/en/1.7/svn.advanced.props.special.ignore.html   
 ````svn propset svn:ignore dirname .````
-
+* **Display the current svn:ignore value**   
+````svn pg svn:ignore .````
 
 
