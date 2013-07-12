@@ -9,10 +9,6 @@ while ($row = db_fetch_array($query)) {
 
 }
 ```
-
-* **EntityFieldQuery** Class to make request on entities
-https://api.drupal.org/api/drupal/includes!entity.inc/class/EntityFieldQuery/7
-
 **Wrong syntax**
 Always the same first row (because it redo the query again and again
 ```
@@ -35,6 +31,9 @@ http://drupal.org/node/150223
 
 Schema API to define the array that describe the schema of the database    
 http://api.drupal.org/api/drupal/includes%21database%21schema.inc/group/schemaapi/7
+
+* **[[EntityFieldQuery]]** Class to make request on entities   
+https://api.drupal.org/api/drupal/includes!entity.inc/class/EntityFieldQuery/7
 
 **Exemples**
 ```
