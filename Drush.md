@@ -20,4 +20,4 @@ List all site aliases defined
 * **drush wd-list** Display last watchdog messages 
 
 * **drush watchdog-show --count=64** Show the last 64 messages
-
+* ```drush watchdog-show --severity=error --full --count=50``` all last 50 error in full format 
