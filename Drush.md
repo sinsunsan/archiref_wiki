@@ -13,3 +13,5 @@ drush php-eval "print(conf_path());"
 
 * **drush sa**   
 List all site aliases defined
+
+* **drush wd-list** Display last watchdod messages 
