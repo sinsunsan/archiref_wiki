@@ -20,4 +20,5 @@ Allow thus to have spaced and normal point line
 
 ### Enable search in wiki
 https://github.com/linyows/github-wiki-search
+For mozilla, need to installe Geesemonkey add on
 
