@@ -20,8 +20,8 @@ Allow thus to have spaced and normal point line
 
 ### Enable search in wiki
 https://github.com/linyows/github-wiki-search
-For mozilla, need to install Geesemonkey
-Add the source code of the script http://userscripts.org/scripts/review/129930
-Activate the script
+* For mozilla, need to install Geesemonkey
+* Add the source code of the script http://userscripts.org/scripts/review/129930
+* Activate the script
 
 
