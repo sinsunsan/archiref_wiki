@@ -8,11 +8,11 @@ $query = db_query($sql);
 while ($row = db_fetch_array($query)) {
 
 }
+```
 
 * **EntityFieldQuery** Class to make request on entities
 https://api.drupal.org/api/drupal/includes!entity.inc/class/EntityFieldQuery/7
 
-```
 **Wrong syntax**
 Always the same first row (because it redo the query again and again
 ```
