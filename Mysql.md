@@ -62,6 +62,10 @@ Avec la commande mysql essayé marche
 mysql -h localhost -u sqledi -p password < EdiPublicit-2012-01-05T17-00-08.mysql
 </code>
 
+http://www.cyberciti.biz/faq/import-mysql-dumpfile-sql-datafile-into-my-database/   
+```
+mysql -u username -p -h localhost DATA-BASE-NAME < data.sql
+````
 
 Il est également possible de créer la copie sur le même serveur en omettant l’option –host :
 <code>
