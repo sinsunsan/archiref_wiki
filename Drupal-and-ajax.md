@@ -3,6 +3,9 @@
 * **ajax_form_callback**   
 http://api.drupal.org/api/drupal/includes!ajax.inc/function/ajax_form_callback/7
 
+* **drupal_json_output**  Set the header for json output and convert code to json   
+https://api.drupal.org/api/drupal/includes!common.inc/function/drupal_json_output/7   
+
 ### How to 
 
 1. Ajax call in a javascript files : 
