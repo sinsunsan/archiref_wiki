@@ -4,6 +4,7 @@ http://svnbook.red-bean.com/en/1.7/index.html
 
 * http://www.tuteurs.ens.fr/logiciels/subversion/
 
+* **svn download page**   http://apache.mirrors.tds.net/subversion/#sthash.k9LsBwzn.dpuf
 
 ### Commands
 * **svn --version** : How to know the installed version of svn   
@@ -26,4 +27,3 @@ http://svnbook.red-bean.com/en/1.7/svn.advanced.props.special.ignore.html
 ````svn propset svn:ignore dirname .````
 * **Display the current svn:ignore value**   
 ````svn pg svn:ignore .````
-
