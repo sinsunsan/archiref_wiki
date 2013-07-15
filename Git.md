@@ -5,6 +5,9 @@
 [[Comprendre les réglages dans .git/config]]   
 [[Git submodules]]
 
+**Drupal and Git best practices**   
+https://drupal.org/node/803746
+
 ### Liens 
 
 Référence de Adyax    
