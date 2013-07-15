@@ -6,6 +6,10 @@ http://svnbook.red-bean.com/en/1.7/index.html
 
 
 ### Commands
+* **svn --version** : How to know the installed version of svn   
+* **How to updated svn to a new version on mac**    
+http://jason.pureconcepts.net/2012/10/updating-svn-mac-os-x/
+
 * **svn diff** : Show the diff between two revisions   
 
 Display the diff between current state of files and revision r72
@@ -22,5 +26,4 @@ http://svnbook.red-bean.com/en/1.7/svn.advanced.props.special.ignore.html
 ````svn propset svn:ignore dirname .````
 * **Display the current svn:ignore value**   
 ````svn pg svn:ignore .````
-
 
