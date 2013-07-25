@@ -21,3 +21,11 @@ How the order is interpreted
 http://stackoverflow.com/questions/7960669/with-rsync-how-do-includes-and-excludes-combine   
 How is the syntax   
 http://www.hyperorg.com/blogger/2008/05/10/beginner-to-beginner-rsync-exclude-from/
+
+
+### exclude files   
+
+http://jeff.ecchi.ca/blog/2010/03/18/le-parametre-exclude-de-rsync/
+Caution, when using --exclude / is relative to the path we are backuping    
+> Ainsi, si je backupe “/home/jeff/”, “/” ne correspond pas réellement à “/”, mais à “/home/jeff/”. Conséquemment, si je veux exclure “/home/jeff/src”, il faut que je lui dise d’exclure “/src” plutôt.
+
