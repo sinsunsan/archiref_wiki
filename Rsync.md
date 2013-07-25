@@ -1,12 +1,13 @@
 * -a copy owner -o - permission -p and -g group -rlptgoD
 * to juste synchronise files but allow different permission, owner and group set -rltD
-* r recursive 
-* l  -l, --links                 copy symlinks as symlinks
-*  -t, --times                 preserve modification times
-*  -D                          same as --devices --specials
-* -g, --group
-* -o, --owner
-* -k transform symlinks in source directory to plain directory in destination (used by drush rsync)
+
+r recursive    
+l  -l, --links                 copy symlinks as symlinks   
+-t, --times                 preserve modification times    
+-D                          same as --devices --specials      
+-g, --group   
+-o, --owner   
+-k transform symlinks in source directory to plain directory in destination (used by drush rsync)   
 
 *  so to copy permission but not the owner and group 
 Useful when rsyncing from a mac and having different user and group on the local mac, and the remote server
