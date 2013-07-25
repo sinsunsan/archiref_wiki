@@ -1,5 +1,7 @@
-* -a copy owner -o - permission -p and -g group -rlptgoD
-* to juste synchronise files but allow different permission, owner and group set -rltD
+### Interesting options
+
+-a copy owner -o - permission -p and -g group -rlptgoD    
+to juste synchronise files but allow different permission, owner and group set -rltD    
 
 r recursive    
 l  -l, --links                 copy symlinks as symlinks   
