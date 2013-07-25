@@ -42,6 +42,11 @@ http://nvie.com/posts/a-successful-git-branching-model/
 git checkout 9a8ea28cb27d60b9fa89c1ad0fc4cd2b9423368e rue89-page-header-autopromo.tpl.php
 </pre>
 
+
+* How to get the diff only of a file or directory but not of all the git tree   
+````
+git diff responsive sass
+````   
 ### Retrouver la version d'un fichier tel qu'il était au dernier commit (quand on a des changements non commités)
 <pre>
 git checkout rue89-page-header-autopromo.tpl.php
