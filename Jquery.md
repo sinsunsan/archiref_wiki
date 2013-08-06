@@ -1,4 +1,4 @@
-* **[[jquery selection]]
+* **[[jquery selection]]**
 * **[[jquery transition]]**
 * **[[jquery event]]**
 * **[[jquery manipulation]]**
