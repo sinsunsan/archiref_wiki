@@ -15,3 +15,5 @@ var previous = $(this).prev('td');
 var next = $(this).next('td');   
 var all = $.merge(previous, next);   
 ````
+* **$('element').next();** Get the next element in a set of matched elements   
+http://api.jquery.com/next/
