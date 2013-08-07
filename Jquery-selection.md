@@ -7,8 +7,6 @@ $('li').eq(2); // The third li
 
 * **$.merge()** Allow to merge two things like 2 jquery objects  
 http://api.jquery.com/jQuery.merge/
-```
 var previous = $(this).prev('td');
 var next = $(this).next('td');
 var all = $.merge(previous, next);
-```
