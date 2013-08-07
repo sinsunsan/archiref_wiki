@@ -10,6 +10,7 @@ Javascript best practices
 http://www.javascripttoolbox.com/bestpractices/#var
 
 ### API
+* [[javascript variable scope]]   
 * [[javascript objects]]
 * [[javascript operator]]
 * [[javascript string methods]]
