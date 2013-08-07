@@ -1,6 +1,13 @@
 **php.js** : Port useful php functions in javascript   
 http://phpjs.org/   
 
+### Events 
+
+**jquery-mousewheel** : A jQuery plugin that adds cross-browser mouse wheel support.   
+https://github.com/brandonaaron/jquery-mousewheel
+
+### Deeplinking
+
 **jquery-bbq.js** : Libraries of function to handle url and record navigation state even with ajax generated content   
 http://benalman.com/code/projects/jquery-bbq   
 
