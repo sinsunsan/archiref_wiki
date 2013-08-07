@@ -1,5 +1,9 @@
 http://javascript.crockford.com/code.html
 
+Javascript coding standard for Drupal   
+https://drupal.org/node/172169
+
+In most part similar to drupal coding standard for php except
 
 If a function literal is anonymous, there should be one space between the word function and the ( (left parenthesis). If the space is omited, then it can appear that the function's name is function, which is an incorrect reading.
 
