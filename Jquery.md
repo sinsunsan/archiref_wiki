@@ -1,5 +1,6 @@
 * **[[jquery selection]]**
 * **[[jquery transition]]**
+* **[[jquery DOM]]**   
 * **[[jquery event]]**
 * **[[jquery manipulation]]**
 * **[[jquery plugin]]**
