@@ -1,6 +1,9 @@
-### Other
+### JS
 * [[backbone.js]]
-* [[wordpress]]
+* [[javascript]]
+* [[javascript & jquery libraries]]
+* [[jquery]]
+* [[ajax]]
 
 ### Drupal
 * [[chrome debugger]]
@@ -8,7 +11,7 @@
 * [[Drupal]]
 * [[drush]]
 
-### admin sys
+### Admin
 * [[fresh install]]
 * [[Linux]]
 * [[ubuntu]]
@@ -33,14 +36,9 @@
 * [[github]]
 * [[svn]]
 
-### Languages
+### Backend language
 * [[php]]
-* [[javascript]]
-* [[javascript & jquery libraries]]
-* [[jquery]]
-* [[ajax]]
 * [[ruby]]
-* [[xpath]] : xpath allow to select element in a html, xml page just as jquery
 
 ### Front end, theming 
 * [[css]]
@@ -56,8 +54,9 @@
 * [[disqus api]]
 * [[gollum]]
 * [[github selection]]
+* [[xpath]] : xpath allow to select element in a html, xml page just as jquery
+* [[wordpress]]
 
 ### Mac
 * [[mac command line]]
 * [[hardware]]
-
