@@ -1,7 +1,7 @@
 ### JS
 * [[backbone.js]]
 * [[javascript]]
-* [[javascript & jquery libraries]]
+* [[Javascript libraries & Jquery-Plugins]]
 * [[jquery]]
 * [[ajax]]
 
