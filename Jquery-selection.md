@@ -2,8 +2,11 @@
 This code select html but also body   
 ```$('html, body');```
 
-* **eq** Return a given sub object by its index n°
+* **eq** Return a given sub object by its index n°   
+http://api.jquery.com/eq/
+````
 $('li').eq(2); // The third li
+````
 
 * **$.merge()** Allow to merge two things like 2 jquery objects  
 http://api.jquery.com/jQuery.merge/
