@@ -3,3 +3,6 @@ http://phpjs.org/
 
 **jquery-bbq.js** : Libraries of function to handle url and record navigation state even with ajax generated content   
 http://benalman.com/code/projects/jquery-bbq   
+
+**swf adress** : Deep linking in ajax and in flash apps   
+http://www.asual.com/swfaddress
