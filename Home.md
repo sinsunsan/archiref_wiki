@@ -1,5 +1,6 @@
 ### JS
 * [[backbone.js]]
+* [[angular.js]]   
 * [[javascript]]
 * [[Javascript libraries & Jquery-Plugins]]
 * [[jquery]]
