@@ -17,6 +17,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 
 ### Other Ressources
 * [[Javascript syntax]]
+* [[Javascript code style]]   
 * [[javascript replace]]
 * [[RegExp : regular expression]]
 * [[Drupal and javascript]]
