@@ -13,4 +13,3 @@ If a function literal is anonymous, there should be one space between the word f
         },
         datum: 0
     };
-Use of global functions should be minimized.
