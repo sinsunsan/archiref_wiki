@@ -6,6 +6,11 @@ if (data.hasOwnProperty(fieldName)) {
 }
 ```
 
+### timer 
+
+Good blog post to understand timer   
+http://ejohn.org/blog/how-javascript-timers-work/   
+
 * **setTimeout**   
 Trigger something after having waited a time defined in millisecond
 ```
@@ -14,6 +19,5 @@ setTimeout(function() { $('#rue89-register-username').find('input').focus(); }, 
 after 10 ms, give the focus to input element inside #rue89-register-username element   
 
 
-* **setIntervall**   
+* **setInterval**   
 Trigger something every xxx time in milsecond
-
