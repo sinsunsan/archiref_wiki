@@ -6,6 +6,14 @@
 * [[jquery]]
 * [[ajax]]
 
+### Front end, theming 
+* [[css]]
+* [[sass]]
+* [[html]]
+* [[html5]]
+* [[responsive design]]
+* [[jade]]
+
 ### Drupal
 * [[chrome debugger]]
 * [[debug technics]]
@@ -40,13 +48,6 @@
 ### Backend language
 * [[php]]
 * [[ruby]]
-
-### Front end, theming 
-* [[css]]
-* [[sass]]
-* [[html]]
-* [[html5]]
-* [[responsive design]]
 
 ### Others
 * [[RSS]]
