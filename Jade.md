@@ -15,3 +15,4 @@ To watch the changes of a file
 ```
 jade -P --watch -o /SEB/www/pernod/proto home1.jade 
 ```
+As we only put one file, it will not watch the change of included files
