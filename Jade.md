@@ -10,3 +10,8 @@ Option -P to have pretty indented html
 ```
 jade -P -o /SEB/www/pernod/proto home1.jade
 ```
+
+To watch the changes of a file    
+```
+jade -P --watch -o /SEB/www/pernod/proto home1.jade 
+```
