@@ -19,7 +19,7 @@ As we only put one file, it will not watch the change of included files
 
 **JADE Syntax**   
 
-To have a for loop to generate a number of element   
+* How to have a for loop to generate a number of element   
 ```
   - for (var i = 0; i < 5; ++i) {
     #post + i
@@ -28,3 +28,13 @@ To have a for loop to generate a number of element
 ```
 Note the - sign that tell jade that it's not html but javascript code
 
+* How to print a dynamic class or id name    
+```
+  - for (var i = 0; i < 5; ++i) {
+    -var id=[ 'post' + i]
+    div(id=id) Lorem ispsum
+    img.img_bloc_hp(src='datas/img/vignette_16_9_480px.jpg')
+  - }
+```
+We defined a javascript variable : -var id=[ 'post' + i]   
+Than then is used in the id definition : -var id=[ 'post' + i]   
