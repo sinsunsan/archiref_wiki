@@ -11,6 +11,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 
 ### API
 * [[javascript variable scope]]   
+* [[javascript globale scope alternatives]]
 * [[javascript objects]]
 * [[javascript operator]]
 * [[javascript string methods]]
