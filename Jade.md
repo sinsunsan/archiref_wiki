@@ -38,3 +38,16 @@ Note the - sign that tell jade that it's not html but javascript code
 ```
 We defined a javascript variable : -var id=[ 'post' + i]   
 Than then is used in the id definition : -var id=[ 'post' + i]   
+
+* Non intuitive solution for input checkbox 
+```
+input.checkbox(type='checkbox') 
+  | Check me please !
+```
+We can't do 
+```
+input.checkbox(type='checkbox') Check me please !
+```
+Because input html element can't have child because they are self closing 
+See 
+https://github.com/visionmedia/jade/issues/445
