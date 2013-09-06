@@ -1,7 +1,7 @@
-### Jade documentations 
+## Jade documentation
 http://jade-lang.com/
 
-**Extends, mixins, include**   
+### **Extends, mixins, include**   
 http://tjholowaychuk.com/post/7590787973/jade-mixins-includes       
 http://www.devthought.com/code/use-jade-blocks-not-layouts   
 
@@ -52,8 +52,16 @@ Because input html element can't have child because they are self closing
 See 
 https://github.com/visionmedia/jade/issues/445
 
+### **Generation in command line**   
+
 
 * How to automatically watch a set of jade file for changes   
 ````
 jade --watch -P -o /SEB/www/pernod/proto *.jade
 ````
+
+### **Variable scope**   
+A variable is defined in the includes 
+For extend it's a bit more complicated. 
+When you defined variables in the file which is extended (directly of in included) files. This variables will be defined in its scope. 
+If in the extended files you define block (which is necessary to taka advantage of extend awesomeness), in you file that is extended this base file, this variables would not be defined.
