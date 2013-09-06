@@ -51,3 +51,9 @@ input.checkbox(type='checkbox') Check me please !
 Because input html element can't have child because they are self closing 
 See 
 https://github.com/visionmedia/jade/issues/445
+
+
+* How to automatically watch a set of jade file for changes   
+````
+jade --watch -P -o /SEB/www/pernod/proto *.jade
+````
