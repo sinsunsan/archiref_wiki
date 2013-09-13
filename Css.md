@@ -2,6 +2,7 @@
 * [[css3 selectors]]
 * [[css tips and tricks]]
 * [[@font-face]]
+* [[vertical align in css]]
 
 **Misc**
 
