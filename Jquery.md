@@ -4,6 +4,7 @@
 * **[[jquery event]]**
 * **[[jquery manipulation]]**
 * **[[jquery plugin]]**
+* **[[jquery Ajax]]**   
 
 * **A selector with several methods (syntax)**   
 It's more readable to write each method on a new line like the following
