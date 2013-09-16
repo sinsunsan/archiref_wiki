@@ -1,3 +1,4 @@
+http://net.tutsplus.com/tutorials/javascript-ajax/5-ways-to-make-ajax-calls-with-jquery/   
 See more at: 
 http://deano.me/2012/09/jquery-load-css-with-ajax-all-browsers/#sthash.puSfWAIS.dpuf
 * *Load css with ajax*  
