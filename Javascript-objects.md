@@ -1,9 +1,8 @@
-### Tuto Object oriented javascript   
-http://net.tutsplus.com/tutorials/javascript-ajax/the-basics-of-object-oriented-javascript/
-
 * **The url of the page**   
+window.location.href   
 
-.window.location.toString   
-.window.location.href   
+* **The navigator    
+navigator.platform
 
-Output the url of the current page
+* **The browser name    
+navigator.userAgent
