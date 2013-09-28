@@ -1,8 +1,8 @@
-* The url of the page :     
+* **The url of the page** :     
 window.location.href 
  
-* The navigator :    
+* **The navigator** :    
 navigator.platform
 
-* The browser name :    
+* **The browser name** :    
  navigator.userAgent
