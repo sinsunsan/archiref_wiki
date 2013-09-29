@@ -2,7 +2,7 @@ http://blog.coolaj86.com/articles/using-git-submodules.html
 https://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/   
 http://blogs.atlassian.com/2011/12/git-submodules/
 
-**Alternatives to git submodules    **
+**Alternatives to git submodules**    
 https://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
 
 
