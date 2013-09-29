@@ -12,7 +12,7 @@ http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-patho
 **Alternatives to git submodules**    
 https://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
 
-###debug 
+###Clone a module with submodules
 
 To download automatically submodules of a git repo 
 You need to do 
