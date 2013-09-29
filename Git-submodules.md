@@ -1,6 +1,14 @@
+### Links
+
 http://blog.coolaj86.com/articles/using-git-submodules.html   
 https://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/   
-http://blogs.atlassian.com/2011/12/git-submodules/
+http://blogs.atlassian.com/2011/12/git-submodules
+
+* This post explain how to use git submodule with an example. Tested work !   
+http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+
+* http://git-scm.com/book/en/Git-Tools-Submodules
+* http://longair.net/blog/2010/06/02/git-submodules-explained/
 
 **Alternatives to git submodules**    
 https://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
@@ -24,13 +32,3 @@ fatal: 'git status --porcelain' failed in submodule default/themes/archiref_sky
 It's due to the fact that I use to rsync my files to the server, and the local macbook path is saved in this files. 
 
 The alternative, is to manually clone the sub repo, take more time but more secure. 
-
-
-
-### Links
-
-* This post explain how to use git submodule with an example. Tested work !   
-http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
-
-* http://git-scm.com/book/en/Git-Tools-Submodules
-* http://longair.net/blog/2010/06/02/git-submodules-explained/
