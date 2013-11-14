@@ -10,3 +10,8 @@ Open format suitable for HTML5 videos tags
 
 
 ### Compression codecs
+
+
+### Converter software
+* Adobe media encoder
+* http://www.wondershare.net/ad/video-converter-ultimate/index_mac.html
