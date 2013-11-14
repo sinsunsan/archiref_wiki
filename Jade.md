@@ -1,6 +1,8 @@
 ## Jade documentation
 http://jade-lang.com/
 
+### [[jade debug]]
+
 ### **Extends, mixins, include**   
 http://tjholowaychuk.com/post/7590787973/jade-mixins-includes       
 http://www.devthought.com/code/use-jade-blocks-not-layouts   
