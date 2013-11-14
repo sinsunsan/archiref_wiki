@@ -1,7 +1,12 @@
 ### Formats
 
 * FLV : flash
-* mp4 
-* Mov
+* MOV
+
+Open format suitable for HTML5 videos tags 
+* MP4 
+* OGG
+* WebM
+
 
 ### Compression codecs
