@@ -5,11 +5,7 @@
 The default controls are shown when you set controls attribute in the Video Tag. 
 The appearance of default control are not standardized amon browser 
 
-**Customize the controls**
-
-http://blog.teamtreehouse.com/building-custom-controls-for-html5-videos   
-http://dev.opera.com/articles/view/custom-html5-video-player-with-css3-and-jquery   
-http://www.creativebloq.com/html5/build-custom-html5-video-player-9134473 
+### [[HTML5 Video Custom controls]]
 
 ### Tutorials
 * http://html5doctor.com/the-video-element/  
