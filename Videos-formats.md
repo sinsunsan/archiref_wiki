@@ -5,7 +5,7 @@
 
 Open format suitable for HTML5 videos tags 
 * MP4 
-* OGG
+* OGG : Ogg is a free, open container format maintained by the Xiph.Org Foundation.
 * WebM
 
 
