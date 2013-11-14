@@ -1,5 +1,10 @@
 ### [[Videos formats]]
 
+### Controls   
+
+The default controls are shown when you set controls attribute in the Video Tag. 
+The appearance of default control are not standardized amon browser   
+
 ### Tutorials
 * http://html5doctor.com/the-video-element/  
 * http://www.html5rocks.com/en/tutorials/video/basics/#toc-fallback 
