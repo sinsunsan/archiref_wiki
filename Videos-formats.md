@@ -16,7 +16,7 @@ Open formats suitable for HTML5 videos tags
 
 ### Resolution 
 
-* 1280 x 720 : 1.77
+* 1280 x 720 : 1.77... which is 16/9
 
 ### Converter software
 
