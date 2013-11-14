@@ -1,9 +1,10 @@
 ### Formats
 
+Old formats
 * FLV : flash
 * MOV
 
-Open format suitable for HTML5 videos tags 
+Open formats suitable for HTML5 videos tags 
 * MP4 
 * **OGG** : Ogg is a free, open container format maintained by the Xiph.Org Foundation.
 * **WebM** : WebM is an open, royalty-free, media file format designed for the web.
