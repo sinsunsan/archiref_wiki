@@ -27,4 +27,3 @@ Online
 
 Desktop
 * **Adobe media encoder**
-* [**Video Converter Ultimate**](http://www.wondershare.net/ad/video-converter-ultimate/index_mac.html)
