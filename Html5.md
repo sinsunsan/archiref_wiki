@@ -13,3 +13,9 @@ Clean up command html tool to be w3c compliant
 
 * [[html5 Videos]]
 
+
+### Ressources 
+
+HTML 5 Polyfills to implement html5 functionality in browsers that don't natively support them.
+https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills
+
