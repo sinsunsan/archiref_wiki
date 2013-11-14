@@ -31,4 +31,6 @@ Online
 * http://video.online-convert.com   
 
 Desktop
+* Firefogg which is a firefox plugin   
+http://firefogg.org/
 * **Adobe media encoder**
