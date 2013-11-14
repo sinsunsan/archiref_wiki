@@ -13,3 +13,5 @@ Clean up command html tool to be w3c compliant
 
 * http://html5doctor.com/the-video-element/   
 Article about video element
+
+* [[html5 Videos]]
