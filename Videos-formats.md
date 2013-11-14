@@ -5,9 +5,17 @@ Old formats
 * MOV
 
 Open formats suitable for HTML5 videos tags 
-* **MP4** : MPEG 4
+* **MP4** : MPEG 4    
+Compatibility : IE9+ and all except Opera   
+http://caniuse.com/#feat=mpeg4
+
 * **OGV** : Ogg is a free, open container format maintained by the Xiph.Org Foundation.
+Compatibility : Only firefox, Chrome and Opera   
+http://caniuse.com/#feat=ogv
+
 * **WebM** : WebM is an open, royalty-free, media file format designed for the web.
+Compatibility : Only firefox, Chrome, Opera and Android   
+http://caniuse.com/#search=webm
 
 What format to choose for HTML5 video    
 In April 2013, the compatibility was   
