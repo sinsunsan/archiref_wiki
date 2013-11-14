@@ -13,5 +13,6 @@ Open format suitable for HTML5 videos tags
 
 
 ### Converter software
-* Adobe media encoder
-* http://www.wondershare.net/ad/video-converter-ultimate/index_mac.html
+
+* **Adobe media encoder**
+* [**Video Converter Ultimate**](http://www.wondershare.net/ad/video-converter-ultimate/index_mac.html)
