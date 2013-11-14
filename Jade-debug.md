@@ -1,3 +1,3 @@
 **unexpected token "indent"** :    
-Check if there is no added space at the end of a mixin definition
-You can switch on the invisible character display to look up more easily
+Check if there is no added space at the end of a mixin definition.    
+You can switch on the invisible character display to look up more easily...
