@@ -18,6 +18,8 @@ Open formats suitable for HTML5 videos tags
 
 * 1280 x 720 : 1.77... which is 16/9
 
+### Bit rate (Taux d'échantillonnage)
+
 ### Converter software
 
 Online 
