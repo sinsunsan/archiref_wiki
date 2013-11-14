@@ -11,6 +11,12 @@ Open formats suitable for HTML5 videos tags
 
 ### Compression codecs
 
+* h.264
+* MPEG4
+
+### Resolution 
+
+* 1280 x 720 : 1.77
 
 ### Converter software
 
