@@ -53,6 +53,7 @@
 * [[RSS]]
 * [[SEO]]
 * [[SOLR]]
+* [[Videos]]
 * [[disqus api]]
 * [[gollum]]
 * [[github selection]]
