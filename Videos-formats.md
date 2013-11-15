@@ -4,6 +4,7 @@ Old formats
 * FLV : flash
 * MOV
 
+The ideal order OGV + MP4 + WEBm
 Open formats suitable for HTML5 videos tags 
 * **MP4** : MPEG 4    
 Compatibility : IE9+ and all except Opera   
