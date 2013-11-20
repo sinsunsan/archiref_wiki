@@ -13,6 +13,7 @@
 * [[html5]]
 * [[responsive design]]
 * [[jade]]
+* [[IE debug]]
 
 ### Drupal
 * [[chrome debugger]]
