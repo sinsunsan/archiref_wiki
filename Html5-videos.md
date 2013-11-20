@@ -8,7 +8,7 @@ http://www.videojs.com/
 * JS project to make html5 video works for every browser    
 http://html5media.info/
 
-# video converters
+### video converters
 
 * **Miro Video Converter** : Free open source Desktop video converter http://www.mirovideoconverter.com/
 * **Adobe Media encoder** : Ok but bu default only good for mp4 
