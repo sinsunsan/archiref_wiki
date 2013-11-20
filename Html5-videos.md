@@ -4,6 +4,7 @@
 * Code Generator to have a correct fallback to flash
 http://v4e.thewikies.com/
 * An opensource and customizable html5 video player http://www.videojs.com/
+* JS project to make html5 video works for every browser http://html5media.info/
 
 ### Controls   
 
