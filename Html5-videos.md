@@ -5,7 +5,7 @@
 http://v4e.thewikies.com/
 * **Video JS** : An opensource and customizable html5 video player       
 http://www.videojs.com/
-* **Html5 media** : JS project to make html5 video works for every browser  
+* **[[Html5 media js]]** : JS project to make html5 video works for every browser  
 It make a wrapper on mp4 file so that it works for IE in flash mode     
 http://html5media.info/
 
