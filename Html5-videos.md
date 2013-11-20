@@ -6,6 +6,12 @@ http://v4e.thewikies.com/
 * An opensource and customizable html5 video player http://www.videojs.com/
 * JS project to make html5 video works for every browser http://html5media.info/
 
+# video converters
+
+* **Miro Video Converter** : Free open source Desktop video converter http://www.mirovideoconverter.com/
+* **Adobe Media encoder** : Ok but bu default only good for mp4 
+Per aps an plugin extension are provided by installing also adobe after effect to test
+ 
 ### Controls   
 
 The default controls are shown when you set controls attribute in the Video Tag. 
