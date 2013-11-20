@@ -9,3 +9,5 @@ So the browser that suport a given property must have it's css prefixed with htm
 * Use the IE debuger of IE8 that is not at all perfect but has the merit to exist. 
 
 * USe the http://crossbrowsertesting.com/ for more complicated configuration
+
+* For responsive to works insert https://github.com/scottjehl/Respond
