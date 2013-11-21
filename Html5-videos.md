@@ -10,6 +10,8 @@ It make a wrapper on mp4 file so that it works for IE in flash mode
 http://html5media.info/
 * **Fit Vid.js** Jquery plugin to make video fit their container with aspect ratio    
 https://github.com/davatron5000/FitVids.js
+* **Fluid video Instresic ratio method** : A css method using padding to make a container respect the ratio of a fixed ratio element : a video    
+http://alistapart.com/article/creating-intrinsic-ratios-for-video
 
 ### video converters
 
