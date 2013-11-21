@@ -22,6 +22,8 @@ The appearance of default control are not standardized among browser
 
 * Create [[HTML5 Video Custom controls]]
 
+### [[html5 debug]] 
+
 ### Tutorials
 
 * http://html5doctor.com/the-video-element/  
