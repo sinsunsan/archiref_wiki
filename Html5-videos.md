@@ -8,6 +8,8 @@ http://www.videojs.com/
 * **[[Html5 media js]]** : JS project to make html5 video works for every browser  
 It make a wrapper on mp4 file so that it works for IE in flash mode     
 http://html5media.info/
+* **Fit Vid.js** Jquery plugin to make video fit their container with aspect ratio    
+https://github.com/davatron5000/FitVids.js
 
 ### video converters
 
