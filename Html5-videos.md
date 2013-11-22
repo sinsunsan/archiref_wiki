@@ -35,6 +35,6 @@ The appearance of default control are not standardized among browser
 * How to style the video controls   
 http://blog.teamtreehouse.com/building-custom-controls-for-html5-videos
 * http://blog.teamtreehouse.com/getting-started-with-html5-video
-
+* http://www.hongkiat.com/blog/html5-videos-things-you-need-to-know/
 * js plugin that make video tag cross browser 
 https://github.com/etianen/html5media
