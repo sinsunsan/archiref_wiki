@@ -9,6 +9,9 @@ Site that links to good article and tutorial on html 5
 * http://www.w3.org/People/Raggett/tidy/   
 Clean up command html tool to be w3c compliant
 
+* http://html5doctor.com   
+Dedicated to explaing new html markup elements
+
 ### Elements
 
 * [[html5 Videos]]
