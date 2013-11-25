@@ -1,7 +1,7 @@
 ### Pages 
 
 [[Git debug]]   
-[[Git howto]] 
+[[Git howto]]    
 [[Git howto1]]   
 [[Comprendre les réglages dans .git/config]]   
 [[Git submodules]]
