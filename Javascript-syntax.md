@@ -66,4 +66,16 @@ In drupal it's
 
 * Document is the html document, the full dom    
 * Window is the global object    
-* $ is jquery   
+* $ is jquery  
+
+* **Declare several variable in one line**    
+````
+/* Vars */
+		var me = this,
+			current = ($(window).scrollTop()),
+			limit = me.$holder.offset().top,
+			islast = sticky.stack[sticky.stack.length-1] == me.$body,
+			fixed = (islast)? current >= limit-sticky.offset+me.height : current >= limit-sticky.offset,
+			stackit = (!$(me).hasClass('top') && !$(me).hasClass('stripper')),
+			keep = ($(me).hasClass('top') || $(me).hasClass('keep')); 
+````
