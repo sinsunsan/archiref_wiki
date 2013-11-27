@@ -5,6 +5,8 @@ http://braincracking.org/2011/11/16/javascript-3-fondamentaux/
 FALSE is php code
 In javascript, we need to write false   
 
+***
+
 * **Variable variable in js**   
 ```
 var page = 'home';
@@ -12,6 +14,9 @@ var obj = {'home': {'width': 235, 'height': 233}};
 console.log(obj[page].width);
 235
 ```
+
+***
+
 * **var to define a variable with a local scope**   
 var i = 1; create the i variable and its value is only available the first time, it's set.
 More precisely, this variable has its value inside the function it has been created, and in the function this function is calling, but not before.   
@@ -32,6 +37,8 @@ test1 = function() {
 console.log(x); // undefined
 ```
 
+***
+
 * **isolate the code**   
 To be sure not to have variable collapse always embed the code in 
 ```
@@ -45,7 +52,7 @@ In drupal it's
 })(jQuery);
 ```
 
-
+***
 
 * **Found in a code** May be a best practice, need to be checked
 
@@ -67,6 +74,8 @@ In drupal it's
 * Document is the html document, the full dom    
 * Window is the global object    
 * $ is jquery  
+
+***
 
 * **Declare several variable in one line**    
 ````
