@@ -1,6 +1,6 @@
 Display the scroll position for debugging every time we scroll
-````
+```` js
 $(window).scroll(function () { 
-    console.log("Cureent scrolltop : "$(window).scrollTop() + " px");
+    console.log("Current scrolltop : " + $(window).scrollTop() + " px");
 });
 ````
