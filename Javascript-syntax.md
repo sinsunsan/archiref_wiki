@@ -63,3 +63,7 @@ In drupal it's
 	// as this (slightly) quickens the resolution process and can be more efficiently
 	// minified (especially when both are regularly referenced in your plugin).
 ````
+
+* Document is the html document, the full dom    
+* Window is the global object    
+* $ is jquery   
