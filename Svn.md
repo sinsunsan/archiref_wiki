@@ -1,8 +1,8 @@
 ### Tuto
 * **svn book** : A complete book in html on svn    
 http://svnbook.red-bean.com/en/1.7/index.html
-
 * http://www.tuteurs.ens.fr/logiciels/subversion/
+* http://www.linuxfromscratch.org/blfs/edguide/chapter03.html#ch03-commit
 
 * **svn download page**   http://apache.mirrors.tds.net/subversion/#sthash.k9LsBwzn.dpuf
 
