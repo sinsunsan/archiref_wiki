@@ -8,7 +8,7 @@ Could be :
 
 ***
 
-* Mail the result of the cron   
+* **Mail the result of the cron**  
 ``` 
 0 7 * * *  /home/user/backup/travail/synchro.sh | mail 'synchro prod89' mymail@gmail.com
 ```
