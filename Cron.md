@@ -24,6 +24,17 @@ http://stackoverflow.com/questions/1396506/cron-send-email-with-stderr-but-not-s
 
 If there is no STDERR output, you won't get any mail.
 
+* **Disable the default mail of the cron** 
+http://www.cyberciti.biz/faq/disable-the-mail-alert-by-crontab-command/
+
+````
+Append string >/dev/null 2>&1 to stop mail alert:
+0 1 5 10 * /path/to/script.sh >/dev/null 2>&1
+
+OR
+0 1 5 10 * /path/to/script.sh &> /dev/null
+````
+
 ***
 
 ### Tuto
