@@ -10,5 +10,5 @@ So the browser that suport a given property must have it's css prefixed with htm
 
 * Use the http://crossbrowsertesting.com/ for more complicated configuration
 
-* Use on a PC chrome extension **(IE TABS)[https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd]** 
+* Use on a PC chrome extension **[IE TABS](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)** 
 * For responsive to works insert https://github.com/scottjehl/Respond
