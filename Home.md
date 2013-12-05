@@ -14,6 +14,7 @@
 * [[responsive design]]
 * [[jade]]
 * [[IE debug]]
+* [[mobile testing]] 
 
 ### Drupal
 * [[chrome debugger]]
