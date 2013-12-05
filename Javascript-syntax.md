@@ -78,8 +78,8 @@ In drupal it's
 ***
 
 * **Declare several variable in one line**    
-```
 /* Vars */
+```
 		var me = this,
 			current = ($(window).scrollTop()),
 			limit = me.$holder.offset().top,
