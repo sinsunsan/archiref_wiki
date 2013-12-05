@@ -78,7 +78,7 @@ In drupal it's
 ***
 
 * **Declare several variable in one line**    
-````
+```
 /* Vars */
 		var me = this,
 			current = ($(window).scrollTop()),
@@ -87,4 +87,4 @@ In drupal it's
 			fixed = (islast)? current >= limit-sticky.offset+me.height : current >= limit-sticky.offset,
 			stackit = (!$(me).hasClass('top') && !$(me).hasClass('stripper')),
 			keep = ($(me).hasClass('top') || $(me).hasClass('keep')); 
-````
+```
