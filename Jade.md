@@ -69,7 +69,7 @@ When you defined variables in the file which is extended (directly of in include
 If in the extended files you define block (which is necessary to taka advantage of extend awesomeness), in you file that is extended this base file, the variables would not be defined.
 
 
-**The solution to solve this problem **   
+**The solution to solve this problem**   
 https://groups.google.com/forum/#!topic/jadejs/M8WaRKNpcPk    
 (and don't oblige to repeat yourself by redefining variable serveral times is 
 To create a block var in the layout to be extended, as hight in the html as possible. 
