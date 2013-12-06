@@ -9,3 +9,9 @@ if (!("ontouchstart" in document.documentElement)) {
 document.documentElement.className += " no-touch";
 }
 ```
+
+* **How to debug touch behaviors**   
+On a mobile of course, 
+but also chrome debugger include touche emulation support   
+https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks    
+Search : "Emulating touch events"
