@@ -11,3 +11,9 @@ IFRAMES ARE GREAT
 * More secure
 * Better privacy for users
 
+IFRAMES ARE BAD
+
+* Don't inherit parent CSS rules
+* iframe body { font-family: "Comic Sans"; } /* LOL */
+* Hyperlinks navigate iframe, not parent
+* Don't expand to fit contents
