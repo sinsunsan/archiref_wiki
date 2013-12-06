@@ -26,5 +26,5 @@ IFRAMES ARE BAD
 ### Technic to style iframe waiting to seamless iframe to work    
 
 Postmessage technic     
-http://viget.com/extend/using-javascript-postmessage-to-talk-to-iframes
+http://viget.com/extend/using-javascript-postmessage-to-talk-to-iframes   
 http://benvinegar.github.io/seamless-talk/#/17
