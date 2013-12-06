@@ -1,0 +1,1 @@
+$('a.simplepop').fancybox({content: 'kjhkjh'});
