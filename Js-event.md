@@ -1,6 +1,6 @@
 ### Events caused by page loading
 
-* **Difference between window.onload and document.ready**
+* **Difference between window.onload and document.ready**    
 http://stackoverflow.com/questions/3698200/window-onload-vs-document-ready
 
 ### Events caused by user interaction 
