@@ -21,3 +21,10 @@ IFRAMES ARE BAD
 * iframe body { font-family: "Comic Sans"; } /* LOL */
 * Hyperlinks navigate iframe, not parent
 * Don't expand to fit contents
+
+
+### Technic to style iframe waiting to seamless iframe to work    
+
+Postmessage technic     
+http://viget.com/extend/using-javascript-postmessage-to-talk-to-iframes
+http://benvinegar.github.io/seamless-talk/#/17
