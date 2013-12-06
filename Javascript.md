@@ -17,7 +17,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[javascript operator]]
 * [[javascript string methods]]
 * [[Javascript method]]
-* [[javascript events]]
+* [[Js event]]
 
 ### Other Ressources
 * [[Javascript syntax]]
