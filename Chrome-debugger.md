@@ -40,4 +40,6 @@ Event listener breakpoints
 * **How to localize the cause of a specific event**     
 Place a listener on a specific event, then trigger the event
 and look at the call stack (source tab). 
-You should localize the script and line responsible for this event 
+You should localize the script and line responsible for this event   
+
+The problem is that when we are using jquery, it's jquery that appear and not our script :(
