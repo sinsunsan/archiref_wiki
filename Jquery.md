@@ -1,7 +1,7 @@
 * **[[jquery selection]]**
 * **[[jquery transition]]**
 * **[[jquery DOM]]**   
-* **[[jquery event]]**
+* **[[Js Event]]**
 * **[[jquery manipulation]]**
 * **[[jquery plugin]]**
 * **[[jquery Ajax]]**   
