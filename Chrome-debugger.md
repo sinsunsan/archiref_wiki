@@ -30,3 +30,5 @@ On mac
 * Disable cache 
 * Simulate touche events
 * Emulate other user agent 
+* Search a string in all files loaded ! 
+CMD + Opt + F in dev tools 
