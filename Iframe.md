@@ -2,6 +2,7 @@ Allow to display the content of another page
 http://www.w3schools.com/tags/tag_iframe.asp
 
 ### PRO and CON Iframe
+From http://benvinegar.github.io/seamless-talk
 
 IFRAMES ARE GREAT   
 
