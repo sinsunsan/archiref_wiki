@@ -1,6 +1,9 @@
 Allow to display the content of another page    
 http://www.w3schools.com/tags/tag_iframe.asp
 
+* **Seamless iframe**   
+http://css-tricks.com/seamless-iframes-today/
+
 ### PRO and CON Iframe
 From http://benvinegar.github.io/seamless-talk
 
