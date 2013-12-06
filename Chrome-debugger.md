@@ -1,3 +1,5 @@
+https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks
+
 ### Source 
 
 Allow to list all js script.   
@@ -22,3 +24,9 @@ It load all http request included ajax call and ajax retrieved js
 
 CMD + SHIFT + R 
 On mac
+
+### Settings 
+
+* Disable cache 
+* Simulate touche events
+* Emulate other user agent 
