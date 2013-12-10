@@ -63,3 +63,8 @@ if [ -f ~/.bash/bashrc.local ]; then
 fi
 ```
 
+# Debug a script in verbose mode 
+http://stackoverflow.com/questions/956213/verbose-output-of-shell-script
+```
+sh -x script_name
+```
