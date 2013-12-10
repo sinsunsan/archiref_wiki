@@ -68,3 +68,9 @@ http://stackoverflow.com/questions/956213/verbose-output-of-shell-script
 ```
 sh -x script_name
 ```
+
+# Execute a shell script function from the command line 
+```
+./imgopt && usage()
+```
+
