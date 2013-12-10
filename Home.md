@@ -28,7 +28,7 @@
 * [[Linux]]
 * [[ubuntu]]
 * [[Windows]]
-* [[script bash]]
+* [[Shell script]]
 * [[apache]]
 * [[ec2 amazon]]
 * [[mails]]
