@@ -13,3 +13,12 @@ Commit it:
 
 git commit -m ".gitignore is now working"
 ````
+
+* **Delete files untracked files**
+````
+git clean -f
+````
+Will delete all files present in the directory but not tracked in the git repo. 
+Git stash can't work in that case, as the files are not tracked, no it's not local changes. 
+
+http://stackoverflow.com/questions/61212/removing-untracked-files-from-your-git-working-copy
