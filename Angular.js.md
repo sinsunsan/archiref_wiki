@@ -11,4 +11,4 @@ Include external Html / Is used for example to load a different page.
 Define the controller who is in charge of the following chunk of html 
 
 ### How to 
-* [[angular Upload]]
+* [[angular Upload]] : Contributed module to upload files 
