@@ -10,5 +10,5 @@ Include external Html / Is used for example to load a different page.
 * [ng controller](http://docs.angularjs.org/api/ng.directive:ngController) 
 Define the controller who is in charge of the following chunk of html 
 
-### How to 
+### Selected contributed directives
 * [[angular Upload]] : Contributed module to upload files 
