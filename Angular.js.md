@@ -3,8 +3,7 @@
 * [Angular docs](http://docs.angularjs.org/api) : Official documentation
 * [Ng modules](http://ngmodules.org/) : Found contributed angular directives
 
-
-### Important directives
+### Important core directives
 * [ng include](http://docs.angularjs.org/api/ng.directive:ngInclude)
 Include external Html / Is used for example to load a different page. 
 * [ng controller](http://docs.angularjs.org/api/ng.directive:ngController) 
