@@ -1,2 +1,1 @@
-
-* [[angular Upload files]]
+* [[angular Upload]]
