@@ -1,6 +1,6 @@
 ### Docs 
 
-* [Angular docs](http://docs.angularjs.org/api)
+* [Angular docs](http://docs.angularjs.org/api) : Official documentation
 * [Ng modules](http://ngmodules.org/) : Found contributed angular directives
 
 
