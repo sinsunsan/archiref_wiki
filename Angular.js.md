@@ -1,6 +1,6 @@
 ### Docs 
 
-* [Angular docs](http://docs.angularjs.org/api/ng.directive)
+* [Angular docs](http://docs.angularjs.org/api)
 * [Ng modules](http://ngmodules.org/) : Found contributed angular directives
 
 
