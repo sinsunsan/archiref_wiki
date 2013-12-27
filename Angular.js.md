@@ -1,8 +1,8 @@
 ### Docs 
 
 * [Angular docs](http://docs.angularjs.org/api/ng.directive)
-* Find modules for angular 
-http://ngmodules.org/
+* [Ng modules](http://ngmodules.org/) : Found contributed angular directives
+
 
 ### Important directives
 [ng include](http://docs.angularjs.org/api/ng.directive:ngInclude)
