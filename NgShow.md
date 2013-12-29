@@ -1,4 +1,6 @@
-* Display something as soon as we start to type   
+[[angular.js]] directive to show an element or not   
+
+* **Display something as soon as we start to type**
 
 Hello + What we type in the input field, is only shown if it has a value, which mean we have started to type. 
 
@@ -10,7 +12,7 @@ Write some text in textbox:
 
 ***
 
-* Use the result of an expression to show or not show a result
+* **Use the result of an expression to show or not show a result**
 If the user is not set as "male" we don't show it. 
 We could also set this condition in the database call, but this  way, we can easily filter between male and female for example using the same set of datas.
 
