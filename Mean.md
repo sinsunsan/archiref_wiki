@@ -7,5 +7,5 @@ Mean
 ------**filters.js** : Custom filters (none by default)      
 ------**directives** : Custom directives (none by default)    
 ------[Services] All js files defining services (relation to web service and databases)   
-------[Controllers] All js files defining app behavior 
-----[views] All html files containing special tags (ng-...)             
+------[Controllers] All js files defining app behavior    
+----[views] The templates : All html files containing special tags (ng-...)             
