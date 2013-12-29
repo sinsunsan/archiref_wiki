@@ -3,6 +3,8 @@
 * [Angular docs](http://docs.angularjs.org/api) : Official documentation
 * [Ng modules](http://ngmodules.org/) : Found contributed angular directives
 
+### Tutos   
+* http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 ### Angular concepts   
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
