@@ -15,10 +15,13 @@ This part is really important in angular, as it trigger the behavior, and define
 For example currency filter to display currency symbol
 
 ### Important core directives
-* [ng include](http://docs.angularjs.org/api/ng.directive:ngInclude)
+* [ngInclude](http://docs.angularjs.org/api/ng.directive:ngInclude)
 Include external Html / Is used for example to load a different page. 
-* [ng controller](http://docs.angularjs.org/api/ng.directive:ngController) 
-Define the controller who is in charge of the following chunk of html 
+* [ngController](http://docs.angularjs.org/api/ng.directive:ngController) 
+Define the controller who is in charge of the following chunk of html  
+ 
+* [ngInit] / Function to be launched immediately 
+* [ngClick] / Function to be launched when clicking 
 
 ### Selected contributed directives
 * [[angular Upload]] : Contributed module to upload files 
