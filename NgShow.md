@@ -13,6 +13,7 @@ Write some text in textbox:
 * Use the result of an expression to show or not show a result
 If the user is not set as "male" we don't show it. 
 We could also set this condition in the database call, but this  way, we can easily filter between male and female for example using the same set of datas.
+
 ```` 
 <div data-ng-repeat="user in users" , data-ng-show="user.gender == "male" > 
   <h2>{{user.name}}</h2>
