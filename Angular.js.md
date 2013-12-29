@@ -14,6 +14,6 @@ Define the controller who is in charge of the following chunk of html
 
 ### Seed apps 
 
-* [Mean](https://github.com/linnovate/mean)   
+* [[Mean]]
 Seed app using [[angular.js]], [[node.js]], [[twitter bootstrap]] ....   
 https://github.com/linnovate/mean
