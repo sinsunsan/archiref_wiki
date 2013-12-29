@@ -11,3 +11,7 @@ Define the controller who is in charge of the following chunk of html
 
 ### Selected contributed directives
 * [[angular Upload]] : Contributed module to upload files 
+
+### Seed apps 
+Seed app using [[angular.js]], [[node.js], twitter [[bootstrap]] ....
+https://github.com/linnovate/mean
