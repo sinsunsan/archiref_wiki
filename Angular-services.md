@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/13937318/convert-angular-http-get-function-to-a-service
