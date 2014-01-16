@@ -9,9 +9,6 @@ Default Drupal rewrite conditions
   RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
 ````
 
-* Redirecting only a folder    
-http://coolestguidesontheplanet.com/redirecting-a-web-folder-directory-to-another-in-htaccess   
-
 
 Default Drupal rewrite conditions
 ````
