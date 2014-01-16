@@ -11,16 +11,15 @@ http://www.addedbytes.com/articles/for-beginners/url-rewriting-for-beginners
 * L (last - stop processing rules)
 * N (next - continue processing rules)
 * NC (case insensitive)
-NE (do not escape special URL characters in output)
-NS (ignore this rule if the request is a subrequest)
-P (proxy - i.e., apache should grab the remote content specified in the substitution section and return it)
-PT (pass through - use when processing URLs with additional handlers, e.g., mod_alias)
-R (temporary redirect to new URL)
-R=301 (permanent redirect to new URL)
-QSA (append query string from request to substituted URL)
-S=x (skip next x rules)
-T=mime-type (force specified mime type)
-
+* NE (do not escape special URL characters in output)
+* NS (ignore this rule if the request is a subrequest)
+* P (proxy - i.e., apache should grab the remote content specified in the substitution section and return it)
+* PT (pass through - use when processing URLs with additional handlers, e.g., mod_alias)
+* R (temporary redirect to new URL)
+* R=301 (permanent redirect to new URL)
+* QSA (append query string from request to substituted URL)
+* S=x (skip next x rules)
+* T=mime-type (force specified mime type)
 
 Default Drupal rewrite conditions
 ````
