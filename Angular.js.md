@@ -6,6 +6,7 @@
 ### Tutos   
 * [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)  
 
+### [[Angular Recipes]]
 
 ### Angular concepts   
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
