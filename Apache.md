@@ -1,6 +1,6 @@
 * set config in a [[.htaccess]] file
 
-* [[mod_proxy]]
+* [[Apache mod_proxy]]
 
 * **securing an apache directory with a password**   
 
