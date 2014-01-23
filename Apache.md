@@ -1,6 +1,7 @@
 * set config in a [[.htaccess]] file
 
 * [[Apache mod_proxy]]
+* [[Apache mod_rewrite]]  
 
 * **securing an apache directory with a password**   
 
