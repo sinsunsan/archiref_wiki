@@ -1,3 +1,7 @@
+
+* Check varnish syntax    
+http://codepoets.co.uk/2011/checking-varnish-configuration-syntax/
+
 http://erikwebb.net/comment/8241
 
 http://www.lullabot.com/articles/varnish-multiple-web-servers-drupal
