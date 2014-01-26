@@ -1,6 +1,8 @@
-
 * Check varnish syntax    
 http://codepoets.co.uk/2011/checking-varnish-configuration-syntax/
+
+* Regular expression for varnish    
+http://docs.fastly.com/guides/21835572/31252953
 
 http://erikwebb.net/comment/8241
 
