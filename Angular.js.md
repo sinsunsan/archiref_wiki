@@ -19,6 +19,8 @@ This part is really important in angular, as it trigger the behavior, and define
 * [[angular filters]] / Allow to filter string to display it    
 For example currency filter to display currency symbol
 
+* [[angular $watch]] / Watch changes in the model   
+
 ### Important core directives
 * [ngInclude](http://docs.angularjs.org/api/ng.directive:ngInclude)
 Include external Html / Is used for example to load a different page. 
