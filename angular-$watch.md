@@ -1,3 +1,7 @@
+When trigering a script that need angular to have rendered the page. It's a good pratice to create a directive. 
+Like masonry for exemple 
+http://jsfiddle.net/uNREn/12/
+
 http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
 
 http://stackoverflow.com/questions/15112584/using-scope-watch-and-scope-apply
