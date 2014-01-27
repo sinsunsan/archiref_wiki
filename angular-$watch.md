@@ -1,6 +1,8 @@
-When trigering a script that need angular to have rendered the page. It's a good pratice to create a directive. 
+* Trigger a script after angular has triggered    
+When triggering a script that need angular to have rendered the page. It's a good pratice to create a directive. 
 Like masonry for exemple 
 http://jsfiddle.net/uNREn/12/
+http://stackoverflow.com/questions/12304291/angularjs-how-to-run-additional-code-after-angularjs-has-rendered-a-template
 
 http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
 
