@@ -53,6 +53,10 @@ In drupal it's
 ```
 
 ***
+* **Two methods to access an object properties**
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Member_Operators
+
+***
 
 * **Found in a code** May be a best practice, need to be checked
 
