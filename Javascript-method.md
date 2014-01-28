@@ -6,6 +6,9 @@ if (data.hasOwnProperty(fieldName)) {
 }
 ```
 
+* **Optional parameters**   
+http://www.markhansen.co.nz/javascript-optional-parameters/
+
 ### timer 
 
 Good blog post to understand timer   
