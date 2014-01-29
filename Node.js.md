@@ -12,3 +12,6 @@ To have it saved when the server restart
 $ echo export NODE_ENV=production >> ~/.bash_profile
 $ source ~/.bash_profile
 ````
+
+* Start Forever in prod mode   
+NODE_ENV=production forever start app.js 
