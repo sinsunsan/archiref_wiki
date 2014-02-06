@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/14502006/scope-emit-and-on-angularjs
