@@ -9,6 +9,7 @@
 ### [[Angular Recipes]]
 
 ### Angular concepts   
+* [[angular events]] // How to react to events in angular    
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
 For example, define an objects that is linked (binded) to a webservice   
