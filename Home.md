@@ -6,6 +6,7 @@
 * [[Javascript libraries & Jquery-Plugins]]
 * [[jquery]]
 * [[ajax]]
+* [[js testing]]
 
 ### Front end, theming 
 * [[css]]
