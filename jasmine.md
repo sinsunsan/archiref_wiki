@@ -7,4 +7,4 @@ http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-212
   
   * **toEqual** Check if the expression passed in expect() is equal to another value 
   * **toBeFalsy** The expression is false
-  * *.not** inverse the expression (to be placed between expect and the value we expect)
+  * **.not** inverse the expression (to be placed between expect and the value we expect)
