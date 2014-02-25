@@ -11,3 +11,6 @@ http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-212
   * **spyOn** watch a property
   * **toHaveBeenCalledWith** check the argument used with a function call
   * **toThrow** check if the function throw an error
+
+* **Helpers**  
+ * **beforeEach()** Allow to run common code before each it() block  
