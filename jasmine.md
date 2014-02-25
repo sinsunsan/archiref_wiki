@@ -5,4 +5,5 @@ http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-212
 
 * **Matchers**  
   
-  * **toEqual** Check if the expression passed in expect() is equal to another value
+  * **toEqual** Check if the expression passed in expect() is equal to another value 
+  * **toBeFalsy** The expression is false
