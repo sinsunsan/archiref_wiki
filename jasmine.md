@@ -10,3 +10,4 @@ http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-212
   * **.not** inverse the expression (to be placed between expect and the value we expect)
   * **spyOn** watch a property
   * **toHaveBeenCalledWith** check the argument used with a function call
+  * **toThrow** check if the function throw an error
