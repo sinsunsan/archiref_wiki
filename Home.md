@@ -1,3 +1,8 @@
+### General 
+* [[testing]]
+* [[performance]]
+* [[continuous integration]]
+
 ### JS
 * [[node.js]]
 * [[backbone.js]]
