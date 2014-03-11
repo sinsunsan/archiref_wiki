@@ -17,3 +17,7 @@ http://twig.sensiolabs.org/
 {% endfor %}
 ````
 * multiple inheritance, blocks, automatic output-escaping
+````
+{{ var }}
+{{ var|e }}         {# shortcut to escape a variable #}
+````
