@@ -12,6 +12,7 @@ When username value is
 ````
 SELECT * FROM users WHERE name = '' OR '1'='1';
 ````
+**Select all users as 1 = 1 is always TRUE**
 
 When userName value is 
 ````
@@ -20,6 +21,6 @@ a';DROP TABLE users; SELECT * FROM userinfo WHERE 't' = 't
 ````
 SELECT * FROM users WHERE name = 'a';DROP TABLE users; SELECT * FROM userinfo WHERE 't' = 't';
 ````
-
+**Delete users table and fetch all users informations**
 
 
