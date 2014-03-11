@@ -1,6 +1,6 @@
 http://twig.sensiolabs.org/
 
-### why use it as a php developer 
+### Why use it as a php developer 
 
 * Reduce php verbosity 
 * easy to learn and less error prone by comparison with plain php 
