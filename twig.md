@@ -1,5 +1,12 @@
 http://twig.sensiolabs.org/
 
+### why use it as a php developer 
+
+* Reduce php verbosity 
+* easy to learn and less error prone by comparison with plain php 
+
+### Main features 
+
 * Syntax {{}} as in [[handlebars]]
 * Conditional structure to iterate on an array 
 ````
