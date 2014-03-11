@@ -2,6 +2,7 @@
 * [[testing]]
 * [[performance]]
 * [[continuous integration]]
+* [[code quality]]   
 
 ### JS
 * [[node.js]]
