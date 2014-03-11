@@ -1,6 +1,12 @@
 [[js testing]]
 
-### test types
+### Advantages of testing 
+
+* **Identify problems early** : when it's not too complicated to fix things. Later the bug can cause other bugs in the program that are much more complicated to find 
+
+* **Facilitate [[refactoring]** : as when the code change and produce a regression in other part of the code. It's immediately identified and fixed. 
+
+### Test types
 
 * **TDD Test Driven Development** : Write the test before to write the code. The test will always fail at first, as the features has not been already implemented. Allow to know precisely which is the target of a projected features. This features is described by a user story.
 http://en.wikipedia.org/wiki/Test-driven_development
