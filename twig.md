@@ -9,3 +9,4 @@ http://twig.sensiolabs.org/
     No users have been found.
 {% endfor %}
 ````
+* multiple inheritance, blocks, automatic output-escaping
