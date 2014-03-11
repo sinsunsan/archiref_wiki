@@ -21,3 +21,7 @@ http://en.wikipedia.org/wiki/Unit_testing
 
 * **Black box testing** : Test methodology where the tester don't care on how a given features is implemented but only it's input and output. He build the test on the specifications that describe what the application is suposed to do.   
 http://en.wikipedia.org/wiki/Black_box_testing
+* **White box testing** : Test methodology where the tester test internal structure of the app and thus need to understand how it works 
+http://en.wikipedia.org/wiki/White-box_testing
+* **Grey box testing** : A combination of both technics
+http://en.wikipedia.org/wiki/Grey_box_testing
