@@ -18,3 +18,6 @@ Advantages testing provide :
 
 * **Unit test** : Test that evaluate the validity of a small fragment of code. A complex module can have several unit test. Used in TDD
 http://en.wikipedia.org/wiki/Unit_testing
+
+* **Black box testing** : Test methodology where the tester don't care on how a given features is implemented but only it's input and output. He build the test on the specifications that describe what the application is suposed to do.   
+http://en.wikipedia.org/wiki/Black_box_testing
