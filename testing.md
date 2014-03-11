@@ -4,7 +4,9 @@
 
 * **Identify problems early** : when it's not too complicated to fix things. Later the bug can cause other bugs in the program that are much more complicated to find 
 
-* **Facilitate [[refactoring]]** : as when the code change and produce a regression in other part of the code. It's immediately identified and fixed. 
+* **Facilitate [[refactoring]]** : as when the code change and produce a regression in other part of the code. It's immediately identified and fixed.
+
+* **Provide a complementary [[documentation]]** on the code, which is less prone to be outdated, as the test are actively maintained. Allow to understand what is the expected result, thus understand with more detail, what the developer has done.
 
 ### Test types
 
