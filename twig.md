@@ -21,3 +21,4 @@ http://twig.sensiolabs.org/
 {{ var }}
 {{ var|e }}         {# shortcut to escape a variable #}
 ````
+* perfomance : compile to plain php (minimum overhead compared to php)
