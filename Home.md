@@ -1,8 +1,10 @@
-### General 
+### Quality, performance, security
 * [[testing]]
 * [[performance]]
 * [[continuous integration]]
-* [[code quality]]   
+* [[code quality]]  
+* [[documentation]]
+* [[security]]
 
 ### JS
 * [[node.js]]
@@ -14,7 +16,7 @@
 * [[ajax]]
 * [[js testing]]
 
-### Front end, theming 
+### Front end
 * [[css]]
 * [[sass]]
 * [[html]]
@@ -25,6 +27,11 @@
 * [[IE debug]]
 * [[mobile testing]] 
 * [[mobile site]]
+
+### Database
+* [[Mysql]]
+* [[mongo db]]
+* [[sql query examples]]
 
 ### Drupal
 * [[chrome debugger]]
@@ -46,11 +53,6 @@
 ### Text editor
 * [[vim]]
 * [[sublime]]
-
-### Database
-* [[Mysql]]
-* [[mongo db]]
-* [[sql query examples]]
 
 ### Version manager
 * [[git]]
