@@ -5,6 +5,7 @@
 * [[code quality]]  
 * [[documentation]]
 * [[security]]
+* [[industrialisation]]
 
 ### JS
 * [[node.js]]
