@@ -10,5 +10,7 @@ http://en.wikipedia.org/wiki/Cross-site_scripting
 
 * **[[Buffer overflow]]** : When an application don't have enough memory to write its data, the system behave in a un predicable way, and can give possibility to special attack
 
+* **File system vulnerability** : Wrong settings of the file system, where you allow user to upload files, change permission...
+
 
 
