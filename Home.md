@@ -62,6 +62,7 @@
 
 ### Backend language
 * [[php]]
+* [[symphony]]
 * [[ruby]]
 
 ### Others
