@@ -1,3 +1,8 @@
+* install node.js as a user (and no root)
+http://increaseyourgeek.wordpress.com/2010/08/18/install-node-js-without-using-sudo      
+On mac easier to install first brew on a different directory 
+http://lolindrath.com/blog/2011/09/13/hombrew-from-home-directory/
+
 * Exports in modules   
 http://openmymind.net/2012/2/3/Node-Require-and-Exports/
 
