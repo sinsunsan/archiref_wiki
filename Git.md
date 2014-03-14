@@ -4,7 +4,7 @@
 [[Git howto]]    
 [[Git howto1]]   
 [[Comprendre les réglages dans .git/config]]   
-[[Git submodules]]
+[[Git submodules]]   
 [[git housekeeping]]
 
 **Drupal and Git best practices**   
