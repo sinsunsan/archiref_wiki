@@ -5,6 +5,7 @@
 [[Git howto1]]   
 [[Comprendre les réglages dans .git/config]]   
 [[Git submodules]]
+[[git housekeeping]]
 
 **Drupal and Git best practices**   
 https://drupal.org/node/803746
