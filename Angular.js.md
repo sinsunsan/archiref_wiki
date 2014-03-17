@@ -22,6 +22,8 @@ For example currency filter to display currency symbol
 
 * [[angular $watch]] / Watch changes in the model   
 
+* [[$templateCache]] / Load an html chunk
+ 
 ### Important core directives
 * [ngInclude](http://docs.angularjs.org/api/ng.directive:ngInclude)
 Include external Html / Is used for example to load a different page. 
