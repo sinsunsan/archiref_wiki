@@ -1,4 +1,4 @@
-# Module definition
+### Module definition
 
 http://thesassway.com/intermediate/a-standard-module-definition-for-sass
 
