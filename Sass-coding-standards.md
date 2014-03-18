@@ -1,3 +1,7 @@
+# Module definition
+
+http://thesassway.com/intermediate/a-standard-module-definition-for-sass
+
 ### Line breaks 
 
 Add one line between one wrapped selector and another selector
