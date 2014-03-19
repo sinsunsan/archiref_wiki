@@ -1,6 +1,10 @@
 * [[javascript control structures]]   
-
 * [[javascript lint]]
+
+* **user strict** 
+http://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it    
+New mode of interpretation of javascript to remove bad features, apply to the file, or to a function     
+'use strict';
 
 Tuto bien fait en Français, mais parle de toutes les différences avec le php, la portée des variables, fonctions...   
 http://braincracking.org/2011/11/16/javascript-3-fondamentaux/   
