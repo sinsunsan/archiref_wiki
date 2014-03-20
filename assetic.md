@@ -1,4 +1,4 @@
-* Main documentation 
+* Main documentation    
 http://symfony.com/doc/current/cookbook/assetic/asset_management.html
 
 
