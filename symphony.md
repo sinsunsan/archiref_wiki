@@ -14,3 +14,4 @@ class SearchController extends Controller
 
 
 * [[symphony console]] Command lines tools for symphony
+* [[assetic]] : the symphony asset management system
