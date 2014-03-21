@@ -1,6 +1,6 @@
 ### [[Sass Coding standards]]
 
-### [[Sass syntax]]
+### [[Sass recipes]]
 
 
 
