@@ -5,6 +5,10 @@ How to style them
 http://cssdeck.com/labs/css3-range-slider-functional   
 http://jonathanstark.com/labs/how-to-style-an-html5-range-input-with-css.html
 
-### Bootstrap slider
+### Js librairie 
+* Bootstrap slider
 https://github.com/seiyria/bootstrap-slider
 http://seiyria.github.io/bootstrap-slider/
+
+* Rangeslider
+https://github.com/danielcrisp/angular-rangeslider
