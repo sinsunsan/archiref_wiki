@@ -1,7 +1,10 @@
+### SASS library of mixin 
+* **Compass** : http://compass-style.org/
+* **Twitter bootstrap SASS** : https://github.com/twbs/bootstrap-sass
+* **Bourbon** : http://bourbon.io/
+
 ### [[Sass Coding standards]]
-
 ### [[Sass recipes]]
-
 
 
 
