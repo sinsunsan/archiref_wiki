@@ -44,3 +44,8 @@ http://docs.mongodb.org/manual/applications/update/
 db.user_activity.update({ "entity_id" : 237515 } , { $set : {"status" : 1}});
 
 ```
+
+### Backup 
+
+Mongodump a integrated dump utility
+http://docs.mongodb.org/manual/tutorial/backup-with-mongodump/
