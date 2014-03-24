@@ -13,3 +13,10 @@ http://www.binvisions.com/articles/tablet-smartphone-resolutions-screen-size-lis
 * Apple iPhone 5 4″ 640×1136 Smartphone
 * Apple iPad 2 9.7″ 1024×768 Tablet 
 * Apple iPad 3 9.7″ 2048×1536 Tablet
+
+* **[[twitter bootstrap]] breakpoints ***
+
+* Extra small devices Phones (<768px)
+* Small devices Tablets (≥768px)
+* Medium devices Desktops (≥992px)
+* Large devices Desktops (≥1200px)
