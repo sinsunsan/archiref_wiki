@@ -7,6 +7,9 @@
 * [[security]]
 * [[industrialisation]]
 
+### Development Tools
+* [[bower]]
+
 ### JS
 * [[node.js]]
 * [[backbone.js]]
