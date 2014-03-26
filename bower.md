@@ -7,4 +7,5 @@ bower update #update installed dependencies
 ```
 #### Tutorials 
 
-http://www.synbioz.com/blog/bower
+* http://www.synbioz.com/blog/bower   
+* http://blog.teamtreehouse.com/getting-started-bower
