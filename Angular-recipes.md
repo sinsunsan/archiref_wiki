@@ -9,3 +9,6 @@ http://icelab.com.au/articles/levelling-up-with-angularjs-building-a-reusable-cl
 http://stackoverflow.com/questions/18337093/updating-url-in-angular-js-without-re-rendering-view   
 But have the page reloaded for specific cases   
 http://stackoverflow.com/questions/19137504/force-angularjs-to-reload-a-route-although-option-reloadonsearch-is-set-to-false
+
+* **Change the display only when the services have returned their data to prevent the flicker effect**   
+http://stackoverflow.com/questions/11972026/delaying-angularjs-route-change-until-model-loaded-to-prevent-flicker?rq=1
