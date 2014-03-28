@@ -1,6 +1,6 @@
 * [[CSS codings standard]]
 * [[css3 selectors]]
-* [[css tips and tricks]]
+* [[css recipes]]
 * [[@font-face]]
 * [[vertical align in css]]
 * [[css flexbox]]   
