@@ -1,3 +1,5 @@
+True : Deep comparison (calculation expansive)   
+Default false
 ````
 $scope.$watch('form', function(newVal, oldVal){
     console.log('changed');
