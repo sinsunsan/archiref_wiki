@@ -1,3 +1,9 @@
+````
+$scope.$watch('form', function(newVal, oldVal){
+    console.log('changed');
+}, true);
+````
+
 #### Tutos
 * http://www.bennadel.com/blog/2566-Scope-watch-vs-watchCollection-In-AngularJS.htm
 * http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
