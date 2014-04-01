@@ -1,5 +1,5 @@
-
-http://thedigitalself.com/blog/seo-and-javascript-with-phantomjs-server-side-rendering
+http://thedigitalself.com/blog/seo-and-javascript-with-phantomjs-server-side-rendering   
+https://github.com/thedigitalself/server-side-js-render/blob/master/basic/server.js
 
 Prerender.io a cache / prerender service   
 http://scotch.io/tutorials/javascript/angularjs-seo-with-prerender-io
