@@ -24,7 +24,7 @@ console.log(myString);
 ````
 
 * **JSON > String**   
-JSON.stringify() JSON > string 
+JSON.stringify() JSON > string    
 JSON.parse() string > JSON 
 
 ````js
