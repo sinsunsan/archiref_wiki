@@ -9,3 +9,17 @@ String.slice( begin [, end ] )
 String.substring( from [, to ] )
 String.substr( start [, length ] )
 ````
+
+* **Replace a substring**   
+````
+myString.replace('search', 'replace')
+````
+
+* **Make an array from a string with a delimiter*   
+````
+var myString = "jhjh,kjhkjh,ioiu'"
+myString.split(',');
+console.log(myString);
+// ["jhjh", "kjhkjh", "ioiu"]
+````
+
