@@ -24,6 +24,8 @@ console.log(myString);
 ````
 
 * **JSON > String**   
+JSON.stringify() JSON > string 
+JSON.parse() string > JSON 
 
 ````js
 var obj = {prop:"lkhjkl", prop1:[11, "kjkj", 45]};
