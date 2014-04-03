@@ -21,6 +21,7 @@ var myString = "jhjh,kjhkjh,ioiu'"
 myString.split(',');
 console.log(myString);
 // ["jhjh", "kjhkjh", "ioiu"]
+````
 
 * **JSON > String**   
 
@@ -31,3 +32,4 @@ var string = JSON.stringify(obj);
 // "{"prop":"lkhjkl","prop1":[11,"kjkj",45]}"
 var obj1 = JSON.parse(string);
 // Object {prop: "lkhjkl", prop1: Array[3]}
+````
