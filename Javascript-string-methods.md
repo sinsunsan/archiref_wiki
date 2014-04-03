@@ -16,7 +16,7 @@ myString.replace('search', 'replace')
 ````
 
 * **Make an array from a string with a delimiter*   
-````
+```` !js
 var myString = "jhjh,kjhkjh,ioiu'"
 myString.split(',');
 console.log(myString);
