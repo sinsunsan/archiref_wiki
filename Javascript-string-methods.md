@@ -15,11 +15,19 @@ String.substr( start [, length ] )
 myString.replace('search', 'replace')
 ````
 
-* **Make an array from a string with a delimiter*   
+* **Make an array from a string with a delimiter**   
 ````js
 var myString = "jhjh,kjhkjh,ioiu'"
 myString.split(',');
 console.log(myString);
 // ["jhjh", "kjhkjh", "ioiu"]
-````
 
+* **JSON > String**   
+
+````js
+var obj = {prop:"lkhjkl", prop1:[11, "kjkj", 45]};
+// Object {prop: "lkhjkl", prop1: Array[3]}
+var string = JSON.stringify(obj);
+// "{"prop":"lkhjkl","prop1":[11,"kjkj",45]}"
+var obj1 = JSON.parse(string);
+// Object {prop: "lkhjkl", prop1: Array[3]}
