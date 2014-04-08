@@ -1,5 +1,6 @@
 http://gruntjs.com/configuring-tasks
 
+http://thanpol.as/grunt/Managing-large-scale-projects-with-Grunt/
 
 ### Grunt plugins 
 
