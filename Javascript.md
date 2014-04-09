@@ -15,6 +15,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[javascript global scope alternatives]]
 * [[javascript objects]]
 * [[javascript operator]]
+* [[javascript function]]
 * [[javascript string methods]]
 * [[Javascript method]]
 * [[Js event]]
