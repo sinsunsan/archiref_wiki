@@ -12,6 +12,7 @@
 * [[placeholder]]
 * [[sandbox]]
 * [[grunt]]
+* [[debug]]
 
 ### JS
 * [[node.js]]
