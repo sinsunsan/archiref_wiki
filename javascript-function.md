@@ -1,4 +1,4 @@
-* Javascript declaration vs expression 
+### Javascript declaration vs expression 
 ````
 //Function Declaration
 function add(a,b) {return a + b};
