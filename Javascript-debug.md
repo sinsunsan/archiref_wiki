@@ -4,12 +4,13 @@ http://www.alsacreations.com/astuce/lire/1436-console-javascript.html
 
 * **Debug an array in javascript**
 
-**profile()**
+* **profile()**
 profile.start() to start the profiler   
 profile.end() to end the profiler   
+Only in Chrome, will trigger an error in IE
 
 Add this   
-**console.log(s);**
+* **console.log(s);**
 In the javascript code. 
 The result of the debug will be visible in the debugger in chrome or mozilla
 
