@@ -4,6 +4,10 @@ http://www.alsacreations.com/astuce/lire/1436-console-javascript.html
 
 * **Debug an array in javascript**
 
+**profile()**
+profile.start() to start the profiler   
+profile.end() to end the profiler   
+
 Add this   
 **console.log(s);**
 In the javascript code. 
