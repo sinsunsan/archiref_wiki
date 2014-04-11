@@ -21,7 +21,11 @@ with dest = 'myproject/html' it will put them at
 myproject/html/blog/test.html.twig so in the same directory as it's source
 
 
-### Globing patterns 
+#### Globing patterns 
 
 How to match a file without naming them    
 http://gruntjs.com/configuring-tasks#globbing-patterns
+````
+ src: ['**/*.jade', '!**/_*.jade'],
+````
+jade files under all sub directories, but not starting with _
