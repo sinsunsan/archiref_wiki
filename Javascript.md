@@ -26,7 +26,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[javascript replace]]
 * [[RegExp : regular expression]]
 * [[Drupal and javascript]]
-* [[Debug javascript]]
+* [Debug javascript](javascript debug)
 * [[Form & javascript]]
 
 
