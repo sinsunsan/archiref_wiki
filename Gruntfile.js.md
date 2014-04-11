@@ -1,4 +1,4 @@
-* Dynamic file object configuration 
+#### Dynamic file object configuration 
 http://gruntjs.com/configuring-tasks#building-the-files-object-dynamically
 
 
@@ -19,3 +19,9 @@ So with dest = '' it will a myproject/html/blog/test.jade put them at
 blog/test.html.twig      
 with dest = 'myproject/html' it will put them at 
 myproject/html/blog/test.html.twig so in the same directory as it's source
+
+
+### Globing patterns 
+
+How to match a file without naming them    
+http://gruntjs.com/configuring-tasks#globbing-patterns
