@@ -34,7 +34,7 @@ Define the controller who is in charge of the following chunk of html
 
 ### Selected contributed directives
 * [[angular Upload]] : Contributed module to upload files 
-
+* Angular snap : Facebook slider  http://jtrussell.github.io/angular-snap.js/#
 ### Seed apps 
 
 * [[Mean]]
