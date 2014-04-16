@@ -17,4 +17,5 @@ http://stackoverflow.com/questions/19137504/force-angularjs-to-reload-a-route-al
 http://stackoverflow.com/questions/11972026/delaying-angularjs-route-change-until-model-loaded-to-prevent-flicker?rq=1
 
 * **Combine different app / module in the same page**   
-http://stackoverflow.com/questions/12860595/how-to-define-two-angular-apps-modules-in-one-page
+http://stackoverflow.com/questions/12860595/how-to-define-two-angular-apps-modules-in-one-page   
+http://www.simplygoodcode.com/2014/04/angularjs-getting-around-ngapp-limitations-with-ngmodule
