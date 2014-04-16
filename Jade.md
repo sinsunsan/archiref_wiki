@@ -61,6 +61,8 @@ https://github.com/visionmedia/jade/issues/445
 ````
 jade --watch -P -o /SEB/www/pernod/proto *.jade
 ````
+### Disable attribute mirroring 
+https://github.com/visionmedia/jade/issues/1500#issuecomment-40600149
 
 ### **Variable scope**   
 A variable is defined in the includes 
