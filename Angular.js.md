@@ -1,4 +1,3 @@
-
 ### Angular   
 * [[Angular SEO]]
 * [[Angular Recipes]]
@@ -25,9 +24,8 @@ Define the controller who is in charge of the following chunk of html
 * [[ngShow]] / show if the value is true 
 
 ### Selected contributed directives
-* [[angular Upload]] : Contributed modul
-e to upload files 
-* Angular snap : Facebook slider  http://jtrussell.github.io/angular-snap.js/#
+* [[angular Upload]] : Contributed module to upload files 
+* [[Angular snap]] : Facebook slider  http://jtrussell.github.io/angular-snap.js/#
 
 ### Docs 
 
