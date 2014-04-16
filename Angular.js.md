@@ -9,16 +9,14 @@
 ### Angular   
 * [[Angular SEO]]
 * [[Angular Recipes]]
-* [[Angular bootstrap]]
+* [[Angular bootstrap and module]] / ng-app / Modules ...
 * [[angular events]] // How to react to events in angular    
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
-This part is really important in angular, as it trigger the behavior, and define with custom argument of html tags, which js controllers control which part of the page   
 * [[angular directives]] 
-* [[angular filters]] / Allow to filter string to display it    
-For example currency filter to display currency symbol
+* [[angular filters]] / Allow to filter string to display it (For example currency filter to display currency symbol)
 * [[angular $watch]] / Watch changes in the model   
 * [[$templateCache]] / Load an html chunk
 * [[Angular + jquery]]
