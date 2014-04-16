@@ -6,9 +6,9 @@
 ### Tutos   
 * [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)  
 
-### [[Angular SEO]]
-### [[Angular Recipes]]
-
+* [[Angular SEO]]
+* [[Angular Recipes]]
+* [[Angular bootstrap]]
 ### Angular concepts   
 * [[angular events]] // How to react to events in angular    
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
