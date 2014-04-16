@@ -1,8 +1,7 @@
-
 ### How to redefined the options 
 
 
-The options are redefined in the controller
+The options are redefined in the controller   
 https://github.com/jtrussell/angular-snap.js/blob/master/examples/js/controllers.js
 ````
 .controller('ExOptionsCtrl', function($scope) {
@@ -21,8 +20,8 @@ https://github.com/jtrussell/angular-snap.js/blob/master/examples/js/controllers
   })
 ````
 
-And the name of the snapOpts is defined in this directive
+And the name of the snapOpts is defined in this directive    
 https://github.com/jtrussell/angular-snap.js/blob/master/examples/partials/ex-options.html
-```` 
+````  
 <snap-content snap-options="snapOpts">
 ```` 
