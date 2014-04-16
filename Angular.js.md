@@ -1,10 +1,3 @@
-### Docs 
-
-* [Angular docs](http://docs.angularjs.org/api) : Official documentation
-* [Ng modules](http://ngmodules.org/) : Found contributed angular directives
-
-### Tutos   
-* [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)  
 
 ### Angular   
 * [[Angular SEO]]
@@ -35,6 +28,14 @@ Define the controller who is in charge of the following chunk of html
 * [[angular Upload]] : Contributed modul
 e to upload files 
 * Angular snap : Facebook slider  http://jtrussell.github.io/angular-snap.js/#
+
+### Docs 
+
+* [Angular docs](http://docs.angularjs.org/api) : Official documentation
+* [Ng modules](http://ngmodules.org/) : Found contributed angular directives
+
+### Tutos   
+* [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)  
 
 ### Seed apps 
 
