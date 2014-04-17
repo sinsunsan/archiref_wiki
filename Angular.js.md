@@ -7,6 +7,7 @@
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
+* [[angular scope]]
 * [[angular directives]] 
 * [[angular filters]] / Allow to filter string to display it (For example currency filter to display currency symbol)
 * [[angular $watch]] / Watch changes in the model   
