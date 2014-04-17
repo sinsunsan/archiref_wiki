@@ -1,5 +1,6 @@
 ## Jade documentation
 http://jade-lang.com/
+http://naltatis.github.io/jade-syntax-docs/#basics
 
 ### [[jade debug]]
 
