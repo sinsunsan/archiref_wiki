@@ -1,4 +1,5 @@
 ### Angular   
+* [[Angular best pratices]]
 * [[Angular SEO]]
 * [[Angular Recipes]]
 * [[Angular bootstrap and module]] / ng-app / Modules ...
