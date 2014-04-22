@@ -1,3 +1,8 @@
+* **Get the file name part of an url**   
+var fileName = src.substring(src.lastIndexOf('/') +1);     
+http://befused.com/javascript/get-filename-url
+
+
 * **substring**      
 Return a substring of a given string       
 http://www.w3schools.com/jsref/jsref_substring.asp
