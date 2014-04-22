@@ -28,5 +28,8 @@ And the resulting file will contain:
 
 ````
 
+* How to load data in a grunt base environnement    
+https://github.com/gruntjs/grunt-contrib-jade#data
+
 * Multiline js in jade (work in progress)   
 https://github.com/visionmedia/jade/issues/796
