@@ -1,6 +1,8 @@
 ## Jade documentation
-http://jade-lang.com/
-http://naltatis.github.io/jade-syntax-docs/#basics
+* http://jade-lang.com/
+* http://naltatis.github.io/jade-syntax-docs/#basics
+
+### [[jade recipes]]
 
 ### [[jade debug]]
 
