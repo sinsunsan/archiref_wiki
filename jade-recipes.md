@@ -31,5 +31,18 @@ And the resulting file will contain:
 * How to load data in a grunt base environnement    
 https://github.com/gruntjs/grunt-contrib-jade#data
 
+````
+options: {
+                pretty: true, // Output HTML in indented style
+                doctype: 'html', 
+                data: {
+                    links: grunt.file.readJSON("app/Resources/views/mixins/_vars.json"), 
+                },
+            },
+
+````
+#{link.title} will be available   
+Potentially we can load seevral data objects   
+
 * Multiline js in jade (work in progress)   
 https://github.com/visionmedia/jade/issues/796
