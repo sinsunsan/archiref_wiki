@@ -3,6 +3,7 @@
 * **[[Mysql data types]]**
 * **[[Mysql command examples]]**
 * **[[Mysql Repair]]**
+* **[[Mysql agregate function]]**
 
 ### Liens Tuto 
 http://www.pantz.org/software/mysql/mysqlcommands.html    
