@@ -1,3 +1,4 @@
+* [[symphony recipe]]
 * [[symphony templating]]
 * [[symphony console]] Command lines tools for symphony
 * [[symphony controller]] 
