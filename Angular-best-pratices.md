@@ -1,1 +1,1 @@
-[[Angular best pratices]]
+http://thenittygritty.co/angularjs-pitfalls-using-scopes
