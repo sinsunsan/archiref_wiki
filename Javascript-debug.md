@@ -16,6 +16,11 @@ The result of the debug will be visible in the debugger in chrome or mozilla
 To know what is the code of a method (function), you can do it directly in the console   
 **console.log($.cookie);**
 
+* **debugger;**  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger    
+Will call the available debugger (chrome dev or mozilla) 
+Allow to set breakpoint in code, rather than with the not so clear chrome dev UI   
+
 Explanation of console.log here
 http://getfirebug.com/logging
 
