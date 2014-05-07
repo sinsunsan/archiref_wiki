@@ -16,7 +16,7 @@ http://benalman.com/code/projects/jquery-bbq
 * **[[swf address]]** : Deep linking in ajax and in flash apps   
 http://www.asual.com/swfaddress
 
-* **select2** : Autocompletion     
+* **[[select2]]** : Autocompletion     
 https://github.com/ivaynberg/select2   
 And it's angular wrapper   
 https://github.com/angular-ui/ui-select2    
