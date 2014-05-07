@@ -1,4 +1,4 @@
-### options 
+### Select2 useful options 
 http://ivaynberg.github.io/select2/    
 
 * **multiple**: true / Allow more than one tags    
