@@ -1,6 +1,6 @@
 ### Select2 useful options 
-http://ivaynberg.github.io/select2 // Select 2 jquery plugin
-https://github.com/angular-ui/ui-select2 // Angular wrapper 
+http://ivaynberg.github.io/select2 // Select 2 jquery plugin   
+https://github.com/angular-ui/ui-select2 // Angular wrapper      
 
 * **multiple**: true / Allow more than one tags    
 when set the selected items appears as tags with a checkbox     
