@@ -23,3 +23,8 @@ http://twig.sensiolabs.org/
 {{ var|e }}         {# shortcut to escape a variable #}
 ````
 * perfomance : compile to plain php (minimum overhead compared to php)
+
+
+### Include, extends, blocks 
+
+http://www.sitepoint.com/extending-twig-templates-inheritance-filters-and-functions/
