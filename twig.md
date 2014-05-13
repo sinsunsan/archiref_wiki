@@ -28,3 +28,10 @@ http://twig.sensiolabs.org/
 ### Include, extends, blocks 
 
 http://www.sitepoint.com/extending-twig-templates-inheritance-filters-and-functions/
+
+
+### Jade / Twig comparison
+* Twig extends  / Single inheritance = Jades extends / Multiple inheritance
+* Twig includes / Jade include 
+* Twig MACRO = Jade Mixins 
+http://twig.sensiolabs.org/doc/tags/macro.html
