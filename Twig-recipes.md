@@ -11,3 +11,28 @@ If you place it in a block it should be before the parent() called
     {{ parent() }}
 {% endblock %}`
 ````
+
+* **How to define a wrapper block** 
+Block that contain other blocks are allawed. However, to refine if (not using parent()) you need to put it in at least the definition of child block, because in this case, it's not automatically outputed.
+
+
+```
+{% block main %}
+<div class="big-wrapper">
+    {% block content %}
+   My content
+    {% endblock %}
+</div>
+{% endblock %}
+```
+
+```
+{% block main %}
+<div class="simple-wrapper">
+    {% block content %}
+    {{ parent() }}
+    {% endblock %}
+</div>
+{% endblock %}
+```
+
