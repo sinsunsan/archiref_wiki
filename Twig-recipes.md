@@ -36,3 +36,5 @@ Block that contain other blocks are allawed. However, to refine if (not using pa
 {% endblock %}
 ```
 
+* **How to have a if with multiiple conditions** 
+http://stackoverflow.com/questions/8388537/twig-if-with-multiple-conditions
