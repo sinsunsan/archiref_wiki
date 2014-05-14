@@ -4,6 +4,9 @@ Meta tag to specify so that a site can be seen att full scale on mobile device
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 ```
+Complete tutorial about the subtleness of the use of this tag
+
+http://webdesign.tutsplus.com/articles/quick-tip-dont-forget-the-viewport-meta-tag--webdesign-5972
 
 #### **Size of common Screens**   
 http://www.binvisions.com/articles/tablet-smartphone-resolutions-screen-size-list
