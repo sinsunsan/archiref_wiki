@@ -24,4 +24,11 @@ https://github.com/linyows/github-wiki-search
 * Add the source code of the script http://userscripts.org/scripts/review/129930
 * Activate the script
 
+***
+
+Export issued to bitbucket : 
+* https://confluence.atlassian.com/pages/viewpage.action?pageId=330796872
+* http://stackoverflow.com/questions/11119270/how-to-import-github-issues-and-wikis-to-bitbucket
+* https://github.com/sorich87/github-to-bitbucket-issues-migration
+
 
