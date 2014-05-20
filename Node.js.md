@@ -17,6 +17,8 @@ To have it saved when the server restart
 $ echo export NODE_ENV=production >> ~/.bash_profile
 $ source ~/.bash_profile
 ````
-
 * Start Forever in prod mode   
 NODE_ENV=production forever start app.js 
+
+* Start a server with grunt in a given environment     
+NODE_ENV=development grunt
