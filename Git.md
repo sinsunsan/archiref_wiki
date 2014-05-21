@@ -6,6 +6,7 @@
 [[Comprendre les réglages dans .git/config]]   
 [[Git submodules]]   
 [[git housekeeping]]
+[[Git merge]]   
 
 **Drupal and Git best practices**   
 https://drupal.org/node/803746
@@ -30,11 +31,6 @@ L'option track permet de rester synchroniser avec les changements qui ont lieu d
 git checkout --track -b 12345-test-issue develop
 </pre>
 
-### Merge
-
-type de merge qui n'autorise pas le fast forward 
-http://nvie.com/posts/a-successful-git-branching-model/
-`git merge --no-ff release-1.2`
 
 ### [[git diff]] // reveal differences between revision   
 
