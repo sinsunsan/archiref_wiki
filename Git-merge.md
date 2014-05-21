@@ -1,5 +1,4 @@
 * How to tell git what to do with the file 
-
 Fix the conflict manually and write git add theFile of git rm theFile to say ok or nok
 
 * Binary merge conflict 
