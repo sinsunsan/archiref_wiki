@@ -6,14 +6,14 @@
 * [[documentation]]
 * [[security]]
 * [[industrialisation]]
-
+********************
 ### Development Tools
 * [[bower]]
 * [[placeholder]]
 * [[sandbox]]
 * [[grunt]]
 * [[debug]]
-
+*********************
 ### JS
 * [[node.js]]
 * [[backbone.js]]
@@ -23,7 +23,7 @@
 * [[jquery]]
 * [[ajax]]
 * [[js testing]]
-
+************************
 ### Front end
 * [[css]]
 * [[sass]]
@@ -36,7 +36,8 @@
 * [[mobile testing]] 
 * [[mobile site]]
 * [[twitter bootstrap]]
-
+* [[markdown]]
+**************************
 ### Database
 * [[Mysql]]
 * [[mongo db]]
