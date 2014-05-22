@@ -10,8 +10,9 @@ http://www.sitepoint.com/practical-guide-angularjs-directives/
 * In order to avoid collisions with some future standard, it's best to prefix your own directive names.
 * Unless your template is very small, it's typically better to break it apart into its own HTML file and load it with the templateUrl option.
 * **When should I use an attribute versus an element** ? Use an element when you are creating a component that is in control of the template. Use an attribute when you are decorating an existing element with new functionality.
+* Use the scope option to create isolate scopes when making components that you want to reuse throughout your app.
 
-### Pass a scope to a directive 
+### Create an isolate scope in a directive
 Angular js files
 ````js
 angular.module('docsIsolateScopeDirective', [])
@@ -41,6 +42,9 @@ Directive template
 ````html 
 Name: {{customerInfo.name}} Address: {{customerInfo.address}}
 ````
+> Note: Normally, a scope prototypically inherits from its parent. An isolated scope does not. See the "Directive Definition Object - scope" section for more information about isolate scopes.
+
+
 ### Standard directives 
 
 * **[[ngClass]]**     
