@@ -6,7 +6,10 @@
 
 ### Directive options 
 
-* **scope**    
+* **scope** 
+  * false (default) no inheritance, the parent scope and directive scope is the same 
+  * true protypal inheritance like ng-include 
+  * scope : {} Define a innner scope isolated from external scope 
  **customerInfo: '=info'** mean customerInfo inner scope variable       
 will be bound to info parent scope variable 
 in a 2 ways data bindings. It mean is changed in the directive
@@ -20,6 +23,12 @@ If the name of the variable in the inner scope or outer scope is the same, we ca
 ````
 scope: {
         customerInfo: '='
+      },
+````
+To have a one way data binding (when the parent changed, the directive variable change, but not in the other way 
+````
+scope: {
+        customerInfo: '@'
       },
 ````
 
