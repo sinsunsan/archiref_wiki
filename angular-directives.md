@@ -12,6 +12,7 @@ http://www.sitepoint.com/practical-guide-angularjs-directives/
 * **When should I use an attribute versus an element** ? Use an element when you are creating a component that is in control of the template. Use an attribute when you are decorating an existing element with new functionality.
 
 ### Pass a scope to a directive 
+Angular js files
 ````js
 angular.module('docsIsolateScopeDirective', [])
   .controller('Controller', ['$scope', function($scope) {
@@ -28,12 +29,17 @@ angular.module('docsIsolateScopeDirective', [])
     };
   });
 ````
+Html
 ````html
 <div ng-controller="Controller">
   <my-customer info="naomi"></my-customer>
   <hr>
   <my-customer info="igor"></my-customer>
 </div>
+````
+Directive template
+````html 
+Name: {{customerInfo.name}} Address: {{customerInfo.address}}
 ````
 ### Standard directives 
 
