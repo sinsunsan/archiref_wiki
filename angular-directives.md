@@ -2,6 +2,20 @@
 
 * https://docs.angularjs.org/guide/directive
 * http://www.sitepoint.com/practical-guide-angularjs-directives/
+* https://github.com/angular/angular.js/wiki/Understanding-Scopes#directives
+
+### Directive options 
+
+* scope 
+= mean customerInfo inner scope variable 
+will be bound to info parent scope variable 
+in a 2 ways data bindings. It mean if customerInfo is changed
+info is also changed
+````
+scope: {
+        customerInfo: '=info'
+      },
+````
 
 ### Best pratices to create directive
 
