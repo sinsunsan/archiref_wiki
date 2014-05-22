@@ -57,7 +57,9 @@
 * [[debug technics]]
 * [[Drupal]]
 * [[drush]]
+
 ***
+
 ### Admin
 * [[fresh install]]
 * [[Linux]]
@@ -68,21 +70,29 @@
 * [[ec2 amazon]]
 * [[mails]]
 * [[varnish]]
+
 ***
+
 ### Text editor
 * [[vim]]
 * [[sublime]]
+
 ***
+
 ### Version manager
 * [[git]]
 * [[github]]
 * [[svn]]
+
 ***
+
 ### Backend language
 * [[php]]
 * [[symphony]]
 * [[ruby]]
+
 ***
+
 ### Others
 * [[RSS]]
 * [[SEO]]
@@ -93,7 +103,9 @@
 * [[github selection]]
 * [[xpath]] : xpath allow to select element in a html, xml page just as jquery
 * [[wordpress]]
+
 ***
+
 ### Mac
 * [[mac command line]]
 * [[hardware]]
