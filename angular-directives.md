@@ -4,6 +4,31 @@
 * http://www.sitepoint.com/practical-guide-angularjs-directives/
 * https://github.com/angular/angular.js/wiki/Understanding-Scopes#directives
 
+* how to call the directive in the html 
+If the directive was created like this 
+````
+angular.module('snap')
+    .directive('snapCloseOnResize', ['$rootscope', 'snapRemote', function($rootScope, snapRemote) {
+        return {
+                restrict: 'A',
+                link: function (scope, element, attrs) {
+                }
+            };
+    }]);
+````
+To use is we need to name an attribute with the name of the directive.    
+The name with camel Case need the be slighly changed to use -    
+snapCloseOnResize  > snap-close-on-resize    
+And as restrict is set to A.    
+It must be an attribute 
+So we call the directives with 
+````
+<div snap-close-on-resize class="my-div>
+</div>
+ 
+````
+
+
 ### Directive options 
 
 * **scope** 
