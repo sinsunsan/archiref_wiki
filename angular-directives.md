@@ -16,6 +16,12 @@ scope: {
         customerInfo: '=info'
       },
 ````
+If the name of the variable in the inner scope or outer scope is the same, we can use the shortcut
+````
+scope: {
+        customerInfo: '='
+      },
+````
 
 ### Best pratices to create directive
 
