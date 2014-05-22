@@ -6,14 +6,19 @@
 * [[documentation]]
 * [[security]]
 * [[industrialisation]]
-********************
+
+***
+
+
 ### Development Tools
 * [[bower]]
 * [[placeholder]]
 * [[sandbox]]
 * [[grunt]]
 * [[debug]]
-*********************
+
+***
+
 ### JS
 * [[node.js]]
 * [[backbone.js]]
@@ -23,7 +28,9 @@
 * [[jquery]]
 * [[ajax]]
 * [[js testing]]
-************************
+
+***
+
 ### Front end
 * [[css]]
 * [[sass]]
@@ -37,18 +44,20 @@
 * [[mobile site]]
 * [[twitter bootstrap]]
 * [[markdown]]
-**************************
+
+***
+
 ### Database
 * [[Mysql]]
 * [[mongo db]]
 * [[sql query examples]]
-
+***
 ### Drupal
 * [[chrome debugger]]
 * [[debug technics]]
 * [[Drupal]]
 * [[drush]]
-
+***
 ### Admin
 * [[fresh install]]
 * [[Linux]]
@@ -59,21 +68,21 @@
 * [[ec2 amazon]]
 * [[mails]]
 * [[varnish]]
-
+***
 ### Text editor
 * [[vim]]
 * [[sublime]]
-
+***
 ### Version manager
 * [[git]]
 * [[github]]
 * [[svn]]
-
+***
 ### Backend language
 * [[php]]
 * [[symphony]]
 * [[ruby]]
-
+***
 ### Others
 * [[RSS]]
 * [[SEO]]
@@ -84,7 +93,7 @@
 * [[github selection]]
 * [[xpath]] : xpath allow to select element in a html, xml page just as jquery
 * [[wordpress]]
-
+***
 ### Mac
 * [[mac command line]]
 * [[hardware]]
