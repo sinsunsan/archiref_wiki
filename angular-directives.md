@@ -7,10 +7,10 @@
 ### Directive options 
 
 * **scope**    
-= mean customerInfo inner scope variable       
+ **customerInfo: '=info'** mean customerInfo inner scope variable       
 will be bound to info parent scope variable 
-in a 2 ways data bindings. It mean if customerInfo is changed
-info is also changed
+in a 2 ways data bindings. It mean is changed in the directive
+customerInfo will be also changed
 ````
 scope: {
         customerInfo: '=info'
