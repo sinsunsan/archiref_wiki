@@ -11,7 +11,7 @@ http://jsbin.com/
 
 ### Recipes 
 
-* How to link directly to a guthub source 
+* **How to link directly to a github source**
 Github purposetly served raw files with a text/plain header so they can't be used for js. 
 Instead use 
 http://rawgit.com/
