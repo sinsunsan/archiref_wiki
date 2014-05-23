@@ -3,6 +3,8 @@
 * https://docs.angularjs.org/guide/directive
 * http://www.sitepoint.com/practical-guide-angularjs-directives/
 * https://github.com/angular/angular.js/wiki/Understanding-Scopes#directives
+* Exemple of a carefully coded directive 
+https://github.com/Venturocket/angular-slider/blob/master/src/angular-slider.js
 
 * how to call the directive in the html 
 If the directive was created like this 
