@@ -1,3 +1,5 @@
+* [[package.json]] // The package.json list all node modules that are needed for a project 
+
 * install node.js as a user (and no root)
 http://increaseyourgeek.wordpress.com/2010/08/18/install-node-js-without-using-sudo      
 On mac easier to install first brew on a different directory 
