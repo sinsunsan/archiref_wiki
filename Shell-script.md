@@ -1,4 +1,4 @@
-* Defining a variable and using it 
+* **Defining a variable and using it** 
 
 When defining there is no $, when using prefixed with $
 ```
@@ -6,14 +6,14 @@ file=$DATE'_bak_log'
 filetar $dir $file '/var/log' $DATE
 ```
 
-* Date variable 
+* **Date variable** 
 
 We save the current date in a variable
 ```SHELL
 DATE=`date +%Y_%m_%d_%Hh%M`
 ```
 
-* Passing argument to a function 
+* **Passing argument to a function** 
 $1 $2 $3 are argument passed in that order
 ```SHELL
 filemanip(){
@@ -35,7 +35,7 @@ filemanip(){
 }
 ```
 
-* Small backup script
+* **Small backup script**
 
 All bash files start with #! /bin/sh
 
@@ -48,12 +48,12 @@ disk1=/Volumes/SEB_BACKUP1
 disk2=/Volumes/SEB_BACKUP2
 
 
-* que 00_backup et BIBLIO
+* **que 00_backup et BIBLIO**
  touch $disk2/log/$date1
  rsync -av --force --delete --exclude * --include BIBLIO --include 00_backup /Volumes/SEB_WORK/ $disk2/SEB_WORK
 
 
-* Test if a file exist and load it 
+* **Test if a file exist and load it** 
 
 ```
 if [ -f ~/.bash/bashrc.local ]; then
@@ -61,13 +61,13 @@ if [ -f ~/.bash/bashrc.local ]; then
 fi
 ```
 
-* Debug a script in verbose mode 
+* **Debug a script in verbose mode** 
 http://stackoverflow.com/questions/956213/verbose-output-of-shell-script
 ```
 sh -x script_name
 ```
 
-* Execute a shell script function from the command line 
+* **Execute a shell script function from the command line** 
 ```
 ./imgopt && usage()
 ```
