@@ -48,11 +48,11 @@ disk1=/Volumes/SEB_BACKUP1
 disk2=/Volumes/SEB_BACKUP2
 
 
-# que 00_backup et BIBLIO
+### que 00_backup et BIBLIO
  touch $disk2/log/$date1
  rsync -av --force --delete --exclude * --include BIBLIO --include 00_backup /Volumes/SEB_WORK/ $disk2/SEB_WORK
 
-# Sauvegarde du MAC
+### Sauvegarde du MAC
 ```
 
 ### Test if a file exist and load it 
@@ -63,7 +63,7 @@ if [ -f ~/.bash/bashrc.local ]; then
 fi
 ```
 
-# Debug a script in verbose mode 
+#### Debug a script in verbose mode 
 http://stackoverflow.com/questions/956213/verbose-output-of-shell-script
 ```
 sh -x script_name
