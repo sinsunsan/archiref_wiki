@@ -22,8 +22,9 @@ Include external Html / Is used for example to load a different page.
 * [ngController](http://docs.angularjs.org/api/ng.directive:ngController) 
 Define the controller who is in charge of the following chunk of html  
 * ngInit / Function to be launched immediately 
-* [ngClick] / Function to be launched when clicking 
-* [[ngShow]] / show if the value is true 
+* [ngClick](https://docs.angularjs.org/api/ng/directive/ngClick) / Function to be launched when clicking 
+* [ngShow](https://docs.angularjs.org/api/ng/directive/ngShow) / show if the value is true 
+* [ngBind](https://docs.angularjs.org/api/ng/directive/ngBind) / Equivalent of {{}} but as an atribute. Could be useful as an alternative to ngCloak in order not to show the non already interpreted variable name {{var}} 
 
 ### Selected contributed directives
 * [[angular Upload]] : Contributed module to upload files 
