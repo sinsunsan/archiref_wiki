@@ -13,5 +13,7 @@ https://github.com/gruntjs/grunt-contrib-sass
 
 * **grunt usemin** // read html files to list all assets, then run grunt task to modify those assets, finally change the path to optimized new files 
 
-http://h3manth.com/new/blog/2014/grunt-usemin-example/
-https://github.com/hemanth/grunt-usemin-example
+* http://h3manth.com/new/blog/2014/grunt-usemin-example/
+* https://github.com/hemanth/grunt-usemin-example
+* http://stackoverflow.com/questions/18812126/how-to-update-jade-file-css-js-references-by-grunt-usemin
+* https://github.com/bevacqua/usemin-patterns
