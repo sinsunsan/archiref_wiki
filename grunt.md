@@ -11,7 +11,7 @@
 * https://github.com/gruntjs/grunt-contrib-sass
 
 #### [Grunt newer](https://github.com/tschaub/grunt-newer)
-Recompile only new files
+Recompile only new files by comparing modifiction date of src / dest
 
 #### grunt usemin
 
