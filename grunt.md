@@ -7,9 +7,11 @@
 ### Grunt plugins 
 
 #### [[grunt sass]]   
-https://www.npmjs.org/package/grunt-contrib-compass    
-https://github.com/gruntjs/grunt-contrib-sass
-[Grunt](https://github.com/tschaub/grunt-newer) : Recompile only new files
+* https://www.npmjs.org/package/grunt-contrib-compass    
+* https://github.com/gruntjs/grunt-contrib-sass
+
+#### [Grunt newer](https://github.com/tschaub/grunt-newer)
+Recompile only new files
 
 #### grunt usemin
 
