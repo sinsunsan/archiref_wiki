@@ -11,7 +11,9 @@ https://www.npmjs.org/package/grunt-contrib-compass
 https://github.com/gruntjs/grunt-contrib-sass
 [Grunt](https://github.com/tschaub/grunt-newer) : Recompile only new files
 
-#### grunt usemin // read html files to list all assets, then run grunt task to modify those assets, finally change the path to optimized new files 
+#### grunt usemin
+
+Read html files to list all assets, then run grunt task to modify those assets, finally change the path to optimized new files 
 
 * http://h3manth.com/new/blog/2014/grunt-usemin-example/
 * https://github.com/hemanth/grunt-usemin-example
