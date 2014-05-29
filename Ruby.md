@@ -1,4 +1,9 @@
-Install ruby on ubuntu   
+### Installation and rvm
+
+On mac
+http://code.tutsplus.com/tutorials/how-to-install-ruby-on-a-mac--net-21664
+
+On ubuntu   
 https://help.ubuntu.com/community/RubyOnRails#Configure_Apache
 
 * **Ruby version manager rvm**  
