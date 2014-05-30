@@ -19,3 +19,7 @@ http://stackoverflow.com/questions/11972026/delaying-angularjs-route-change-unti
 * **Combine different app / module in the same page**   
 http://stackoverflow.com/questions/12860595/how-to-define-two-angular-apps-modules-in-one-page   
 http://www.simplygoodcode.com/2014/04/angularjs-getting-around-ngapp-limitations-with-ngmodule
+
+* **Toogling the visibility of an elemeht**    
+http://geniuscarrier.com/ng-toggle-in-angularjs/
+http://jsfiddle.net/geniuscarrier/tKZjZ/55/
