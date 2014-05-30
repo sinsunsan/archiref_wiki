@@ -16,7 +16,7 @@ Dedicated to explaing new html markup elements
 
 * [[html5 Videos]]
 * [[html5 forms]]
-
+* [[html5 canvas]]
 
 ### Ressources 
 
