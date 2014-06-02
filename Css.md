@@ -4,6 +4,7 @@
 * [[@font-face]]
 * [[vertical align in css]]
 * [[css flexbox]]   
+* [[css text sizing]]    
 
 **Misc**
 
