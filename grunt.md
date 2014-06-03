@@ -1,3 +1,6 @@
+
+* Looking at open source project settings is very informative to discover grunt plugin and copy some settings 
+https://github.com/twbs/bootstrap/blob/master/Gruntfile.js
 * http://gruntjs.com/configuring-tasks
 * http://thanpol.as/grunt/Managing-large-scale-projects-with-Grunt
 * https://oncletom.io/2013/dynamic-grunt-targets-using-templates
@@ -21,3 +24,9 @@ Read html files to list all assets, then run grunt task to modify those assets, 
 * https://github.com/hemanth/grunt-usemin-example
 * http://stackoverflow.com/questions/18812126/how-to-update-jade-file-css-js-references-by-grunt-usemin
 * https://github.com/bevacqua/usemin-patterns
+
+### grunt CSS comb 
+Reorder css rules automatically for readibility 
+Use 
+https://github.com/twbs/bootstrap/blob/master/less/.csscomb.json
+For inspiration
