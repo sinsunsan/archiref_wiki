@@ -16,3 +16,4 @@ transform and position fixed are not compatible
 http://meyerweb.com/eric/thoughts/2011/09/12/un-fixing-fixed-elements-with-css-transforms/    
 When a transform is set on a parent of a fixed div     
 This div is positioned as absolute      
+http://stackoverflow.com/questions/15194313/webkit-css-transform3d-position-fixed-issue
