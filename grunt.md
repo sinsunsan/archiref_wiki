@@ -10,6 +10,8 @@ And some tutorials :
 
 ### Configuring grunt with [[Gruntfile.js]]
 
+****
+
 ### Grunt plugins 
 
 #### [[grunt sass]]   
