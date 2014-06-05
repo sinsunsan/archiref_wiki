@@ -15,3 +15,4 @@ There is some changes needed when converting to mobile
   -webkit-overflow-scrolling: touch;
 }
 ````
+On the desktop the rule will appear as not applied, but it will be applied on mobile iphone
