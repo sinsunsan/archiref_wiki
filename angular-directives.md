@@ -100,6 +100,14 @@ Name: {{customerInfo.name}} Address: {{customerInfo.address}}
 ````
 > Note: Normally, a scope prototypically inherits from its parent. An isolated scope does not. See the "Directive Definition Object - scope" section for more information about isolate scopes.
 
+### In which order the directives are compiled
+
+https://groups.google.com/forum/#!topic/angular/3HsNz4ncnYA/discussion
+http://plnkr.co/edit/qrDMJBlnwdNlfBqEEXL2?p=preview
+
+> The compilation works depth first down.  So html->alpha->beta->gamma
+But the post link functions come back up So gamma->beta->alpha-html
+Moreover if you have multiple directives on an element, they are compiled in order of their priority value, highest first, with directives of the same priority having undetermined order.
 
 ### Standard directives 
 
