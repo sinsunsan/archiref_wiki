@@ -61,6 +61,9 @@ scope: {
       },
 ````
 
+Fiddle that show the difference between the 3 bindings    
+http://jsfiddle.net/maxisam/QrCXh/
+
 ### Best pratices to create directive
 
 http://www.sitepoint.com/practical-guide-angularjs-directives/
