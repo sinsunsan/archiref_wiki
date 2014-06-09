@@ -1,6 +1,9 @@
-
+There is 2 mean projects 
+https://github.com/linnovate/mean
+and 
 http://meanjs.org/
-
+http://mean.io/#!/
+I've started with  https://github.com/linnovate/mean
 Mean     
 --[public]    
 ----[js]   
