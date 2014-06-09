@@ -1,5 +1,3 @@
-* Timer, countdown...   
-
 * **Angular timer**
 http://siddii.github.io/angular-timer/index.html
 
