@@ -1,5 +1,6 @@
 ### Angular   
 * [[Angular best pratices]]
+* [[Angular debug]]
 * [[Angular SEO]]
 * [[Angular Recipes]]
 * [[Angular bootstrap and module]] / ng-app / Modules ...
