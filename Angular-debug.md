@@ -6,7 +6,9 @@ http://errors.angularjs.org/1.3.0-beta.2/ng/areq?p0=TeamCtrl&p1=not%20a%20functi
 This error, when angular faile to inject the controller. 
 There is 2 ways to set the controller to a portion of code : 
 * by setting ng-controller="myCtrl" in the html 
-* with location
+* with $route definition 
+
+By removing these references, we remove the error, but our controller is not yet loaded !
 
 ***
 ### TYPO Problem with coma    
