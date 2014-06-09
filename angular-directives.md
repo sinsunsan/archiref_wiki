@@ -1,3 +1,4 @@
+### Selection of [[angular directives libraries]]
 ### Writing a custom directives
 
 * https://docs.angularjs.org/guide/directive
@@ -119,7 +120,3 @@ Moreover if you have multiple directives on an element, they are compiled in ord
 * **[[ngClass]]**     
 
 
-### Contributed directives 
-
-* Timer, countdown...    
-http://siddii.github.io/angular-timer/index.html
