@@ -1,3 +1,6 @@
+
+http://meanjs.org/
+
 Mean     
 --[public]    
 ----[js]   
@@ -9,3 +12,4 @@ Mean
 ------[Services] All js files defining services (relation to web service and databases)   
 ------[Controllers] All js files defining app behavior    
 ----[views] The templates : All html files containing special tags (ng-...)             
+
