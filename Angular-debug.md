@@ -1,8 +1,8 @@
 > 
 Argument 'TeamCtrl' is not a function, got undefined    
 http://errors.angularjs.org/1.3.0-beta.2/ng/areq?p0=TeamCtrl&p1=not%20a%20function%2C%20got%20undefined
-
-* TYPO Problem with coma    
+***
+### TYPO Problem with coma    
 http://stackoverflow.com/questions/21061773/angular-error-argument-controller-is-not-a-function-got-undefined    
 Typo problem 
 ```` js
@@ -13,8 +13,8 @@ angcomControllers.controller('itemsController', ['$scope', 'Items', function($sc
 angcomControllers.controller('itemsController' ['$scope', 'Items', function($scope, Items){
 }]);
 ````
-
-* Unwanted redefinition of the module      
+***
+### Unwanted redefinition of the module      
 
 http://stackoverflow.com/questions/19719540/angularjs-jade-error-argument-mycontroller-is-not-a-function-got-undefined
   
