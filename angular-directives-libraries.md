@@ -4,4 +4,6 @@ http://siddii.github.io/angular-timer/index.html
 http://css-tricks.com/examples/SmoothPageScroll/    
 https://github.com/arnaudbreton/angular-smoothscroll
 * **Scroll Spy** : Trigger events depending on the user scroll position in the page     
-https://github.com/sxalexander/jquery-scrollspy
+https://github.com/sxalexander/jquery-scrollspy    
+In twitter boostrap, the menu item active state get updated depending of the scroll position     
+http://getbootstrap.com/javascript/#scrollspy
