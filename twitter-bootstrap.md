@@ -27,3 +27,10 @@ There don't seem to have an official ui.boostrap.affix project
 But several personn has launched theres directives
 
 http://jsfiddle.net/MatthewLothian/kBpxb/7/
+
+
+### Angular directives 
+
+There is at least 2 projects that has made this job : 
+* https://github.com/angular-ui/bootstrap the bigger one 
+* http://mgcrea.github.io/angular-strap a also popular project that can complete some of the unported directives
