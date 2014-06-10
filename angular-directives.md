@@ -115,8 +115,37 @@ http://plnkr.co/edit/qrDMJBlnwdNlfBqEEXL2?p=preview
 But the post link functions come back up So gamma->beta->alpha-html
 Moreover if you have multiple directives on an element, they are compiled in order of their priority value, highest first, with directives of the same priority having undetermined order.
 
+### Link function 
+Simple directive that take the href attributes of the element the directive is on and scroll to the anchor. 
+HTML
+````
+<a scroll-on-click="" href="#blocTeam">The team</a>
+````
+DIRECTIVE
+````
+app.directive( 'scrollOnClick', function() {
+    return {
+        restrict: 'A',
+        link: function(scope, $elm, attrs) {
+            console.log('scroll activé');
+            var idToScroll = attrs.href;
+            $elm.on('click', function() {
+                var $target;
+                if (idToScroll) {
+                    $target = $(idToScroll);
+                } else {
+                    $target = $elm;
+                }
+                $("body,html").animate({scrollTop: $target.offset().top - 30}, "slow");
+
+                // bug fix for a flash with webkit
+                return false;
+            });
+        }
+    }
+});
+````
 ### Standard directives 
 
 * **[[ngClass]]**     
-
 
