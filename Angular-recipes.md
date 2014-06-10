@@ -28,3 +28,4 @@ http://jsfiddle.net/geniuscarrier/tKZjZ/55/
 ````
 http://localhost:18080/equipe#!/#blocHistory
 ````
+In this url #! is the hash + bang used by angular, the path is / and the real plain hash is #blocHistory
