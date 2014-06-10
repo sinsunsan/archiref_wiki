@@ -118,11 +118,11 @@ Moreover if you have multiple directives on an element, they are compiled in ord
 ### Link function 
 Simple directive that take the href attributes of the element the directive is on and scroll to the anchor. 
 HTML
-````
+```` html
 <a scroll-on-click="" href="#blocTeam">The team</a>
 ````
 DIRECTIVE
-````
+```` js
 app.directive( 'scrollOnClick', function() {
     return {
         restrict: 'A',
