@@ -23,4 +23,7 @@ The css is quite simple
 }
 ````
 
-There don't seem to have an official 
+There don't seem to have an official ui.boostrap.affix project 
+But several personn has launched theres directives
+
+http://jsfiddle.net/MatthewLothian/kBpxb/7/
