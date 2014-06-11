@@ -1,4 +1,4 @@
-[Module best pratices](https://github.com/sinsunsan/archiref_wiki/wiki/Angular-best-pratices)
+### [Module best pratices](https://github.com/sinsunsan/archiref_wiki/wiki/Angular-best-pratices)
 
 * Explanation of the ng-app limitations     
 http://www.simplygoodcode.com/2014/04/angularjs-getting-around-ngapp-limitations-with-ngmodule/
