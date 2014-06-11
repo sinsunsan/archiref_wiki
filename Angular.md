@@ -2,6 +2,7 @@
 * [[Angular best pratices]]
 * [[Angular debug]]
 * [[Angular SEO]]
+* [[Angular code analysis]]
 * [[Angular Recipes]]
 * [[Angular bootstrap and module]] / ng-app / Modules ...
 * [[angular events]] // How to react to events in angular    
