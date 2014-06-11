@@ -1,4 +1,4 @@
-**Emulate mobile on chrome** Soon !   
+* **Emulate mobile on chrome** Soon !   
 http://www.html5rocks.com/en/tutorials/developertools/mobile/#toc-mobile-emulation
 
 * **IOS Simulator on MAC** for IPAD & IPHONE
