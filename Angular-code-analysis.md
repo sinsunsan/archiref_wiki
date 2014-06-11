@@ -1,4 +1,3 @@
-```` js
-function loadModules(modulesToLoad){
-````
+
+* **loadModules(modulesToLoad)**
 Allow to load modules 
