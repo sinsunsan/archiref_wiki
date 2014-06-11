@@ -1,19 +1,24 @@
-### Angular   
+### Angular Architecture
+* [[Angular Modules architecture]] / ng-app / Modules ...
+* [[angular events]] // How to react to events in angular    
+* [[angular controllers]] / Define the application logic (Controller part of MCV)   
+* [[angular services]] / Relation with web services and databases (Model part of MVC)   
+* [[angular scope]]
+* [[angular directives]] 
+* [[angular $watch]] / Watch changes in the model   
+
+### Angular best pratices and code quality
+
 * [[Angular best pratices]]
 * [[Angular debug]]
 * [[Angular SEO]]
 * [[Angular code analysis]]
 * [[Angular Recipes]]
-* [[Angular Modules architecture]] / ng-app / Modules ...
-* [[angular events]] // How to react to events in angular    
-* [[angular controllers]] / Define the application logic (Controller part of MCV)   
-* [[angular services]] / Relation with web services and databases (Model part of MVC)   
+
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
-* [[angular scope]]
-* [[angular directives]] 
+
 * [[angular filters]] / Allow to filter string to display it (For example currency filter to display currency symbol)
-* [[angular $watch]] / Watch changes in the model   
 * [[$templateCache]] / Load an html chunk
 * [[Angular + jquery]]
 
