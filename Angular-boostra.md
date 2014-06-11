@@ -6,3 +6,6 @@ http://clintberry.com/2013/modular-angularjs-application-design/
 
 * Discussion of the modular architecture of mean      
 http://meanjs.org/docs.html#angularjs-modules
+
+* Dependency injection and modules
+http://henriquat.re/basics-of-angular/services-dependency-injection/services-and-dependency-injection-in-angularjs.html
