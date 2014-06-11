@@ -4,7 +4,7 @@
 * [[Angular SEO]]
 * [[Angular code analysis]]
 * [[Angular Recipes]]
-* [[Angular Modules architecture Bootstrap]] / ng-app / Modules ...
+* [[Angular Modules architecture]] / ng-app / Modules ...
 * [[angular events]] // How to react to events in angular    
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
