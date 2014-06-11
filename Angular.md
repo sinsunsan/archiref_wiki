@@ -4,7 +4,7 @@
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
 * [[angular scope]]
-* [[angular directives]] 
+* [[angular directives]]
 * [[angular $watch]] / Watch changes in the model   
 ***
 ### Angular best pratices and code quality
