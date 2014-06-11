@@ -23,7 +23,7 @@
 ### JS
 * [[node.js]]
 * [[backbone.js]]
-* [[angular.js]]   
+* [[angular]]   
 * [[javascript]]
 * [[Javascript libraries & Jquery-Plugins]]
 * [[jquery]]
