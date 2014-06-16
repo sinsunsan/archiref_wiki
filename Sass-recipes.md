@@ -11,7 +11,7 @@ http://sass-lang.com/documentation/file.SASS_REFERENCE.html#import
 > @import url("http://fonts.googleapis.com/css?family=#{$family}");
 
 ***
-#### Compile a file manually (without grunt....) 
+#### Compile a file manually (without grunt....) with backtrace for debuging
 
 ```
 sass planning.scss --trace
