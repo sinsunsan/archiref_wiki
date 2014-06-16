@@ -1,4 +1,4 @@
-* use a variable to set an import url (only to import css file from an url)
+### use a variable to set an import url (only to import css file from an url)
 ````
 $basePath: "../../../../../../app/Resources";
 @import url("#{basePath)/sass/mixins/mysite/mysite_mixins.css")
@@ -9,3 +9,10 @@ http://sass-lang.com/documentation/file.SASS_REFERENCE.html#import
 
 > $family: unquote("Droid+Sans");
 > @import url("http://fonts.googleapis.com/css?family=#{$family}");
+
+***
+### Compile a file manually (without grunt....) 
+
+```
+sass planning.scss --trace
+```
