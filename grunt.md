@@ -25,7 +25,7 @@ Recompile only new files by comparing modifiction date of src / dest
 #### grunt usemin
 
 Read html files to list all assets, then run grunt task to modify those assets, finally change the path to optimized new files 
-
+* http://www.youtube.com/watch?v=gIbfDxF69c8
 * http://h3manth.com/new/blog/2014/grunt-usemin-example/
 * https://github.com/hemanth/grunt-usemin-example
 * http://stackoverflow.com/questions/18812126/how-to-update-jade-file-css-js-references-by-grunt-usemin
