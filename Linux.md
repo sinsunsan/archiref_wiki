@@ -1,8 +1,8 @@
 # Linux
 
 ### List files 
-* ls 
-* tree  Print the tree of files and folders 
+* [[ls]] 
+* [[tree]]  Print the tree of files and folders 
 
 ### Search 
 * [[grep]] Rechercher les chaînes dans les fichiers
