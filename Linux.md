@@ -1,4 +1,9 @@
 # Linux
+
+### List files 
+* ls 
+* tree  Print the tree of files and folders 
+
 ### Search 
 * [[grep]] Rechercher les chaînes dans les fichiers
 * [[sed]] Rechercher / remplacer dans des chaines
