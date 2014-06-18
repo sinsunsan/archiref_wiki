@@ -1,5 +1,9 @@
 * http://www.thegeekstuff.com/2010/09/rsync-command-examples/
 
+````
+$ rsync -avz /root/temp/ thegeekstuff@192.168.200.10:/home/thegeekstuff/temp/
+````
+
 ### Interesting options
 
 -a copy owner -o - permission -p and -g group -rlptgoD    
