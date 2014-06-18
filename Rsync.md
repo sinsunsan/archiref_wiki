@@ -1,3 +1,5 @@
+* http://www.thegeekstuff.com/2010/09/rsync-command-examples/
+
 ### Interesting options
 
 -a copy owner -o - permission -p and -g group -rlptgoD    
