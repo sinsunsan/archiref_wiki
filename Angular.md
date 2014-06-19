@@ -7,7 +7,9 @@
 * [[angular scope]]
 * [[angular directives]]
 * [[angular $watch]] / Watch changes in the model   
+
 ***
+
 ### Angular best pratices and code quality
 * [[Angular tools]]
 * [[Angular best pratices]]
@@ -15,6 +17,7 @@
 * [[Angular SEO]]
 * [[Angular code analysis]]
 * [[Angular Recipes]]
+
 ***
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
