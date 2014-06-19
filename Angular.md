@@ -1,4 +1,5 @@
 ### Angular Architecture
+* [[Angular dependency injection]]
 * [[Angular Modules architecture]] / ng-app / Modules ...
 * [[angular events]] // How to react to events in angular    
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
