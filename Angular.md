@@ -9,7 +9,7 @@
 * [[angular $watch]] / Watch changes in the model   
 ***
 ### Angular best pratices and code quality
-
+* [[Angular tools]]
 * [[Angular best pratices]]
 * [[Angular debug]]
 * [[Angular SEO]]
