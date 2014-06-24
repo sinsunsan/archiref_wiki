@@ -16,6 +16,7 @@ http://blog.angularjs.org/2014/03/angular-20.html
 ### Angular best pratices and code quality
 * [[Angular tools]]
 * [[Angular best pratices]]
+* [[Angular share code]]
 * [[Angular debug]]
 * [[Angular SEO]]
 * [[Angular code analysis]]
