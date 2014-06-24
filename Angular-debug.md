@@ -1,4 +1,4 @@
-## Argument 'myCtrl' is not a function, got undefined    
+### Argument 'myCtrl' is not a function, got undefined    
 > 
 Argument 'TeamCtrl' is not a function, got undefined    
 http://errors.angularjs.org/1.3.0-beta.2/ng/areq?p0=TeamCtrl&p1=not%20a%20function%2C%20got%20undefined
@@ -38,3 +38,10 @@ and then
 This syntax redefine the module.
 
 To get the existing module using angular.module('mean') without the second parameter.
+
+*** 
+
+### memory leaks 
+
+* Unbinding jquery event listening
+http://stackoverflow.com/questions/22397484/how-to-reduce-remove-memory-leaks-in-angular-application
