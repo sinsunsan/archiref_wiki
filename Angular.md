@@ -1,5 +1,7 @@
 * Angular development blog and 2.0 version updates       
 http://blog.angularjs.org/2014/03/angular-20.html
+* From jquery to angular    
+http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background?rq=1
 
 ### Angular Architecture
 * [[Angular dependency injection]]
