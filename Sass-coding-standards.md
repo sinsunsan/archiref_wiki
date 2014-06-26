@@ -2,6 +2,11 @@
 
 http://thesassway.com/intermediate/a-standard-module-definition-for-sass
 
+### Modularity    
+
+* http://thesassway.com/advanced/modular-css-naming-conventions
+* http://thesassway.com/advanced/modular-css-an-example
+
 ### Line breaks 
 
 Add one line between one wrapped selector and another selector
