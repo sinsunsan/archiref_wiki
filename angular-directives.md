@@ -1,6 +1,7 @@
 ### Selection of [[angular directives libraries]]
 ### Writing a custom directives
 
+* http://www.ng-newsletter.com/posts/directives.html
 * https://docs.angularjs.org/guide/directive
 * http://www.sitepoint.com/practical-guide-angularjs-directives/
 * https://github.com/angular/angular.js/wiki/Understanding-Scopes#directives
