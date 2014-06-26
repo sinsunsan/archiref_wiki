@@ -21,3 +21,6 @@ http://stackoverflow.com/questions/15194313/webkit-css-transform3d-position-fixe
 
 An attempt to fix the issue    
 http://jsfiddle.net/vishl/wzPSF/
+
+* **Style checkbox and radio buttons**    
+http://webdesign.tutsplus.com/articles/quick-tip-easy-css3-checkboxes-and-radio-buttons--webdesign-8953
