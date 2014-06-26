@@ -23,3 +23,8 @@ http://jsfiddle.net/vishl/wzPSF/
 
 * **Style checkbox and radio buttons**    
 http://webdesign.tutsplus.com/articles/quick-tip-easy-css3-checkboxes-and-radio-buttons--webdesign-8953
+
+* **Debug a variable value**    
+````
+@debug "$boolean is #{$boolean}"
+````
