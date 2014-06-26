@@ -18,7 +18,6 @@ When a transform is set on a parent of a fixed div
 This div is positioned as absolute      
 http://stackoverflow.com/questions/15194313/webkit-css-transform3d-position-fixed-issue
 > "In the HTML namespace, any value other than ‘none’ for the transform results in the creation of both a stacking context and a containing block. The object acts as a containing block for fixed positioned descendants." http://www.w3.org/TR/css3-2d-transforms/#transform-rendering
-
 An attempt to fix the issue    
 http://jsfiddle.net/vishl/wzPSF/
 
