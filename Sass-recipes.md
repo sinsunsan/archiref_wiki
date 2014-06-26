@@ -16,3 +16,18 @@ http://sass-lang.com/documentation/file.SASS_REFERENCE.html#import
 ```
 sass planning.scss --trace
 ```
+***
+### Use a dynamic named selector     
+
+Fortunately, solving this issue is simple (and you know the solution by now): interpolate the variable!
+
+
+Fortunately, solving this issue is simple (and you know the solution by now): interpolate the variable!
+
+````
+$value: custom;
+ 
+selector-#{$value} {
+  property: value;
+}
+````
