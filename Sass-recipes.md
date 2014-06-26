@@ -30,9 +30,3 @@ $value: custom;
 selector-#{$value} {
   property: value;
 }
-````
-***
-### How to not duplicate css rules between two selectors that use a set of rules
-
-Instead of using a extend or a mixin use a placeholder selector     
-http://thesassway.com/intermediate/understanding-placeholder-selectors
