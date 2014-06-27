@@ -11,4 +11,5 @@
 * **modular scale** https://github.com/Team-Sass/modular-scale Include modular scale functionnaly for sizing text and more 
 * **Suzy** : http://susydocs.oddbird.net/ Popular library for layout   
 * **Mixy** : My SASS mixin library : https://github.com/sinsunsan/mixy   
+* **Living style guide** https://github.com/hagenburger/livingstyleguide Create style guide automatically
 * **Gumby** http://gumbyframework.com/
