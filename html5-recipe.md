@@ -10,3 +10,6 @@ So it suffice to click on one of those to make the checkbox checked
    </label>
 </div>
 ````
+
+Don't forget to add a name attribute which allow all radios button to be grouped together 
+http://www.dummies.com/how-to/content/how-to-create-a-radio-button-in-an-html5-form.html
