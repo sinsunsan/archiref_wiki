@@ -18,6 +18,8 @@ Dedicated to explaing new html markup elements
 * [[html5 forms]]
 * [[html5 canvas]]
 
+* [[html5 recipe]]
+
 ### Ressources 
 
 HTML 5 Polyfills to implement html5 functionality in browsers that don't natively support them.
