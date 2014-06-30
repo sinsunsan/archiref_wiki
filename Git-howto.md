@@ -1,20 +1,20 @@
-h1. Tools
+# Tools
 
 {{>toc}}
 
 http://gitk.sourceforge.net/
 http://www.git-legit.org/
 
-h1. Create a local branch
+# Create a local branch
 
-h2. Create a branch
+## Create a branch
 
 Create a feature branch (and track the original branch)
 <pre>
 git checkout --track -b 12345-test-issue develop
 </pre>
 
-h2. Output a diff of the branch
+## Output a diff of the branch
 
 While in the branch:
 
@@ -25,7 +25,7 @@ git diff --stat --color develop..HEAD
 </pre>
 
 
-h2. Combine our commits into one
+## Combine our commits into one
 
 First check the status, remember how many commits we have done (3)
 <pre>
@@ -50,14 +50,14 @@ Extract our commit as a patch
 git format-patch 
 </pre>
 
-h2. Change commit message
+## Change commit message
 
 On last commit:
 <pre>
 git commit --amend -m "task #99999: foo bar"
 </pre>
 
-h2. Pushing our branch
+## Pushing our branch
 
 Merging finished feature with _develop_
 <pre>
@@ -67,7 +67,7 @@ git branch -d 12345-test-issue
 git push origin develop
 </pre>
 
-h2. Keep in sync
+## Keep in sync
 
 Pulling new changes from _develop_ branch, into our working branch
 <pre>
@@ -76,7 +76,7 @@ git merge origin/develop
 </pre>
 
 
-h2. Rebase
+## Rebase
 
 Move our branching to start from the latest _develop_
 <pre>
@@ -114,12 +114,12 @@ If everything is fine, then push the branch to remote
 git push origin 12345-test-issue
 </pre>
 
-h1. Share our local branch with others
+# Share our local branch with others
 
 You have a local branch, but you want to save it on remote so that others can work on it. So there is _you_ and _other_.
 
 
-h2. Push our branch to remote
+## Push our branch to remote
 
 _Do this on_ your _machine_
 
@@ -134,7 +134,7 @@ Push branch to origin
 git push origin 123456-foobar  
 </pre>
 
-h2. Other dev checkouts our branch
+## Other dev checkouts our branch
 
 _Do this on the_ other _machine_
 
@@ -156,7 +156,7 @@ git push origin 123456-foobar
 </pre>
 
 
-h2. Track our new remote branch 
+## Track our new remote branch 
 
 _Do this on_ your _machine_
 
@@ -183,7 +183,7 @@ git checkout  --track -b foo origin/123456-foobar && git pull
 
 Then it is as when you had just a local branch. You can commit, push, etc...
 
-h2. Delete remote branch
+##  Delete remote branch
 
 <pre>
 git push origin :123456-foobar
@@ -201,13 +201,13 @@ And to remote tracking branches in local repositories
 git remote prune origin
 </pre>
 
-h2. Links
+## h2. Links
 
 http://www.mariopareja.com/blog/archive/2010/01/11/how-to-push-a-new-local-branch-to-a-remote.aspx
 http://www.zorched.net/2008/04/14/start-a-new-branch-on-your-remote-git-repository/
 
 
-h1. Checkout and track a branch
+# Checkout and track a branch
 
 <pre>
 git checkout --track -b release origin/release
@@ -215,7 +215,7 @@ git checkout --track -b release origin/release
 
 
 
-h1. How to reapply a commit
+##  How to reapply a commit
 
 For instance, if a feature has been changed in code before it was dumped on prod, we need to:
 * dump the feature on prod into a tar.gz
@@ -239,14 +239,14 @@ In order to re-apply the old commit, do:
 * check with _git diff_ that the changes match the old commit
 
 
-h1. Compare two versions of a same file
+#  Compare two versions of a same file
 
 Compare a file across to pushed branches
 <pre>
 git diff origin/develop origin/release-20111221 -- sa/b/c/foo.bar
 </pre>
 
-h1. Delete a remote tag
+#  Delete a remote tag
 
 <pre>
 git tag -d 12345
@@ -258,7 +258,7 @@ If a new tag doesn't appear when you do a _git fetch origin_, you can try:
 git pull --tags
 </pre>
 
-h1. Cancel a commit
+#  Cancel a commit
 
 If you have done one commit (and haven't pushed it yet), you can cancel it
 
@@ -286,7 +286,7 @@ git br -D foo
 git checkout --track origin/foo
 </pre>
 
-h1. Cancel a pushed merge
+#  Cancel a pushed merge
 
 If you have merged something into your branch, and then pushed it, but realized later that the merge was wrong, you can undo it like this:
 
@@ -309,7 +309,7 @@ git checkout --track origin/master
 </pre>
 
 
-h1. Display current branch in bash prompt
+#  Display current branch in bash prompt
 
 Add this in the .bashrc
 
@@ -340,9 +340,3 @@ Then, in the prompt, add this _\$(parse_git_branch)_, so it looks for instance l
 <pre>
 PS1="${debian_chroot:+($debian_chroot)}:\[\033[00;36m\]\w\[\033[00m\]\$(parse_git_branch)\$ "
 </pre>
-
-h1. Docs
-
-[[GIT conventions]]
-
-[[sysadmin:GIT|GIT generic howto]]
