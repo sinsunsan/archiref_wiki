@@ -6,12 +6,15 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 ### Angular Architecture
 * [[Angular dependency injection]]
 * [[Angular Modules architecture]] / ng-app / Modules ...
-* [[angular events]] // How to react to events in angular    
+* [[angular events]] // How to react to events in angular   
+* [[angular scope]]
+***
+
+### Angular components
 * [[angular controllers]] / Define the application logic (Controller part of MCV)   
 * [[angular services]] / Relation with web services and databases (Model part of MVC)   
-* [[angular scope]]
-* [[angular directives]]
-* [[angular $watch]] / Watch changes in the model   
+* [[angular directives]] / Reusable element that empack controller, template...
+* [[angular filters]] / Modify a string befor display (date filters...)
 
 ***
 
@@ -28,8 +31,8 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
 
-* [[angular filters]] / Allow to filter string to display it (For example currency filter to display currency symbol)
 * [[$templateCache]] / Load an html chunk
+* [[angular $watch]] / Watch changes in the model   
 * [[Angular + jquery]]
 
 ### Angular directives
