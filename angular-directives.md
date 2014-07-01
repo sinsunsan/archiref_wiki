@@ -34,38 +34,9 @@ So we call the directives with
  
 ````
 
+### [[Angular Directive Scope]]
 
-### Directive options 
 
-* **scope** 
-  * false (default) no inheritance, the parent scope and directive scope is the same 
-  * true protypal inheritance like ng-include 
-  * scope : {} Define a innner scope isolated from external scope 
- **customerInfo: '=info'** mean customerInfo inner scope variable       
-will be bound to info parent scope variable 
-in a 2 ways data bindings. It mean is changed in the directive
-customerInfo will be also changed
-````
-scope: {
-        customerInfo: '=info'
-      },
-````
-If the name of the variable in the inner scope or outer scope is the same, we can use the shortcut
-````
-scope: {
-        customerInfo: '='
-      },
-````
-To have a one way data binding (when the parent changed, the directive variable change, but not in the other way 
-````
-scope: {
-        customerInfo: '@'
-      },
-````
-
-Fiddle that show the difference between the 3 bindings    
-http://jsfiddle.net/maxisam/QrCXh/
-http://stackoverflow.com/questions/17900201/how-to-access-parent-scope-from-within-a-custom-directive-with-own-scope-in-an
 
 ### Best pratices to create directive
 
