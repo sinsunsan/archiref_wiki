@@ -1,5 +1,14 @@
 ### Directive options 
 
+* Important notice about how to understand directives binding
+
+$scope.customerInfo inner directive variable will be binded to parent scope $scope.info. 
+We say that 
+$scope.customerInfo inner directive variable will be binded to what we passed to it in the directive definition
+
+<myelement info="myparentInfo" > Will actually bind inner $scope.customerInfo to outer $scope.myparentInfo via the attribue info
+
+We don't say that 
 * **scope** 
   * false (default) no inheritance, the parent scope and directive scope is the same 
   * true protypal inheritance like ng-include 
@@ -8,6 +17,7 @@
 will be bound to info parent scope variable 
 in a 2 ways data bindings. It mean is changed in the directive
 customerInfo will be also changed
+
 ````
 scope: {
         customerInfo: '=info'
