@@ -37,6 +37,9 @@ scope: {
       },
 ````
 
+#### Exemples
+
+
 Fiddle that show the difference between the 3 bindings    
 http://jsfiddle.net/maxisam/QrCXh/
 http://stackoverflow.com/questions/17900201/how-to-access-parent-scope-from-within-a-custom-directive-with-own-scope-in-an
