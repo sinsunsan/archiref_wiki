@@ -1,3 +1,7 @@
+* Mixins with block (to wrap content inside a mixin)
+
+https://github.com/neuland/jade4j/issues/11
+
 * How to use a json for data in commande line     
 https://github.com/visionmedia/jade/issues/833    
 
