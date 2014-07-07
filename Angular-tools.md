@@ -7,5 +7,6 @@ https://chrome.google.com/webstore/detail/angular-scope-inspector/aaglpchhlnofjb
 Generic angular helper (dependencie map, scope inspection....)
 https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en
 
-* **$log**    
+* **$log** 
+Wrapper to console.log   
 https://coderwall.com/p/_zporq
