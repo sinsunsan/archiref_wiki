@@ -33,20 +33,26 @@
 ***
 
 ### Front end
+#### CSS / SASS
 * [[css]]
 * [[sass]]
+* [[modular scale]]
+* [[css typo]]
+
+### Templating 
 * [[html]]
 * [[html5]]
-* [[responsive design]]
 * [[twig]]
 * [[jade]]
+
+### Others
+* [[twitter bootstrap]]
+* [[responsive design]]
 * [[IE debug]]
 * [[mobile testing]] 
 * [[mobile site]]
-* [[twitter bootstrap]]
 * [[markdown]]
-* [[modular scale]]
-* [[css typo]]
+
 
 ***
 
