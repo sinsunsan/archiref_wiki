@@ -1,3 +1,6 @@
+### Mixins and extends, how to stay [[DRY]]
+http://alistapart.com/article/dry-ing-out-your-sass-mixins
+
 ### Module definition
 
 http://thesassway.com/intermediate/a-standard-module-definition-for-sass
