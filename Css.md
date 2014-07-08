@@ -5,6 +5,7 @@
 * [[vertical align in css]]
 * [[css flexbox]]   
 * [[css text sizing]]    
+* [[css animation]]
 
 **Misc**
 
