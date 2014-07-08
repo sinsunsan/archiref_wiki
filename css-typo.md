@@ -8,6 +8,9 @@
     * mixins ? 
     * class 
     * combination of class
+* Are padding and margin are defined with text ?
+    * advantage : consistent paragrapher spacing ....
+    * disadvantage : may change between context and create lot's of overrides
 
 ### Ressources
 
