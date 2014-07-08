@@ -1,6 +1,7 @@
 ### [[Sass Mixins libraries]]
 ### [[Sass Coding standards]]
 ### [[Sass recipes]]
+### [[Sass new features]]
 
 ### More about SASS
 * SASS Interpolation      
