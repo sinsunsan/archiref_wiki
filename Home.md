@@ -46,6 +46,7 @@
 * [[twitter bootstrap]]
 * [[markdown]]
 * [[modular scale]]
+* [[typo]]
 
 ***
 
