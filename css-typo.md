@@ -3,6 +3,11 @@
 * Choose between em or rem 
 * Define precise typo font-size list (like colors) using modular scale or not 
 * define line-height in percentage to be able to move relative to font-size
+* How to apply the text style 
+    * css heritage 
+    * mixins ? 
+    * class 
+    * combination of class
 
 ### Ressources
 
