@@ -1,4 +1,4 @@
-* jquery plugin to make funny typo 
+* jquery plugin to make funny typo     
 http://letteringjs.com/
 * [[modular scale]]
 * Choosing between px, em and rem    
