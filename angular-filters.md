@@ -1,5 +1,14 @@
 https://docs.angularjs.org/guide/filter
 
+## How to use filters 
+
+It's possible to use a filter in an expression like in a ng-repeat 
+or in the js code like 
+````js
+var orderBy = $filter('orderBy');
+$scope.friends = orderBy($scope.friends, predicate, reverse);
+````
+## Built in filters 
 ### Date   
 Format a date for display   
 https://docs.angularjs.org/api/ng/filter/date
