@@ -1,10 +1,9 @@
 https://docs.angularjs.org/guide/filter
 
-### Angular core filters
-* Date    
+### Date   
 Format a date for display
 https://docs.angularjs.org/api/ng/filter/date
 
-* Order By    
+### Order By    
 Allow to reorder a list with ng-repeat...
 https://docs.angularjs.org/api/ng/filter/orderBy
