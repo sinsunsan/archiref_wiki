@@ -53,3 +53,6 @@ ng-repeat="aliment in dated.aliments | filter: {ingredient_id: '!!'}"
 ````
 
 http://jsfiddle.net/TheSharpieOne/RGEdc/
+
+* **Call a controller function everywhere in the code (not only from a controller...)**      
+http://stackoverflow.com/questions/16709373/angularjs-how-to-call-controller-function-from-outside-of-controller-component
