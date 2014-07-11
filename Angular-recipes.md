@@ -40,3 +40,16 @@ Name only <input ng-model="search.name"><br>
 Phone only <input ng-model="search.phone"><br>
 ````
 https://docs.angularjs.org/api/ng/filter/filter
+
+* **Filter results for non null value of a field** 
+To filter for result that have null field you can do 
+````
+ng-repeat="aliment in dated.aliments | filter: {ingredient_id: null}"
+````
+But how to do for non null field ?
+There is a small syntax for that
+````
+ng-repeat="aliment in dated.aliments | filter: {ingredient_id: '!!'}"
+````
+
+http://jsfiddle.net/TheSharpieOne/RGEdc/
