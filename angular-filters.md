@@ -20,3 +20,4 @@ https://docs.angularjs.org/api/ng/filter/orderBy
 ### Filter (the filter filter...)
 Return a sub array of the given array (generally in the context of ng-repeat)
 https://docs.angularjs.org/api/ng/filter/filter
+http://sarahbranon.com/post/69604997957/fun-with-angularjs-filters-part-1-the-filter
