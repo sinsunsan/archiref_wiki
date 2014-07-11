@@ -1,3 +1,5 @@
+* Use git merge or git rebase (in french) http://www.git-attitude.fr/2014/05/04/bien-utiliser-git-merge-et-rebase
+
 * A git merge must be in one commit only !
 
 * How to tell git what to do with the file 
