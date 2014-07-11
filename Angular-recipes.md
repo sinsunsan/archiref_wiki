@@ -29,3 +29,14 @@ http://jsfiddle.net/geniuscarrier/tKZjZ/55/
 http://localhost:18080/equipe#!/#blocHistory
 ````
 In this url #! is the hash + bang used by angular, the path is / and the real plain hash is #blocHistory
+
+* **Object and object properties** 
+
+Example of handling of all properties and some properties of an object 
+**search.$** @todo learn more about
+````js
+Any: <input ng-model="search.$"> <br>
+Name only <input ng-model="search.name"><br>
+Phone only <input ng-model="search.phone"><br>
+````
+https://docs.angularjs.org/api/ng/filter/filter
