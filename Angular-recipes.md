@@ -89,3 +89,4 @@ function SecondController($scope) {
 }
 ````
 In both cases, you can communicate with any directive as well...
+https://www.youtube.com/watch?v=1OALSkJGsRw
