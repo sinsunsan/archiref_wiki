@@ -58,7 +58,12 @@ http://jsfiddle.net/TheSharpieOne/RGEdc/
 http://stackoverflow.com/questions/16709373/angularjs-how-to-call-controller-function-from-outside-of-controller-component
 
 
+***
+
 * **Communicate between controller** 
+
+http://stackoverflow.com/questions/9293423/can-one-controller-call-another-in-angularjs#
+
 here are multiple ways how to communicate between controllers.
 
 The best one is probably sharing a service:
