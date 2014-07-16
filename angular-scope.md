@@ -30,11 +30,11 @@ function firstCtrl($scope){
 ````
 
 ##### 2/ In case there is no parent-child relation between your scopes you can inject $rootScope into the controller and broadcast the event to all child scopes (i.e. also secondCtrl).
-
+````js
 function firstCtrl($rootScope){
      $rootScope.$broadcast('someEvent', [1,2,3]);
  }
-
+````
 #####  3/  Finally, when you need to dispatch the event from child controller to scopes upwards you can use $scope.$emit. If scope of firstCtrl is parent of the secondCtrl scope:
 ````js
 function firstCtrl($scope){
