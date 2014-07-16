@@ -56,3 +56,31 @@ http://jsfiddle.net/TheSharpieOne/RGEdc/
 
 * **Call a controller function everywhere in the code (not only from a controller...)**      
 http://stackoverflow.com/questions/16709373/angularjs-how-to-call-controller-function-from-outside-of-controller-component
+
+
+* **Communicate between controller** 
+here are multiple ways how to communicate between controllers.
+
+The best one is probably sharing a service:
+
+function FirstController(someDataService) {
+  // use the data service, bind to template...
+  // or call methods on someDataService to send a request to server
+}
+
+function SecondController(someDataService) {
+  // has a reference to the same instance of the service
+  // so if the service updates state for example, this controller knows about it
+}
+Another way is emitting an event on scope:
+````js
+function FirstController($scope) {
+  $scope.$on('someEvent', function(event, args) {});
+  // another controller or even directive
+}
+
+function SecondController($scope) {
+  $scope.$emit('someEvent', args);
+}
+````
+In both cases, you can communicate with any directive as well...
