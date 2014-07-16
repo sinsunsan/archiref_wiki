@@ -18,7 +18,7 @@ First of all, parent-child scope relation does matter. You have two possibilitie
 $broadcast -- dispatches the event downwards to all child scopes,
 $emit -- dispatches the event upwards through the scope hierarchy.
 
-1/ If scope of firstCtrl is parent of the secondCtrl scope, your code should work by replacing $emit by $broadcast in firstCtrl:
+#### 1/ If scope of firstCtrl is parent of the secondCtrl scope, your code should work by replacing $emit by $broadcast in firstCtrl:
 ````js
 function firstCtrl($scope){
      $scope.$broadcast('someEvent', [1,2,3]);
@@ -29,13 +29,13 @@ function firstCtrl($scope){
 }
 ````
 
-2/ In case there is no parent-child relation between your scopes you can inject $rootScope into the controller and broadcast the event to all child scopes (i.e. also secondCtrl).
+#### 2/ In case there is no parent-child relation between your scopes you can inject $rootScope into the controller and broadcast the event to all child scopes (i.e. also secondCtrl).
 
 function firstCtrl($rootScope){
      $rootScope.$broadcast('someEvent', [1,2,3]);
  }
 
-3/  Finally, when you need to dispatch the event from child controller to scopes upwards you can use $scope.$emit. If scope of firstCtrl is parent of the secondCtrl scope:
+####  3/  Finally, when you need to dispatch the event from child controller to scopes upwards you can use $scope.$emit. If scope of firstCtrl is parent of the secondCtrl scope:
 ````js
 function firstCtrl($scope){
    $scope.$on('someEvent', function(event, data) { console.log(data); });
