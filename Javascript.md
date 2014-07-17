@@ -9,7 +9,6 @@ https://developer.mozilla.org/en-US/docs/JavaScript/Reference
 Javascript best practices   
 http://www.javascripttoolbox.com/bestpractices/#var
 
-### API
 * [[this in js]]
 * [[javascript variable scope]]   
 * [[javascript global scope alternatives]]
@@ -19,6 +18,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[javascript string methods]]
 * [[Javascript method]]
 * [[Js event]]
+* [[javascript recipes]]
 
 ### Other Ressources
 * [[Javascript syntax]]
