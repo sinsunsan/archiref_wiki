@@ -19,7 +19,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[Javascript method]]
 * [[Js event]]
 * [[javascript recipes]]
-* [[javasctipt best pratices]]
+* [[javascript best pratices]]
 
 ### Other Ressources
 * [[Javascript syntax]]
