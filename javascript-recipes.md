@@ -46,3 +46,18 @@ checkNested(test, 'level1', 'level2', 'level3'); // true
 checkNested(test, 'level1', 'level2', 'foo'); // false
 ````
 https://gist.github.com/sinsunsan/79981d010e84cb44b681
+***
+### Self executing function 
+
+http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399
+
+Rather than calling a function, it's quite simple to make a function run automatically when a page loads, or a parent function is called. Simply wrap your function in parenthesis, and then append an additional set, which essentially calls the function.
+
+````js
+(function doSomething() {
+   return {
+      name: 'jeff',
+      lastName: 'way'
+   };
+})();
+````
