@@ -18,7 +18,6 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[javascript string methods]]
 * [[Javascript method]]
 * [[Js event]]
-
 * [[javascript recipes]]
 * [[javasctipt best pratices]]
 
