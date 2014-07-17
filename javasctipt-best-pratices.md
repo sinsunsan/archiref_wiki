@@ -1,0 +1,1 @@
+http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399
