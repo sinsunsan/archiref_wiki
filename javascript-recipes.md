@@ -1,4 +1,4 @@
-* **Test if something is undefined**      
+### **Test if something is undefined**      
 http://stackoverflow.com/questions/27509/detecting-an-undefined-object-property-in-javascript
 ````js
 if (typeof something === "undefined") {
@@ -21,7 +21,8 @@ The most robust way to perform this test is:
 ````if(typeof myVar === "undefined")````
 This will always return the correct result, and even handles the situation where myVar is not declared.
 
-* **Test the existence of a sub property of an object** 
+***
+### **Test the existence of a sub property of an object** 
 http://stackoverflow.com/questions/2631001/javascript-test-for-existence-of-nested-object-key
 - use try catch to detect and do seomthing with the exeption 
 - make a function to detecth the existence of the sub levels
@@ -44,3 +45,4 @@ var test = {level1:{level2:{level3:'level3'}} };
 checkNested(test, 'level1', 'level2', 'level3'); // true
 checkNested(test, 'level1', 'level2', 'foo'); // false
 ````
+https://gist.github.com/sinsunsan/79981d010e84cb44b681
