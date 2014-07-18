@@ -1,4 +1,8 @@
 There is several way to declare a template to be used by directives
+
+### Place the template in cache in the same js file
+
+
 Example with the accordion directive of bootstrap UI 
 
 Declaration of all templates in a module
@@ -31,3 +35,9 @@ angular.module("template/accordion/accordion.html", []).run(["$templateCache", f
     "<div class=\"panel-group\" ng-transclude></div>");
 }]);
 ````
+
+### Outup the template in a <script ng-template .. 
+
+
+
+### Load the template with an ajax call 
