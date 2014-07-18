@@ -1,4 +1,12 @@
 ### Directive options 
+### How to choose between the 3 scope options 
+
+* No scope 
+* Child Scope 
+* Isolated scope 
+
+http://stackoverflow.com/questions/14914213/when-writing-a-directive-how-do-i-decide-if-a-need-no-new-scope-a-new-child-sc
+
 
 #### Important notice about how to understand directives binding
 
