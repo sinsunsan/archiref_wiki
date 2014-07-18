@@ -11,7 +11,7 @@ https://docs.angularjs.org/api/ng/service/$templateCache
 
 ## Recipes 
 
-* Change a template url from a ngInclude 
+* **Change a template url from a ngInclude** 
 https://docs.angularjs.org/api/ng/directive/script
 ````js
 <script type="text/ng-template" id="/tpl.html">
@@ -21,6 +21,9 @@ https://docs.angularjs.org/api/ng/directive/script
 <div id="tpl-content" ng-include src="currentTpl"></div>
 ````
 src is changed dynamically by clicking on the a tag 
+
+* **Override a bootstrap UI directives**   
+http://stackoverflow.com/questions/17660947/can-you-override-specific-templates-in-angularui-bootstrap
 
 ## How directives load templates 
 ### 1/ Place the template in cache in the same js file
