@@ -1,6 +1,6 @@
 There is several way to declare a template to be used by directives
 
-### Place the template in cache in the same js file
+### 1/ Place the template in cache in the same js file
 
 
 Example with the accordion directive of bootstrap UI 
@@ -36,8 +36,17 @@ angular.module("template/accordion/accordion.html", []).run(["$templateCache", f
 }]);
 ````
 
-### Outup the template in a <script ng-template .. 
+### 2/ Output the template in a <script ng-template .. 
 
-
+It's basically the same that solution 1 
+````js
+angular.module('wecook.meal_controller', ['backend'])
+    .run(['$templateCache', function($templateCache) {
+        $templateCache.put('edition_tooltip_breakfast.html', document.getElementById('edition_tooltip_breakfast.html').innerHTML );
+}]);
+````
+Except that we find the template in the html of main document and not in the js file. 
+The advantage is that we have a cleaner syntax highlighting without need to escape like in js templating. 
+But as it's included in the main document, it's less flexible.
 
 ### Load the template with an ajax call 
