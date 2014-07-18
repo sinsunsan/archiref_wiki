@@ -1,4 +1,9 @@
-There is several way to declare a template to be used by directives
+Temmplates are html chunk or partials that are used by : 
+* Directives 
+* ngInclude 
+* ngViewe
+
+There is several way to declare a template to be used. 
 ## The template cache 
 
 https://docs.angularjs.org/api/ng/service/$templateCache
