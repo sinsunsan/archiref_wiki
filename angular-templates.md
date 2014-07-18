@@ -11,7 +11,7 @@ https://docs.angularjs.org/api/ng/service/$templateCache
 
 ## Recipes 
 
-* **Change a template url from a ngInclude** 
+* **Change a template url from a ngInclude**    
 https://docs.angularjs.org/api/ng/directive/script
 ````js
 <script type="text/ng-template" id="/tpl.html">
