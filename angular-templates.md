@@ -1,5 +1,9 @@
 There is several way to declare a template to be used by directives
+## The template cache 
 
+https://docs.angularjs.org/api/ng/service/$templateCache
+
+## How directives load templates 
 ### 1/ Place the template in cache in the same js file
 
 
