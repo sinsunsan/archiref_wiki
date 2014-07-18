@@ -1,4 +1,5 @@
 ### Selection of [[angular directives libraries]]
+### Directives and template [[angular templates]]
 ### Writing a custom directives
 
 * http://www.ng-newsletter.com/posts/directives.html
