@@ -8,6 +8,20 @@ There is several way to declare a template to be used.
 
 https://docs.angularjs.org/api/ng/service/$templateCache
 
+
+## Recipes 
+
+* Change a template url from a ngInclude 
+https://docs.angularjs.org/api/ng/directive/script
+````js
+<script type="text/ng-template" id="/tpl.html">
+  Content of the template.
+</script>
+<a ng-click="currentTpl='/tpl.html'" id="tpl-link">Load inlined template</a>
+<div id="tpl-content" ng-include src="currentTpl"></div>
+````
+src is changed dynamically by clicking on the a tag 
+
 ## How directives load templates 
 ### 1/ Place the template in cache in the same js file
 
