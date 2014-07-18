@@ -49,4 +49,10 @@ Except that we find the template in the html of main document and not in the js 
 The advantage is that we have a cleaner syntax highlighting without need to escape like in js templating. 
 But as it's included in the main document, it's less flexible.
 
-### Load the template with an ajax call 
+### 3/ Load the template with an ajax call 
+
+Just place the file at the url you specify in the directive, and it will be loaded if available. 
+
+The advantage is the total independance, of the html chunk from the main document, which allow a simple reuse et make the debug easier. 
+
+The drawback can be too much ajax query, that slow down the page loading. 
