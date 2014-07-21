@@ -20,3 +20,11 @@ http://www.asual.com/swfaddress
 https://github.com/ivaynberg/select2   
 And it's angular wrapper   
 https://github.com/angular-ui/ui-select2    
+
+#### Date 
+
+* moment.js : Date formating 
+````
+moment('Thu Jul 24 2014 10:43:30 GMT+0200 (CEST)').format('YYYY-MM-DD');
+````
+"2014-07-24"
