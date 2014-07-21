@@ -45,3 +45,22 @@ To get the existing module using angular.module('mean') without the second param
 
 * Unbinding jquery event listening
 http://stackoverflow.com/questions/22397484/how-to-reduce-remove-memory-leaks-in-angular-application
+
+***
+### Template for directive 'minisearch' must have exactly one root element.
+
+Template for directive 'minisearch' must have exactly one root element. template/minisearch.html
+
+Was 
+````js
+<!-- Mini search bar integrated to the header-->
+<div class="search-mini">
+  <form action="/images#!/images" method="GET" ng-submit="goTo()">
+    <div class="input-group">
+      <input type="text" placeholder="Search images..." ng-show="searchMini" class="form-control"><span ng-click="searchMini = !searchMini" class="input-group-addon"><i class="fa fa-search"></i></span>
+    </div>
+  </form>
+</div>
+````
+And the <!-- Mini search bar integrated to the header-->
+Was considered as a html element ! so either remove the comment either wrap it inside <div class="search-mini">
