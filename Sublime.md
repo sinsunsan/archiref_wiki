@@ -17,3 +17,9 @@ To exclude cache and log from a symphony environnement
 ,-/Users/sebastien/sshfs/sf/dev/myproject/app/cache*, -/Users/sebastien/sshfs/sf/dev/myproject/app/logs/dev.log
 ````
 Don't forget the , at the beginning
+
+* **Access Menu item** 
+Cmd + Shift + P
+
+* **Search a function in the file**    
+Cmd + R
