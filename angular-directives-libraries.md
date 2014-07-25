@@ -12,3 +12,6 @@ http://getbootstrap.com/javascript/#scrollspy
 
 * **Angular strap** : Port of twitter boostrap   
 http://mgcrea.github.io/angular-strap/##selects
+
+* **Angular Loading** : directive to show a loader when the data is loading    
+https://github.com/darthwade/angular-loading
