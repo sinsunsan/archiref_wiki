@@ -15,6 +15,12 @@ Except if a @media print media query is used
 ### Special print css @page 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@page
 
-* How to debug print css
+### How to debug print css
+
+Solutions : 
+
+* Web developper options : but don't works with @media print
+* Firebug option
+
 http://stackoverflow.com/questions/2452713/suggestions-for-debugging-print-stylesheets
 http://stackoverflow.com/questions/726825/how-do-you-debug-printable-css
