@@ -48,6 +48,24 @@ Non essential element to spare ink
 ### Special print css @page 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@page
 
+* Define the print margin
+````
+@page :left {
+margin: 0.5cm;
+}
+
+@page :right {
+margin: 0.8cm;
+}
+````
+* Define the page orientation
+````
+@page {
+        size: landscape
+    }
+````
+
+
 ### How to debug print css
 
 Solutions : 
