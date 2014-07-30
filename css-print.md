@@ -1,3 +1,6 @@
+### Tuto 
+http://www.sitepoint.com/create-a-customized-print-stylesheet-in-minutes/
+
 ### Print css
 
 By default, no css is applied to the print version of the page 
