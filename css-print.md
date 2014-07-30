@@ -40,6 +40,11 @@ Pixels => Points
 23px => 17pt
 24px => 18pt
 ````
+
+#### Display none some element 
+
+Non essential element to spare ink
+
 ### Special print css @page 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@page
 
