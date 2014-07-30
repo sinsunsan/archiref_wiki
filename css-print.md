@@ -15,6 +15,31 @@ Or that
 
 Except if a @media print media query is used
 
+### Things to change 
+#### Px to point 
+````
+
+Pixels => Points
+6px => 5pt
+7px => 5pt
+8px => 6pt
+9px => 7pt
+10px => 8pt
+11px => 8pt
+12px => 9pt
+13px => 10pt
+14px => 11pt
+15px => 11pt
+16px => 12pt
+17px => 13pt
+18px => 14pt
+19px => 14pt
+20px => 15pt
+21px => 16pt
+22px => 17pt
+23px => 17pt
+24px => 18pt
+````
 ### Special print css @page 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@page
 
