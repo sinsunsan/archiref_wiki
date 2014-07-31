@@ -23,3 +23,10 @@ Cmd + Shift + P
 
 * **Search a function in the file**    
 Cmd + R
+
+* **Open a file in two split screen**
+
+* Make sure the file is not modified 
+* Select the file name on the left panel 
+*  Go to File > "New view into file"
+* move the new file instance where you want
