@@ -1,5 +1,8 @@
 https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks
+### Search 
 
+Tabs visible when typing Esc (aside with console) 
+It has Console / Search / Emulate / Rendering
 ### Source 
 
 Allow to list all js script.   
