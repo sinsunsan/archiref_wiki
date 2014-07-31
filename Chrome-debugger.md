@@ -12,6 +12,10 @@ Options at the bottom
 
 * Right panel, the step by step debugger toogle a right arrow to activate all break point or descativate all break points
 
+### Stop a browser loading process
+
+Juste hit **Escape**
+
 ### Network 
 
 Network are logged only if a page is loaded when the network tab is active.     
