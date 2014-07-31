@@ -12,3 +12,7 @@ steroids connect
 s
 
 ````
+
+* Starter steroid with angular 
+https://github.com/AppGyver/steroids-angular-mpa
+* http://www.angularjsonsteroids.com/#example-app
