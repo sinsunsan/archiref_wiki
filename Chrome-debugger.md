@@ -7,6 +7,8 @@ It has Console / Search / Emulate / Rendering
 Allow to search in all files (html, css, js)
 So more powerful that sources....
 
+Example usage : search all "@media print" in all files "" are recognized are exact search 
+
 ### Source 
 
 Allow to list all js script.   
