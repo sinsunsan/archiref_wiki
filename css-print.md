@@ -3,6 +3,18 @@ http://www.sitepoint.com/create-a-customized-print-stylesheet-in-minutes/
 http://alistapart.com/article/goingtoprint/
 http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/
 
+
+### How to debug print css
+
+Solutions : 
+* Remove the @media print so that the style apply to the screen display : will give a immediate preview of the print effect. For display: none!important; very starightforward !
+* Web developper options : but don't works with @media print
+* Firebug option
+
+http://stackoverflow.com/questions/2452713/suggestions-for-debugging-print-stylesheets
+http://stackoverflow.com/questions/726825/how-do-you-debug-printable-css
+
+
 ### Print css
 
 By default, no css is applied to the print version of the page 
@@ -67,16 +79,6 @@ margin: 0.8cm;
     }
 ````
 
-
-### How to debug print css
-
-Solutions : 
-
-* Web developper options : but don't works with @media print
-* Firebug option
-
-http://stackoverflow.com/questions/2452713/suggestions-for-debugging-print-stylesheets
-http://stackoverflow.com/questions/726825/how-do-you-debug-printable-css
 
 ### Twitter boostrap print css (taken from boilerplate)
 
