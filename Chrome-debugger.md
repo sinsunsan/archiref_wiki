@@ -1,8 +1,12 @@
 https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks
-### Search 
-
+### Search, rendering, Emulate
+#### Sarch
 Tabs visible when typing Esc (aside with console) 
 It has Console / Search / Emulate / Rendering
+
+Allow to search in all files (html, css, js)
+So more powerful that sources....
+
 ### Source 
 
 Allow to list all js script.   
