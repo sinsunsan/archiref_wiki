@@ -15,3 +15,16 @@ http://nvie.com/posts/a-successful-git-branching-model/
 * Find both version in the tree
 ```find . -name _navbar.scss```
 May be very useful to find duplicate files both maintained in the tree by git
+
+
+### Merge technics 
+
+#### Manual merge 
+When a file is being splitted for example, 
+the automatic merge is very complicated to undesrtand 
+One technics is : 
+
+* Use the last version of the file from the branch where we want to merge something 
+* use git diff commit commmit afile to get a diff of all changes in the problematic file 
+* in the diff use context to identify the insertion points 
+* copy and paste the code modification one by one
