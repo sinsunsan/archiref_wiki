@@ -1,4 +1,4 @@
-* **Update files being ignored after updating a .gitignore file**   
+### **Update files being ignored after updating a .gitignore file**   
 When you update the gitignore, the files already in the index but matching the gitignore don't get updated.   
 To force the update 
 
@@ -14,7 +14,7 @@ Commit it:
 git commit -m ".gitignore is now working"
 ```
 
-* **Delete files untracked files**   
+### **Delete files untracked files**   
 ```
 git clean -f
 ``` 
@@ -27,3 +27,11 @@ To clean files and directory  (Useful in most cases)
 ```
 git clean -f -d
 ```
+
+### Quit a merge process without merging 
+
+````
+git merge --abort 
+git cherry-pick --abort
+````
+
