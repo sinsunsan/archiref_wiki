@@ -5,6 +5,7 @@
 * [[@font-face]]
 * [[vertical align in css]]
 * [[css flexbox]]   
+* [[css multi column]]
 * [[css text sizing]]    
 * [[css animation]]
 
