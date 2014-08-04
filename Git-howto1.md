@@ -30,6 +30,8 @@ git clean -f -d
 
 ### Quit a merge process without merging 
 
+If you want let's say only see all the merge conflict without merging anything. 
+To get back to your unmerge branche state, you have a command option --abort
 ````
 git merge --abort 
 git cherry-pick --abort
