@@ -6,3 +6,7 @@ http://webdesign.tutsplus.com/articles/an-introduction-to-the-css3-multiple-colu
 http://jsbin.com/pawem/2
 
 http://www.vanseodesign.com/blog/demo/multi-column/
+
+
+* col-span to make a content overflowing 
+http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_column-span
