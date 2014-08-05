@@ -16,6 +16,9 @@ http://nvie.com/posts/a-successful-git-branching-model/
 ```find . -name _navbar.scss```
 May be very useful to find duplicate files both maintained in the tree by git
 
+### How to merge files that has been splitted 
+
+http://stackoverflow.com/questions/2953808/merge-changes-when-a-file-on-a-branch-has-split-into-two-files-on-the-master
 
 ### Merge technics 
 
