@@ -1,5 +1,8 @@
-A bunch of angular recipes     
-https://leanpub.com/recipes-with-angular-js/read
+### Liste of Angular recipes     
+* https://leanpub.com/recipes-with-angular-js/read
+* http://fdietz.github.io/recipes-with-angular-js/toc.html
+
+#### My Recipes
 
 * **Print a class name depending of the value of a variable**   
 http://stackoverflow.com/questions/14735257/what-angularjs-expression-syntax-is-this-in-ng-class
