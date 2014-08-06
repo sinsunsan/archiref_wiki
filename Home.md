@@ -58,6 +58,7 @@
 * [[responsive design]]
 * [[IE debug]]
 * [[markdown]]
+* [[style guide]]
 
 ***
 
