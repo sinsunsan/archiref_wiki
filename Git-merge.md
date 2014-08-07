@@ -51,3 +51,7 @@ We can use git diff
 ````
 git diff :2:file.txt :3:file.txt
 ````
+
+### Use 3 style 
+http://stackoverflow.com/questions/16990657/git-merge-diff3-style-need-explanation
+Indicate HEAD / the merged branch / and the common base
