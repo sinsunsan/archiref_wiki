@@ -37,3 +37,14 @@ git merge --abort
 git cherry-pick --abort
 ````
 
+
+### Reset hard even if there is untracked file 
+
+When doing a merge, we sometime need to do a `git reset --hard` instead of a git merge --abort 
+But there is often some untracked files, due to the merge. 
+If you do `git reset --hard`, it will not remove the untracked files. 
+
+To solve this it's very easy ! 
+Add the untracked files 
+
+`git add --all` 
