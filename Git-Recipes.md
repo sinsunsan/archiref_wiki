@@ -48,3 +48,10 @@ To solve this it's very easy !
 Add the untracked files 
 
 ```git add --all``` 
+
+
+### have a word by word diff 
+The both modified lines show both version on the same line, with different colors.
+````
+git diff --word-diff=color 0364798 565d44b  myfile.css
+````
