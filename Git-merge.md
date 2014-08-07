@@ -46,3 +46,8 @@ git show :2:_widget.html.erb
 # 'theirs'
 git show :3:_widget.html.erb
 ````
+
+We can use git diff
+````
+git diff :2:file.txt :3:file.txt
+````
