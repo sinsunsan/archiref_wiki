@@ -1,3 +1,5 @@
+### [[Github Pages]]
+
 ### Image insertion 
 
 Possible to insert images, but must be stored elsewhere, there is no image or document upload facility   
