@@ -2,7 +2,7 @@
 
 [[Git debug]]   
 [[Git howto]]    
-[[Git howto1]]   
+[[Git recipes]]   
 [[Comprendre les réglages dans .git/config]]   
 [[Git submodules]]   
 [[git housekeeping]]
