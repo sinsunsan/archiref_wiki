@@ -31,3 +31,18 @@ One technics is :
 * use git diff commit commmit afile to get a diff of all changes in the problematic file 
 * in the diff use context to identify the insertion points 
 * copy and paste the code modification one by one
+
+
+### Show the changes separately 
+
+http://stackoverflow.com/questions/101752/aborting-a-merge-in-git#107860
+````
+# common base:
+git show :1:_widget.html.erb
+
+# 'ours'
+git show :2:_widget.html.erb
+
+# 'theirs'
+git show :3:_widget.html.erb
+````
