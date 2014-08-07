@@ -3,7 +3,7 @@
 [[Git debug]]   
 [[Git howto]]    
 [[Git recipes]]   
-[[Comprendre les réglages dans .git/config]]   
+[[Git config]]   
 [[Git submodules]]   
 [[git housekeeping]]
 [[Git merge]]   
