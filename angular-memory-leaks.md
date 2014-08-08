@@ -2,7 +2,7 @@
 * http://blog.cycle-interactive.com/?p=524
 
 
-````
+````js
 angular.module('test')
    .controller('QuestionsStatusController2',
    ['$rootScope', '$scope', '$resource', '$state',
