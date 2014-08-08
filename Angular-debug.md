@@ -41,7 +41,7 @@ To get the existing module using angular.module('mean') without the second param
 
 *** 
 
-### memory leaks 
+### [[angular memory leaks]]
 
 * Unbinding jquery event listening
 http://stackoverflow.com/questions/22397484/how-to-reduce-remove-memory-leaks-in-angular-application
