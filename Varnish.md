@@ -1,7 +1,10 @@
-* Check varnish syntax    
+### Check varnish syntax    
 http://codepoets.co.uk/2011/checking-varnish-configuration-syntax/
+````
+varnishd -C -f /etc/varnish/default.vcl
+````
 
-* Regular expression for varnish    
+### Regular expression for varnish    
 http://docs.fastly.com/guides/21835572/31252953    
 http://kly.no/varnish/regex.txt
 
