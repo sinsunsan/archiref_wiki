@@ -28,3 +28,7 @@ http://webdesign.tutsplus.com/articles/quick-tip-easy-css3-checkboxes-and-radio-
 ````
 @debug "$boolean is #{$boolean}"
 ````
+
+* **Keep the footer at the bottom of the page regardeless of the content height**    
+http://www.cssreset.com/how-to-keep-footer-at-bottom-of-page-with-css/
+http://stackoverflow.com/questions/5189238/how-to-make-a-footer-fixed-in-the-page-bottom
