@@ -12,6 +12,13 @@ Clean up command html tool to be w3c compliant
 * http://html5doctor.com   
 Dedicated to explaing new html markup elements
 
+### IE Compatibility 
+```` html
+ <!--[if lte IE 9]>
+       <script
+src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+````
 ### Elements
 
 * [[html5 Videos]]
