@@ -1,7 +1,8 @@
 Reference site http://docs.mongodb.org/
 
-[[mongoose]]
-[[mongodb fuzzy search]]
+* [[mongoose]]
+* [[mongodb fuzzy search]]
+
 ### Terminology 
 
 **Mongo**       MYSQL   
