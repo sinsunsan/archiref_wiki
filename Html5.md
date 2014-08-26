@@ -19,6 +19,8 @@ Dedicated to explaing new html markup elements
 src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 ````
+This code use conditionnal comment to target IE9 and lower 
+http://www.quirksmode.org/css/condcom.html
 ### Elements
 
 * [[html5 Videos]]
