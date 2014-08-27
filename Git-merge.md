@@ -55,3 +55,16 @@ git diff :2:file.txt :3:file.txt
 ### Use 3 style 
 http://stackoverflow.com/questions/16990657/git-merge-diff3-style-need-explanation
 Indicate HEAD / the merged branch / and the common base
+
+### find the common ancestor
+````
+git merge-base planningv6-mergemaster coachingcook
+# output a commit like d127cab188e9de25546fe5387e497ef42b16756a
+#Then we show what is this ancestor commit
+git log | grep -a2 -b2 d127cab188e9de25546fe5387e497ef42b16756a 
+11130-    shopping list - checkboxes added
+11167-
+11168:commit d127cab188e9de25546fe5387e497ef42b16756a
+11216-Author: Sebastien Lucas <sebastien@kiwings.com>
+11264-Date:   Tue Jul 29 13:19:43 2014 +0000
+````
