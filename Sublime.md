@@ -1,3 +1,7 @@
+### Links 
+* New features voted by the community    
+http://sublimetext.userecho.com/
+
 ### [[Sublime text plugin]]
 
 ### Cool features
