@@ -1,6 +1,8 @@
+* 
+* http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135
 * http://stackoverflow.com/questions/18856341/how-can-i-unregister-a-broadcast-event-to-rootscope-in-angularjs
 * http://blog.cycle-interactive.com/?p=524
-
+* http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches
 
 ````js
 angular.module('test')
