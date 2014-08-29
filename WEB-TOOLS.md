@@ -25,7 +25,7 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 ### Images ressources 
 
 * Neutral screen background http://subtlepatterns.com 
-* Stock images http://www.bluevertigo.com.ar/
+* Blue vertigo / Catalogu of assets (images, sounds, icons) site http://www.bluevertigo.com.ar/
 * Pattern Library http://patterntap.com
 
 ### Icons 
