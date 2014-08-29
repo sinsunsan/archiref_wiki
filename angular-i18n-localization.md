@@ -1,0 +1,1 @@
+https://docs.angularjs.org/guide/i18n
