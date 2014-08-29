@@ -1,5 +1,7 @@
 # Linux
 
+[[Linux recipes]] 
+
 ### List files 
 * [[ls]] 
 * [[tree]]  Print the tree of files and folders 
