@@ -17,4 +17,7 @@
 * http://webdesign.tutsplus.com/articles/how-to-create-style-guides-for-a-specific-audience--cms-21047
 * Google products Style guide 
 http://www.google.com/design/spec/material-design/introduction.html#introduction-principles
-* dd
+
+### Fonts and typo
+
+* http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
