@@ -8,8 +8,19 @@
 
 ### Sandbox 
 
-* Jsbin / light and efficient http://jsbin.com/
+* Jsbin / light and efficient with a console http://jsbin.com/
 * SASS Meister / For sass http://sassmeister.com/
+* **JS Fiddle** The most famous (used ?) playground
+http://jsfiddle.net/
+* **Plunkr** Used by angular doc / Nice th handle several files separately, and for its embed in sites 
+http://plnkr.co/
+* **Boot ply** Twitter bootstrap sandbox    
+http://www.bootply.com/
+
+* Rawgit / 
+Github serve raw files with a text/plain header so they can't be used for js. 
+Instead use 
+http://rawgit.com/
 
 ### Inspirations
 
