@@ -4,7 +4,7 @@
 
 ### Tools 
 
-* http://ipadpeek.com/ To preview mobile display
+* To preview iphone and ipad display http://ipadpeek.com/ 
 
 
 ### Inspirations
@@ -27,3 +27,18 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Neutral screen background http://subtlepatterns.com 
 * Stock images http://www.bluevertigo.com.ar/
 * Pattern Library http://patterntap.com
+
+### Icons 
+
+* https://www.iconfinder.com/
+* http://fortawesome.github.io/Font-Awesome/
+* Twitter bootstrap main icon library http://getbootstrap.com/components/#glyphicons 
+* Geographic icons http://map-icons.com/#icons
+* Github main font projects https://github.com/showcases/icon-fonts
+* Icons from ionic project http://ionicons.com/
+* Icons for things http://thenounproject.com/
+
+
+### UI, UX 
+
+* http://www.goodui.org/
