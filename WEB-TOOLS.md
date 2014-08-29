@@ -21,3 +21,9 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 ### Fonts and typo
 
 * http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
+
+### Images ressources 
+
+* Neutral screen background http://subtlepatterns.com 
+* Stock images http://www.bluevertigo.com.ar/
+* Pattern Library http://patterntap.com
