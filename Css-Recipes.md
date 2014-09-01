@@ -32,3 +32,14 @@ http://webdesign.tutsplus.com/articles/quick-tip-easy-css3-checkboxes-and-radio-
 * **Keep the footer at the bottom of the page regardeless of the content height**    
 http://www.cssreset.com/how-to-keep-footer-at-bottom-of-page-with-css/
 http://stackoverflow.com/questions/5189238/how-to-make-a-footer-fixed-in-the-page-bottom
+
+* Give a percentage dimension minis a fixed dimensions 
+We have a full height container height: 100%; 
+But we want to soutract a fixed height, of a footer for example height: 120px; 
+There is a new css3 function that is decently supporterted calc()
+```css
+height: calc(100% -50px);
+```
+* https://developer.mozilla.org/en-US/docs/Web/CSS/calc#Browser_compatibility   
+* http://stackoverflow.com/questions/2434602/css-setting-width-height-as-percentage-minus-pixels
+ 
