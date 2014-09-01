@@ -1,0 +1,2 @@
+* apache solr
+* elastic search
