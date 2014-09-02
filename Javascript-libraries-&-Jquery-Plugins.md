@@ -33,3 +33,7 @@ moment('Thu Jul 24 2014 10:43:30 GMT+0200 (CEST)').format('YYYY-MM-DD');
 
 * **lodash-deep** Deep checking and accessing object properties https://github.com/marklagendijk/lodash-deep
 * **lodash** Utilies library for js http://lodash.com/ 
+
+
+#### UI 
+* **spin.js** Configurable spinner / http://fgnass.github.io/spin.js/
