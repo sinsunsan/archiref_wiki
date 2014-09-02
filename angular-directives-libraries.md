@@ -15,3 +15,5 @@ http://mgcrea.github.io/angular-strap/##selects
 
 * **Angular Loading** : directive to show a loader when the data is loading    
 https://github.com/darthwade/angular-loading
+The same using excellent http://fgnass.github.io/spin.js/
+https://github.com/urish/angular-spinner
