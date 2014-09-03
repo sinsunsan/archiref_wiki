@@ -1,6 +1,11 @@
 * http://thenittygritty.co/angularjs-pitfalls-using-scopes
+### Scope soup 
+
 * http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html
 
+### this vs scope 
+
+http://stackoverflow.com/questions/11605917/this-vs-scope-in-angularjs-controllers/14168699#14168699
 
 ### Modularization 
 
