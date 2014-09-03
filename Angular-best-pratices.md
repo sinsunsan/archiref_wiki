@@ -1,6 +1,10 @@
-* http://thenittygritty.co/angularjs-pitfalls-using-scopes
-### Scope soup 
+### General Pitfalls
 
+*http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
+
+### Scope Pitfalls 
+
+* http://thenittygritty.co/angularjs-pitfalls-using-scopes
 * http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html
 
 ### this vs scope 
