@@ -8,6 +8,7 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 * [[Angular Modules architecture]] / ng-app / Modules ...
 * [[angular events]] // How to react to events in angular   
 * [[angular scope]] // Object $scope that hold all variables to bind between model and controller
+* [[angular scope inheritance]] //
 ***
 
 ### Angular components
