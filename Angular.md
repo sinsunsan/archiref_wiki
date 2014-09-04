@@ -26,9 +26,10 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 ### Angular best pratices and code quality
 * [[Angular tools]]
 * [[Angular best pratices]]
-* [[Angular share code]]
+* [[Angular documentation]] // How to documentate our code with ng doc
+* [[Angular share code]] // Share code between controllers...
 * [[Angular debug]]
-* [[Angular SEO]]
+* [[Angular SEO]] // Make the angular ajax loaded page crawlable
 * [[Angular code analysis]]
 * [[Angular Recipes]]
 
