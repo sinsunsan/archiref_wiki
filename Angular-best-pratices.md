@@ -1,6 +1,6 @@
 ### General Pitfalls
 
-*http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
+* http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
 
 ### Scope Pitfalls 
 
