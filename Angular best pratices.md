@@ -1,3 +1,6 @@
+### Best pratices documents 
+* https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#moduledeps
+
 ### General Pitfalls
 
 * http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
