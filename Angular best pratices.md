@@ -8,8 +8,8 @@
 * http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html
 
 ### this vs scope 
-
-http://stackoverflow.com/questions/11605917/this-vs-scope-in-angularjs-controllers/14168699#14168699
+* http://odetocode.com/blogs/scott/archive/2014/08/11/thoughts-on-angular-controller-as-syntax.aspx
+* http://stackoverflow.com/questions/11605917/this-vs-scope-in-angularjs-controllers/14168699#14168699
 
 ### Modularization 
 
