@@ -1,1 +1,0 @@
-* http://passportjs.org/guide
