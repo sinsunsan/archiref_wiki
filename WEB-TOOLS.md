@@ -35,6 +35,8 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 
 ### Fonts and typo
 
+* Modular scale base article and calculator http://modularscale.com/
+* Modular scale visual calculator http://type-scale.com/
 * http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 
 ### Images ressources 
