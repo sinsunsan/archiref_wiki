@@ -55,7 +55,7 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Icons from ionic project http://ionicons.com/
 * Icons for things http://thenounproject.com/
 
-### emails 
+### Emails 
 
 * http://emails.hteumeuleu.fr/
 
