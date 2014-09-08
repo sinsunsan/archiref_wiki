@@ -55,6 +55,10 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Icons from ionic project http://ionicons.com/
 * Icons for things http://thenounproject.com/
 
+### emails 
+
+* http://emails.hteumeuleu.fr/
+
 ### UI, UX 
 
 * http://www.goodui.org/
