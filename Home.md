@@ -43,6 +43,7 @@
 * [[sass]]
 * [[modular scale]]
 * [[css typo]]
+* [[web fonts]]
 
 ### Templating 
 * [[html]]
