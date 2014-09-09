@@ -12,3 +12,8 @@ second {} is the equivalent from the SELECT sql clause.
 ```js
 db.projects.find({}, {_id:1});
 ```
+
+### Return fields that exist 
+```js
+db.bricks.find({project: {$exists: true}}, {_id: 1, project: 1});
+```
