@@ -14,6 +14,8 @@ db.projects.find({}, {_id:1});
 ```
 
 ### Return fields that exist 
+
+So we pass to the field name, a object with $exists as property and true as value.
 ```js
 db.bricks.find({project: {$exists: true}}, {_id: 1, project: 1});
 ```
