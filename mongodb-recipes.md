@@ -25,3 +25,9 @@ db.bricks.find({project: {$exists: true}}, {_id: 1, project: 1});
 http://localhost:28017
 
 will show detail on current operation (if mongod is running on 28017 port)
+
+### Do a simple query with ObjectId
+So put the "" around the id but not arout ObjectId (which is a js function)
+```js
+> db.projects. find({_id: ObjectId("5384d7b548836a00007aa1cc")}, {_id: 1})
+```
