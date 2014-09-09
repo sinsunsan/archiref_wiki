@@ -31,3 +31,9 @@ So put the "" around the id but not arout ObjectId (which is a js function)
 ```js
 > db.projects. find({_id: ObjectId("5384d7b548836a00007aa1cc")}, {_id: 1})
 ```
+
+
+### Sort by id desc and limit number of document to 5 
+```js
+ db.bricks.find().sort({_id: -1}).limit(5)
+```
