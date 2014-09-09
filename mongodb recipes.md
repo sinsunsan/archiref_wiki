@@ -19,3 +19,9 @@ So we pass to the field name, a object with $exists as property and true as valu
 ```js
 db.bricks.find({project: {$exists: true}}, {_id: 1, project: 1});
 ```
+
+### Monitor mongodb query 
+
+http://localhost:28017
+
+will show detail on current operation (if mongod is running on 28017 port)
