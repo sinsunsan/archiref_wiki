@@ -1,9 +1,14 @@
 ### My module is not defined ?
 
 a module can't be created with 
-```angular.module('mysite.calendar.directives')```
+```js
+angular.module('mysite.calendar.directives')
+```
+
 even if you don't have dependencies you need to write 
-```angular.module('mysite.calendar.directives, []')```
+```js
+angular.module('mysite.calendar.directives, []')
+```
 
 ### A directive is not interpreted. 
 
