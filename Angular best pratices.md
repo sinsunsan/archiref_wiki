@@ -1,11 +1,6 @@
 ### Best pratices documents 
 * https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#moduledeps
 
-### $emit vs $broadcast 
-
-* http://stackoverflow.com/questions/11252780/whats-the-correct-way-to-communicate-between-controllers-in-angularjs/19498009#19498009
-* http://jsperf.com/rootscope-emit-vs-rootscope-broadcast
-
 ### General Pitfalls
 
 * http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
