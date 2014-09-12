@@ -1,3 +1,8 @@
+### A directive is not interpreted. 
+
+Generally there is a dependency with per aps the directives module. 
+It don't throw an error. But a way to quick debug is to copy the directives code, assign it to the module of the current controller.
+
 ### Argument 'myCtrl' is not a function, got undefined    
 > 
 Argument 'TeamCtrl' is not a function, got undefined    
