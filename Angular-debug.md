@@ -7,7 +7,7 @@ angular.module('mysite.calendar.directives')
 
 even if you don't have dependencies you need to write 
 ```js
-angular.module('mysite.calendar.directives, []')
+angular.module('mysite.calendar.directives', [])
 ```
 
 ### A directive is not interpreted. 
