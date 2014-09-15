@@ -9,6 +9,9 @@ even if you don't have dependencies you need to write
 ```js
 angular.module('mysite.calendar.directives', [])
 ```
+### test if a template is in the template cache 
+
+```$log.debug($templateCache.get('new_recommandation.html'));```
 
 ### A directive is not interpreted. 
 
