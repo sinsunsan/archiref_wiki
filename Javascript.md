@@ -17,6 +17,7 @@ http://www.javascripttoolbox.com/bestpractices/#var
 * [[javascript function]]
 * [[javascript string methods]]
 * [[Javascript method]]
+* [[javascript prototypal inheritance]]
 * [[Js event]]
 * [[javascript recipes]]
 * [[javascript best pratices]]
