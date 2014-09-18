@@ -70,3 +70,6 @@ Rather than calling a function, it's quite simple to make a function run automat
    };
 })();
 ````
+
+
+### test if a property of an object exist exluding inherited properties (through prototypal inheritance)
