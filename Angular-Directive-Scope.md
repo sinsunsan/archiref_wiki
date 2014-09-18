@@ -51,7 +51,7 @@ scope: {
 * Version using = operator :
  http://plnkr.co/edit/9fusO7XsunFkpXxXkgIJ?p=preview
 
-* Version using @ operator :
+* Version using & operator :
  http://plnkr.co/edit/kzPRxAdG24Y7k0xFanZP?p=preview
 
 #### Exemples
