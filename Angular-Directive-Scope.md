@@ -47,8 +47,11 @@ scope: {
 #### How to use @ operator and function in the context of the parent scope 
 
 * http://stackoverflow.com/questions/23477859/angularjs-call-function-on-directive-parent-scope-with-directive-scope-argumen
-* http://plnkr.co/edit/9fusO7XsunFkpXxXkgIJ?p=preview
 
+Version using = operator :
+* http://plnkr.co/edit/9fusO7XsunFkpXxXkgIJ?p=preview
+Version using @ operator :
+* http://plnkr.co/edit/kzPRxAdG24Y7k0xFanZP?p=preview
 #### Exemples
 
 
