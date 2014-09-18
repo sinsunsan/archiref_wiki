@@ -73,3 +73,23 @@ Rather than calling a function, it's quite simple to make a function run automat
 
 
 ### test if a property of an object exist exluding inherited properties (through prototypal inheritance)
+
+obj.hasOwnProperty
+
+### Inverse the keys and values of an object (to do mapping)
+
+http://nelsonwells.net/2011/10/swap-object-key-and-values-in-javascript/
+````js
+var invert = function (obj) {
+
+  var new_obj = {};
+
+  for (var prop in obj) {
+    if(obj.hasOwnProperty(prop)) {
+      new_obj[obj[prop]] = prop;
+    }
+  }
+
+  return new_obj;
+};
+````
