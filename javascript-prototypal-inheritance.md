@@ -1,0 +1,1 @@
+* obj.hasOwnProperty(prop) : allow to test if obj has a property named prop acquired 
