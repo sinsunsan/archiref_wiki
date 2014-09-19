@@ -98,7 +98,7 @@ var invert = function (obj) {
 
 http://stackoverflow.com/questions/351409/appending-to-array
 
-**1/ Add values **
+**1/ Add values**
 ````js
 arrayName.push('value')
 ````
