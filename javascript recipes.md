@@ -93,3 +93,15 @@ var invert = function (obj) {
   return new_obj;
 };
 ````
+
+### Add element to the end of an array 
+
+1/ Add values 
+````js
+arrayName.push('value')
+````
+
+2/ Add arrays
+````
+arrayName = arrayName.concat(newArray1, newArray2, ....);
+````js
