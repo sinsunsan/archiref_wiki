@@ -96,12 +96,14 @@ var invert = function (obj) {
 
 ### Add element to the end of an array 
 
+http://stackoverflow.com/questions/351409/appending-to-array
+
 1/ Add values 
 ````js
 arrayName.push('value')
 ````
 
 2/ Add arrays
-````
-arrayName = arrayName.concat(newArray1, newArray2, ....);
 ````js
+arrayName = arrayName.concat(newArray1, newArray2, ....);
+````
