@@ -17,7 +17,7 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 * [[angular directives]] / Reusable element that empack controller, template...
 * [[angular filters]] / Modify a string befor display (date filters...)
 * [[angular templates]] // Templates for directives....
-
+* [[angular resources]] // using resource to dialog with a rest API
 ***
 
 ### Angular exemples 
