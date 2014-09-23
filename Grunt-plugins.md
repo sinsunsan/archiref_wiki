@@ -1,6 +1,7 @@
-****
-
 ### Grunt plugins 
+
+To see all grunt plugins    
+https://www.npmjs.org/browse/depended/grunt
 
 #### [[grunt sass]]   
 * https://www.npmjs.org/package/grunt-contrib-compass    
