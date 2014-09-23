@@ -6,6 +6,9 @@ https://www.npmjs.org/browse/depended/grunt
 And a more intersting list to resort    
 http://gruntjs.com/plugins
 
+### Grunt Angular templates
+https://www.npmjs.org/package/grunt-angular-templates
+
 ### Grunt time
 Display the time spent on grunt task
 https://www.npmjs.org/package/time-grunt
