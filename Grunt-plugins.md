@@ -3,6 +3,10 @@
 To see all grunt plugins    
 https://www.npmjs.org/browse/depended/grunt
 
+### Grunt time
+Display the time spent on grunt task
+https://www.npmjs.org/package/time-grunt
+
 #### Grunt page speed
 https://www.npmjs.org/package/grunt-pagespeed
 
