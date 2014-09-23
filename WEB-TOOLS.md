@@ -56,6 +56,8 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Github main font projects https://github.com/showcases/icon-fonts
 * Icons from ionic project http://ionicons.com/
 * Icons for things http://thenounproject.com/
+* New tool like icon moon but better http://app.fontastic.me
+* https://icomoon.io/
 
 ### Emails 
 
