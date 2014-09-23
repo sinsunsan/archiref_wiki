@@ -1,4 +1,5 @@
 * [[Node.js middleware]]
+* [[Node.js debug]]
 
 * [[package.json]] // The package.json list all node modules that are needed for a project 
 
