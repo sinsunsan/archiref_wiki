@@ -3,7 +3,8 @@
 To see all grunt plugins    
 https://www.npmjs.org/browse/depended/grunt
 
-#### https://www.npmjs.org/package/grunt-concurrent
+#### Frunt concurrent
+https://www.npmjs.org/package/grunt-concurrent
 Allow to run several tasks at a time. Typically, the watch and another task nodemon for example
 
 #### [[grunt sass]]   
