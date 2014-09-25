@@ -5,9 +5,9 @@
 
 **Utilisation** 
 * 1/    
-ng-class="scopeVarName"   
-in the controller $scope.scopeVarName = 'blue';   
-in the css class="blue"   
+in the html > ```ng-class="scopeVarName"```   
+in the controller > ```$scope.scopeVarName = 'blue';```   
+in the css ```.blue { color: blue; }```
 
 ### Concatenate a static part + a dynamic part as the class name 
 
