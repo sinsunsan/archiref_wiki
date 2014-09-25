@@ -3,8 +3,10 @@
 * My tests http://jsbin.com/tatux/3/   
 * http://stackoverflow.com/questions/7792652/what-is-the-best-way-to-conditionally-apply-a-class-with-angularjs
 
-**Utilisation** 
-* 1/    
+**Use cases**
+ 
+### Printing a uniq class Name 
+    
 in the html > ```ng-class="scopeVarName"```   
 in the controller > ```$scope.scopeVarName = 'blue';```   
 in the css ```.blue { color: blue; }```
