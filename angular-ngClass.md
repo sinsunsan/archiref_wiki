@@ -5,7 +5,7 @@
 
 **Use cases**
  
-### Printing a uniq class Name 
+### Printing a unique class Name 
     
 in the html > ```ng-class="scopeVarName"```   
 in the controller > ```$scope.scopeVarName = 'blue';```   
