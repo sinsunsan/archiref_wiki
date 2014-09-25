@@ -7,4 +7,8 @@
 * 1/    
 ng-class="scopeVarName"   
 in the controller $scope.scopeVarName = 'blue';   
-in the css class="blue"    
+in the css class="blue"   
+
+### Concatenate a static part + a dynamic part as the class name 
+
+http://stackoverflow.com/questions/14024448/expression-inside-ng-class  
