@@ -2,6 +2,7 @@
 
 * http://stackoverflow.com/questions/12164138/what-is-the-difference-between-compile-and-link-function-in-angularjs
 * http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin
+* http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/
 
 
 
