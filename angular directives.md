@@ -36,11 +36,7 @@ So we call the directives with
 </div>
  
 ````
-### link vs compile vs controller 
-
-* http://stackoverflow.com/questions/12164138/what-is-the-difference-between-compile-and-link-function-in-angularjs
-* http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin
-
+### [[angular link vs compile vs compiller]]
 
 ### [[Angular Directive Scope]]
 
