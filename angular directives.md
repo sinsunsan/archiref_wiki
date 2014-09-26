@@ -36,7 +36,7 @@ So we call the directives with
 </div>
  
 ````
-### [[angular link vs compile vs compiller]]
+### [[angular link vs compile vs controller]]
 
 ### [[Angular Directive Scope]]
 
