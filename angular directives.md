@@ -1,5 +1,9 @@
+## Other pages
 ### Selection of [[angular directives libraries]]
 ### Directives and template [[angular templates]]
+### [[angular directives link vs compile vs controller]]
+### [[Angular Directive Scope]]
+
 ### Writing a custom directives
 
 * http://www.ng-newsletter.com/posts/directives.html
@@ -36,9 +40,7 @@ So we call the directives with
 </div>
  
 ````
-### [[angular link vs compile vs controller]]
 
-### [[Angular Directive Scope]]
 
 ### Best pratices to create directive
 
