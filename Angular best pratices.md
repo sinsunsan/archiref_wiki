@@ -30,6 +30,11 @@ Rules for the Controller going forward:
 * Talk to other Factories inside your Factory, keep them out the Controller (things like success/error handling)
 * Try to avoid injecting $scope into Controllers, generally there are better ways to do what you need, such as avoiding $scope.$watch()
 
+### Minification syntax 
+
+For dependency injection, it's a good pratice to use the array `[$scope, $log, function($scope, $log` syntax
+
+http://stackoverflow.com/questions/16055449/angularjs-minification-issue-in-directive
 
 ### this vs scope 
 * http://odetocode.com/blogs/scott/archive/2014/08/11/thoughts-on-angular-controller-as-syntax.aspx
