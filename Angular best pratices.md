@@ -9,6 +9,8 @@
 
 * http://thenittygritty.co/angularjs-pitfalls-using-scopes
 * http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html
+* TO READ ON HOW TO BETTER USE ANGULAR JS controller    
+http://toddmotto.com/rethinking-angular-js-controllers/
 
 ### this vs scope 
 * http://odetocode.com/blogs/scott/archive/2014/08/11/thoughts-on-angular-controller-as-syntax.aspx
