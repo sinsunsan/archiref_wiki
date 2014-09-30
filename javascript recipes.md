@@ -107,3 +107,10 @@ arrayName.push('value')
 ````js
 arrayName = arrayName.concat(newArray1, newArray2, ....);
 ````
+
+### Function returning a function 
+````
+var foo = function () {return function (x) { return x+2}};
+foo()(3)
+-> 5
+````
