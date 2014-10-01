@@ -48,6 +48,7 @@
 ### Templating 
 * [[html]]
 * [[html5]]
+* [[svg]]
 * [[twig]]
 * [[jade]]
 
