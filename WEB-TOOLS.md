@@ -58,6 +58,10 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Icons for things http://thenounproject.com/
 * New tool like icon moon but better http://app.fontastic.me
 * https://icomoon.io/
+* Unicode geometric caracters     
+http://copypastecharacter.com/graphic-shapes    
+and the way to use it      
+http://css-tricks.com/triangle-with-shadow/
 
 ### Emails 
 
