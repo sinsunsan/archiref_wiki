@@ -125,6 +125,7 @@
 * [[github selection]]
 * [[xpath]] : xpath allow to select element in a html, xml page just as jquery
 * [[wordpress]]
+* [[chrome extension]]
 
 ***
 
