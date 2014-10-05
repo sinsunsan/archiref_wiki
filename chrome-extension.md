@@ -9,3 +9,6 @@ Background page
 
 How to see the code of a chrome extension    
 https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin/related?hl=en
+
+https://developer.chrome.com/extensions/devguide    
+https://developer.chrome.com/extensions/manifest   
