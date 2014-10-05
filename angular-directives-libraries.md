@@ -1,3 +1,7 @@
+* **Angular UI**
+Powerful addons to angular framework   
+http://angular-ui.github.io/
+
 * **Angular timer**
 http://siddii.github.io/angular-timer/index.html
 
@@ -22,3 +26,8 @@ https://github.com/darthwade/angular-loading
 * **UI Select**   
 Native angular version of select2 lib
 https://github.com/angular-ui/ui-select
+
+* **UI Router** 
+http://angular-ui.github.io/ui-router
+Switch to core routeer
+ 
