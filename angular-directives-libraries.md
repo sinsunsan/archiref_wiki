@@ -18,3 +18,7 @@ https://github.com/urish/angular-spinner
 The same using excellent http://fgnass.github.io/spin.js/
 Less popular
 https://github.com/darthwade/angular-loading
+
+* **UI Select**   
+Native angular version of select2 lib
+https://github.com/angular-ui/ui-select
