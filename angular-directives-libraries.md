@@ -2,6 +2,10 @@
 Powerful addons to angular framework   
 http://angular-ui.github.io/
 
+* **Angular UI Util** 
+small utilies library for angular
+http://angular-ui.github.io/ui-utils/
+
 * **Angular timer**
 http://siddii.github.io/angular-timer/index.html
 
