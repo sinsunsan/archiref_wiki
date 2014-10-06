@@ -24,4 +24,6 @@ https://github.com/yeoman/generator-chrome-extension
 > Would you like to use UI Action? This is where some Chrome extension API lingo comes into play. You can choose “Browser”, “Page”, or “None”, based on whether it’s useful for your extension or not.
 > A “Browser” action means it will give you a little button to the right of the address bar
 
+http://www.phase2technology.com/blog/so-you-want-to-build-a-chrome-extension/
+
 ````yo chrome-extension --compass````
