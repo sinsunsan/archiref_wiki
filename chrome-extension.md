@@ -1,5 +1,6 @@
 ### Tuto
 https://www.lullabot.com/blog/article/creating-simple-chrome-extension
+http://www.phase2technology.com/blog/so-you-want-to-build-a-chrome-extension/
 
 ### Chrome extension concepts
 
