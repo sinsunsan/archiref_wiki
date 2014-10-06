@@ -17,9 +17,11 @@ https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghk
 https://developer.chrome.com/extensions/devguide    
 https://developer.chrome.com/extensions/manifest   
 
-### Starters for chrome extension
+### Start a chrome extension with yeoman
 
 https://github.com/yeoman/generator-chrome-extension
 
 > Would you like to use UI Action? This is where some Chrome extension API lingo comes into play. You can choose “Browser”, “Page”, or “None”, based on whether it’s useful for your extension or not.
 > A “Browser” action means it will give you a little button to the right of the address bar
+
+````yo chrome-extension --compass````
