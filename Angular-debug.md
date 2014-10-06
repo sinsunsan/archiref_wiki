@@ -86,3 +86,19 @@ Was
 ````
 And the <!-- Mini search bar integrated to the header-->
 Was considered as a html element ! so either remove the comment either wrap it inside <div class="search-mini">
+
+### Object is not a function 
+This bug is 
+````js
+TypeError: object is not a function
+    at $parseFunctionCall (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:11458:15)
+    at $parseFieldAccess (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:11392:29)
+    at extend.! (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:10819:43)
+    at $parseUnaryFn (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:11191:14)
+    at extend.! (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:10819:43)
+    at $parseUnaryFn (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:11191:14)
+    at extend.&& (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:10816:45)
+    at Object.$parseBinaryFn [as get] (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:11200:14)
+    at Scope.$digest (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:13266:40)
+    at Scope.$apply (http://c.app.dev.wecook.info/assets/lib/angular/angular.js:13540:24) 
+````
