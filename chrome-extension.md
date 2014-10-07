@@ -7,7 +7,11 @@ http://www.phase2technology.com/blog/so-you-want-to-build-a-chrome-extension/
 * Event page    
 https://developer.chrome.com/extensions/event_pages
 
-*Background page    
+* Background page    
+
+### Chrome javascript API 
+
+https://developer.chrome.com/extensions/api_index
 
 ### See the code of other chrome extensions
 
