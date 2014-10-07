@@ -20,6 +20,28 @@ Css and js that is executed in the viewed page and change it's display and behav
 
 > If you’re trying to alter the behavior of existing web pages, by adding JS or CSS to them, then you’re going to be spending most of your time in content scripts. You’ll probably want to rename the default “contentscript.js” file (both the file itself and the reference to it in manifest.json), and/or create some new files so that you can better organize your code. Content scripts are very easy to grasp because they literally just run code inside the web pages that you give them access to. The only difference between them and actual JS files included in the page is that content scripts have a couple limitations (see the next section).
 
+### Content script 
+
+* Don't have access to global object like window if we don't use the following hack
+
+````js
+/**
+ * Builds a script tag with the given JS code and injects it into a page.
+ *
+ * This allows us to run JS that isn't strictly allowed in Chrome extension,
+ * such as .trigger()ing things like click and change, or accessing global vars.
+ *
+ * @param {string} jsString
+ */
+ var injectJs = function(jsString) {
+     var s = document.createElement('script');
+     s.textContent = jsString;
+     s.onload = function () {
+         this.parentNode.removeChild(this);
+     };
+     document.head.appendChild(s);
+ };
+````
 ### Chrome javascript API 
 
 https://developer.chrome.com/extensions/api_index
