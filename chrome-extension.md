@@ -7,7 +7,11 @@ http://www.phase2technology.com/blog/so-you-want-to-build-a-chrome-extension/
 * Event page    
 https://developer.chrome.com/extensions/event_pages
 
-* Background page    
+* Background.js : 
+> If you’re doing some fancy stuff behind the scenes that doesn’t need to inject as much code into individual pages, you’ll probably be looking more at the background.js script (or a renamed version of it).
+
+* Popup : 
+> If you’re mainly targeting a browser or page action button, you’ll be dealing with popup.html and popup.js. This is really quite simple, since the popup is nothing more than a regular old .html file which references CSS or JS as needed, and is displayed in a small window. Regular front end development rules apply here, and you’re only limited by your imagination, so you can do fancy stuff like AJAX calls or responsive layouts without jumping through any special hoops. Browser actions also give you the ability to add text in front of the button, using the setBadgeText() function, or do something besides show a popup HTML page when clicked. They’re pretty flexible little guys.    
 
 ### Chrome javascript API 
 
