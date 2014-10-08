@@ -53,3 +53,9 @@ https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger/
 * **chrome debug**   
 Add breakpoint to know the state of variables at a given point in code
 https://developers.google.com/chrome-developer-tools/docs/scripts-breakpoints
+
+* **Add an error code to groupe console.log message**
+````js
+console.log('35 one error message'); 
+console.log('35 another error message grouped in the 35 group'); 
+````
