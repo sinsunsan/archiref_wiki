@@ -63,7 +63,7 @@
 * [[IE debug]]
 * [[markdown]]
 * [[style guide]]
-** [[web components]]
+* [[web components]]
 
 ***
 
