@@ -1,3 +1,6 @@
+* Service vs Factory vs Provider 
+http://stackoverflow.com/questions/15666048/service-vs-provider-vs-factory
+
 http://stackoverflow.com/questions/13937318/convert-angular-http-get-function-to-a-service
 
 
