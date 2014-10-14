@@ -59,3 +59,10 @@ https://developers.google.com/chrome-developer-tools/docs/scripts-breakpoints
 console.log('35 one error message'); 
 console.log('35 another error message grouped in the 35 group'); 
 ````
+
+* **Add css to identify log debug in the console** 
+Example syntax with $log angular service which is a wrapper on console.log for angular
+````
+    $log.debug('%cProfileCtrl loaded', "color:green; font-size:20px");
+````
+
