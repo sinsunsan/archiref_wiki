@@ -22,6 +22,10 @@ Github serve raw files with a text/plain header so they can't be used for js.
 Instead use 
 http://rawgit.com/
 
+### CDN (Content delivery Network)
+
+* https://cdnjs.com/ / To get CDN version of popular libraries
+
 ### Inspirations
 
 * http://www.thefwa.com/
