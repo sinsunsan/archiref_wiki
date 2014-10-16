@@ -99,3 +99,8 @@ https://www.youtube.com/watch?v=1OALSkJGsRw
 
 You can use the same ng-hide ng-show classes that are used by ng-show, ng-hide directives. 
 This way, when the value that is evaluated by ng-hide will be used, it will remove or leave the class manually set in the template.
+
+<div class="ng-hide" ng-hide="myValue" >
+
+* if $scope.myValue = true, the ng-hide class is left
+* if $scope.myValue = false, the ng-hide class is removed
