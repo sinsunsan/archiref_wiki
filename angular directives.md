@@ -122,7 +122,13 @@ app.directive( 'scrollOnClick', function() {
     }
 });
 ````
+
+
+### Overriding a directive without modifying it 
+https://github.com/angular/angular.js/wiki/Understanding-Directives
+
+5 solutions to do that
+
 ### Standard directives 
 
 * **[[ngClass]]**     
-
