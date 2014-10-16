@@ -94,7 +94,7 @@ function SecondController($scope) {
 In both cases, you can communicate with any directive as well...
 https://www.youtube.com/watch?v=1OALSkJGsRw
 
-** 
+***
 * **Hide an element before ng-show ng-hide has taken controll** 
 
 You can use the same ng-hide ng-show classes that are used by ng-show, ng-hide directives. 
