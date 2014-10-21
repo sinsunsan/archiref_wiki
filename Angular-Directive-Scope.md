@@ -1,3 +1,5 @@
+http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/
+
 ### Directive options 
 ### How to choose between the 3 scope options 
 
