@@ -29,23 +29,35 @@ will be bound to info parent scope variable
 in a 2 ways data bindings. It mean is changed in the directive
 customerInfo will be also changed
 
+
+
 ````
 scope: {
         customerInfo: '=info'
       },
+
+
 ````
 If the name of the variable in the inner scope or outer scope is the same, we can use the shortcut
 ````
 scope: {
         customerInfo: '='
       },
+// In the html attribute color="color"
+
 ````
 To have a one way data binding (when the parent changed, the directive variable change, but not in the other way 
 ````
 scope: {
         customerInfo: '@'
       },
+// In the html attribute  name="{{name}}"
+
+
 ````
+Method binding &
+// In the html attribute reverse="reverseName()"
+
 #### How to use @ operator and function in the context of the parent scope 
 
 * http://stackoverflow.com/questions/23477859/angularjs-call-function-on-directive-parent-scope-with-directive-scope-argumen
