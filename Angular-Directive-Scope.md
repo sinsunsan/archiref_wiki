@@ -43,7 +43,7 @@ If the name of the variable in the inner scope or outer scope is the same, we ca
 scope: {
         customerInfo: '='
       },
-// In the html attribute color="color"
+// In the html attribute color="color" need to be a model 
 
 ````
 To have a one way data binding (when the parent changed, the directive variable change, but not in the other way 
@@ -52,7 +52,7 @@ scope: {
         customerInfo: '@'
       },
 // In the html attribute  name="{{name}}"
-
+Needn to be an expression wrapped in {{}}
 
 ````
 Method binding &
