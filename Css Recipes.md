@@ -55,3 +55,4 @@ http://css-tricks.com/useful-nth-child-recipies/
 * http://www.vanseodesign.com/css/equal-height-columns/
 ** http://www.vanseodesign.com/blog/demo/equal-height-columns/offset-columns.php
 Border technic to have equal height column
+* http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
