@@ -51,6 +51,10 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Blue vertigo / Catalogu of assets (images, sounds, icons) site http://www.bluevertigo.com.ar/
 * Pattern Library http://patterntap.com
 
+### Custom elements
+* https://www.polymer-project.org/components/paper-elements/demo.html
+* http://customelements.io/
+
 ### Icons 
 
 * https://www.iconfinder.com/
