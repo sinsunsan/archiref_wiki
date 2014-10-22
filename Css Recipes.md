@@ -53,3 +53,5 @@ http://css-tricks.com/useful-nth-child-recipies/
 
 ### Equal height column 
 * http://www.vanseodesign.com/css/equal-height-columns/
+** http://www.vanseodesign.com/blog/demo/equal-height-columns/offset-columns.php
+Border technic to have equal height column
