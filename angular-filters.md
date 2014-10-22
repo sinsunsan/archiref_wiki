@@ -1,3 +1,7 @@
+### Librairies of angular filters
+
+https://github.com/a8m/angular-filter
+
 https://docs.angularjs.org/guide/filter
 
 ## How to use filters 
