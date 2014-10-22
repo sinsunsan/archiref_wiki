@@ -49,3 +49,7 @@ height: calc(100% -50px);
 ```$('.line.days .span-calendar:nth-child(n+2)').hide();```
 More nth-child recipes 
 http://css-tricks.com/useful-nth-child-recipies/
+
+
+### Equal height column 
+* http://www.vanseodesign.com/css/equal-height-columns/
