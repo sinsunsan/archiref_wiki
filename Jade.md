@@ -1,6 +1,7 @@
 ## Jade documentation
 * http://jade-lang.com/
 * http://naltatis.github.io/jade-syntax-docs/#basics
+* https://www.npmjs.org/package/jade-filter
 
 ### [[jade recipes]]
 
