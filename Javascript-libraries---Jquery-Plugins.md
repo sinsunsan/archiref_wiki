@@ -8,6 +8,9 @@ http://phpjs.org/
 * **jquery-mousewheel** : A jQuery plugin that adds cross-browser mouse wheel support.   
 https://github.com/brandonaaron/jquery-mousewheel
 
+* **jquery-resize** : Add a div dimension resize event (not in the standard jquery)
+https://github.com/cowboy/jquery-resize
+
 #### Deeplinking
 
 * **jquery-bbq.js** : Libraries of function to handle url and record navigation state even with ajax generated content   
