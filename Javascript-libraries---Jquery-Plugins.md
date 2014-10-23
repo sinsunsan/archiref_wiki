@@ -46,3 +46,5 @@ Make crossbrowser scroll similar to OSX Lion...
 
 #### UI 
 * **spin.js** Configurable spinner / http://fgnass.github.io/spin.js/
+* **colorbox**  Popup / Modal
+http://www.jacklmoore.com/colorbox  
