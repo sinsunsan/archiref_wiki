@@ -113,7 +113,7 @@
 * [[php]]
 * [[symphony]]
 * [[ruby]]
-* [[scala]]
+* [[scala + play]]
 
 ***
 
