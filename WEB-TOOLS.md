@@ -75,6 +75,7 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * Icons for things http://thenounproject.com/
 * New tool like icon moon but better http://app.fontastic.me
 * https://icomoon.io/
+* Monument Icons http://www.smashingmagazine.com/wp-content/uploads/2014/10/touristic-icons-full-preview.jpg
 * Unicode geometric caracters     
 http://copypastecharacter.com/graphic-shapes    
 and the way to use it      
