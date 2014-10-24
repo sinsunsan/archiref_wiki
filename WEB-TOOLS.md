@@ -1,6 +1,9 @@
-### Tutorial 
+### Tutorial / Magazines
 
 * http://webdesign.tutsplus.com/ 
+* http://alistapart.com/
+* http://www.smashingmagazine.com/
+* http://www.sitepoint.com/
 
 ### Tools 
 
@@ -39,6 +42,9 @@ http://rawgit.com/
 * http://webdesign.tutsplus.com/articles/how-to-create-style-guides-for-a-specific-audience--cms-21047
 * Google products Style guide 
 http://www.google.com/design/spec/material-design/introduction.html#introduction-principles
+
+### Personas 
+* http://alistapart.com/article/personality-in-design
 
 ### Fonts and typo
 
