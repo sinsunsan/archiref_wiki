@@ -6,6 +6,9 @@
 
 * To preview iphone and ipad display http://ipadpeek.com/ 
 
+### Learning Web development and css
+* http://learnlayout.com/
+
 ### Sandbox 
 
 * Jsbin / light and efficient with a console http://jsbin.com/
