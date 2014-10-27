@@ -8,3 +8,6 @@ Good tutorial about flexbox
 
 Demonstration of long last css problem, that are solved easily with flexbox
 * http://philipwalton.github.io/solved-by-flexbox
+
+Is it possible to make a jquery mansonry layout in flexbox ? 
+http://codepen.io/anon/pen/Jpnyj?editors=110
