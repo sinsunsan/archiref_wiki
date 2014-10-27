@@ -6,6 +6,12 @@
 * http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/
 * https://drublic.de/blog/printing-the-web/
 
+### Fixed header or Footer 
+
+* Table display technics
+* Fixed element technics
+* Page media technics
+
 ### New paged media specification 
 
 * http://alistapart.com/article/building-books-with-css3
