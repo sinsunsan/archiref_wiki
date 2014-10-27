@@ -42,3 +42,9 @@ Cmd + R
 #### Move a line with the keyboard 
 
 Ctrl + Command + keyboard arrow
+
+### Multi edit similar text 
+
+* Select a text 
+* CMD + D each similar text we want to add
+* Make modifications that will be made for all textx at the same time.
