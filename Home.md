@@ -139,7 +139,7 @@
 
 ### Software 
 * [[camera raw]]
-* [[Illustrator]]
+* [[Illustrator-recipes]]
 
 ### Other Domain
 * [[Photography]]
