@@ -4,6 +4,11 @@
 * http://alistapart.com/
 * http://www.smashingmagazine.com/
 * http://www.sitepoint.com/
+* http://css-tricks.com/
+
+### Books 
+
+http://www.sketchingwithcss.com
 
 ### Tools 
 
