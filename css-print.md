@@ -1,10 +1,10 @@
 # How top craft a print version of a page with css 
 
 ### Tuto 
-http://www.sitepoint.com/create-a-customized-print-stylesheet-in-minutes/
-http://alistapart.com/article/goingtoprint/
-http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/
-
+* http://www.sitepoint.com/create-a-customized-print-stylesheet-in-minutes/
+* http://alistapart.com/article/goingtoprint/
+* http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/
+* https://drublic.de/blog/printing-the-web/
 
 ### How to debug print css
 
