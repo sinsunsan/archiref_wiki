@@ -15,7 +15,7 @@
 ### Development Tools
 * [[bower]]
 * [[placeholder]]
-* [[WEB-TOOLS-AND-RESSOURCES#sandbox]]
+* [Develpment sandbox](WEB-TOOLS-AND-RESSOURCES#sandbox)
 * [[grunt]]
 * [[debug]]
 
