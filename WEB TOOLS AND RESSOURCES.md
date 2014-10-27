@@ -10,6 +10,12 @@
 
 http://www.sketchingwithcss.com
 
+
+### Compatibility and browser support 
+
+* http://caniuse.com/ / List all browser css and js compatibillity
+* http://gs.statcounter.com/ / Stats about browser popularity and much more
+
 ### Tools 
 
 * To preview iphone and ipad display http://ipadpeek.com/ 
