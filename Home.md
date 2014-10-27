@@ -27,7 +27,7 @@
 * [[backbone.js]]
 * [[angular]]   
 * [[javascript]]
-* [[Javascript libraries & Jquery-Plugins]]
+* [Javascript libraries](Javascript-libraries---Jquery-Plugins)
 * [[jquery]]
 * [[ajax]]
 * [[js testing]]
