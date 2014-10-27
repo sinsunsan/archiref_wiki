@@ -1,3 +1,5 @@
+# How top craft a print version of a page with css 
+
 ### Tuto 
 http://www.sitepoint.com/create-a-customized-print-stylesheet-in-minutes/
 http://alistapart.com/article/goingtoprint/
