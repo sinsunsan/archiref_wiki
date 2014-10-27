@@ -7,12 +7,11 @@ http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/
 ### How to debug print css
 
 Solutions : 
-* Remove the @media print so that the style apply to the screen display : will give a immediate preview of the print effect. For display: none!important; very starightforward !
-* Web developper options : but don't works with @media print
-* Firebug option
+1 * Remove the @media print so that the style apply to the screen display : will give a immediate preview of the print effect. For display: none!important; very straightforward !
+* Web developper options : Use the chrome web developper emulator that allwo to quickly swith between screen and print media (and give much more other options to test on mobile devices...)
 
-http://stackoverflow.com/questions/2452713/suggestions-for-debugging-print-stylesheets
-http://stackoverflow.com/questions/726825/how-do-you-debug-printable-css
+* http://stackoverflow.com/questions/2452713/suggestions-for-debugging-print-stylesheets
+* http://stackoverflow.com/questions/726825/how-do-you-debug-printable-css
 
 
 ### Print css
