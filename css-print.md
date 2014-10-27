@@ -6,6 +6,11 @@
 * http://www.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/
 * https://drublic.de/blog/printing-the-web/
 
+### New paged media specification 
+
+* http://alistapart.com/article/building-books-with-css3
+* http://www.techrepublic.com/blog/web-designer/introduction-to-the-paged-media-module-in-css3/
+
 ### How to debug print css
 
 Solutions : 
