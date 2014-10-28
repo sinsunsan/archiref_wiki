@@ -33,6 +33,7 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 * [[Angular SEO]] // Make the angular ajax loaded page crawlable
 * [[Angular code analysis]]
 * [[Angular Recipes]]
+* [[Angular animate]]
 
 ***
 For example, define an objects that is linked (binded) to a webservice   
