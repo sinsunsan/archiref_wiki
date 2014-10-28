@@ -35,6 +35,6 @@ https://github.com/angular-ui/ui-select
 http://angular-ui.github.io/ui-router
 Switch to core routeer
 
-* **File Upload** 
+* **File Upload**     
 https://github.com/danialfarid/angular-file-upload    
 Upload files with angular
