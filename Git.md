@@ -6,7 +6,8 @@
 [[Git config]]   
 [[Git submodules]]   
 [[git housekeeping]]
-[[Git merge]]    
+[[Git merge]]
+[[git best pratice]] 
 [[Git hook]] / Trigger something when a git action happen
 
 **Drupal and Git best practices**   
