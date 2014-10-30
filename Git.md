@@ -1,14 +1,14 @@
 ### Pages 
 
-[[Git debug]]   
-[[Git howto]]    
-[[Git recipes]]   
-[[Git config]]   
-[[Git submodules]]   
-[[git housekeeping]]
-[[Git merge]]
-[[git best pratice]] 
-[[Git hook]] / Trigger something when a git action happen
+* [[Git debug]]   
+* [[Git howto]]    
+* [[Git recipes]]   
+* [[Git config]]   
+* [[Git submodules]]   
+* [[git housekeeping]]
+* [[Git merge]]
+* [[git best pratice]] / standard commit message, what to do, what not to do
+* [[Git hook]] / Trigger something when a git action happen
 
 **Drupal and Git best practices**   
 https://drupal.org/node/803746
