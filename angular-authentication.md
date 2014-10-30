@@ -1,0 +1,1 @@
+* http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app
