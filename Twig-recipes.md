@@ -48,3 +48,17 @@ WeCook is the symphony bundle or main app where the translation file is
 #{} is the syntaxe to interpolate a string in a ""    
 so you could write "what you want #{myvariable} is nice"   
 {% set title = "Nouveautés #{'meta.title_suffix'|trans({},'WeCook')} "  %}
+
+
+### Debug the value of a variable 
+
+In screen 
+````
+{{ myvar }}
+````
+
+With a debug 
+````
+{{ dump(deprecated_lib) }}
+````
+The later method is more convenient
