@@ -19,6 +19,13 @@ bower info packageName # with an exact package name, get info (read the bower.js
 bower update will always update all libraries that need to. 
 To update only one library use bower install instead. 
 It will override, the previous version 
+
+
+### Bower versioning 
+
+Bower use versionning syntax used in [[SEMVER]] that stand as semantic versionning
+
+
 #### Tutorials 
 
 * http://www.synbioz.com/blog/bower   
