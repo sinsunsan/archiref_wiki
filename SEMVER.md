@@ -5,4 +5,4 @@ https://github.com/npm/node-semver
 
 * ^ Minor version upgrade (Second number)
 
-* * stand for anything and can be used in major, minor, and patch
+* ```*``` stand for anything and can be used in major, minor, and patch
