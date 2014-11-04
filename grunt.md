@@ -12,3 +12,5 @@ And some tutorials :
 ### Configuring grunt with [[Gruntfile.js]]
 
 ### [[Grunt plugins]]
+
+* http://blog.pedago.com/2014/01/21/goodbye-sprockets-a-grunt-based-rails-asset-pipeline/
