@@ -15,6 +15,7 @@ http://www.sketchingwithcss.com
 
 * http://caniuse.com/ / List all browser css and js compatibillity
 * http://gs.statcounter.com/ / Stats about browser popularity and much more
+* http://html5please.com/ / Can I really use new css / html ? in a more convivial display that can I use
 
 ### Tools 
 
