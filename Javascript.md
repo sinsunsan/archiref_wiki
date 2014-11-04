@@ -10,6 +10,7 @@ Javascript best practices
 http://www.javascripttoolbox.com/bestpractices/#var
 
 * [[this in js]]
+* [[javascript low level libraries]]
 * [[javascript variable scope]]   
 * [[javascript global scope alternatives]]
 * [[javascript objects]]
