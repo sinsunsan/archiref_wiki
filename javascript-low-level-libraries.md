@@ -1,0 +1,1 @@
+* http://vanilla-js.com/
