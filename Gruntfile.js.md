@@ -1,3 +1,8 @@
+#### gruntfile.js examples 
+
+* https://gist.github.com/booleanbetrayal/8541399
+* http://blog.pedago.com/2014/01/21/goodbye-sprockets-a-grunt-based-rails-asset-pipeline/
+
 #### Dynamic file object configuration 
 http://gruntjs.com/configuring-tasks#building-the-files-object-dynamically
 
