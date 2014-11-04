@@ -1,1 +1,2 @@
-* http://vanilla-js.com/
+* http://vanilla-js.com
+* https://lodash.com/
