@@ -113,3 +113,8 @@ http://css-tricks.com/triangle-with-shadow/
 
 ### [[Monitoring tools]]
 ### [[search]]
+
+### Templating language 
+    #### Jade 
+* http://naltatis.github.io/jade-syntax-docs
+* http://jade-lang.com/
