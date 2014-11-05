@@ -7,7 +7,7 @@ http://jaketrent.com/post/mongoose-population/
 
 var league;
 The author speak of a method to save a new element even with population
-````js
+```` js
 league = {
   display_name: myLeagueName,
   created_by: currentPlayer._id
