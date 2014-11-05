@@ -1,3 +1,12 @@
+#### Plugins 
+* Mongoose search plugin 
+http://plugins.mongoosejs.com/
+
+### Relation 
+* https://github.com/JamesS237/mongo-relation
+* https://github.com/sabymike/mongoose-relationship
+* https://github.com/JamesS237/mongo-relation
+
 ### Population 
 
 http://mongoosejs.com/docs/populate.html
