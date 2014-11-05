@@ -115,6 +115,6 @@ http://css-tricks.com/triangle-with-shadow/
 ### [[search]]
 
 ### Templating language 
-    #### Jade 
+#### Jade 
 * http://naltatis.github.io/jade-syntax-docs
 * http://jade-lang.com/
