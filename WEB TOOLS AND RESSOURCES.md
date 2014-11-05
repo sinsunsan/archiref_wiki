@@ -111,8 +111,12 @@ http://css-tricks.com/triangle-with-shadow/
 ### Linter 
 *http://cssstats.com/#/
 
-### [[Monitoring tools]]
-### [[search]]
+### Monitoring tools
+
+* https://github.com/grafana/grafana
+### Search Engine
+* apache solr http://lucene.apache.org/solr/
+* elastic search http://www.elasticsearch.org/
 
 ### Templating language 
 #### Jade 
