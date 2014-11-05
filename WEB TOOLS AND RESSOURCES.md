@@ -109,11 +109,11 @@ http://css-tricks.com/triangle-with-shadow/
 * http://www.quickdiff.com/ Online diff between 2 code fragments
 
 ### Linter 
-*http://cssstats.com/#/
+* http://cssstats.com/#/
 
 ### Monitoring tools
-
 * https://github.com/grafana/grafana
+
 ### Search Engine
 * apache solr http://lucene.apache.org/solr/
 * elastic search http://www.elasticsearch.org/
