@@ -1,6 +1,7 @@
 ### Liste of Angular recipes     
 * https://leanpub.com/recipes-with-angular-js/read
 * http://fdietz.github.io/recipes-with-angular-js/toc.html
+* http://fdietz.github.io/recipes-with-angular-js/common-user-interface-patterns/
 
 #### My Recipes
 
