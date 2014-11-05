@@ -109,6 +109,8 @@ http://css-tricks.com/triangle-with-shadow/
 * http://www.quickdiff.com/ Online diff between 2 code fragments
 
 ### Linter 
+
+Linter check automatically the quality of the code against standards and best practices
 * http://cssstats.com/#/
 
 ### Monitoring tools
