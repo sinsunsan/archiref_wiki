@@ -38,3 +38,8 @@ Switch to core routeer
 * **File Upload**     
 https://github.com/danialfarid/angular-file-upload    
 Upload files with angular
+
+* **Angular caroussel**  
+* http://codepen.io/Fabiano/pen/LACzk
+* http://blog.revolunet.com/angular-carousel/
+* http://www.sitepoint.com/creating-slide-show-plugin-angularjs/
