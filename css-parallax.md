@@ -1,4 +1,5 @@
 ### Exemples of paralax scroll site :
+* https://medium.com/@branded07/the-troublesome-misconception-of-parallax-in-web-design-2a55ad1459f7
 * http://www.creativebloq.com/web-design/parallax-scrolling-1131762
 * http://discover.store.sony.com/be-moved/
 
