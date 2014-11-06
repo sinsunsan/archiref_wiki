@@ -1,3 +1,14 @@
+### Parallax explained 
+
+* a difference of scroll speed between elements of the page. 
+for exemple without parallax an element has 
+1px scrolled = 1 pixel offset in the scroll direction
+
+With a parallax ratio : we set the difference related to normal deplacement 
+0.5 ratio mean 0,5x the normal deplacement 
+300 pixel scrolled = 150 pixel deplacement 
+- mean the direction, a negative number mean scrolling in the inverse direction as the main scroll
+
 ### Exemples of paralax scroll site :
 * https://medium.com/@branded07/the-troublesome-misconception-of-parallax-in-web-design-2a55ad1459f7
 * http://www.creativebloq.com/web-design/parallax-scrolling-1131762
@@ -14,3 +25,4 @@ Parallax design gives websites a great opportunity to:
 * Provoke curiosity
 * Direct visitors to calls to action
 * Reenforce website credibility with innovative interactive viewing
+
