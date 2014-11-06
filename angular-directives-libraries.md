@@ -41,9 +41,9 @@ http://css-tricks.com/examples/SmoothPageScroll/
 https://github.com/arnaudbreton/angular-smoothscroll
 
 * **Angular caroussel**  
-* http://codepen.io/Fabiano/pen/LACzk
-* http://blog.revolunet.com/angular-carousel/
-* http://www.sitepoint.com/creating-slide-show-plugin-angularjs/
+    * http://codepen.io/Fabiano/pen/LACzk
+    * http://blog.revolunet.com/angular-carousel/
+    * http://www.sitepoint.com/creating-slide-show-plugin-angularjs/
 
 * **Scroll Spy** : Trigger events depending on the user scroll position in the page     
 https://github.com/sxalexander/jquery-scrollspy    
