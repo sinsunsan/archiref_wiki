@@ -34,7 +34,10 @@ Upload files with angular
 ### Animations, scroll & parallax
 
 * **Angular Parallax**
-* https://github.com/oblador/angular-parallax
+    * https://github.com/oblador/angular-parallax
+More popular on github, use the translate 3D property which allow more parallax effect, does not seem to support parallax background
+    * https://github.com/brettdonohoo/angular-parallax
+Support bothe parallax background and element, use position absolute + top left for positioning 
 
 * **Smooth scroll** : Scroll smoothly to an anchor in the page as in     
 http://css-tricks.com/examples/SmoothPageScroll/    
