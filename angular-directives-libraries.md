@@ -9,14 +9,6 @@ http://angular-ui.github.io/ui-utils/
 * **Angular timer**
 http://siddii.github.io/angular-timer/index.html
 
-* **Smooth scroll** : Scroll smoothly to an anchor in the page as in     
-http://css-tricks.com/examples/SmoothPageScroll/    
-https://github.com/arnaudbreton/angular-smoothscroll
-
-* **Scroll Spy** : Trigger events depending on the user scroll position in the page     
-https://github.com/sxalexander/jquery-scrollspy    
-In twitter boostrap, the menu item active state get updated depending of the scroll position     
-http://getbootstrap.com/javascript/#scrollspy
 
 * **Angular strap** : Port of twitter boostrap   
 http://mgcrea.github.io/angular-strap/##selects
@@ -39,10 +31,21 @@ Switch to core routeer
 https://github.com/danialfarid/angular-file-upload    
 Upload files with angular
 
+### Animations, scroll & parallax
+
+* **Angular Parallax**
+* https://github.com/oblador/angular-parallax
+
+* **Smooth scroll** : Scroll smoothly to an anchor in the page as in     
+http://css-tricks.com/examples/SmoothPageScroll/    
+https://github.com/arnaudbreton/angular-smoothscroll
+
 * **Angular caroussel**  
 * http://codepen.io/Fabiano/pen/LACzk
 * http://blog.revolunet.com/angular-carousel/
 * http://www.sitepoint.com/creating-slide-show-plugin-angularjs/
 
-* **Angular Parallax**
-* https://github.com/oblador/angular-parallax
+* **Scroll Spy** : Trigger events depending on the user scroll position in the page     
+https://github.com/sxalexander/jquery-scrollspy    
+In twitter boostrap, the menu item active state get updated depending of the scroll position     
+http://getbootstrap.com/javascript/#scrollspy
