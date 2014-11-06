@@ -5,7 +5,7 @@ http://plugins.mongoosejs.com/
 ### Relation 
 * https://github.com/JamesS237/mongo-relation
 * https://github.com/sabymike/mongoose-relationship
-* https://github.com/JamesS237/mongo-relation
+* https://www.npmjs.org/package/cascading-relations
 
 ### Population 
 
