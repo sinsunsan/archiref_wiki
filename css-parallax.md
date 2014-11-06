@@ -1,3 +1,5 @@
+[Paralax directives for angular.js](https://github.com/sinsunsan/archiref_wiki/wiki/angular-directives-libraries#animations-scroll--parallax)
+
 ### Parallax explained 
 
 * a difference of scroll speed between elements of the page. 
