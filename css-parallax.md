@@ -11,6 +11,15 @@ With a parallax ratio : we set the difference related to normal deplacement
 300 pixel scrolled = 150 pixel deplacement 
 - mean the direction, a negative number mean scrolling in the inverse direction as the main scroll
 
+### Hide / reveal 
+
+In the following example 
+http://oblador.github.io/angular-parallax/
+
+The image has a negative margin, that allow to hide some of it. 
+The translate 3D move the image relative to it's normal position, up to 150px maximum and 150 pixel minimum 
+
+
 ### Exemples of paralax scroll site :
 * https://medium.com/@branded07/the-troublesome-misconception-of-parallax-in-web-design-2a55ad1459f7
 * http://www.creativebloq.com/web-design/parallax-scrolling-1131762
