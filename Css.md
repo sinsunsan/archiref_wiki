@@ -10,6 +10,7 @@
 * [[css multi column]]
 * [[css text sizing]]    
 * [[css animation]]
+* [[css parallax]]
 
 **Misc**
 
