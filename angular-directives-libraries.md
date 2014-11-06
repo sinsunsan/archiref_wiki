@@ -43,3 +43,6 @@ Upload files with angular
 * http://codepen.io/Fabiano/pen/LACzk
 * http://blog.revolunet.com/angular-carousel/
 * http://www.sitepoint.com/creating-slide-show-plugin-angularjs/
+
+* **Angular Parallax**
+* https://github.com/oblador/angular-parallax
