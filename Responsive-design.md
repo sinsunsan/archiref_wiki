@@ -1,4 +1,9 @@
-* **meta viewport**    
+### Post aboute RSWD
+
+* http://daverupert.com/2013/04/responsive-deliverables/
+* http://daverupert.com/2013/04/responsive-deliverables/
+
+**meta viewport**    
 
 Meta tag to specify so that a site can be seen att full scale on mobile device
 ```
