@@ -1,7 +1,10 @@
 ### Advanced technics for grunt file 
 
+Splittint the config, grunt:new, grunt-notify
 * http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/?redirect_from_locale=fr
 
+Grunt reload
+*http://rhumaric.com/2013/07/renewing-the-grunt-livereload-magic/
 #### gruntfile.js examples 
 
 * https://gist.github.com/booleanbetrayal/8541399
