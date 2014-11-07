@@ -1,3 +1,7 @@
+### Advanced technics for grunt file 
+
+* http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/?redirect_from_locale=fr
+
 #### gruntfile.js examples 
 
 * https://gist.github.com/booleanbetrayal/8541399
