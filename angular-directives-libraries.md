@@ -39,6 +39,9 @@ More popular on github, use the translate 3D property which allow more parallax 
     * https://github.com/brettdonohoo/angular-parallax
 Support bothe parallax background and element, use position absolute + top left for positioning 
 
+* **Angular scroll** https://github.com/oblador/angular-scroll/
+Muche more popular repo and more active that smooth scroll, support various options and animations
+
 * **Smooth scroll** : Scroll smoothly to an anchor in the page as in     
 http://css-tricks.com/examples/SmoothPageScroll/    
 https://github.com/arnaudbreton/angular-smoothscroll
