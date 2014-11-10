@@ -54,6 +54,7 @@ http://getbootstrap.com/javascript/#scrollspy
 ### Carrousel
 
 * **Slick carrousel** 
+https://github.com/vasyabigi/angular-slick
 http://kenwheeler.github.io/slick/
 multiple items, infinite loop...
 
