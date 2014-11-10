@@ -51,6 +51,9 @@ http://css-tricks.com/examples/SmoothPageScroll/
     * http://blog.revolunet.com/angular-carousel/
     * http://www.sitepoint.com/creating-slide-show-plugin-angularjs/
 
+* **Flex Slider**
+https://github.com/thenikso/angular-flexslider
+
 * **Scroll Spy** : Trigger events depending on the user scroll position in the page     
 https://github.com/sxalexander/jquery-scrollspy    
 In twitter boostrap, the menu item active state get updated depending of the scroll position     
