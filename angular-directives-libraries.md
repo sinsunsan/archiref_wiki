@@ -31,7 +31,7 @@ Switch to core routeer
 https://github.com/danialfarid/angular-file-upload    
 Upload files with angular
 
-### Animations, scroll & parallax
+### Scroll & parallax
 
 * **Angular Parallax**
     * https://github.com/oblador/angular-parallax
@@ -46,6 +46,17 @@ Directives, spying....
 A must have to scroll
 http://css-tricks.com/examples/SmoothPageScroll/    
 
+* **Scroll Spy** : Trigger events depending on the user scroll position in the page     
+https://github.com/sxalexander/jquery-scrollspy    
+In twitter boostrap, the menu item active state get updated depending of the scroll position     
+http://getbootstrap.com/javascript/#scrollspy
+
+### Carrousel
+
+* **Slick carrousel** 
+http://kenwheeler.github.io/slick/
+multiple items, infinite loop...
+
 * **Angular caroussel**  
     * http://codepen.io/Fabiano/pen/LACzk
     * http://blog.revolunet.com/angular-carousel/
@@ -53,8 +64,3 @@ http://css-tricks.com/examples/SmoothPageScroll/
 
 * **Flex Slider**
 https://github.com/thenikso/angular-flexslider
-
-* **Scroll Spy** : Trigger events depending on the user scroll position in the page     
-https://github.com/sxalexander/jquery-scrollspy    
-In twitter boostrap, the menu item active state get updated depending of the scroll position     
-http://getbootstrap.com/javascript/#scrollspy
