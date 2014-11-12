@@ -1,6 +1,7 @@
 ### Best pratices documents 
 * https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#moduledeps    
 Git commit for angular best practice
+* https://github.com/jmcunningham/angularjs-styleguide Complete opiniated angular guide
 * https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 
 ### General Pitfalls
