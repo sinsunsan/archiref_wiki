@@ -24,7 +24,7 @@ We load a global datas defined in the app configuration
 
 
 Data definition 
-```play
+```scala
 
 @*** Definition of the package **@
 package mysite.backend
