@@ -16,8 +16,30 @@ Function definition of the template
 ```
 
 We load a global datas defined in the app configuration     
-**TemplateConfiguration** is the name space
+**mysite.backend** is the name space
 **_** Mean all data files under the name space
 ```scala
 @import mysite.backend.TemplateConfiguration._
+```
+
+
+Data definition 
+```scala
+
+@*** Definition of the package **@
+package mysite.backend
+
+@*** Definition of the object **@
+object TemplateConfiguration {
+
+  @*** Definition of a Map **@
+
+  val translationString: Map[String, String] = Map("blue" -> "bleu",
+                                          "red" -> "rouge",
+                                          "green" -> "vert")
+  @*** Definition of a List **@
+
+  val alimentList: List[String] = List("apple", "steak", "fish")
+
+}
 ```
