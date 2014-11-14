@@ -1,3 +1,10 @@
+### 
+* Scala documentation 
+http://www.scala-lang.org/
+
+* Play framework
+https://www.playframework.com/
+
 ### Run the app 
 
 sbt Equivalent of grunt
