@@ -2,7 +2,7 @@
 * http://jade-lang.com/
 * http://naltatis.github.io/jade-syntax-docs/#basics
 * https://www.npmjs.org/package/jade-filter
-
+* online jade 2 html converter http://naltatis.github.io/jade-syntax-docs/
 ### [[jade recipes]]
 
 ### [[jade debug]]
