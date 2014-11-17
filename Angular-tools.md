@@ -10,3 +10,7 @@ https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjg
 * **$log** 
 Wrapper to console.log   
 https://coderwall.com/p/_zporq
+
+* **Angular sublime text package**  
+Angular js features for sublime text
+https://github.com/angular-ui/AngularJS-sublime-package
