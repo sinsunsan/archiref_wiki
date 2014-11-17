@@ -20,5 +20,5 @@ That prevent from using binary script from sublime text (like the linters)
 https://github.com/int3h/SublimeFixMacPath
 
 * **Angular sublime package**     
-Angular js features for sublime text
+Angular js features for sublime text     
 https://github.com/angular-ui/AngularJS-sublime-package
