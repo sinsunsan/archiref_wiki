@@ -56,3 +56,7 @@ http://css-tricks.com/useful-nth-child-recipies/
 ** http://www.vanseodesign.com/blog/demo/equal-height-columns/offset-columns.php
 Border technic to have equal height column
 * http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
+
+### Add a hover border withou make the element move
+Use a transparent border for the un hovered element
+* http://stackoverflow.com/questions/8625812/css-hover-border-makes-inline-elements-adjust-slightly
