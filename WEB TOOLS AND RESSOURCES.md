@@ -58,6 +58,11 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 ### Personas 
 * http://alistapart.com/article/personality-in-design
 
+### Colors 
+
+* http://www.colorhexa.com Lot's of information about every colors 
+
+
 ### Fonts and typo
 
 * Modular scale base article and calculator http://modularscale.com/
