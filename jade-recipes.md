@@ -1,8 +1,8 @@
-* Mixins with block (to wrap content inside a mixin)
+### Mixins with block (to wrap content inside a mixin)
 
 https://github.com/neuland/jade4j/issues/11
 
-* How to use a json for data in commande line     
+### How to use a json for data in commande line     
 https://github.com/visionmedia/jade/issues/833    
 
 ````
@@ -46,7 +46,17 @@ options: {
 
 ````
 #{link.title} will be available   
-Potentially we can load seevral data objects   
+Potentially we can load sevral data objects   
 
-* Multiline js in jade (work in progress)   
+### Multiline js in jade (work in progress)   
 https://github.com/visionmedia/jade/issues/796
+
+### unescaped html tags inside a variable 
+
+http://html2jade.org/
+````jade
+-var title = "blabla bl <br/> szlkjs mlklj ";
+
+h3(class="fs1")
+            | !{title}
+````
