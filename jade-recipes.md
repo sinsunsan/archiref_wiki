@@ -32,7 +32,7 @@ And the resulting file will contain:
 
 ````
 
-* How to load data in a grunt base environnement    
+### How to load data in a grunt base environnement    
 https://github.com/gruntjs/grunt-contrib-jade#data
 
 ````
