@@ -127,5 +127,9 @@ Linter check automatically the quality of the code against standards and best pr
 
 ### Templating language 
 #### Jade 
+##### Documentation 
 * http://naltatis.github.io/jade-syntax-docs
 * http://jade-lang.com/
+
+##### Online compilator 
+* http://html2jade.org/ 2 way compilator jade 2 html and html 2 jade
