@@ -12,6 +12,10 @@ http://bootsnipp.com/
 
 There is a fix to twbs3 modal 
 http://jschr.github.io/bootstrap-modal/bs3.html
+that extend core twbs3 modal
+It 
+- allow to set a spinner 
+- disable background scrolling
 
 ### Afix :    
 an element of the page (generally a menu bar) get fixed, when we scroll  
