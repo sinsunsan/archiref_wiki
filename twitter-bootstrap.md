@@ -8,6 +8,11 @@ http://bootsnipp.com/
 * container is a wrapper for fixed width site 
 * container is a wrapper for fluid width site
 
+### Modal 
+
+There is a fix to twbs3 modal 
+http://jschr.github.io/bootstrap-modal/bs3.html
+
 ### Afix :    
 an element of the page (generally a menu bar) get fixed, when we scroll  
 
