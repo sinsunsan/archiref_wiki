@@ -57,6 +57,11 @@ http://css-tricks.com/useful-nth-child-recipies/
 Border technic to have equal height column
 * http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
 
-### Add a hover border withou make the element move
+### Add a hover border withour make the element move
 Use a transparent border for the un hovered element
 * http://stackoverflow.com/questions/8625812/css-hover-border-makes-inline-elements-adjust-slightly
+
+
+### Make a line break only a a defined display size 
+The solution use a <br /> that is displayed or not.   
+* http://danielmall.com/articles/responsive-line-breaks/
