@@ -65,3 +65,8 @@ Use a transparent border for the un hovered element
 ### Make a line break only a a defined display size 
 The solution use a <br /> that is displayed or not.   
 * http://danielmall.com/articles/responsive-line-breaks/
+
+### select item with css depending of their rank order 
+http://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/
+http://css-tricks.com/how-nth-child-works/
+http://codepen.io/sinsunsan/pen/YPXyaV
