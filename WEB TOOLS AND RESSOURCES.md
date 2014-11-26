@@ -6,6 +6,10 @@
 * http://www.sitepoint.com/
 * http://css-tricks.com/
 
+### Theme 
+* http://www.elegantthemes.com/
+* http://themeforest.net/
+
 ### Books 
 
 http://www.sketchingwithcss.com
