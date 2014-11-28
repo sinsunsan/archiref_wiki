@@ -16,8 +16,8 @@ This url type
 are set with    
 ````$locationProvider.hashPrefix("#");````    
 
-# is the default, angular need at least # to identify deep linking part of the url      
-#! is the recommanded pattern named "hash bang"     
+* # is the default, angular need at least # to identify deep linking part of the url      
+* #! is the recommanded pattern named "hash bang"     
 To configure it this line is necessary in the above code 
 ````$locationProvider.hashPrefix("!");````
 
