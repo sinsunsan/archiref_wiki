@@ -1,16 +1,16 @@
 ### Standard url vs angular html 5 url 
 
-`www.mydomain.com/search?color=blue#apple`
+`www.doogle.com/search?color=blue#apple`
 
 Server side
-* www subdomain 
-* mydomain domain 
-* com extension 
-* /search path 
-* ?color=blue search query 
+* **www** subdomain 
+* **doogle** domain 
+* **com** extension 
+* **/search** path 
+* **?color=blue** search query 
 
 Client side
-* #apple anchor link  
+* **#apple** anchor link  
 
 
 
