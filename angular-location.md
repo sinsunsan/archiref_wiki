@@ -26,7 +26,14 @@ To differentiate it from a simple anchor, google suggest using "#!" instead of "
 So our url will be     
 `www.doogle.com/search?color=blue#!/fruit/apple?taste=1#description`
 
+### Compatibility with traditional anchor link
+As angular use the anchor link for it's url, the traditional anchor is no more available, or at least it is converted in the new angular system. 
+So to have a simple 
+www.doogle.com/press#fraise
+will be 
+www.doogle.com/press#!#fraise
 
+More character for the same thing, but if you want cleaner url look at html5 mode and also to it's constraints.
 
 ### Html5 mode 
 ### Location provider has prefix 
