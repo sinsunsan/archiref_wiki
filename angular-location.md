@@ -2,14 +2,14 @@
 
 `www.doogle.com/search?color=blue#apple`
 
-Server side
+#### Server side url
 * **www** subdomain 
 * **doogle** domain 
 * **com** extension 
 * **/search** path 
 * **?color=blue** search query 
 
-Client side
+#### Client side url
 * **#apple** anchor link  
 
 In a angular based url the anchor link is the place where angular url are coded. 
