@@ -8,7 +8,7 @@ angular.module('awesomeModule')
 ```
 
 Just a clarification # is the default      
-$locationProvider.hashPrefix("!");     
+`$locationProvider.hashPrefix("!");`     
 add a ! the # the default so make #!     
 
 This url type     
