@@ -65,3 +65,11 @@ multiple items, infinite loop...
 
 * **Flex Slider**
 https://github.com/thenikso/angular-flexslider
+
+
+### Scroll Navigation
+
+* **affix** Allow to fix a horizontal menu when we scroll to the top of the page, this menu is geenrally situated lower than the top at page load     
+http://mgcrea.github.io/angular-strap/##affix
+* **scrollspy** Allow to set active the current menu item in a scroll based navigation     
+http://mgcrea.github.io/angular-strap/##scrollspy
