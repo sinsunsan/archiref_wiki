@@ -1,3 +1,21 @@
+### Standard url vs angular html 5 url 
+
+`www.mydomain.com/search?color=blue#apple`
+
+Server side
+* www subdomain 
+* mydomain domain 
+* com extension 
+* /search path 
+* ?color=blue search query 
+
+Client side
+* #apple anchor link  
+
+
+
+### Location provider has prefix 
+
 ```js
 // Hashbang for SEO
 angular.module('awesomeModule')
@@ -20,4 +38,3 @@ are set with
 `#!` is the recommanded pattern named "hash bang"     
 To configure it this line is necessary in the above code 
 `$locationProvider.hashPrefix("!");`
-
