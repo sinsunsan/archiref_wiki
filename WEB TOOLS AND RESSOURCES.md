@@ -94,6 +94,11 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * https://www.polymer-project.org/components/paper-elements/demo.html
 * http://customelements.io/
 
+### Quality insurance
+How to check the site / app is following the best pratice
+
+* https://checklists.opquast.com/fr/oqs-v2
+
 ### Icons 
 
 * https://www.iconfinder.com/
