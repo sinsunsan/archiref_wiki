@@ -22,6 +22,11 @@
 
 ### Find funding 
 
+#### Crowdfunding
+#### Reward based or presale crowdfunding
+
+#### Venture crowdfunding
+* https://www.seedrs.com/
 ### Find workers
 
 Offshore works 
