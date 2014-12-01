@@ -2,6 +2,8 @@
 
 ### Get your product know
 
+* http://www.producthunt.com/ Daily homepage with new products and a vote system like digg
+
 ### Find clients
 
 ### Find funding 
