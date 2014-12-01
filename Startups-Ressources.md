@@ -14,12 +14,12 @@
 #### Chat 
 * https://slack.com/
 * https://www.hipchat.com
-
+****
 ### Find advices and answers 
 * https://clarity.fm/ paid interview with specialist of lot's of fields auround entrepreneurship
-
+****
 ### Find clients
-
+****
 ### Find funding 
 
 #### Crowdfunding
@@ -27,6 +27,8 @@
 
 #### Venture crowdfunding
 * https://www.seedrs.com/
+
+****
 ### Find workers
 
 Offshore works 
