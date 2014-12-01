@@ -53,3 +53,10 @@ Offshore works
 Design platforms
 * http://99designs.fr/
 * http://unikness.com/
+
+***
+### Manage the startup 
+
+#### cashflow, comptability
+
+* https://www.incwo.com
