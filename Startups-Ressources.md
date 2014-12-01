@@ -9,6 +9,15 @@
 * http://growthhacking.fr/
 * http://blog.bufferapp.com/
 
+### Tools for the team 
+
+#### Chat 
+* https://slack.com/
+* https://www.hipchat.com
+
+### Find advices and answers 
+* https://clarity.fm/ paid interview with specialist of lot's of fields auround entrepreneurship
+
 ### Find clients
 
 ### Find funding 
