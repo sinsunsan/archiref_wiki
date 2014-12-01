@@ -60,3 +60,4 @@ Design platforms
 #### cashflow, comptability
 
 * https://www.incwo.com
+* http://www.intuit.fr/quickbooks-online/comparaison-logiciel-comptable-petites-entreprises.jsp / permet de partager avec son expert comptable
