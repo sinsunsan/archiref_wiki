@@ -31,11 +31,17 @@
 ### Find funding 
 
 #### Crowdfunding
+
 #### Reward based or presale crowdfunding
+* https://www.kickstarter.com / The biggest american crowdfunding platform
+* https://www.indiegogo.com
+* http://www.kisskissbankbank.com / French biggest
 
 #### Venture crowdfunding
 * https://www.seedrs.com
 * https://www.anaxago.com
+* http://www.sparkup.fr
+* https://www.wiseed.com
 
 ****
 ### Find workers
