@@ -34,7 +34,8 @@
 #### Reward based or presale crowdfunding
 
 #### Venture crowdfunding
-* https://www.seedrs.com/
+* https://www.seedrs.com
+* https://www.anaxago.com
 
 ****
 ### Find workers
