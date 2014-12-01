@@ -4,6 +4,11 @@
 
 * http://www.producthunt.com/ Daily homepage with new products and a vote system like digg
 
+### Web Marketing advices 
+
+* http://growthhacking.fr/
+* http://blog.bufferapp.com/
+
 ### Find clients
 
 ### Find funding 
