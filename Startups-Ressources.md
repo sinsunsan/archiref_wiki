@@ -43,6 +43,10 @@
 * http://www.sparkup.fr
 * https://www.wiseed.com
 
+### Crowdlending 
+
+* https://www.pret-dunion.fr
+
 ****
 ### Find workers
 
