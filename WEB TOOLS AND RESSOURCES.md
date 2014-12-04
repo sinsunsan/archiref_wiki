@@ -71,7 +71,7 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 
 * http://www.colorhexa.com Lot's of information about every colors 
 
-***
+*****
 
 ### Fonts and typo
 
@@ -127,6 +127,8 @@ How to check the site / app is following the best pratice
 http://copypastecharacter.com/graphic-shapes    
 and the way to use it      
 http://css-tricks.com/triangle-with-shadow/
+
+*****
 
 ### Emails 
 
