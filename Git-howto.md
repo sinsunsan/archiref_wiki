@@ -340,3 +340,11 @@ Then, in the prompt, add this _\$(parse_git_branch)_, so it looks for instance l
 <pre>
 PS1="${debian_chroot:+($debian_chroot)}:\[\033[00;36m\]\w\[\033[00m\]\$(parse_git_branch)\$ "
 </pre>
+
+
+### Search with grep
+
+Search the string "mobileMenu" with line numbers and output it in less (so Q to quit) 
+<pre>
+git grep -n -a mobileMenu
+<pre>
