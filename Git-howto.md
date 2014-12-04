@@ -342,9 +342,16 @@ PS1="${debian_chroot:+($debian_chroot)}:\[\033[00;36m\]\w\[\033[00m\]\$(parse_gi
 </pre>
 
 
-### Search with grep
+### Search with git grep
+
+Very fast search 
 
 Search the string "mobileMenu" with line numbers and output it in less (so Q to quit) 
 <pre>
 git grep -n -a mobileMenu
+<pre>
+
+For only html.twig files
+<pre>
+git grep -n -a "page-wrapper closed" -- '*.html.twig' 
 <pre>
