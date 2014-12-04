@@ -101,16 +101,25 @@ How to check the site / app is following the best pratice
 
 ### Icons 
 
+#### Fonts app 
+
+* http://app.fontastic.me / New tool like icon moon but better with a free plan of 5000 PV / month with CDN
+* https://icomoon.io / A classic but bad designed app UI
+
+#### General Fonts library
 * https://www.iconfinder.com/
-* http://fortawesome.github.io/Font-Awesome/
+* http://fortawesome.github.io/Font-Awesome
+
+### Specialized fonts library
+
 * Twitter bootstrap main icon library http://getbootstrap.com/components/#glyphicons 
 * Geographic icons http://map-icons.com/#icons
 * Github main font projects https://github.com/showcases/icon-fonts
 * Icons from ionic project http://ionicons.com/
 * Icons for things http://thenounproject.com/
-* New tool like icon moon but better http://app.fontastic.me
-* https://icomoon.io/
 * Monument Icons http://www.smashingmagazine.com/wp-content/uploads/2014/10/touristic-icons-full-preview.jpg
+
+### Fonts howto
 * Unicode geometric caracters     
 http://copypastecharacter.com/graphic-shapes    
 and the way to use it      
