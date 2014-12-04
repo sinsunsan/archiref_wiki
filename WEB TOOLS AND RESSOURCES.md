@@ -71,6 +71,7 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 
 * http://www.colorhexa.com Lot's of information about every colors 
 
+***
 
 ### Fonts and typo
 
@@ -79,6 +80,8 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 * https://typekit.com/
 * https://www.google.com/fonts
+
+***
 
 ### Images ressources 
 
