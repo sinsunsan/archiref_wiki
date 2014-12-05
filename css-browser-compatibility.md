@@ -16,7 +16,7 @@ http://borishoekmeijer.nl/how-to-target-a-specific-browser
 
 Browser detection in angular 
 http://stackoverflow.com/questions/22947535/how-to-detect-browser-using-angular
-````
+````js
 app.service('browser', ['$window', function($window) {
 
      return function() {
