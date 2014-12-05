@@ -34,6 +34,7 @@ http://www.sketchingwithcss.com
 * http://learnlayout.com/
 * https://www.codeschool.com
 * http://teamtreehouse.com/
+* http://css-tricks.com/lodge/ for css, js and front end in general 
 
 ### Sandbox 
 
