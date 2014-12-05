@@ -114,3 +114,17 @@ var foo = function () {return function (x) { return x+2}};
 foo()(3)
 -> 5
 ````
+
+### Used a regex to test a string pattern 
+
+http://www.w3schools.com/jsref/jsref_regexp_test.asp
+````js
+// store in the variable t the string of the current browser
+// "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14"
+var t = window.navigator.userAgent
+// Store a regex in p
+var p = /safari/i;
+// test with the regex 
+p.test(t);
+
+````
