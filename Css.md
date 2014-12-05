@@ -11,6 +11,7 @@
 * [[css text sizing]]    
 * [[css animation]]
 * [[css parallax]]
+* [[css browser compatibility]]
 
 **Misc**
 
