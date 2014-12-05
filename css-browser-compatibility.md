@@ -6,3 +6,6 @@
   }
 }
 ````
+
+* liste of browser hack     
+http://borishoekmeijer.nl/how-to-target-a-specific-browser/
