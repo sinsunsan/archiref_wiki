@@ -1,3 +1,6 @@
+* Convert less to sass
+http://mstrutt.co.uk/blog/2013/08/converting-from-less-to-sass/
+
 ### [[Sass Mixins libraries]]
 ### [[Sass Coding standards]]
 ### [[Sass recipes]]
