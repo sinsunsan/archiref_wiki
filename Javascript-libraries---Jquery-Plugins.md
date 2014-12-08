@@ -11,6 +11,14 @@ https://github.com/brandonaaron/jquery-mousewheel
 * **jquery-resize** : Add a div dimension resize event (not in the standard jquery)
 https://github.com/cowboy/jquery-resize
 
+
+### Video 
+
+* **Fluid vido** 
+* http://fitvidsjs.com/
+and a custom alternative 
+* http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js
+
 #### Deeplinking
 
 * **jquery-bbq.js** : Libraries of function to handle url and record navigation state even with ajax generated content   
