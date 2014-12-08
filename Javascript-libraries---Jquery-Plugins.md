@@ -15,9 +15,11 @@ https://github.com/cowboy/jquery-resize
 ### Video 
 
 * **Fluid video** 
-* http://fitvidsjs.com/
-and a custom alternative 
-* http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js
+
+* http://fitvidsjs.com/ A lightweight, easy-to-use jQuery plugin for fluid width video embeds
+
+* http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js and a custom alternative 
+
 
 #### Deeplinking
 
