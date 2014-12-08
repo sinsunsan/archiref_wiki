@@ -57,7 +57,7 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 * [[Angular code analysis]]
 * [[Angular Recipes]]
 * [[Angular animate]]
-
+* [[Angular & stripe]]
 ***
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
