@@ -1,0 +1,1 @@
+https://www.airpair.com/javascript/integrating-stripe-into-angular-app
