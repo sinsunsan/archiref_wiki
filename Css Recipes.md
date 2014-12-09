@@ -10,6 +10,8 @@ http://wellcaffeinated.net/articles/2012/12/10/very-simple-css-only-proportional
 http://jsfiddle.net/wellcaffeinated/8Frb6/
 My simple jsFiddle application   
 http://jsfiddle.net/slucas/8avcw/
+http://jsbin.com/ceciraralo/1/
+http://www.fredparke.com/blog/css-padding-trick-responsive-intrinsic-ratios
 
 ###  **Conflict between position: fixed and transform**     
 transform and position fixed are not compatible    
