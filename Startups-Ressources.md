@@ -4,6 +4,10 @@
 
 * http://www.producthunt.com/ Daily homepage with new products and a vote system like digg
 
+### Startups advices 
+
+* http://www.startupsfortherestofus.com/
+
 ### Web Marketing advices 
 
 * http://growthhacking.fr/
