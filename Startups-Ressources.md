@@ -50,6 +50,7 @@
 ### Crowdlending 
 
 * https://www.pret-dunion.fr
+* https://www.lendingclub.com/
 
 ****
 ### Find workers
