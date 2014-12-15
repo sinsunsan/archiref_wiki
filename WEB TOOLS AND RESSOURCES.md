@@ -10,6 +10,8 @@
 * http://themeforest.net / Lot's of theme in different techno (wordpress, tumblr...)
 * http://www.elegantthemes.com / Subscription based theme
 * https://wrapbootstrap.com / bootstrap based theme
+* http://patterntap.com / Library of UI pattern by Zurb 
+* http://html5up.net / Free and not free html 5 clean theme
 
 ### App, mobile
 * Angular HTml 5 app framwork http://ionicframework.com/
