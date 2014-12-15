@@ -1,7 +1,7 @@
 ### Librairies of angular filters
 
+// Useful library of filters the kind of lodash for angular
 https://github.com/a8m/angular-filter
-
 https://docs.angularjs.org/guide/filter
 
 ## How to use filters 
