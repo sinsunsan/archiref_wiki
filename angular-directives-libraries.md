@@ -1,14 +1,27 @@
-* **Angular UI**
-Powerful addons to angular framework   
-http://angular-ui.github.io/
+### Utilities
 
 * **Angular UI Util** 
 small utilies library for angular
 http://angular-ui.github.io/ui-utils/
 
+### Ui elements
+
+* **Angular UI**
+Powerful addons to angular framework   
+http://angular-ui.github.io/
+
+* **UI Select**   
+Native angular version of select2 lib
+https://github.com/angular-ui/ui-select
+
+### Routing 
+
+* **UI Router** 
+http://angular-ui.github.io/ui-router
+Switch to core router
+
 * **Angular timer**
 http://siddii.github.io/angular-timer/index.html
-
 
 * **Angular strap** : Port of twitter boostrap   
 http://mgcrea.github.io/angular-strap/##selects
@@ -18,14 +31,6 @@ https://github.com/urish/angular-spinner
 The same using excellent http://fgnass.github.io/spin.js/
 Less popular
 https://github.com/darthwade/angular-loading
-
-* **UI Select**   
-Native angular version of select2 lib
-https://github.com/angular-ui/ui-select
-
-* **UI Router** 
-http://angular-ui.github.io/ui-router
-Switch to core routeer
 
 * **File Upload**     
 https://github.com/danialfarid/angular-file-upload    
