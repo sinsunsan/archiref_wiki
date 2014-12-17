@@ -6,31 +6,34 @@ http://angular-ui.github.io/ui-utils/
 
 ### Ui elements
 
-* **Angular UI**
-Powerful addons to angular framework   
-http://angular-ui.github.io/
-
 * **UI Select**   
-Native angular version of select2 lib
+Native angular version of select2 lib (don't need select 2 yeah !)
 https://github.com/angular-ui/ui-select
-
-### Routing 
-
-* **UI Router** 
-http://angular-ui.github.io/ui-router
-Switch to core router
-
-* **Angular timer**
-http://siddii.github.io/angular-timer/index.html
-
-* **Angular strap** : Port of twitter boostrap   
-http://mgcrea.github.io/angular-strap/##selects
 
 * **Angular Loading** : directive to show a loader when the data is loading    
 https://github.com/urish/angular-spinner    
 The same using excellent http://fgnass.github.io/spin.js/
 Less popular
 https://github.com/darthwade/angular-loading
+### Routing 
+
+* **UI Router** 
+http://angular-ui.github.io/ui-router
+Switch to core router
+
+### Port of twitter bootstrap 
+
+* **Angular UI**
+Powerful addons to angular framework   
+http://angular-ui.github.io/
+
+* **Angular strap** : Port of twitter boostrap   
+http://mgcrea.github.io/angular-strap/##selects
+
+### Other 
+
+* **Angular timer**
+http://siddii.github.io/angular-timer/index.html
 
 * **File Upload**     
 https://github.com/danialfarid/angular-file-upload    
