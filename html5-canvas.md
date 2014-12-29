@@ -8,3 +8,4 @@
 ### Integration of canvas with other elements 
 
 * http://stackoverflow.com/questions/7169879/relatively-sizing-html-canvas
+* http://ameijer.nl/2011/08/resizable-html5-canvas/
