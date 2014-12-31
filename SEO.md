@@ -14,3 +14,8 @@ Need to add additional GA script, to images, links ....
 ### SEO Tools
 
 * http://moz.com/ Inbound marketing
+
+### Content 
+
+Readability test
+* https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
