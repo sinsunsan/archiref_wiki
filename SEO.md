@@ -3,12 +3,7 @@
 * http://www.orenoque.com/marketing-contenu-seo/
 * http://moz.com/blog/searchmetrics-ranking-factors-2014
 
-### Track event with google Analytics
 
-https://prj.adyax.com/issues/43831   
-https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide
-Allow to have finer grain vision on what is being clicked on a page, to go to another page. 
-Need to add additional GA script, to images, links ....
 
 
 ### SEO Tools
@@ -16,6 +11,7 @@ Need to add additional GA script, to images, links ....
 * http://moz.com/ Inbound marketing
 * http://tools.quicksprout.com/ analyse a web site to make improvement
 * http://sitevaluecalculator.com/ Evaluate the ads value of a site
+* [google analytics]
 
 ### Content 
 
