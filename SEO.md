@@ -8,14 +8,24 @@
 
 ### SEO Tools
 
-#### Google SEO tools 
+#### Analytics
 * [[google analytics]]
 * [[google webmaster tools]]
 
+### SEO advices and analysis
+* http://tools.quicksprout.com/ analyse a web site to make improvement
+
+### Link analysis 
+* https://moz.com/researchtools
+
+### Ads analysis
+* http://sitevaluecalculator.com/ Evaluate the ads value of a site
+
+
+### Blog and ressources
+
 #### Others
 * http://moz.com/ Inbound marketing
-* http://tools.quicksprout.com/ analyse a web site to make improvement
-* http://sitevaluecalculator.com/ Evaluate the ads value of a site
 
 ### Content 
 
