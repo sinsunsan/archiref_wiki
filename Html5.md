@@ -26,7 +26,7 @@ http://www.quirksmode.org/css/condcom.html
 * [[html5 Videos]]
 * [[html5 forms]]
 * [[html5 canvas]]
-
+* [[html5 srcset]]
 * [[html5 recipe]]
 
 ### Ressources 
