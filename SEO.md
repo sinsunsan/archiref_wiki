@@ -1,10 +1,4 @@
-### Content Marketing 
-
-* http://www.orenoque.com/marketing-contenu-seo/
-* http://moz.com/blog/searchmetrics-ranking-factors-2014
-
-
-
+### [[Content Marketing]] 
 
 ### SEO Tools
 
