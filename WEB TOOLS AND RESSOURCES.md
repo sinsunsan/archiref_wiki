@@ -38,6 +38,7 @@ http://www.sketchingwithcss.com
 * https://www.codeschool.com
 * http://teamtreehouse.com/
 * http://css-tricks.com/lodge/ for css, js and front end in general 
+* http://www.lewagon.org/kit/front-end-developer / In paris learn to do a site in one week
 
 ### Sandbox 
 
