@@ -1,7 +1,7 @@
 ### Ressources pages
 
-* [[WEB-TOOLS-AND-RESSOURCES]]
-* [[Startups Ressources]]
+* [WEB-TOOLS-AND-RESSOURCES](Web Ressources)
+* [Startups Ressources](Startups Ressources)
 * [SEO](SEO Ressources)
 
 
