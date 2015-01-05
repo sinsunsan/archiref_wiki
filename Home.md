@@ -2,7 +2,7 @@
 
 * [[WEB-TOOLS-AND-RESSOURCES]]
 * [[Startups Ressources]]
-* [[SEO]]
+* [SEO](SEO Ressources)
 
 
 ### Quality, performance, security
