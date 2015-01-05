@@ -1,5 +1,9 @@
+### Ressources pages
+
 * [[WEB-TOOLS-AND-RESSOURCES]]
 * [[Startups Ressources]]
+* [[SEO]]
+
 
 ### Quality, performance, security
 * [[testing]]
@@ -122,7 +126,7 @@
 
 ### Others
 * [[RSS]]
-* [[SEO]]
+
 * [[SOLR]]
 * [[Videos]]
 * [[disqus api]]
