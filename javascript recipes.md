@@ -134,5 +134,6 @@ Despite arrays, object don't have the lenght property
 
 http://stackoverflow.com/questions/126100/how-to-efficiently-count-the-number-of-keys-properties-of-an-object-in-javascrip
 ````
-Object.keys(home.plans.pricing.features)
+Object.keys(home.plans.pricing.features).length
 ````
+Object.keys return an array of the object properties
