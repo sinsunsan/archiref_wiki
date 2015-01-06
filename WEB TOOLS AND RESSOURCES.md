@@ -12,6 +12,7 @@
 * https://wrapbootstrap.com / bootstrap based theme
 * http://patterntap.com / Library of UI pattern by Zurb 
 * http://html5up.net / Free and not free html 5 clean theme
+* http://gridgum.com/ Bootstrap and dashboards, wordpress flat design
 
 ### Wordpress theme 
 * https://github.com/roots/roots
