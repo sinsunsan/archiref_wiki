@@ -128,6 +128,7 @@ How to check the site / app is following the best pratice
 * Icons from ionic project http://ionicons.com/
 * Icons for things http://thenounproject.com/
 * Monument Icons http://www.smashingmagazine.com/wp-content/uploads/2014/10/touristic-icons-full-preview.jpg
+* http://press.codes/downloads/elusive-icons-webfont/
 
 ### Fonts howto
 * Unicode geometric caracters     
