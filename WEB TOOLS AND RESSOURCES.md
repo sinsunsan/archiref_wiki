@@ -13,6 +13,10 @@
 * http://patterntap.com / Library of UI pattern by Zurb 
 * http://html5up.net / Free and not free html 5 clean theme
 
+### Wordpress theme 
+* https://github.com/roots/roots
+* https://github.com/shoestrap/shoestrap-3 (optimized for twbs3)
+
 ### App, mobile
 * Angular HTml 5 app framwork http://ionicframework.com/
 * App framework App Gyver http://www.appgyver.com/
