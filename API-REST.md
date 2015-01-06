@@ -1,4 +1,8 @@
-* Request Type 
+## Docs 
+
+* http://www.restapitutorial.com/lessons/whatisrest.html
+
+## Request Type 
 
 ### GET
 
