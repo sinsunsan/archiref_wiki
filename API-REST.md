@@ -1,6 +1,7 @@
 ## Docs 
 
 * http://www.restapitutorial.com/lessons/whatisrest.html
+* http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
 ## Request Type 
 
