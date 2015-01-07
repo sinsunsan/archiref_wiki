@@ -59,6 +59,7 @@ http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-hav
 * [[Angular animate]]
 * [[Angular + stripe]]
 * [[Angular ng-cloak]]
+
 ***
 For example, define an objects that is linked (binded) to a webservice   
 * [[angular views]] / Templating (View part of MVC)   
