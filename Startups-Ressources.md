@@ -64,6 +64,7 @@ Offshore works
 Design platforms
 * http://99designs.fr/
 * http://unikness.com/
+* https://www.hopwork.com/ (fr)
 ***
 
 ### Create teaser video 
