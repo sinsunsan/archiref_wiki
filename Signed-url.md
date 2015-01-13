@@ -1,0 +1,1 @@
+http://www.blazersix.com/blog/protect-your-products-and-improve-your-systems-with-signed-urls/
