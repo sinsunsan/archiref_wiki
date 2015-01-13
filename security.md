@@ -14,8 +14,8 @@ http://en.wikipedia.org/wiki/Cross-site_scripting
 
 
 ### Way to protect server 
-#### Signed url 
+#### [[Signed url]] 
 
-http://www.blazersix.com/blog/protect-your-products-and-improve-your-systems-with-signed-urls/
+
 
 
