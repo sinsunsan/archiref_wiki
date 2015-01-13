@@ -13,4 +13,9 @@ http://en.wikipedia.org/wiki/Cross-site_scripting
 * **File system vulnerability** : Wrong settings of the file system, where you allow user to upload files, change permission...
 
 
+### Way to protect server 
+#### Signed url 
+
+http://www.blazersix.com/blog/protect-your-products-and-improve-your-systems-with-signed-urls/
+
 
