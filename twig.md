@@ -24,6 +24,8 @@ http://twig.sensiolabs.org/
 ````
 * perfomance : compile to plain php (minimum overhead compared to php)
 
+* Dumpa a variable (an object...)
+    {{ dump(recipe) }}
 
 ### Include, extends, blocks 
 
