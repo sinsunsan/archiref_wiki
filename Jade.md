@@ -2,7 +2,11 @@
 * http://jade-lang.com/
 * http://naltatis.github.io/jade-syntax-docs/#basics
 * https://www.npmjs.org/package/jade-filter
-* online jade 2 html converter http://naltatis.github.io/jade-syntax-docs/
+
+### Jade online converter
+* http://naltatis.github.io/jade-syntax-docs/ online jade 2 html converter 
+* http://html2jade.vida.io/ With meteor.js, don't escape special character !
+
 ### [[jade recipes]]
 
 ### [[jade debug]]
