@@ -5,7 +5,7 @@
 
 ### Jade online converter
 * http://naltatis.github.io/jade-syntax-docs/ online jade 2 html converter 
-* http://html2jade.vida.io/ With meteor.js, don't escape special character !
+* http://html2jade.vida.io/ With meteor.js, nice presentation, don't escape special character !
 
 ### [[jade recipes]]
 
