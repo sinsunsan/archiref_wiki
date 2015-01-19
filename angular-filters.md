@@ -12,6 +12,10 @@ or in the js code like
 var orderBy = $filter('orderBy');
 $scope.friends = orderBy($scope.friends, predicate, reverse);
 ````
+### Use $filter in a controller  
+
+http://blog.tompawlak.org/use-filter-in-controller-angularjs
+
 ## Built in filters 
 ### Date   
 Format a date for display   
