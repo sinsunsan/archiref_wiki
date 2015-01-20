@@ -48,6 +48,10 @@ http://www.sketchingwithcss.com
 * http://css-tricks.com/lodge/ for css, js and front end in general 
 * http://www.lewagon.org/kit/front-end-developer / In paris learn to do a site in one week
 
+### Data visualisation 
+
+* http://timeline.knightlab.com/ Make rich timeline from a google spreadsheet
+
 ### Sandbox 
 
 * Jsbin / light and efficient with a console http://jsbin.com/
