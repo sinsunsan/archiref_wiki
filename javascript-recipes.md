@@ -9,8 +9,9 @@ type = (type) ? type : 'lunch';
 ```
 ### **Test if something is undefined**  
 
-// Update use instead function from lodash or angular 
-// Using a function will avoid == errors....
+* Update use instead function from lodash or angular 
+* Using a function will avoid == errors....
+
 ````
 /**
  * @ngdoc function
