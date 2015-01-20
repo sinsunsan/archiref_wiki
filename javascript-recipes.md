@@ -7,7 +7,27 @@ It's like a shorter version of the default ternar syntax
 ```js
 type = (type) ? type : 'lunch';
 ```
-### **Test if something is undefined**      
+### **Test if something is undefined**  
+
+// Update use instead function from lodash or angular 
+// Using a function will avoid == errors....
+````
+/**
+ * @ngdoc function
+ * @name angular.isDefined
+ * @module ng
+ * @kind function
+ *
+ * @description
+ * Determines if a reference is defined.
+ *
+ * @param {*} value Reference to check.
+ * @returns {boolean} True if `value` is defined.
+ */
+function isDefined(value) {return typeof value !== 'undefined';}
+````
+
+    
 http://stackoverflow.com/questions/27509/detecting-an-undefined-object-property-in-javascript
 ````js
 if (typeof something === "undefined") {
