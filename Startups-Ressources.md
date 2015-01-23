@@ -71,8 +71,17 @@ Design platforms
 
 * https://explee.com
 
+
+### Time tracking 
+
+* http://mite.yo.lk
+* https://letsfreckle.com
+
 ***
 ### Manage the startup 
+
+### Law and juridication 
+* http://startyou-up.com In france
 
 #### cashflow, comptability
 
