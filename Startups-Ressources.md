@@ -80,6 +80,11 @@ Design platforms
 * https://www.rescuetime.com
 * https://www.toggl.com/signup
 * http://www.paymoapp.com/pricing/
+
+### Planning and calendar 
+* https://new.teamweek.com/
+* google calendar
+
 ***
 ### Manage the startup 
 
