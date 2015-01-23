@@ -76,6 +76,8 @@ Design platforms
 
 * http://mite.yo.lk
 * https://letsfreckle.com
+* https://www.getharvest.com/pricing
+* https://www.rescuetime.com
 
 ***
 ### Manage the startup 
