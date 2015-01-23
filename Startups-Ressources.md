@@ -78,7 +78,8 @@ Design platforms
 * https://letsfreckle.com
 * https://www.getharvest.com/pricing
 * https://www.rescuetime.com
-
+* https://www.toggl.com/signup
+* http://www.paymoapp.com/pricing/
 ***
 ### Manage the startup 
 
