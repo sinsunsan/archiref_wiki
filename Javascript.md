@@ -9,6 +9,10 @@ https://developer.mozilla.org/en-US/docs/JavaScript/Reference
 Javascript best practices   
 http://www.javascripttoolbox.com/bestpractices/#var
 
+* http://perfectionkills.com/
+
+### Summary 
+
 * [[this in js]]
 * [[javascript low level libraries]]
 * [[javascript variable scope]]   
