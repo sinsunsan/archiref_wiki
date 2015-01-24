@@ -1,4 +1,5 @@
-http://stackoverflow.com/questions/7234282/what-is-the-reason-for-var-this-this
+* http://perfectionkills.com/know-thy-reference/
+* http://stackoverflow.com/questions/7234282/what-is-the-reason-for-var-this-this
 ````
 $.fn.doSomethingWithElements = function() {
     var $this = this;
