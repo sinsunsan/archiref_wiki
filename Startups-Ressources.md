@@ -70,7 +70,9 @@ Design platforms
 ### Create teaser video 
 
 * https://explee.com
-* Create a animated gif from a screencas 
+* How to create an engaging screencast 
+http://www.mediacore.com/blog/how-to-record-your-screen-and-create-engaging-screencasts
+* Create a animated gif from a screencast 
 http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif-brewery--cms-21255
 
 ### Time tracking 
