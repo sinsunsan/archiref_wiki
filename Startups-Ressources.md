@@ -70,7 +70,8 @@ Design platforms
 ### Create teaser video 
 
 * https://explee.com
-
+* Create a animated gif from a screencas 
+http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif-brewery--cms-21255
 
 ### Time tracking 
 
