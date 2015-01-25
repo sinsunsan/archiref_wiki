@@ -7,6 +7,7 @@
 * http://divisare.com/ Ex Europa Concursi / Italy
 * www.archello.com / Netherland
 * www.archilovers.com / Italy
+* www.designboom.com
 
 #### French 
 * www.lecourrierdelarchitecte.com
@@ -16,6 +17,6 @@
 * www.archiproducts.com
 * www.archiexpo.com
 
-### Salons, festivals
+### Fairs, festivals
 
 * http://www.ecobuild.co.uk/ UK eco construction
