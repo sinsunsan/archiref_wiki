@@ -15,3 +15,7 @@
 * www.architonic.com
 * www.archiproducts.com
 * www.archiexpo.com
+
+### Salons, festivals
+
+* http://www.ecobuild.co.uk/ UK eco construction
