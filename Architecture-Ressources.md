@@ -1,7 +1,5 @@
 ### Architecture Plaforms
 
-parler de [[ca]]
-
 #### UK, US, International
 * http://www.archdaily.com / US
 * http://www.architizer.com / US
