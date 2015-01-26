@@ -8,7 +8,7 @@
 
 #### Analytics
 * [[google analytics]]
-* [[google webmaster tools]]
+* google webmaster tools
 
 ### SEO advices and analysis
 * http://tools.quicksprout.com/ analyse a web site to make improvement
