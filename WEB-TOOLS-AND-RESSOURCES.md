@@ -166,8 +166,9 @@ http://css-tricks.com/triangle-with-shadow/
 Linter check automatically the quality of the code against standards and best practices
 * http://cssstats.com/#/
 
-### Monitoring tools
+### Monitoring tools, logs
 * https://github.com/grafana/grafana
+* https://github.com/mixu/minilog
 
 ### Search Engine
 * apache solr http://lucene.apache.org/solr/
