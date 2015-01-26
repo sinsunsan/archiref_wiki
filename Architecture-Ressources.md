@@ -1,6 +1,6 @@
 ### Architecture Plaforms
 
-parler de [ca]
+parler de [[ca]]
 
 #### UK, US, International
 * http://www.archdaily.com / US
