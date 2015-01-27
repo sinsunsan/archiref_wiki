@@ -6,7 +6,7 @@
 
 * [intercom.io](https://www.intercom.io/)
 * [Mailchimp](http://mailchimp.com/features/automation/)
-* [segment](https://segment.com/)
+* [segment](https://segment.com/) / Convert custom data harvested by js to feed lot's of application (google analytics, mail chimp...) to track user behavior
 * [kissmetrics](https://www.kissmetrics.com/)
 * [mixpanel](https://mixpanel.com)
 * [infusionsoft](http://www.infusionsoft.com/)
