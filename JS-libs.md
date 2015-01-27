@@ -59,3 +59,7 @@ Make crossbrowser scroll similar to OSX Lion...
 * **colorbox**  Popup / Modal
 http://www.jacklmoore.com/colorbox  
 * **FUEL UX** More twitter boostrap components / https://github.com/ExactTarget/fuelux
+
+### Notification 
+
+* http://codeseven.github.io/toastr/demo.html
