@@ -1,14 +1,11 @@
-### Ressources pages
+### Ressources pages (many links on a page)
 
 * [[WEB-TOOLS-AND-RESSOURCES]]
 * [[Startups Ressources]]
 * [[SEO ressources]]
 * [[Architecture ressources]]
 * [[Angular Directives Libs]]
-
-
-
-* [[data Visualization]]
+* [[Data Visualization]]
 
 ### Quality, performance, security
 * [[testing]]
