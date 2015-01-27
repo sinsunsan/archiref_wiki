@@ -16,6 +16,7 @@
 * [[Mean]]
 Seed app using [[angular.js]], [[node.js]], [[twitter bootstrap]] ....   
 https://github.com/linnovate/mean
+* https://github.com/angular/angular-seed
 
 * angular cheetsheet 
 http://www.cheatography.com/proloser/cheat-sheets/angularjs/
