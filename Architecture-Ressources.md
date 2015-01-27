@@ -20,6 +20,7 @@
 ### Fairs, festivals
 
 * http://www.ecobuild.co.uk/ UK eco construction
+* http://www.bim-w.com/ France BIM
 
 ### Tirage de plans Paris 
 
