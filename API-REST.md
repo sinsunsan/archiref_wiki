@@ -1,7 +1,8 @@
-### Rest API standard
+### Rest API standard / Best practices
 
 * http://jsonapi.org/format/
 * http://restcookbook.com/Basics/hateoas/
+* http://blog.octo.com/designer-une-api-rest/
 
 ## Docs 
 
