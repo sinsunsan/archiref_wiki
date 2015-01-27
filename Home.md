@@ -6,6 +6,7 @@
 * [[Architecture ressources]]
 
 
+* [[data Visualization]]
 
 ### Quality, performance, security
 * [[testing]]
