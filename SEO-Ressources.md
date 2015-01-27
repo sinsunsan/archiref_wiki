@@ -4,7 +4,13 @@
 
 ### User behavior and engagment
 
-* https://www.intercom.io/
+* [intercom.io](https://www.intercom.io/)
+* [Mailchimp](http://mailchimp.com/features/automation/)  dans son côté automatisation d'envoi de mails
+* [segment](https://segment.com/)
+* [kissmetrics](https://www.kissmetrics.com/)
+* [mixpanel](https://mixpanel.com)
+* [infusionsoft](http://www.infusionsoft.com/)
+* [bitrix24](http://www.bitrix24.com/)
 
 #### Analytics
 * [[google analytics]]
