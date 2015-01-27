@@ -1,1 +1,1 @@
-www.archiref.com development Wiki
+Home page https://github.com/sinsunsan/archiref_wiki/wiki
