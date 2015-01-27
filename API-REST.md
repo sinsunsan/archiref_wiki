@@ -1,3 +1,8 @@
+### Rest API standard
+
+* http://jsonapi.org/format/
+* http://restcookbook.com/Basics/hateoas/
+
 ## Docs 
 
 * http://www.restapitutorial.com/lessons/whatisrest.html
