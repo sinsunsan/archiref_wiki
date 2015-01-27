@@ -5,6 +5,7 @@
 * [[SEO ressources]]
 * [[Architecture ressources]]
 * [[Angular Directives Libs]]
+* [[js libs]]
 * [[Data Visualization]]
 
 ### Quality, performance, security
