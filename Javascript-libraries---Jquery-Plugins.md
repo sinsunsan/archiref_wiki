@@ -58,3 +58,4 @@ Make crossbrowser scroll similar to OSX Lion...
 * **spin.js** Configurable spinner / http://fgnass.github.io/spin.js/
 * **colorbox**  Popup / Modal
 http://www.jacklmoore.com/colorbox  
+* *FUEL UX** More twitter boostrap components / https://github.com/ExactTarget/fuelux
