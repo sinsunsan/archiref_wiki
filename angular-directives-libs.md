@@ -79,4 +79,9 @@ multiple items, infinite loop...
 * **Flex Slider**
 https://github.com/thenikso/angular-flexslider
 
+### Lazy loading / Performance
+
+* https://github.com/ocombe/ocLazyLoad
+Lazy load angular modules
+
 
