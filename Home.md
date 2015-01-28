@@ -10,6 +10,7 @@
 ### Other Ressources pages 
 * [[Startups Ressources]]
 * [[Architecture ressources]]
+* [[Design ressources]]
 
 ### Quality, performance, security
 * [[testing]]
