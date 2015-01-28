@@ -6,6 +6,7 @@
 * [[Architecture ressources]]
 * [[Angular Directives Libs]]
 * [[js libs]]
+* [[js testing]]
 * [[Data Visualization]]
 
 ### Quality, performance, security
