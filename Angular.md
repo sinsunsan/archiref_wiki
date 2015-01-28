@@ -20,7 +20,7 @@ https://github.com/linnovate/mean
 
 * angular cheetsheet 
 http://www.cheatography.com/proloser/cheat-sheets/angularjs/
-
+* Yeoman generator https://github.com/yeoman/generator-angular#controller
 * Angular development blog and 2.0 version updates       
 http://blog.angularjs.org/2014/03/angular-20.html
 * From jquery to angular    
