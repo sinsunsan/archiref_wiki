@@ -1,13 +1,15 @@
-### Ressources pages (many links on a page)
+### Web Ressources pages (many links on a page)
 
 * [[WEB-TOOLS-AND-RESSOURCES]]
-* [[Startups Ressources]]
 * [[SEO ressources]]
-* [[Architecture ressources]]
 * [[Angular Directives Libs]]
 * [[js libs]]
 * [[js testing]]
 * [[Data Visualization]]
+
+### Other Ressources pages 
+* [[Startups Ressources]]
+* [[Architecture ressources]]
 
 ### Quality, performance, security
 * [[testing]]
