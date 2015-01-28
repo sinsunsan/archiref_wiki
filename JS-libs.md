@@ -63,3 +63,9 @@ http://www.jacklmoore.com/colorbox
 ### Notification 
 
 * http://codeseven.github.io/toastr/demo.html
+
+
+### Images 
+
+#### Image croping 
+* https://github.com/fengyuanchen/cropper
