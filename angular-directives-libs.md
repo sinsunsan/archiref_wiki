@@ -21,6 +21,10 @@ https://github.com/darthwade/angular-loading
 http://angular-ui.github.io/ui-router
 Switch to core router
 
+* **UI router extra** 
+http://christopherthielen.github.io/ui-router-extras/#/home
+Enrich ui router with extra features
+
 * **UI Router breadcrumb** Generate automatically breadcrumb from UI router states
 https://github.com/ncuillery/angular-breadcrumb
 
