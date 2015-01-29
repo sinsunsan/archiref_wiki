@@ -21,6 +21,9 @@ https://github.com/darthwade/angular-loading
 http://angular-ui.github.io/ui-router
 Switch to core router
 
+* **UI Router breadcrumb** Generate automatically breadcrumb from UI router states
+https://github.com/ncuillery/angular-breadcrumb
+
 ### Port of twitter bootstrap 
 
 * **Angular UI**
