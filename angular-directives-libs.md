@@ -92,3 +92,9 @@ https://github.com/thenikso/angular-flexslider
 Lazy load angular modules
 
 
+
+### Minification 
+
+* https://github.com/olov/ng-annotate
+Ng annonate remove the necessity to put long form dependency injection
+
