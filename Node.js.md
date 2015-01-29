@@ -1,6 +1,11 @@
 ### Install and unistall node and its modules
 
+#### On mac 
+
+It's better to install node with home brew
+
 * http://stackoverflow.com/questions/11177954/how-do-i-completely-uninstall-node-js-and-reinstall-from-beginning-mac-os-x
+* http://blog.teamtreehouse.com/install-node-js-npm-mac
 
 
 ### Node.js
