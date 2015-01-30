@@ -55,3 +55,7 @@ For inspiration
 ### grunt prettify
 Clean up html files with configurations styles options   
 https://www.npmjs.org/package/grunt-prettify
+
+### Wiredep 
+Automatically put dependency instance, from you bower.json
+https://github.com/taptapship/wiredep
