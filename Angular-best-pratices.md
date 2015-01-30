@@ -3,7 +3,8 @@
 Git commit for angular best practice
 * https://github.com/jmcunningham/angularjs-styleguide Complete opiniated angular guide
 * https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
-
+* http://twofuckingdevelopers.com/2014/06/angularjs-best-practices-001-constants/
+* http://twofuckingdevelopers.com/2014/07/angularjs-best-practices-002-scope-functions/
 ### General Pitfalls
 
 * http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
