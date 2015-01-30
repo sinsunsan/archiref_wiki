@@ -60,3 +60,20 @@ http://html2jade.org/
 h3(class="fs1")
             | !{title}
 ````
+
+### Conditional attributes 
+
+How to print an attributes, only if a js value is available to feed it 
+For example angular directive attributes ng-click... should not be printed if there has no value. 
+
+div(#{myAttributes}) just don't work #{t} nterpolation work only in the attribute ""
+
+To check http://html2jade.org/
+````jade
+- var t = "la valeur de t"
+- var z ="lkj"
+p(class="klj" sdsd="#{t}")(title=s)(blang=z)
+````
+````html
+<p sdsd="la valeur de t" blang="lkj" class="klj"></p>
+````
