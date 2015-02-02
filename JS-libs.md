@@ -54,6 +54,9 @@ moment('Thu Jul 24 2014 10:43:30 GMT+0200 (CEST)').format('YYYY-MM-DD');
 Make crossbrowser scroll similar to OSX Lion...
 * https://github.com/learnboost/antiscroll
 
+Make a simple div a scrollable area with a slim scroll bar 
+* http://rocha.la/jQuery-slimScroll
+
 #### UI 
 * **spin.js** Configurable spinner / http://fgnass.github.io/spin.js/
 * **colorbox**  Popup / Modal
