@@ -58,4 +58,5 @@ https://www.npmjs.org/package/grunt-prettify
 
 ### Wiredep 
 Automatically put dependency instance, from you bower.json
-https://github.com/taptapship/wiredep
+* https://github.com/taptapship/wiredep
+* http://lab.brightnorth.co.uk/2014/08/13/automating-linkage-how-i-learned-to-stop-worrying-and-love-the-build/
