@@ -69,3 +69,7 @@ http://www.jacklmoore.com/colorbox
 
 #### Image croping 
 * https://github.com/fengyuanchen/cropper
+
+
+### UI and forms 
+* http://www.bootstrap-switch.org/ Transform checkbox and radio button to switch
