@@ -2,7 +2,7 @@
 
 * [[WEB-TOOLS-AND-RESSOURCES]]
 * [[SEO ressources]]
-* [[Angular Directives Libs]]
+* [[Angular Libs]]
 * [[js libs]]
 * [[js testing]]
 * [[Data Visualization]]
