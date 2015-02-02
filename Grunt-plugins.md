@@ -60,3 +60,4 @@ https://www.npmjs.org/package/grunt-prettify
 Automatically put dependency instance, from you bower.json
 * https://github.com/taptapship/wiredep
 * http://lab.brightnorth.co.uk/2014/08/13/automating-linkage-how-i-learned-to-stop-worrying-and-love-the-build/
+* http://colintoh.com/blog/bower-best-served-with-build-tool
