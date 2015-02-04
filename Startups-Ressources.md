@@ -98,3 +98,8 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 
 * https://www.incwo.com
 * http://www.intuit.fr/quickbooks-online/comparaison-logiciel-comptable-petites-entreprises.jsp / permet de partager avec son expert comptable
+
+
+### Coworking 
+
+* http://gift.mylittleparis.com/comment-monter-sa-boite
