@@ -103,3 +103,7 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 ### Coworking 
 
 * http://gift.mylittleparis.com/comment-monter-sa-boite
+* http://letank.fr/
+* la mutinerie 
+* la ruche 
+* NuMA
