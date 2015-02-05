@@ -8,6 +8,7 @@ https://www.regex101.com/#
 * - the - char 
 * _ the _ char 
 * \. the . char
+* \\ mean the \ char
 ````
 [^a-zA-Z0-9-_\\.]
 ````
