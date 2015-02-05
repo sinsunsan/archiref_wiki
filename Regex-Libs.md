@@ -6,9 +6,12 @@
 http://shahmirj.com/blog/extracting-twitter-usertags-using-regex
 
 ### **Twitter hashtag**
+````
 /\B#\w*[a-zA-Z]+\w*/
-<hr>
+````
+http://erictarn.com/post/1060722347/the-best-twitter-hashtag-regular-expression
 
+### ?
 <pre>
  if (preg_match('@^(?:http://)?([^/]+)(\/swf\/)([^/]+)@i', $params['source'] , $matches)) {
     $params['id'] = $matches[3];
