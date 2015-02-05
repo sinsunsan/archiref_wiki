@@ -1,7 +1,14 @@
 To test and collect regex
 https://www.regex101.com/#
 
-### Subset of characters 
+### A simple name without special charactère and that may include white space 
+* \s any white space
+````
+[a-zA-Z0-9-_\\\s]*
+````
+
+### Not in twitter user char range 
+
 * ^ at the beginning of [] mean the opposite (not one of those chars)
 * a-z char from a to z
 * A-Z idem but in upper case
