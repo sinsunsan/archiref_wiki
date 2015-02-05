@@ -1,6 +1,16 @@
 To test and collect regex
 https://www.regex101.com/#
 
+### Subset of characters 
+* ^ at the beginning of [] mean the opposite (not one of those chars)
+* a-z char from a to z
+* A-Z idem but in upper case
+* - the - char 
+* _ the _ char 
+* \. the . char
+````
+[^a-zA-Z0-9-_\\.]
+````
 ### **Twitter user name**
 ````
 (?<=^|(?<=[^a-zA-Z0-9-_\\.]))@([A-Za-z]+[A-Za-z0-9_]+)
