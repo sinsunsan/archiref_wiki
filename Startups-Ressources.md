@@ -111,3 +111,13 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 ### Printing (paris)
 
 * http://www.pixartprinting.fr/
+
+### Monetization 
+
+* http://monetizepros.com
+
+#### Affiliation platforms 
+
+* http://www.zanox.com/fr/
+* http://www.effiliation.com/
+* http://www.affili.net/
