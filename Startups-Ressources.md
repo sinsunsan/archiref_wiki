@@ -107,3 +107,7 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 * la mutinerie 
 * la ruche 
 * NuMA
+
+### Printing (paris)
+
+* http://www.pixartprinting.fr/
