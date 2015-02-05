@@ -1,13 +1,14 @@
+## Docs 
+* http://jsonapi.org/format/
+* http://www.restapitutorial.com/lessons/whatisrest.html
+* http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
 ### Rest API standard / Best practices
 
-* http://jsonapi.org/format/
+
 * http://restcookbook.com/Basics/hateoas/
 * http://blog.octo.com/designer-une-api-rest/
 
-## Docs 
-
-* http://www.restapitutorial.com/lessons/whatisrest.html
-* http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
 ## Request Type 
 
