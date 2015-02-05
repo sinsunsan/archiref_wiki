@@ -1,3 +1,12 @@
+* **Twitter user name**
+````
+(?<=^|(?<=[^a-zA-Z0-9-_\\.]))@([A-Za-z]+[A-Za-z0-9_]+)
+````
+
+http://shahmirj.com/blog/extracting-twitter-usertags-using-regex
+
+<hr>
+
 <pre>
  if (preg_match('@^(?:http://)?([^/]+)(\/swf\/)([^/]+)@i', $params['source'] , $matches)) {
     $params['id'] = $matches[3];
