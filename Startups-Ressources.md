@@ -117,7 +117,7 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 * http://monetizepros.com
 
 #### Affiliation platforms 
-
+* http://skimlinks.com/
 * http://www.zanox.com/fr/
 * http://www.effiliation.com/
 * http://www.affili.net/
