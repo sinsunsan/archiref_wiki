@@ -4,6 +4,7 @@
 * [[SEO ressources]]
 * [[Angular Libs]]
 * [[js libs]]
+* [[regex libs]]
 * [[js testing]]
 * [[Data Visualization]]
 
