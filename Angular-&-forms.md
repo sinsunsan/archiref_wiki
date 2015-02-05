@@ -1,5 +1,9 @@
 ### Front end form verification angular
 * https://scotch.io/tutorials/angularjs-form-validation
+* https://docs.angularjs.org/api/ng/directive/input
+
+
+### Other
 
 * Checkbox and radio buttons forms     
 http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms    
