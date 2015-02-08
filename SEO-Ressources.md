@@ -4,7 +4,7 @@
 
 ### User behavior and engagment
 
-* [intercom.io](https://www.intercom.io/)
+* [intercom.io](https://www.intercom.io/)/ COmmunicate with your user, send specific mails, know who has done what ...
 * [Mailchimp](http://mailchimp.com/features/automation/)
 * [segment](https://segment.com/) / Convert custom data harvested by js to feed lot's of application (google analytics, mail chimp...) to track user behavior
 * [kissmetrics](https://www.kissmetrics.com/)
