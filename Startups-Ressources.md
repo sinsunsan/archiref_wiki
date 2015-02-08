@@ -121,3 +121,7 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 * http://www.zanox.com/fr/
 * http://www.effiliation.com/
 * http://www.affili.net/
+
+
+### Slide tools 
+* http://bunkrapp.com/dashboard/
