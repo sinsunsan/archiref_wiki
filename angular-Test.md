@@ -1,5 +1,7 @@
 ## E2E Test (Test in a browser) as a user would do 
 
+Automate the way you do, when you are manually testing
+
 http://angular.github.io/protractor/#/
 
 ## Units test > Karma 
