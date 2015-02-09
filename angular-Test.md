@@ -1,3 +1,17 @@
+## What is what 
+### test runner : the engine that run the test
+
+
+### Test framework : the language of the test 
+* http://chaijs.com/
+* http://mochajs.org/
+* http://jasmine.github.io/
+
+### Test Types 
+
+* E2E test : test aa normal user, goint to the url, checking something exist....
+* Unit test : test a portion of code, verifying what we expect, actually suceed
+
 ## E2E Test (Test in a browser) as a user would do 
 
 Automate the way you do, when you are manually testing
