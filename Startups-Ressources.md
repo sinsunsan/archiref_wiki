@@ -55,7 +55,7 @@
 * https://www.lendopolis.com/
 
 ****
-### Find workers
+### Find freelance
 
 Offshore works 
 * https://www.elance.com/
@@ -65,6 +65,11 @@ Design platforms
 * http://99designs.fr/
 * http://unikness.com/
 * https://www.hopwork.com/ (fr)
+
+### Find workers 
+* http://www.remixjob.com
+* http://www.fuyonsladefense.com
+
 ***
 
 ### Create teaser video 
