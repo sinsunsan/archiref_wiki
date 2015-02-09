@@ -13,6 +13,10 @@
 * E2E test : test aa normal user, goint to the url, checking something exist....
 * Unit test : test a portion of code, verifying what we expect, actually suceed
 
+### Angular modules used for unit testing 
+
+* https://docs.angularjs.org/api/ngMock
+
 ## E2E Test (Test in a browser) as a user would do 
 
 Automate the way you do, when you are manually testing
