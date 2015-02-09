@@ -1,3 +1,8 @@
+### Tuto 
+
+* https://www.airpair.com/angularjs/posts/testing-angular-with-karma
+* http://www.ng-newsletter.com/posts/practical-protractor.html
+
 ## What is what 
 ### test runner : the engine that run the test
 * http://karma-runner.github.io
@@ -20,8 +25,9 @@
 ***
 ### Test types
 
-* E2E test : test aa normal user, goint to the url, checking something exist....
-* Unit test : test a portion of code, verifying what we expect, actually suceed
+* **E2E test** : test aa normal user, goint to the url, checking something exist....
+* **Unit test** : test a portion of code, verifying what we expect, actually suceed
+* **black box testing** : equal to E2E, we test the site on the users perspective, not trying to underestand what is behing 
 
 ### Inside a test spec
 
@@ -42,9 +48,6 @@ http://angular.github.io/protractor/#/
 
 http://karma-runner.github.io/0.12/index.html
 
-### Tuto 
-
-* https://www.airpair.com/angularjs/posts/testing-angular-with-karma
 
 ### Main 
 
