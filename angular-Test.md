@@ -18,10 +18,13 @@
 * https://github.com/yeoman/generator-karma
 
 ***
-### Vocabulary
+### Test types
 
 * E2E test : test aa normal user, goint to the url, checking something exist....
 * Unit test : test a portion of code, verifying what we expect, actually suceed
+
+### Inside a test spec
+
 * test : named test describe('angularjs homepage', function() {
 * assertion : named expectation of what the test should give it('should greet the named user', function() {
 
