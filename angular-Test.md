@@ -8,6 +8,16 @@
 * http://mochajs.org/
 * http://jasmine.github.io/
 
+*** 
+### How to write unit test 
+
+
+*** 
+### How to install a test environment 
+
+* https://github.com/yeoman/generator-karma
+
+***
 ### Test Types 
 
 * E2E test : test aa normal user, goint to the url, checking something exist....
