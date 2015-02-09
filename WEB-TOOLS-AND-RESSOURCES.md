@@ -131,6 +131,7 @@ How to check the site / app is following the best pratice
 #### General Fonts library
 * https://www.iconfinder.com/
 * http://fortawesome.github.io/Font-Awesome
+* https://github.com/thesabbir/simple-line-icons/blob/master/README.md
 
 ### Specialized fonts library
 
