@@ -130,3 +130,7 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 
 ### Slide tools 
 * http://bunkrapp.com/dashboard/
+
+### Ask questions to your users and prospects with online forms and surveys
+* http://www.typeform.com/
+* http://www.google.com/forms/about/
