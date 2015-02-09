@@ -1,6 +1,7 @@
 ## What is what 
 ### test runner : the engine that run the test
-
+* http://karma-runner.github.io
+* http://angular.github.io/protractor
 
 ### Test framework : the language of the test 
 * http://chaijs.com/
