@@ -6,6 +6,8 @@ http://angular-ui.github.io/ui-utils/
 
 ### Ui elements
 
+* Angular UI is a collection of hight quality directives for angular https://angular-ui.github.io/
+
 * **UI Select**   
 Native angular version of select2 lib (don't need select 2 yeah !)
 https://github.com/angular-ui/ui-select
