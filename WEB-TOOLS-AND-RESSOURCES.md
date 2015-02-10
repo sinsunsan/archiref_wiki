@@ -183,3 +183,9 @@ Linter check automatically the quality of the code against standards and best pr
 
 ##### Online compilator 
 * http://html2jade.org/ 2 way compilator jade 2 html and html 2 jade
+
+### Translation and localization 
+
+* https://angular-gettext.rocketeer.be/dev-guide/translate/
+* https://www.transifex.com/
+* http://poedit.net/
