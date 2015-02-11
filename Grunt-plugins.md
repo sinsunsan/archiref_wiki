@@ -67,3 +67,7 @@ Automatically put dependency instance, from you bower.json
 * https://github.com/taptapship/wiredep
 * http://lab.brightnorth.co.uk/2014/08/13/automating-linkage-how-i-learned-to-stop-worrying-and-love-the-build/
 * http://colintoh.com/blog/bower-best-served-with-build-tool
+
+### Grunt html2js
+Automatically compile the html template in js templates as angular module
+https://github.com/karlgoldstein/grunt-html2js
