@@ -1,6 +1,7 @@
 ### Web Ressources pages (many links on a page)
 
 * [[WEB-TOOLS-AND-RESSOURCES]]
+* [[Admin sys ressources]]
 * [[SEO ressources]]
 * [[Angular Libs]]
 * [[js libs]]
