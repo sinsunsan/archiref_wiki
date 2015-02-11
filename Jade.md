@@ -1,3 +1,7 @@
+### Jade + Angular 
+
+* http://bahmutov.calepin.co/jade-templates-for-angular-directives.html
+
 ## Jade documentation
 * http://jade-lang.com/
 * http://naltatis.github.io/jade-syntax-docs/#basics
