@@ -121,6 +121,9 @@ How to check the site / app is following the best pratice
 
 * https://checklists.opquast.com/fr/oqs-v2
 
+### Responsive tools 
+
+* http://ami.responsivedesign.is
 
 ### Visual Site editor
 
