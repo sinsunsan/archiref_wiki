@@ -99,7 +99,7 @@ http://www.google.com/design/spec/material-design/introduction.html#introduction
 * http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 * https://typekit.com/
 * https://www.google.com/fonts
-
+* http://www.typegenius.com/ Allow to find the combination between 2 fonts
 ***
 
 ### Images ressources 
