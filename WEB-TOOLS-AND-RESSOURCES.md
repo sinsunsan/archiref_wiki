@@ -1,3 +1,7 @@
+### Similar ressources list 
+
+* http://agiledesigners.com/resources/frameworks
+
 ### Tutorial / Magazines
 
 * http://webdesign.tutsplus.com/ 
