@@ -77,6 +77,7 @@ http://rawgit.com/
 * http://www.thefwa.com/
 * http://www.awwwards.com/
 * http://land-book.com/ Landing page gallery
+* http://www.uiparade.com/ UI element inspirations
 
 ### Style Guide 
 
