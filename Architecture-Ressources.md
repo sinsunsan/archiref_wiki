@@ -15,6 +15,7 @@
 
 ### Product catalogue
 * www.architonic.com
+* http://www.wikihouse.cc/
 * www.archiproducts.com
 * www.archiexpo.com
 
@@ -32,3 +33,8 @@
 ### Design ecommerce site
 
 * http://www.dwr.com/
+
+
+### Architecture & Collaboration 
+
+* http://www.ikeahackers.net/
