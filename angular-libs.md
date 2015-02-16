@@ -93,7 +93,10 @@ https://github.com/thenikso/angular-flexslider
 * https://github.com/ocombe/ocLazyLoad
 Lazy load angular modules
 
+### Data 
 
+* https://github.com/js-data
+* https://github.com/js-data/js-data-angular
 
 ### Minification 
 
