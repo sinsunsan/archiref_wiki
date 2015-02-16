@@ -1,0 +1,1 @@
+* http://solutionoptimist.com/2013/12/27/javascript-promise-chains-2/
