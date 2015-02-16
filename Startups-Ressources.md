@@ -1,3 +1,6 @@
+### Similar lists 
+* https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b
+
 ### Organization tools 
 
 ### Get your product know
