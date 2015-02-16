@@ -150,6 +150,7 @@ How to check the site / app is following the best pratice
 * Icons for things http://thenounproject.com/
 * Monument Icons http://www.smashingmagazine.com/wp-content/uploads/2014/10/touristic-icons-full-preview.jpg
 * http://press.codes/downloads/elusive-icons-webfont/
+* http://www.flaticon.com Huge database of icon fonts
 
 ### Fonts howto
 * Unicode geometric caracters     
