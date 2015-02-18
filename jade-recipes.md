@@ -77,3 +77,12 @@ p(class="klj" sdsd="#{t}")(title=s)(blang=z)
 ````html
 <p sdsd="la valeur de t" blang="lkj" class="klj"></p>
 ````
+### Multiline tag content 
+````
+
+        .tip.
+          Enter a valid 
+          email address 
+          such as <em>tj@vision-media.ca</em>.
+````
+
