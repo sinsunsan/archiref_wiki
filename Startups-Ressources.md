@@ -82,6 +82,8 @@ Design platforms
 http://www.mediacore.com/blog/how-to-record-your-screen-and-create-engaging-screencasts
 * Create a animated gif from a screencast 
 http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif-brewery--cms-21255
+* http://www.macworld.com/article/2852326/screenflow-5-review-the-macs-best-screencasting-app-gets-better-with-ios-capture.html
+Screenflow the best screencast software
 
 ### Time tracking 
 
