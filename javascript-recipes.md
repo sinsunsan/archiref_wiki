@@ -158,3 +158,11 @@ http://stackoverflow.com/questions/126100/how-to-efficiently-count-the-number-of
 Object.keys(home.plans.pricing.features).length
 ````
 Object.keys return an array of the object properties
+
+## Extract the file name from a path with a regex in js 
+filePath = "app/data/json/settings.json"
+
+````
+console.log(filepath.replace(/^.*(\\|\/|\:)/, '').replace('.json',''));
+````
+output = "settings"
