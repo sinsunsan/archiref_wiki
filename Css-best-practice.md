@@ -11,5 +11,7 @@ http://markdotto.com/2014/07/23/githubs-css/
 * Trello css style / https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
 * Code pen css / http://codepen.io/chriscoyier/blog/codepens-css
 * Github css  / http://markdotto.com/2014/07/23/githubs-css/
-* Medium css / https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+* Medium css / https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06 
+By @fat the creator of twitter boostrap
 *  Lonely planet css / http://ianfeather.co.uk/css-at-lonely-planet/
+* http://glenmaddern.com/articles/introducing-am-css
