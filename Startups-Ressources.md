@@ -118,6 +118,13 @@ Screenflow the best screencast software
 * la ruche 
 * NuMA
 
+### Computer Hardware
+
+#### Paris
+
+* http://www.brico-phone.com/vitre-avant-avec-lcd-premonte-pour-iphone4.htm
+* https://www.facebook.com/atelierconnecte
+
 ### Printing (paris)
 
 * http://www.pixartprinting.fr/
