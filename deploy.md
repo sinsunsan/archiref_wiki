@@ -21,4 +21,4 @@ we see the help
 by typing 
 ``make install``
 
-The list of shelle command is triggered
+The list of shell command is triggered
