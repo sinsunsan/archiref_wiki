@@ -204,3 +204,8 @@ Linter check automatically the quality of the code against standards and best pr
 * https://angular-gettext.rocketeer.be/dev-guide/translate/
 * https://www.transifex.com/
 * http://poedit.net/
+
+### Blog engine
+
+* https://ghost.org
+* https://github.com/hexojs/hexo
