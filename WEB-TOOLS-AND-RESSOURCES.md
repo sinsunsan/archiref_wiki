@@ -164,6 +164,13 @@ http://copypastecharacter.com/graphic-shapes
 and the way to use it      
 http://css-tricks.com/triangle-with-shadow/
 
+
+### Html templates engines 
+* http://docs.emmet.io/cheat-sheet/
+* https://github.com/jadejs
+...
+
+
 *****
 
 ### Emails 
