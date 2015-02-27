@@ -16,11 +16,8 @@
 * http://growthhacking.fr/
 * http://blog.bufferapp.com/
 
-### Tools for the team 
-
-#### Chat 
-* https://slack.com/
-* https://www.hipchat.com
+### Tools 
+https://github.com/sinsunsan/archiref_wiki/wiki/SaaS-Service
 
 ****
 
@@ -100,18 +97,6 @@ http://computers.tutsplus.com/tutorials/how-to-create-micro-screencasts-with-gif
 * http://www.macworld.com/article/2852326/screenflow-5-review-the-macs-best-screencasting-app-gets-better-with-ios-capture.html
 Screenflow the best screencast software
 
-### Time tracking 
-
-* http://mite.yo.lk
-* https://letsfreckle.com
-* https://www.getharvest.com/pricing
-* https://www.rescuetime.com
-* https://www.toggl.com/signup
-* http://www.paymoapp.com/pricing/
-
-### Planning and calendar 
-* https://new.teamweek.com/
-* google calendar
 
 ***
 ### Manage the startup 
@@ -150,17 +135,12 @@ Screenflow the best screencast software
 * http://monetizepros.com
 
 #### Affiliation platforms 
+
 * http://skimlinks.com/
 * http://www.zanox.com/fr/
 * http://www.effiliation.com/
 * http://www.affili.net/
 
-### Invoices
-
-* http://invoice2go.com/
-
-### Slide tools 
-* http://bunkrapp.com/dashboard/
 
 ### Ask questions to your users and prospects with online forms and surveys
 * http://www.typeform.com/
