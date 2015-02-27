@@ -37,6 +37,12 @@
 
 ### Find funding 
 
+### Funding networks (relation between investors and startups)
+
+* https://www.reseaufinancierfrancais.com/
+* http://www.franceangels.org/en/france-angels/presentation.html
+* http://gust.com/
+
 #### Crowdfunding
 
 #### Reward based or presale crowdfunding
