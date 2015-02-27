@@ -57,6 +57,15 @@
 * https://www.hellomerci.com/fr
 * https://www.lendopolis.com/
 
+### Equity crowdunfing 
+#### France 
+* https://www.anaxago.com/
+* http://www.sparkup.fr
+* https://www.wiseed.com/en
+* https://www.smartangels.fr/
+### USA
+* https://www.fundable.com
+
 ****
 ### Find freelance
 
