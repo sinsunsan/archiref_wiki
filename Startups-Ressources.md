@@ -103,6 +103,7 @@ Screenflow the best screencast software
 
 ### Law and juridication 
 * http://startyou-up.com In france
+* https://captaincontrat.com/devis (france)
 
 #### cashflow, comptability
 
