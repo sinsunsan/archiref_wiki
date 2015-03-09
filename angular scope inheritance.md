@@ -1,1 +1,0 @@
-http://lostechies.com/gabrielschenker/2013/12/10/angularjspart-3-inheritance/
