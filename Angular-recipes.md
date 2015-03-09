@@ -105,3 +105,8 @@ This way, when the value that is evaluated by ng-hide will be used, it will remo
 
 * if $scope.myValue = true, the ng-hide class is left
 * if $scope.myValue = false, the ng-hide class is removed
+
+***
+* **use controller inheritance with controller as syntax** 
+
+http://stackoverflow.com/questions/26351163/how-to-inherit-from-base-controller-using-controller-as-syntax
