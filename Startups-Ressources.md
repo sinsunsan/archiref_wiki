@@ -118,6 +118,8 @@ Screenflow the best screencast software
 * la mutinerie 
 * la ruche 
 * NuMA
+* http://www.maisondesmetallos.org/
+* www.cosyworking.com
 
 ### Computer Hardware
 
