@@ -14,3 +14,7 @@ There are three main ways to activate a state:
 * Call $state.go(). High-level convenience method. Learn More
 * Click a link containing the ui-sref directive. Learn More
 * Navigate to the url associated with the state. Learn More.
+
+### How to user a query string ? 
+
+* http://webslainte.blogspot.fr/2014/05/angularjs-ui-router-query-string.html
