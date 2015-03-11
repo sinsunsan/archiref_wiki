@@ -93,11 +93,15 @@ https://github.com/thenikso/angular-flexslider
 * https://github.com/ocombe/ocLazyLoad
 Lazy load angular modules
 
-### Data 
+### Data and REST ressource
 
 * https://github.com/js-data
 * https://github.com/js-data/js-data-angular
+* https://github.com/mgonto/restangular
 
+
+### Forms and form control
+* http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match/
 ### Minification 
 
 * https://github.com/olov/ng-annotate
