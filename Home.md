@@ -5,6 +5,10 @@
 * [[Admin sys ressources]]
 * [[SEO ressources]]
 * [[API ressources]]
+* [[Content editor ressources]]
+
+### Selected libs
+
 * [[Angular Libs]]
 * [[js libs]]
 * [[regex libs]]
