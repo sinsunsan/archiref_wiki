@@ -1,9 +1,18 @@
-### Ressources
+### Global
 * [[WEB-TOOLS-AND-RESSOURCES]]
 * [[SaaS Service]]
+
+### Backend and admin sys
+
 * [[Admin sys ressources]]
-* [[SEO ressources]]
 * [[API ressources]]
-* [[Content editor ressources]]
-* [[Design ressources]]
+
+### Front and design 
+
 * [[front end development ressources]]
+* [[Design ressources]]
+
+### Marketing and editors
+
+* [[SEO ressources]]
+* [[Content editor ressources]]
