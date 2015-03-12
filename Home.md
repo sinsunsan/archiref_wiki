@@ -6,6 +6,7 @@
 * [[SEO ressources]]
 * [[API ressources]]
 * [[Content editor ressources]]
+* [[front end development ressources]]
 
 ### Selected libs
 
