@@ -39,6 +39,8 @@
 
 * http://invoice2go.com/
 
-### Slide tools
+### Slide tools and Graphics
  
-* http://bunkrapp.com/dashboard/
+* http://bunkrapp.com / Make presentation with sub element from lot's of service
+* https://infogr.am/ / easy infographic and charts 
+* https://www.canva.com/ / Make illustration quickly
