@@ -44,3 +44,8 @@
 * http://bunkrapp.com / Make presentation with sub element from lot's of service
 * https://infogr.am/ / easy infographic and charts 
 * https://www.canva.com/ / Make illustration quickly
+
+
+### Phone and communications 
+
+* https://aircall.io/
