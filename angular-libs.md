@@ -17,6 +17,10 @@ https://github.com/urish/angular-spinner
 The same using excellent http://fgnass.github.io/spin.js/
 Less popular
 https://github.com/darthwade/angular-loading
+
+* **Nice checkbox** 
+https://github.com/sebastianha/angular-bootstrap-checkbox
+
 ### Routing 
 
 * **UI Router** 
