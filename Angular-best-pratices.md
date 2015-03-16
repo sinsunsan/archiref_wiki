@@ -9,6 +9,10 @@ Git commit for angular best practice
 
 * http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/
 
+### Using promises 
+
+* http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/
+
 ### Scope Pitfalls 
 
 * http://thenittygritty.co/angularjs-pitfalls-using-scopes
