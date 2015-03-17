@@ -103,11 +103,16 @@ Lazy load angular modules
 * https://github.com/js-data/js-data-angular
 * https://github.com/mgonto/restangular
 
+### Data handling 
+* http://www.js-data.io/v1.5.2/docs/dshttpadapter
+* http://angular-data.pseudobry.com/documentation/api/angular-data/DS.async%20methods_loadRelations
+* https://github.com/js-data/js-data-angular
+* https://www.airpair.com/angularjs/workshops/angular-restangular
 
-### Forms and form control
-* http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match/
-### Minification 
+Discusson about data handling libs for angular
+* Rest angular vs angular data ? 
+http://stackoverflow.com/questions/28330837/comparison-of-restangular-vs-jsdata-formerly-angular-data
+* http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/
+* https://www.airpair.com/angularjs/workshops/angular-restangular
 
-* https://github.com/olov/ng-annotate
-Ng annonate remove the necessity to put long form dependency injection
 
