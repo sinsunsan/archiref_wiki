@@ -109,7 +109,7 @@ Lazy load angular modules
 * https://github.com/js-data/js-data-angular
 * https://www.airpair.com/angularjs/workshops/angular-restangular
 
-Discusson about data handling libs for angular
+Discussion about data handling libs for angular
 * Rest angular vs angular data ? 
 http://stackoverflow.com/questions/28330837/comparison-of-restangular-vs-jsdata-formerly-angular-data
 * http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/
