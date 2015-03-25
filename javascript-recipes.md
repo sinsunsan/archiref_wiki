@@ -7,6 +7,10 @@ It's like a shorter version of the default ternar syntax
 ```js
 type = (type) ? type : 'lunch';
 ```
+Another style 
+```js
+return this.token ? this.token.access_token : undefined;
+```
 ### **Test if something is undefined**  
 
 * Update use instead function from lodash or angular 
