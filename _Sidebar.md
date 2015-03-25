@@ -4,6 +4,7 @@
 
 ### Libs 
 
+* [[angular libs]]
 
 ### Backend and admin sys
 
