@@ -97,6 +97,10 @@ https://github.com/thenikso/angular-flexslider
 * https://github.com/ocombe/ocLazyLoad
 Lazy load angular modules
 
+### Cookies, local storage, web sockets 
+
+* https://github.com/angular/bower-angular-cookies
+
 ### Data and REST ressource
 
 * https://github.com/js-data
@@ -114,5 +118,4 @@ Discussion about data handling libs for angular
 http://stackoverflow.com/questions/28330837/comparison-of-restangular-vs-jsdata-formerly-angular-data
 * http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/
 * https://www.airpair.com/angularjs/workshops/angular-restangular
-
 
