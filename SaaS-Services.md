@@ -52,3 +52,7 @@
 ### Phone and communications 
 
 * https://aircall.io/
+
+### Mails 
+
+* https://mailtrap.io Mails testing in development
