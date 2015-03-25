@@ -99,7 +99,8 @@ Lazy load angular modules
 
 ### Cookies, local storage, web sockets 
 
-* https://github.com/angular/bower-angular-cookies
+* https://github.com/angular/bower-angular-cookies / The official version to deal with cookie 
+* https://github.com/ivpusic/angular-cookie / An alternate version
 
 ### Data and REST ressource
 
@@ -118,4 +119,3 @@ Discussion about data handling libs for angular
 http://stackoverflow.com/questions/28330837/comparison-of-restangular-vs-jsdata-formerly-angular-data
 * http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/
 * https://www.airpair.com/angularjs/workshops/angular-restangular
-
