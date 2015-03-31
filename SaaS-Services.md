@@ -9,6 +9,7 @@
 ### Web sockets 
 
 * https://pusher.com/
+* https://www.firebase.com/how-it-works.html
 
 ### Documentations for developpers
 
