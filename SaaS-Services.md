@@ -58,3 +58,7 @@
 ### Mails 
 
 * https://mailtrap.io Mails testing in development
+
+### PAAS, BAAS : Platform as A Service, Backend as a service 
+
+* http://www.baasbox.com/features/
