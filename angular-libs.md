@@ -21,6 +21,9 @@ https://github.com/darthwade/angular-loading
 * **Nice checkbox** 
 https://github.com/sebastianha/angular-bootstrap-checkbox
 
+* **Angular bread crumbs** (integrated with ui router logic)
+https://github.com/ncuillery/angular-breadcrumb
+
 ### Routing 
 
 * **UI Router** 
