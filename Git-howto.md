@@ -356,3 +356,14 @@ For only html.twig files
 git grep -n -a "page-wrapper closed" -- '*.html.twig' 
 ````
 
+
+### List all commits in a repo and grep in all the commit
+http://stackoverflow.com/questions/15292391/is-it-possible-to-perform-a-grep-search-in-all-the-branches-of-git-project
+````
+git rev-list --all
+````
+Grep in 
+````
+git rev-list --all | (while read rev; do git git grep -n -a "page-wrapper closed" -- '*.html.twig' $rev; done)
+````
+
