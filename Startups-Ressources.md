@@ -120,6 +120,7 @@ Screenflow the best screencast software
 * NuMA
 * http://www.maisondesmetallos.org/
 * www.cosyworking.com
+* https://www.officeriders.com/ coworking in private apartment
 
 ### Computer Hardware
 
