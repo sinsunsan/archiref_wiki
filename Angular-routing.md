@@ -6,6 +6,7 @@
 
 
 * https://github.com/angular-ui/ui-router/wiki/Multiple-Named-Views#view-names---relative-vs-absolute-names
+* http://www.funnyant.com/angularjs-ui-router/
 
 ### Activating a state 
 
