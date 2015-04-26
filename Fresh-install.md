@@ -1,13 +1,20 @@
 * Initialisation 
 
+### User management 
+
 * Change root PAssword 
 ```
 passwd root
+```
+* Create your user user 
+```
+adduser newuser
 ```
 * Initialize apt-get database
 ```
 apt-get update
 ```
+
 
 * **lamp stack**
 
@@ -109,3 +116,13 @@ http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
 * **[[add a user account]]**
 
 * [[Bash not sourced problem]]
+
+### Installation of node.js 
+
+````
+apt-get install nodejs
+````
+````
+apt-get install npm
+````
+
