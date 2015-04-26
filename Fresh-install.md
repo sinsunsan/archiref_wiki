@@ -1,3 +1,14 @@
+* Initialisation 
+
+* Change root PAssword 
+```
+passwd root
+```
+* Initialize apt-get database
+```
+apt-get update
+```
+
 * **lamp stack**
 
 ```
