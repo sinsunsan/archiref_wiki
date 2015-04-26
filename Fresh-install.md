@@ -10,6 +10,10 @@ passwd root
 ```
 adduser newuser
 ```
+* Add your user in the sudoers 
+```
+sudo adduser <username> sudo
+```
 * Initialize apt-get database
 ```
 apt-get update
