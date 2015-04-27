@@ -19,6 +19,11 @@ sudo adduser <username> sudo
 apt-get update
 ```
 
+### MYSQL 
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql
+
+***
 
 * **lamp stack**
 
