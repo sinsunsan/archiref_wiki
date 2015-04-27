@@ -23,6 +23,9 @@ apt-get update
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql
 
+Open mysql port for a different server
+http://www.cyberciti.biz/tips/linux-iptables-18-allow-mysql-server-incoming-request.html
+
 ***
 
 * **lamp stack**
