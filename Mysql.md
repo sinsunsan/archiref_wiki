@@ -89,3 +89,9 @@ sudo ln -s /Applications/MAMP/Library/bin/mysql /usr/bin/mysql
 <code>
 mysqldump -u UTILISATEUR -p MOTDEPASSE BASEDEDONNEES | ssh utilisateur:motdepasse@15.156.125.32 "mysql BASEDEDONNEES2"
 </code>
+
+*** 
+
+### Allow remote access to a mysql database server 
+
+* http://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html
