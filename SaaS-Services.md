@@ -69,3 +69,9 @@
 
 * https://cloud.gonitro.com
 * http://www.ilovepdf.com
+
+### Automation, workflow
+
+* https://flowxo.com
+* https://zapier.com
+* https://ifttt.com/
