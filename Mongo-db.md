@@ -58,9 +58,12 @@ db.user_activity.update({ "entity_id" : 237515 } , { $set : {"status" : 1}});
 
 ### Backup 
 
-Mongodump a integrated dump utility
+Mongodump a integrated dump utility > export binary files
 * http://docs.mongodb.org/manual/tutorial/backup-with-mongodump/
 * http://www.thegeekstuff.com/2013/09/mongodump-mongorestore/
+
+Mongoexport > export json files
+* http://docs.mongodb.org/manual/reference/program/mongoexport/#bin.mongoexport
 
 ### Connection and client  
 *https://scotch.io/quick-tips/connecting-to-mongodb-using-robomongo
