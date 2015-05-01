@@ -131,10 +131,16 @@ http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
 
 ### Installation of node.js 
 
+* Node Js
 ````
 apt-get install nodejs
 ````
+* NPM
 ````
 apt-get install npm
 ````
+Debug installation node
+* http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
 
+* Forever
+https://github.com/foreverjs/forever
