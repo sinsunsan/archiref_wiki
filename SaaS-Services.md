@@ -64,7 +64,8 @@
 
 
 ### Cloud computing 
-* https://mongolab.com/plans/pricing/
+* https://modulus.io/pricing node.js + mongodb
+* https://mongolab.com Mongodb database 
 
 ### Backend as a service PAAS
 * http://www.baasbox.com/features/
