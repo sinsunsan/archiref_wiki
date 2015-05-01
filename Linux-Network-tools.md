@@ -10,3 +10,7 @@ netstat -tulnp
 ```
 iptables -L
 ```
+* Test a specific port from outside 
+```
+telnet www.openbricks.io 80
+```
