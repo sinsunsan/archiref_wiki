@@ -1,3 +1,7 @@
+## Libs 
+
+* https://github.com/typicode/json-server Simple automatic Json API server
+
 ## Docs 
 * http://jsonapi.org/format/
 * http://www.restapitutorial.com/lessons/whatisrest.html
