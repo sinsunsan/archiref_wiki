@@ -134,9 +134,14 @@ Screenflow the best screencast software
 * http://www.pixartprinting.fr/
 * http://www.rollup-corner.com/
 
+### Business plan
+
+http://www.constructionmarketing.org/swot-analysis
+
 ### Monetization 
 
 * http://monetizepros.com
+* https://buysellads.com
 
 #### Affiliation platforms 
 
