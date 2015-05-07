@@ -15,6 +15,10 @@
 
 * https://readme.io/
 
+### Monetization 
+
+* https://buysellads.com
+
 ### Blog 
 
 * https://ghost.org
