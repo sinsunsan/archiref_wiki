@@ -1,3 +1,12 @@
+### Automatic code verification 
+
+* http://jshint.com/install/ to signal some errors in code 
+* https://github.com/jshint/fixmyjs to fix them in a non destructuve way
+* http://jscs.info/contributing to reinforce a consistent code style and fix it (as it is only style )
+
+
+### Misc
+
 http://javascript.crockford.com/code.html
 
 Javascript coding standard for Drupal   

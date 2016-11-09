@@ -1,20 +1,8 @@
 * Initialisation 
 
-### User management 
+### [User management](Server-Install#user--password)
 
-* Change root PAssword 
-```
-passwd root
-```
-* Create your user user 
-```
-adduser newuser
-```
-* Add your user in the sudoers 
-```
-sudo adduser <username> sudo
-```
-* Initialize apt-get database
+* **Initialize apt-get database**
 ```
 apt-get update
 ```
@@ -28,55 +16,10 @@ http://www.cyberciti.biz/tips/linux-iptables-18-allow-mysql-server-incoming-requ
 
 ***
 
-* **lamp stack**
-
-```
-// Lamp    
-sudo apt-get install apache2 php5 mysql-server libapache2-mod-php5 php5-mysql
+### [Install LAMP (Apache + Mysql + Php)
 
 // Php my admin (escape data auto config)   
 apt-get install phpmyadmin
-
-// Error when connecting 
-// The mcrypt extension is missing. Please check your PHP configuration.
-
-sudo apt-get install php5-mcrypt
-sudo /etc/init.d/apache2 restart
-
-```
-
-Activation of mod_rewrite    
-http://www.apache-mod-rewrite.fr/verification-installation-mod-rewrite
-```
-ln -s /etc/apache2/mods-available/rewrite.load /etc/apache2/mods-enabled/rewrite.load
-service apache2 restart
-```
-
-Install Curl (facebook module drupal)
-```
-apt-get install php5-curl
-/etc/init.d/apache2 restart
-```
-
-
-
-* **common used executable**
-
-```
-// Git version manager
-apt-get install git 
-
-// Vim command line text editor
-apt-get install vim 
-```
-
-* **ssh keys access**
-
-* **enable smartd for disk monitoring**  
-http://doc.ubuntu-fr.org/smartmontools   
-```  
-apt-get install smartmontools
-```
 
 * **copy www and import db**
 
@@ -122,25 +65,23 @@ pear install drush/drush
 If the system don't know about drush make a symlink between it's current location ans /usr/local/bin, it means drush must be a symlink as 
 /usr/local/bin/drush linking to its actual location (home folder, or elsewhere)
 
+****
+
+### Securisation of the server 
+
 * **security**    
 http://www.alsacreations.com/tuto/lire/622-Securite-firewall-iptables.html
+
+* Log iptables fail rules
+````
+sudo iptables -I INPUT 5 -m limit --limit 5/min -j LOG --log-prefix "iptables denied: " --log-level 7
+````
+
+### [Installation of node.js](Server-Install#node) 
+
+
+### Misc 
 
 * **[[add a user account]]**
 
 * [[Bash not sourced problem]]
-
-### Installation of node.js 
-
-* Node Js
-````
-apt-get install nodejs
-````
-* NPM
-````
-apt-get install npm
-````
-Debug installation node
-* http://stackoverflow.com/questions/26320901/cannot-install-nodejs-usr-bin-env-node-no-such-file-or-directory
-
-* Forever
-https://github.com/foreverjs/forever

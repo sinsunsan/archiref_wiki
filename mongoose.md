@@ -2,6 +2,14 @@
 * Mongoose search plugin 
 http://plugins.mongoosejs.com/
 
+### Mongoose plugins 
+
+* https://www.npmjs.com/package/mongoose-text-search / Text search 
+* https://www.npmjs.com/package/mongoose-unique-validator / unique validator
+* https://github.com/conancat/mongoose-redis-cache / Redis cache 
+* https://github.com/florianholzapfel/express-restify-mongoose / Restify mongoose
+* https://github.com/bnoguchi/mongoose-types / Mongoose 2 new types : email & url 
+
 ### Relation 
 * https://github.com/JamesS237/mongo-relation
 * https://github.com/sabymike/mongoose-relationship
@@ -44,6 +52,12 @@ League.create(league, function(err, league) {
 ````
 * Problem of saving after having used populate
 https://www.npmjs.org/package/cascading-relations
+
+### Virtual field 
+
+Pseudo field to return information that are not stored in mongodb (for example the concatenation of first name + last name)
+
+https://futurestud.io/blog/understanding-virtuals-in-mongoose
 
 ### Best pratices
 

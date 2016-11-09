@@ -1,4 +1,6 @@
-### [[Content Marketing]] 
+### Tools collection
+
+http://backlinko.com/seo-tools
 
 ### SEO Tools
 
@@ -16,6 +18,10 @@
 
 * http://mandrill.com/pricing/
 
+### Links analytics / positioning ...
+
+* https://ahrefs.com
+
 #### Analytics
 * [[google analytics]]
 * google webmaster tools
@@ -26,6 +32,10 @@
 ### BackLinks analysis 
 * https://moz.com/researchtools
 * https://ahrefs.com 
+
+#### Keywords density..
+
+* http://www.infocaptor.com/bubble-my-page?url=http%3A%2F%2Fwww.openbricks.io&size=800
 
 ### Ads analysis
 * http://sitevaluecalculator.com/ Evaluate the ads value of a site

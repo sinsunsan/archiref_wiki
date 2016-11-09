@@ -1,0 +1,2 @@
+* Explain what is typings definition https://blog.mariusschulz.com/2014/05/19/using-typescripts-type-definition-files-to-get-tooling-support-for-plain-javascript
+* The contributed typings to popular javascript libraries https://github.com/DefinitelyTyped/DefinitelyTyped

@@ -3,6 +3,19 @@
 * **php.js** : Port useful php functions in javascript   
 http://phpjs.org/   
 
+### Compilation 
+
+http://babeljs.io/ / Allow to use cutting edge js feature by compiling / decompiling code
+
+### Validation 
+
+* https://www.npmjs.com/package/validator
+* https://github.com/chriso/validator.js
+
+### Infinite loading
+* **infinity** Airbnb version of the infinite loader
+https://github.com/airbnb/infinity
+
 #### Events 
 
 * **jquery-mousewheel** : A jQuery plugin that adds cross-browser mouse wheel support.   
@@ -41,6 +54,9 @@ https://github.com/angular-ui/ui-select2
 moment('Thu Jul 24 2014 10:43:30 GMT+0200 (CEST)').format('YYYY-MM-DD');
 ````
 "2014-07-24"
+* **moment range** Moment pluging to handle date range 
+https://github.com/gf3/moment-range
+Allow for example to calculate if 2 range interesct....
 
 #### boilerplate
 
@@ -79,3 +95,13 @@ http://www.jacklmoore.com/colorbox
 
 ### 3D rendering 
 * https://famo.us/
+
+### Web component, loading 
+* https://github.com/webpack/webpack
+* require.js...
+
+### Typing 
+
+* http://flowtype.org/
+* http://betterjs.org/docs/betterjs-function.html
+* http://www.typescriptlang.org/

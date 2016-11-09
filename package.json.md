@@ -1,4 +1,7 @@
-Exemple of package.json
+* Interactive guide of the package.json to explain all properties 
+http://browsenpm.org/package.json
+
+* Exemple of package.json
 https://github.com/vasyabigi/angular-nouislider/blob/master/package.json
 ````
 {

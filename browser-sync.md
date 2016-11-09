@@ -1,0 +1,1 @@
+https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development

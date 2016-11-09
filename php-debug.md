@@ -1,0 +1,1 @@
+* http://blog.teamtreehouse.com/how-to-debug-in-php

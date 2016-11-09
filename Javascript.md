@@ -1,12 +1,12 @@
 ### TUTO Javascript
 
-Javascript fondamentaux
+* Javascript fondamentaux   
 http://braincracking.org/2011/11/16/javascript-3-fondamentaux/
 
-Javascript API by Mozilla   
+* Javascript API by Mozilla   
 https://developer.mozilla.org/en-US/docs/JavaScript/Reference
 
-Javascript best practices   
+* Javascript best practices   
 http://www.javascripttoolbox.com/bestpractices/#var
 
 * http://perfectionkills.com/

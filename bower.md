@@ -31,3 +31,9 @@ Bower use versionning syntax used in [[SEMVER]] that stand as semantic versionni
 * http://www.synbioz.com/blog/bower   
 * http://blog.teamtreehouse.com/getting-started-bower
 * http://code.tutsplus.com/tutorials/meet-bower-a-package-manager-for-the-web--net-27774
+
+
+#### Bower recipes 
+
+How to download only useful files with bower 
+http://joshbranchaud.com/blog/2014/02/19/Managing-Single-Files-With-Bower.html

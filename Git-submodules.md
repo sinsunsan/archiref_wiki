@@ -30,3 +30,11 @@ fatal: 'git status --porcelain' failed in submodule default/themes/archiref_sky
 It's due to the fact that I use to rsync my files to the server, and the local macbook path is saved in this files. 
 
 The alternative, is to manually clone the sub repo, take more time but more secure. 
+
+
+## On Mac
+
+* update git to latest version 
+http://stackoverflow.com/questions/8957862/how-to-upgrade-git-to-latest-version-on-mac-os-x
+* Follow the steps
+https://chrisjean.com/git-submodules-adding-using-removing-and-updating/

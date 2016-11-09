@@ -1,11 +1,19 @@
 ### Similar lists 
 * https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b
 
-### Organization tools 
 
+### Startups platforms 
+
+* https://www.techinasia.com
+* https://www.crunchbase.com
+
+### Organization tools 
 ### Get your product know
 
-* http://www.producthunt.com/ Daily homepage with new products and a vote system like digg
+* http://www.producthunt.com
+Daily homepage with new products and a vote system like digg
+* http://www.lessuricates.fr
+
 
 ### Startups advices 
 
@@ -33,6 +41,10 @@ https://github.com/sinsunsan/archiref_wiki/wiki/SaaS-Service
 ****
 
 ### Find funding 
+
+### Funding tools and calculator 
+
+* https://smartasset.com/infographic/startup
 
 ### Funding networks (relation between investors and startups)
 
@@ -68,6 +80,10 @@ https://github.com/sinsunsan/archiref_wiki/wiki/SaaS-Service
 * https://www.smartangels.fr/
 ### USA
 * https://www.fundable.com
+
+### Guides and tuto about crowdfunding 
+
+* http://www.cowfunding.fr/uploads/media/media_file/crowdfundingweb-131004072834-phpapp01-15.pdf
 
 ****
 ### Find freelance
@@ -122,6 +138,10 @@ Screenflow the best screencast software
 * www.cosyworking.com
 * https://www.officeriders.com/ coworking in private apartment
 
+### Landing page 
+
+* http://www.strikingly.com/s/pages/565720/edit?s=1434362826869
+
 ### Computer Hardware
 
 #### Paris
@@ -131,12 +151,17 @@ Screenflow the best screencast software
 
 ### Printing (paris)
 
-* http://www.pixartprinting.fr/
+* http://www.pixartprinting.fr/ / Not very good quality but the cheapest
 * http://www.rollup-corner.com/
+* https://www.ooprint.fr/
 
 ### Business plan
 
 http://www.constructionmarketing.org/swot-analysis
+
+### Pitch deck 
+
+* http://alexanderjarvis.com/blog/2015/05/19/pitch-deck-collection-from-vc-funded-startups/
 
 ### Monetization 
 
@@ -154,3 +179,17 @@ http://www.constructionmarketing.org/swot-analysis
 ### Ask questions to your users and prospects with online forms and surveys
 * http://www.typeform.com/
 * http://www.google.com/forms/about/
+
+### Legal 
+
+* http://www.jurismatic.com/ https://github.com/jurismatic/jurismatic Opensource legal document for french startups
+* 
+
+### hiring 
+
+* http://www.workable.com/pricing
+* http://www.payscale.com Give indication in how many people are paid in the world
+
+### Transportation service
+
+* http://www.envoimoinscher.com/

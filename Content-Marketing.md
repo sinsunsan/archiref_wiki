@@ -1,7 +1,0 @@
-* http://www.orenoque.com/marketing-contenu-seo/
-* http://moz.com/blog/searchmetrics-ranking-factors-2014
-* http://invox.fr/les-10-meilleurs-articles-2014-contentmarketing/
-* http://waitingfortheelevator.com/5-ways-content-marketing-will-influence-advertising-and-marketing-in-2015/
-
-*  How to choose blog subject in a rational way to improve content marketing effect
-https://blog.bufferapp.com/content-marketing-frameworks

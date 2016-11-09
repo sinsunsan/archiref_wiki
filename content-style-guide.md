@@ -1,0 +1,1 @@
+* https://opensource.com/submission-style-guide

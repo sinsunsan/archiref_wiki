@@ -1,5 +1,10 @@
 * http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/
 * https://umur.io/angularjs-directives-using-isolated-scope-with-attributes/
+* http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/
+
+### Passing a function from the parent controller to the directive scope 
+
+* http://jsfiddle.net/yMHe4/
 
 ### Directive options 
 ### How to choose between the 3 scope options 

@@ -3,8 +3,19 @@
 * http://stackoverflow.com/questions/18856341/how-can-i-unregister-a-broadcast-event-to-rootscope-in-angularjs
 * http://blog.cycle-interactive.com/?p=524
 * http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches
+* https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
+* https://toddmotto.com/angular-one-time-binding-syntax/
+* https://ng-perf.com/
 
-## Perfomance best pratice
+## Perfomance best pratices
+
+* Ng-bind is faster (x2) than {{}} interpolation 
+* one time binding
+
+
+### Performance module 
+
+* https://github.com/ansukla/ng-perf / Allow to do a directive bound digest instead of a full page digest
 
 ### [[angular data binding]]
 

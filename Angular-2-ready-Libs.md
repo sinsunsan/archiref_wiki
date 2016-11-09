@@ -1,0 +1,1 @@
+* Pagination http://michaelbromley.github.io/ng2-pagination/#/

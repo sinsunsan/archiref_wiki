@@ -1,0 +1,1 @@
+* https://angular-2-training-book.rangle.io/handout/di/angular2/inject_and_injectable.html

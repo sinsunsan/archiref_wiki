@@ -71,3 +71,20 @@ Automatically put dependency instance, from you bower.json
 ### Grunt html2js
 Automatically compile the html template in js templates as angular module
 https://github.com/karlgoldstein/grunt-html2js
+
+
+### Grunt bower install 
+Allow to deal with bower package installation with grunt
+https://www.npmjs.com/package/grunt-bower-install-simple
+
+### Grunt bump 
+Allow to increment package version automatically
+https://github.com/vojtajina/grunt-bump
+
+### Grunt changelog 
+Update a changelog from past commits
+https://github.com/ericmatthys/grunt-changelog
+
+### grunt clean 
+Delete file that are no more needed for example, before doing a grunt copy
+https://github.com/ericmatthys/grunt-changelog

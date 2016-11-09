@@ -1,3 +1,10 @@
+* List of ressources for web desisgn 
+http://www.socialmediatoday.com/technology-data/100-best-web-design-tools-ever-infographic?utm_content=buffer5adf0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Frontend framework 
+
+* http://semantic-ui.com/modules/shape.html
+
 ### Similar ressources list 
 
 * http://agiledesigners.com/resources/frameworks

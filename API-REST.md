@@ -2,10 +2,17 @@
 
 * https://github.com/typicode/json-server Simple automatic Json API server
 
+### HTTP code
+
+*http://www.restpatterns.org/HTTP_Status_Codes/409_-_Conflict
+
 ## Docs 
 * http://jsonapi.org/format/
 * http://www.restapitutorial.com/lessons/whatisrest.html
 * http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+### Test API 
+http://requestb.in Allow to test API 
 
 ### Rest API standard / Best practices
 

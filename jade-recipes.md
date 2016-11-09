@@ -45,7 +45,7 @@ options: {
             },
 
 ````
-#{link.title} will be available   
+`#{link.title}` will be available   
 Potentially we can load sevral data objects   
 
 ### Multiline js in jade (work in progress)   
@@ -86,3 +86,48 @@ p(class="klj" sdsd="#{t}")(title=s)(blang=z)
           such as <em>tj@vision-media.ca</em>.
 ````
 
+
+### Dynamic Mixin call
+http://stackoverflow.com/questions/24392055/jade-templates-dynamically-calling-a-mixin?rq=1
+````jade
+
+mixin blue
+  div(class="blue") Blue
+    block
+
+mixin red
+  div(class="red") red
+    block
+
+mixin para(type)
+  - console.log(type);
+  +#{type}()
+    div Nice dynamic mixin call !
+
+
++para('blue')
++para('red')
+````
+
+Result 
+````html
+
+<div class="blue">Blue
+  <div>Nice dynamic mixin call !</div>
+</div>
+<div class="red">red
+  <div>Nice dynamic mixin call !</div>
+</div>
+````
+
+### Dynamic attributes 
+http://jade-lang.com/reference/attributes/
+````jade
+- var customAttributes = {'set-nav-pattern': true, 'calamar': "setCalamar()"}
+div(class="blue")&attributes(customAttributes)
+````
+
+Result 
+````html
+<div class="blue" set-nav-pattern calamar="setCalamar()"></div>
+````

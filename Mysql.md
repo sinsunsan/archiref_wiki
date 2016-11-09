@@ -6,9 +6,11 @@
 * **[[Mysql agregate function]]**
 
 ### Liens Tuto 
+
+* Good install tuto  https://www.linode.com/docs/databases/mysql/how-to-install-mysql-on-ubuntu-14-04
 http://www.pantz.org/software/mysql/mysqlcommands.html    
 
-How to debug to socket error (can't find the socket)    
+* How to debug to socket error (can't find the socket)    
 http://www.tech-recipes.com/rx/762/solve-cant-connect-to-local-mysql-server-through-socket-tmpmysqlsock/
 
 
@@ -95,3 +97,7 @@ mysqldump -u UTILISATEUR -p MOTDEPASSE BASEDEDONNEES | ssh utilisateur:motdepass
 ### Allow remote access to a mysql database server 
 
 * http://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html
+
+### How to setup mysql loging 
+
+* http://www.pontikis.net/blog/how-and-when-to-enable-mysql-logs

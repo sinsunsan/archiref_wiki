@@ -1,0 +1,1 @@
+* To read on #angular2 universal to serve serve the page http://slides.com/wassimchegham/angular2-universal#/17
